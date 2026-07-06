@@ -25,6 +25,8 @@ Cada simulacro sigue fielmente la estructura y puntajes del examen oficial real 
 | **Simulacro 4** | [Ver Markdown](simulacro_examen_4.md) | [Abrir en Navegador](simulacro_examen_4.html) | Conversión Directa vs Paralela, Diagrama de Transición de Estados, evolución de DoD y Deuda Técnica, desperdicios de software (*Muda*), Burndown y proyecciones. |
 | **Simulacro 5** | [Ver Markdown](simulacro_examen_5.md) | [Abrir en Navegador](simulacro_examen_5.html) | Normalización de Base de Datos (1NF, 2NF, 3NF), Lead Time vs Cycle Time, Pruebas (Unitarias, Integración, UAT), CCOO en GDE, Sprint Capacity. |
 | **Simulacro 6** | [Ver Markdown](simulacro_examen_6.md) | [Abrir en Navegador](simulacro_examen_6.html) | Usabilidad (Heurísticas de Nielsen) y Accesibilidad (WCAG 2.1), Puntos de Historia vs Puntos de Función, Casos de Uso de Negocio vs Sistema, Inyección SQL, Eficiencia del Flujo. |
+| **Simulacro 7** | [Ver Markdown](simulacro_examen_7.md) | [Abrir en Navegador](simulacro_examen_7.html) | Firma Digital vs Electrónica, Ergonomía (Túnel Carpiano), Acto administrativo (GitHub leak), Violencia de género MGP, Tablas/Árboles de Decisión, errores DFD, DoD vs DoR, Sprint Capacity. |
+| **Simulacro 8** | [Ver Markdown](simulacro_examen_8.md) | [Abrir en Navegador](simulacro_examen_8.html) | Montos LOM, RAFAM (Activos Intangibles), Prescripción disciplinaria, Domicilio Electrónico, Incompatibilidades Computación, Accidente eléctrico (ART), Abandono de servicio, CFD (Kanban), Pruebas de Integración, Eficiencia del Flujo (Cycle/Lead Time). |
 
 ### 📖 Guías de Referencia de Normativa
 

@@ -8,250 +8,245 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <style>
-        
-:root {
-    --primary: #0077c2;
-    --primary-dark: #005b94;
-    --accent: #e3f2fd;
-    --text: #333333;
-    --text-muted: #666666;
-    --bg: #f5f7fa;
-    --card-bg: #ffffff;
-    --border: #e0e0e0;
-    --success: #2e7d32;
-    --shadow: 0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.1);
-}
+        :root {
+            --primary: #0077c2;
+            --primary-dark: #005b94;
+            --accent: #e3f2fd;
+            --text: #333333;
+            --text-muted: #666666;
+            --bg: #f5f7fa;
+            --card-bg: #ffffff;
+            --border: #e0e0e0;
+            --success: #2e7d32;
+            --shadow: 0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.1);
+        }
 
-@media (prefers-color-scheme: dark) {
-    :root {
-        --primary: #4fc3f7;
-        --primary-dark: #0288d1;
-        --accent: #1a237e;
-        --text: #e0e0e0;
-        --text-muted: #aaaaaa;
-        --bg: #121212;
-        --card-bg: #1e1e1e;
-        --border: #333333;
-        --success: #81c784;
-        --shadow: 0 4px 6px rgba(0,0,0,0.3);
-    }
-}
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primary: #4fc3f7;
+                --primary-dark: #0288d1;
+                --accent: #1a237e;
+                --text: #e0e0e0;
+                --text-muted: #aaaaaa;
+                --bg: #121212;
+                --card-bg: #1e1e1e;
+                --border: #333333;
+                --success: #81c784;
+                --shadow: 0 4px 6px rgba(0,0,0,0.3);
+            }
+        }
 
-body {
-    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
-    color: var(--text);
-    background-color: var(--bg);
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-}
+        body {
+            font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+            color: var(--text);
+            background-color: var(--bg);
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
 
-header {
-    background-color: var(--primary-dark);
-    color: white;
-    padding: 20px 40px;
-    box-shadow: var(--shadow);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+        header {
+            background-color: var(--primary-dark);
+            color: white;
+            padding: 20px 40px;
+            box-shadow: var(--shadow);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
 
-header h1 {
-    margin: 0;
-    font-size: 1.5rem;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-}
+        header h1 {
+            margin: 0;
+            font-size: 1.5rem;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
 
-header .subtitle {
-    font-size: 0.9rem;
-    opacity: 0.8;
-}
+        header .subtitle {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
 
-.container {
-    max-width: 900px;
-    margin: 40px auto;
-    padding: 0 20px;
-}
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
 
-.exam-card {
-    background-color: var(--card-bg);
-    border-radius: 8px;
-    box-shadow: var(--shadow);
-    padding: 40px;
-    border: 1px solid var(--border);
-    margin-bottom: 20px;
-}
+        .exam-card {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: var(--shadow);
+            padding: 40px;
+            border: 1px solid var(--border);
+            margin-bottom: 20px;
+        }
 
-h1, h2, h3 {
-    color: var(--primary-dark);
-}
+        h1, h2, h3 {
+            color: var(--primary-dark);
+        }
 
-h2 {
-    color: var(--primary);
-    border-bottom: 2px solid var(--primary);
-    padding-bottom: 8px;
-    margin-top: 40px;
-}
+        h2 {
+            color: var(--primary);
+            border-bottom: 2px solid var(--primary);
+            padding-bottom: 8px;
+            margin-top: 40px;
+        }
 
-h3 {
-    color: var(--text);
-    margin-top: 30px;
-    border-left: 4px solid var(--primary);
-    padding-left: 12px;
-}
+        h3 {
+            color: var(--text);
+            margin-top: 30px;
+            border-left: 4px solid var(--primary);
+            padding-left: 12px;
+        }
 
-ul {
-    padding-left: 20px;
-}
+        ul {
+            padding-left: 20px;
+        }
 
-li {
-    margin-bottom: 8px;
-}
+        li {
+            margin-bottom: 8px;
+        }
 
-/* Details and Summary styling for Solutions */
-details {
-    background-color: var(--accent);
-    border-left: 4px solid var(--primary);
-    border-radius: 4px;
-    margin: 20px 0;
-    padding: 15px;
-    transition: all 0.3s ease;
-}
+        details {
+            background-color: var(--accent);
+            border-left: 4px solid var(--primary);
+            border-radius: 4px;
+            margin: 20px 0;
+            padding: 15px;
+            transition: all 0.3s ease;
+        }
 
-details[open] {
-    box-shadow: var(--shadow);
-    background-color: var(--card-bg);
-    border: 1px solid var(--border);
-    border-left: 4px solid var(--primary);
-}
+        details[open] {
+            box-shadow: var(--shadow);
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            border-left: 4px solid var(--primary);
+        }
 
-summary {
-    font-weight: bold;
-    cursor: pointer;
-    outline: none;
-    user-select: none;
-    color: var(--primary-dark);
-    padding: 5px 0;
-}
+        summary {
+            font-weight: bold;
+            cursor: pointer;
+            outline: none;
+            user-select: none;
+            color: var(--primary-dark);
+            padding: 5px 0;
+        }
 
-summary:hover {
-    color: var(--primary);
-}
+        summary:hover {
+            color: var(--primary);
+        }
 
-details p, details ul {
-    margin-top: 15px;
-}
+        details p, details ul {
+            margin-top: 15px;
+        }
 
-/* Print Button and utilities */
-.actions {
-    display: flex;
-    gap: 10px;
-    margin-bottom: 20px;
-    justify-content: flex-end;
-}
+        .actions {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            justify-content: flex-end;
+        }
 
-.btn {
-    background-color: var(--primary);
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
-    cursor: pointer;
-    font-weight: bold;
-    text-decoration: none;
-    transition: background-color 0.2s;
-    font-size: 0.9rem;
-}
+        .btn {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            text-decoration: none;
+            transition: background-color 0.2s;
+            font-size: 0.9rem;
+        }
 
-.btn:hover {
-    background-color: var(--primary-dark);
-}
+        .btn:hover {
+            background-color: var(--primary-dark);
+        }
 
-.btn-secondary {
-    background-color: transparent;
-    color: var(--primary);
-    border: 1px solid var(--primary);
-}
+        .btn-secondary {
+            background-color: transparent;
+            color: var(--primary);
+            border: 1px solid var(--primary);
+        }
 
-.btn-secondary:hover {
-    background-color: var(--accent);
-    color: var(--primary-dark);
-}
+        .btn-secondary:hover {
+            background-color: var(--accent);
+            color: var(--primary-dark);
+        }
 
-.score-calculator {
-    margin-top: 40px;
-    padding: 20px;
-    background-color: var(--accent);
-    border-radius: 6px;
-    border: 1px solid var(--border);
-}
+        .score-calculator {
+            margin-top: 40px;
+            padding: 20px;
+            background-color: var(--accent);
+            border-radius: 6px;
+            border: 1px solid var(--border);
+        }
 
-.score-input {
-    width: 60px;
-    padding: 5px;
-    border-radius: 4px;
-    border: 1px solid var(--border);
-    text-align: center;
-    font-weight: bold;
-    background: var(--card-bg);
-    color: var(--text);
-}
+        .score-input {
+            width: 60px;
+            padding: 5px;
+            border-radius: 4px;
+            border: 1px solid var(--border);
+            text-align: center;
+            font-weight: bold;
+            background: var(--card-bg);
+            color: var(--text);
+        }
 
-.score-row {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 10px;
-}
+        .score-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
 
-.score-total {
-    font-size: 1.2rem;
-    font-weight: bold;
-    margin-top: 15px;
-    border-top: 1px dashed var(--border);
-    padding-top: 15px;
-    display: flex;
-    justify-content: space-between;
-}
+        .score-total {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-top: 15px;
+            border-top: 1px dashed var(--border);
+            padding-top: 15px;
+            display: flex;
+            justify-content: space-between;
+        }
 
-/* Blockquote styles */
-blockquote {
-    background: var(--accent);
-    border-left: 4px solid var(--primary);
-    margin: 1.5em 10px;
-    padding: 10px 20px;
-    font-style: italic;
-}
+        blockquote {
+            background: var(--accent);
+            border-left: 4px solid var(--primary);
+            margin: 1.5em 10px;
+            padding: 10px 20px;
+            font-style: italic;
+        }
 
-@media print {
-    body {
-        background-color: white;
-        color: black;
-    }
-    header, .actions, .score-calculator, summary::-webkit-details-marker, details summary {
-        display: none !important;
-    }
-    .exam-card {
-        box-shadow: none !important;
-        border: none !important;
-        padding: 0 !important;
-    }
-    details {
-        background-color: transparent !important;
-        border: none !important;
-        border-left: 2px solid #333 !important;
-        page-break-inside: avoid;
-    }
-    details[open] {
-        border: none !important;
-        border-left: 2px solid #333 !important;
-    }
-    h2, h3 {
-        page-break-after: avoid;
-    }
-}
-
+        @media print {
+            body {
+                background-color: white;
+                color: black;
+            }
+            header, .actions, .score-calculator, summary::-webkit-details-marker, details summary {
+                display: none !important;
+            }
+            .exam-card {
+                box-shadow: none !important;
+                border: none !important;
+                padding: 0 !important;
+            }
+            details {
+                background-color: transparent !important;
+                border: none !important;
+                border-left: 2px solid #333 !important;
+                page-break-inside: avoid;
+            }
+            details[open] {
+                border: none !important;
+                border-left: 2px solid #333 !important;
+            }
+            h2, h3 {
+                page-break-after: avoid;
+            }
+        }
     </style>
 </head>
 <body>
@@ -277,7 +272,7 @@ blockquote {
 <p><strong>Cargo:</strong> Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
 <hr>
 <h2>CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)</h2>
-<p><em>Instrucciones: Seleccione la alternativa correcta rodeando la letra de la opción elegida. <strong>En todos los casos, solo una de las alternativas es correcta.</strong> FUNDAMENTE cada respuesta con la norma y artículo correspondiente en el espacio asignado.</em></p>
+<p><em>Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.</em></p>
 <h3>1. Según la Ordenanza General 26348 (Procedimiento Administrativo Municipal), cuando la administración no resuelve un trámite o petición dentro de los plazos reglamentarios, el administrado puede considerar configurado el &quot;silencio de la administración&quot; con efecto denegatorio una vez transcurrido el siguiente plazo sin respuesta:</h3>
 <ul>
 <li>a) Diez (10) días hábiles administrativos.</li>
@@ -368,7 +363,7 @@ blockquote {
 </ul>
 <p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
 <hr>
-<h2>CUESTION Nº 2: CASO SITUACIONAL DE HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)</h2>
+<h2>CUESTION Nº 2: HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)</h2>
 <p><em>Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.</em></p>
 <blockquote>
 <p>Un agente de su departamento, con una antigüedad de 8 años en el puesto de soporte técnico y desarrollo, comienza a manifestar dolores persistentes en su muñeca y mano derecha. Es diagnosticado clínicamente con &quot;Síndrome del Túnel Carpiano&quot; crónico, una afección ergonómica del nervio mediano. El agente sostiene que la lesión se debe a sus tareas diarias de digitación intensiva y reparación manual de hardware, y solicita la cobertura de su tratamiento médico.</p>
@@ -379,7 +374,7 @@ blockquote {
 </ol>
 </blockquote>
 <hr>
-<h2>CUESTION Nº 3: CASO PRÁCTICO ADMINISTRATIVO Y REDACCIÓN (4 Puntos)</h2>
+<h2>CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)</h2>
 <p><em>Consigna: Resuelva el caso disciplinario planteado y redacte el acto administrativo/elevación correspondiente.</em></p>
 <blockquote>
 <p>Usted como Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software constata mediante una auditoría informática automatizada (logs de acceso a la base de datos municipal de Catastro y Tasas) que el agente R.D. (Legajo Nº 77.777, Categoría Técnico I) extrajo y exportó sin autorización un listado con datos fiscales confidenciales de contribuyentes y deudas, habiéndolos entregado posteriormente a una empresa inmobiliaria privada para su beneficio económico personal. El agente es confrontado y reconoce su autoría del hecho por escrito en un descargo preliminar, calificándolo de &quot;un favor personal sin mala intención&quot;.</p>
@@ -391,7 +386,7 @@ blockquote {
 </ol>
 </blockquote>
 <hr>
-<h2>CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA EN EL ÁMBITO LABORAL (4.5 Puntos)</h2>
+<h2>CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</h2>
 <p><em>Consigna: Responda las siguientes preguntas justificando con el marco normativo municipal e internacional (Ordenanza 24271 MGP y leyes concordantes).</em></p>
 <ol>
 <li>¿Existe en el ámbito de la Municipalidad de General Pueyrredón una licencia especial por violencia de género para las agentes municipales? En caso afirmativo, indique bajo qué norma se rige, si es con o sin goce de haberes y si requiere una antigüedad mínima para su usufructo. (1.5 Puntos)</li>
@@ -399,7 +394,7 @@ blockquote {
 <li>Si en su departamento de Sistemas de Software trabajan tanto una agente que ha denunciado acoso/violencia por razones de género como el agente denunciado, ¿cuáles son las medidas preventivas urgentes que debe adoptar usted como Jefe de Departamento en el espacio físico laboral para resguardar a la víctima? (1.5 Puntos)</li>
 </ol>
 <hr>
-<h2>CUESTION Nº 5: EVALUACIÓN TÉCNICA (15 Puntos - 3 Puntos c/u)</h2>
+<h2>CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)</h2>
 <p><em>Consigna: Responda las siguientes preguntas basadas en la bibliografía oficial del cargo (Kendall &amp; Kendall 8va Edición y Scrum Manager v2.6).</em></p>
 <ol>
 <li><strong>Diseño Orientado a Objetos (Kendall &amp; Kendall):</strong> Defina los conceptos de <strong>Cohesión</strong> y <strong>Acoplamiento</strong>. Explique detalladamente por qué un buen diseño de sistemas de software debe buscar siempre una <strong>alta cohesión y un bajo acoplamiento</strong> en sus clases y componentes de software.</li>
@@ -458,7 +453,7 @@ a) Explique conceptualmente qué es el límite de WIP (Work In Progress Limit) e
 <li><strong>Fundamento Normativo:</strong> Ley Nacional de Higiene y Seguridad en el Trabajo Nº 19587, <strong>Artículo 8º y 9º</strong>: Es obligación exclusiva e indelegable del empleador (en este caso el Municipio) la provisión gratuita de los equipos de protección individual correspondientes y la adopción de las medidas preventivas, ergonómicas y estructurales necesarias en los puestos de trabajo. El agente no debe incurrir en gasto alguno para su seguridad. <em>(📋 Verificar en texto oficial de Ley Nacional 19587)</em></li>
 </ul>
 </details><details>
-<summary><b>Desplegar Solución - CUESTION Nº 2: Caso Higiene, Seguridad y ART</b></summary><h3>1. Configuración de la Cobertura:</h3>
+<summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary><h3>1. Configuración de la Cobertura:</h3>
 <p><strong>Sí, la situación está cubierta por la legislación.</strong></p>
 <ul>
 <li><strong>Figura Legal:</strong> Configura una <strong>Enfermedad Profesional</strong>.</li>
@@ -472,7 +467,7 @@ a) Explique conceptualmente qué es el límite de WIP (Work In Progress Limit) e
 <li><strong>Dictamen:</strong> La CMJ realizará una junta médica para dictaminar si existe relación causal directa entre las tareas realizadas en el Municipio y la patología del agente. En caso de dictamen favorable, obligará a la ART a brindar la cobertura de salud e indemnizatoria pertinente.</li>
 </ol>
 </details><details>
-<summary><b>Desplegar Solución - CUESTION Nº 3: Caso Práctico Disciplinario y Acto Administrativo</b></summary><h3>1. Procedimiento Obligatorio y Medida Precautoria (Ley 14656)</h3>
+<summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary><h3>1. Procedimiento Obligatorio y Medida Precautoria (Ley 14656)</h3>
 <ul>
 <li><strong>Procedimiento Obligatorio:</strong> Al tratarse de una falta de extrema gravedad susceptible de sanción expulsiva (cesantía o exoneración), es <strong>requisito constitucional de validez sustanciar un Sumario Administrativo previo</strong> (Ley 14656, Artículo 108 y concordantes). No se puede aplicar la cesantía de manera directa. El sumario garantiza la investigación del hecho, la recolección de pruebas y el pleno ejercicio del derecho de defensa del agente antes del dictado de la resolución definitiva por parte del Intendente Municipal.</li>
 <li><strong>Medida Precautoria Inmediata:</strong> El Jefe de Departamento debe proponer al superior la <strong>Suspensión Preventiva</strong> del agente o el <strong>Traslado Preventivo (cambio de tareas/función)</strong> a un área sin acceso a sistemas de información o bases de datos durante la sustanciación del sumario. La suspensión preventiva o traslado preventivo se fundamenta en la necesidad de resguardar la seguridad de la base de datos municipal y evitar alteraciones o nuevas filtraciones de información sensible (Artículo 112º de la Ley 14656).</li>
@@ -518,7 +513,7 @@ a) Explique conceptualmente qué es el límite de WIP (Work In Progress Limit) e
 <li><strong>Flexibilización consensual:</strong> Acordar con la víctima de forma voluntaria medidas de flexibilidad horaria o teletrabajo si ella lo considerase necesario para su tranquilidad, manteniendo plenamente sus condiciones laborales originales.</li>
 </ol>
 </details><details>
-<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación Técnica (Cohesión, Scrum y Kanban)</b></summary><h3>1. Cohesión y Acoplamiento (Kendall &amp; Kendall)</h3>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (Cohesión, Scrum y Kanban)</b></summary><h3>1. Cohesión y Acoplamiento (Kendall &amp; Kendall)</h3>
 <ul>
 <li><strong>Cohesión:</strong> Mide la fuerza de la relación funcional entre los atributos y métodos dentro de una sola clase o módulo de software. Determina qué tan enfocada está una clase en realizar una única tarea y meta de negocio (ej. Cohesión funcional alta: una clase <code>LiquidadorDeTasas</code> que solo calcula impuestos).</li>
 <li><strong>Acoplamiento:</strong> Mide el grado de interdependencia o dependencia mutua que existe entre dos o más clases o módulos del sistema (ej. Acoplamiento de datos bajo: una clase se comunica con otra pasándole solo los parámetros estrictamente necesarios).</li>

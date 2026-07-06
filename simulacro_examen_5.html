@@ -8,250 +8,245 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <style>
-        
-:root {
-    --primary: #0077c2;
-    --primary-dark: #005b94;
-    --accent: #e3f2fd;
-    --text: #333333;
-    --text-muted: #666666;
-    --bg: #f5f7fa;
-    --card-bg: #ffffff;
-    --border: #e0e0e0;
-    --success: #2e7d32;
-    --shadow: 0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.1);
-}
+        :root {
+            --primary: #0077c2;
+            --primary-dark: #005b94;
+            --accent: #e3f2fd;
+            --text: #333333;
+            --text-muted: #666666;
+            --bg: #f5f7fa;
+            --card-bg: #ffffff;
+            --border: #e0e0e0;
+            --success: #2e7d32;
+            --shadow: 0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.1);
+        }
 
-@media (prefers-color-scheme: dark) {
-    :root {
-        --primary: #4fc3f7;
-        --primary-dark: #0288d1;
-        --accent: #1a237e;
-        --text: #e0e0e0;
-        --text-muted: #aaaaaa;
-        --bg: #121212;
-        --card-bg: #1e1e1e;
-        --border: #333333;
-        --success: #81c784;
-        --shadow: 0 4px 6px rgba(0,0,0,0.3);
-    }
-}
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primary: #4fc3f7;
+                --primary-dark: #0288d1;
+                --accent: #1a237e;
+                --text: #e0e0e0;
+                --text-muted: #aaaaaa;
+                --bg: #121212;
+                --card-bg: #1e1e1e;
+                --border: #333333;
+                --success: #81c784;
+                --shadow: 0 4px 6px rgba(0,0,0,0.3);
+            }
+        }
 
-body {
-    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
-    color: var(--text);
-    background-color: var(--bg);
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-}
+        body {
+            font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+            color: var(--text);
+            background-color: var(--bg);
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
 
-header {
-    background-color: var(--primary-dark);
-    color: white;
-    padding: 20px 40px;
-    box-shadow: var(--shadow);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+        header {
+            background-color: var(--primary-dark);
+            color: white;
+            padding: 20px 40px;
+            box-shadow: var(--shadow);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
 
-header h1 {
-    margin: 0;
-    font-size: 1.5rem;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-}
+        header h1 {
+            margin: 0;
+            font-size: 1.5rem;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
 
-header .subtitle {
-    font-size: 0.9rem;
-    opacity: 0.8;
-}
+        header .subtitle {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
 
-.container {
-    max-width: 900px;
-    margin: 40px auto;
-    padding: 0 20px;
-}
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
 
-.exam-card {
-    background-color: var(--card-bg);
-    border-radius: 8px;
-    box-shadow: var(--shadow);
-    padding: 40px;
-    border: 1px solid var(--border);
-    margin-bottom: 20px;
-}
+        .exam-card {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: var(--shadow);
+            padding: 40px;
+            border: 1px solid var(--border);
+            margin-bottom: 20px;
+        }
 
-h1, h2, h3 {
-    color: var(--primary-dark);
-}
+        h1, h2, h3 {
+            color: var(--primary-dark);
+        }
 
-h2 {
-    color: var(--primary);
-    border-bottom: 2px solid var(--primary);
-    padding-bottom: 8px;
-    margin-top: 40px;
-}
+        h2 {
+            color: var(--primary);
+            border-bottom: 2px solid var(--primary);
+            padding-bottom: 8px;
+            margin-top: 40px;
+        }
 
-h3 {
-    color: var(--text);
-    margin-top: 30px;
-    border-left: 4px solid var(--primary);
-    padding-left: 12px;
-}
+        h3 {
+            color: var(--text);
+            margin-top: 30px;
+            border-left: 4px solid var(--primary);
+            padding-left: 12px;
+        }
 
-ul {
-    padding-left: 20px;
-}
+        ul {
+            padding-left: 20px;
+        }
 
-li {
-    margin-bottom: 8px;
-}
+        li {
+            margin-bottom: 8px;
+        }
 
-/* Details and Summary styling for Solutions */
-details {
-    background-color: var(--accent);
-    border-left: 4px solid var(--primary);
-    border-radius: 4px;
-    margin: 20px 0;
-    padding: 15px;
-    transition: all 0.3s ease;
-}
+        details {
+            background-color: var(--accent);
+            border-left: 4px solid var(--primary);
+            border-radius: 4px;
+            margin: 20px 0;
+            padding: 15px;
+            transition: all 0.3s ease;
+        }
 
-details[open] {
-    box-shadow: var(--shadow);
-    background-color: var(--card-bg);
-    border: 1px solid var(--border);
-    border-left: 4px solid var(--primary);
-}
+        details[open] {
+            box-shadow: var(--shadow);
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            border-left: 4px solid var(--primary);
+        }
 
-summary {
-    font-weight: bold;
-    cursor: pointer;
-    outline: none;
-    user-select: none;
-    color: var(--primary-dark);
-    padding: 5px 0;
-}
+        summary {
+            font-weight: bold;
+            cursor: pointer;
+            outline: none;
+            user-select: none;
+            color: var(--primary-dark);
+            padding: 5px 0;
+        }
 
-summary:hover {
-    color: var(--primary);
-}
+        summary:hover {
+            color: var(--primary);
+        }
 
-details p, details ul {
-    margin-top: 15px;
-}
+        details p, details ul {
+            margin-top: 15px;
+        }
 
-/* Print Button and utilities */
-.actions {
-    display: flex;
-    gap: 10px;
-    margin-bottom: 20px;
-    justify-content: flex-end;
-}
+        .actions {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            justify-content: flex-end;
+        }
 
-.btn {
-    background-color: var(--primary);
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
-    cursor: pointer;
-    font-weight: bold;
-    text-decoration: none;
-    transition: background-color 0.2s;
-    font-size: 0.9rem;
-}
+        .btn {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            text-decoration: none;
+            transition: background-color 0.2s;
+            font-size: 0.9rem;
+        }
 
-.btn:hover {
-    background-color: var(--primary-dark);
-}
+        .btn:hover {
+            background-color: var(--primary-dark);
+        }
 
-.btn-secondary {
-    background-color: transparent;
-    color: var(--primary);
-    border: 1px solid var(--primary);
-}
+        .btn-secondary {
+            background-color: transparent;
+            color: var(--primary);
+            border: 1px solid var(--primary);
+        }
 
-.btn-secondary:hover {
-    background-color: var(--accent);
-    color: var(--primary-dark);
-}
+        .btn-secondary:hover {
+            background-color: var(--accent);
+            color: var(--primary-dark);
+        }
 
-.score-calculator {
-    margin-top: 40px;
-    padding: 20px;
-    background-color: var(--accent);
-    border-radius: 6px;
-    border: 1px solid var(--border);
-}
+        .score-calculator {
+            margin-top: 40px;
+            padding: 20px;
+            background-color: var(--accent);
+            border-radius: 6px;
+            border: 1px solid var(--border);
+        }
 
-.score-input {
-    width: 60px;
-    padding: 5px;
-    border-radius: 4px;
-    border: 1px solid var(--border);
-    text-align: center;
-    font-weight: bold;
-    background: var(--card-bg);
-    color: var(--text);
-}
+        .score-input {
+            width: 60px;
+            padding: 5px;
+            border-radius: 4px;
+            border: 1px solid var(--border);
+            text-align: center;
+            font-weight: bold;
+            background: var(--card-bg);
+            color: var(--text);
+        }
 
-.score-row {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 10px;
-}
+        .score-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
 
-.score-total {
-    font-size: 1.2rem;
-    font-weight: bold;
-    margin-top: 15px;
-    border-top: 1px dashed var(--border);
-    padding-top: 15px;
-    display: flex;
-    justify-content: space-between;
-}
+        .score-total {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-top: 15px;
+            border-top: 1px dashed var(--border);
+            padding-top: 15px;
+            display: flex;
+            justify-content: space-between;
+        }
 
-/* Blockquote styles */
-blockquote {
-    background: var(--accent);
-    border-left: 4px solid var(--primary);
-    margin: 1.5em 10px;
-    padding: 10px 20px;
-    font-style: italic;
-}
+        blockquote {
+            background: var(--accent);
+            border-left: 4px solid var(--primary);
+            margin: 1.5em 10px;
+            padding: 10px 20px;
+            font-style: italic;
+        }
 
-@media print {
-    body {
-        background-color: white;
-        color: black;
-    }
-    header, .actions, .score-calculator, summary::-webkit-details-marker, details summary {
-        display: none !important;
-    }
-    .exam-card {
-        box-shadow: none !important;
-        border: none !important;
-        padding: 0 !important;
-    }
-    details {
-        background-color: transparent !important;
-        border: none !important;
-        border-left: 2px solid #333 !important;
-        page-break-inside: avoid;
-    }
-    details[open] {
-        border: none !important;
-        border-left: 2px solid #333 !important;
-    }
-    h2, h3 {
-        page-break-after: avoid;
-    }
-}
-
+        @media print {
+            body {
+                background-color: white;
+                color: black;
+            }
+            header, .actions, .score-calculator, summary::-webkit-details-marker, details summary {
+                display: none !important;
+            }
+            .exam-card {
+                box-shadow: none !important;
+                border: none !important;
+                padding: 0 !important;
+            }
+            details {
+                background-color: transparent !important;
+                border: none !important;
+                border-left: 2px solid #333 !important;
+                page-break-inside: avoid;
+            }
+            details[open] {
+                border: none !important;
+                border-left: 2px solid #333 !important;
+            }
+            h2, h3 {
+                page-break-after: avoid;
+            }
+        }
     </style>
 </head>
 <body>
@@ -276,8 +271,8 @@ blockquote {
             <h1>SIMULACRO DE EXAMEN Nº 5</h1>
 <p><strong>Cargo:</strong> Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
 <hr>
-<h2>CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA DE COMPRAS MUNICIPALES (10 Puntos)</h2>
-<p><em>Instrucciones: Seleccione la alternativa correcta rodeando la letra de la opción elegida. <strong>En todos los casos, solo una de las alternativas es correcta.</strong> FUNDAMENTE cada respuesta con la norma y artículo correspondiente en el espacio asignado.</em></p>
+<h2>CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)</h2>
+<p><em>Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.</em></p>
 <h3>1. Si la Municipalidad de General Pueyrredón requiere contratar un servicio de consultoría externa para el desarrollo de un módulo de contabilidad financiera que durará dieciocho (18) meses, comprometiendo partidas presupuestarias del ejercicio fiscal actual y del siguiente:</h3>
 <ul>
 <li>a) El Secretario de Hacienda puede autorizar la contratación directamente si cuenta con fondos en el mes en curso.</li>
@@ -368,7 +363,7 @@ blockquote {
 </ul>
 <p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
 <hr>
-<h2>CUESTION Nº 2: CASO SITUACIONAL DE HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)</h2>
+<h2>CUESTION Nº 2: HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)</h2>
 <p><em>Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.</em></p>
 <blockquote>
 <p>Un analista programador de su dependencia, asignado a tareas de desarrollo del portal de autogestión de tasas, presenta un reclamo formal ante la Jefatura. Manifiesta que padece fatiga visual severa, dolores de cabeza y síndrome del ojo seco de carácter crónico debido a que la iluminación de su puesto de trabajo es deficiente y la pantalla no cuenta con filtros ergonómicos. Solicita el inicio de un expediente de cobertura médica ante la ART contratada por el municipio.</p>
@@ -379,7 +374,7 @@ blockquote {
 </ol>
 </blockquote>
 <hr>
-<h2>CUESTION Nº 3: CASO PRÁCTICO ADMINISTRATIVO Y REDACCIÓN (4 Puntos)</h2>
+<h2>CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)</h2>
 <p><em>Consigna: Resuelva el caso disciplinario planteado y redacte el acto administrativo correspondiente.</em></p>
 <blockquote>
 <p>Durante una urgencia operativa en la Mesa de Entradas de la municipalidad, donde los sistemas de atención al público se cayeron por una falla en la placa de red de la PC principal, usted como Jefe de Departamento le ordena de forma presencial y directa al programador J.L. (Legajo Nº 55.555, Categoría Técnico II) que se dirija al sector a reemplazar la placa de red dañada para restablecer el servicio. El agente J.L. se niega rotundamente a cumplir la orden, manifestando de forma descomedida ante otros agentes que su contrato es de &quot;Desarrollador de software&quot; y que &quot;reparar PCs es tarea de soporte de hardware, no del área de programación&quot;. El hecho queda asentado en un acta técnica.</p>
@@ -391,7 +386,7 @@ blockquote {
 </ol>
 </blockquote>
 <hr>
-<h2>CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA EN EL ÁMBITO LABORAL (4.5 Puntos)</h2>
+<h2>CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</h2>
 <p><em>Consigna: Responda las siguientes preguntas sobre el Protocolo de Violencia de Género de la MGP (Ordenanza 24271).</em></p>
 <ol>
 <li>Defina brevemente las conductas que configuran &quot;acoso sexual&quot; y &quot;hostigamiento laboral&quot; en razón del género en el ámbito laboral de acuerdo con la Ordenanza 24271. (1.5 Puntos)</li>
@@ -399,7 +394,7 @@ blockquote {
 <li>¿Cómo debe proceder usted como superior jerárquico respecto a la confidencialidad de la justificación de las inasistencias de una agente a su cargo derivadas de situaciones de violencia de género? (1.5 Puntos)</li>
 </ol>
 <hr>
-<h2>CUESTION Nº 5: EVALUACIÓN TÉCNICA (15 Puntos - 3 Puntos c/u)</h2>
+<h2>CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)</h2>
 <p><em>Consigna: Responda las siguientes preguntas basadas en la bibliografía oficial del cargo (Kendall &amp; Kendall 8va Edición y Scrum Manager v2.6).</em></p>
 <ol>
 <li><strong>Diseño de Bases de Datos (Kendall &amp; Kendall):</strong> Explique conceptualmente las tres primeras formas normales de bases de datos relacionales: Primera Forma Normal (1NF), Segunda Forma Normal (2NF) y Tercera Forma Normal (3NF). Proponga un ejemplo de tabla municipal y muestre cómo se normaliza para evitar anomalías de inserción y redundancia.</li>
@@ -464,7 +459,7 @@ a) Calcule la capacidad total del Sprint del equipo expresada en <strong>Horas d
 <li><strong>Fundamento Normativo:</strong> Ley 14656, <strong>Artículo 89º</strong> en concordancia con los reglamentos de personal de la MGP. Se otorga licencia con goce íntegro de haberes para la atención de familiares directos enfermos a cargo del agente por un término máximo de hasta veinte (20) días por año calendario. <em>(📋 Verificar en texto oficial de Ley 14656 - Art. 89º)</em></li>
 </ul>
 </details><details>
-<summary><b>Desplegar Solución - CUESTION Nº 2: Caso Higiene, Seguridad y ART</b></summary><h3>1. Encuadre en el Listado de Enfermedades Profesionales:</h3>
+<summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary><h3>1. Encuadre en el Listado de Enfermedades Profesionales:</h3>
 <p><strong>No califica de forma directa como Enfermedad Profesional en el listado cerrado.</strong></p>
 <ul>
 <li><strong>Justificación:</strong> El listado cerrado de enfermedades profesionales establecido por el <strong>Decreto Nacional 658/96 (Ley 24557)</strong> no incluye a la fatiga visual ni al síndrome del ojo seco como afecciones generadoras de incapacidad laboral bajo la exposición a agentes de riesgo informáticos de forma directa (a diferencia de la tendinitis o el túnel carpiano que sí figuran asociados al riesgo físico de movimientos repetitivos). La ART rechazará la denuncia inicialmente.</li>
@@ -484,7 +479,7 @@ a) Calcule la capacidad total del Sprint del equipo expresada en <strong>Horas d
 </li>
 </ul>
 </details><details>
-<summary><b>Desplegar Solución - CUESTION Nº 3: Caso Práctico Disciplinario y Acto Administrativo</b></summary><h3>1. Competencias Jerárquicas y Vías Recursivas</h3>
+<summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary><h3>1. Competencias Jerárquicas y Vías Recursivas</h3>
 <ul>
 <li><strong>Facultad Directa:</strong> <strong>Sí, usted posee facultades como Jefe de Departamento.</strong> De acuerdo con el régimen de disciplina de la <strong>Ley 14656 (Artículos 105 y 106)</strong> y el Decreto reglamentario local de delegación disciplinaria <strong>1539/18, Artículo 1º, Inciso c</strong>, los Jefes de Departamento poseen competencia disciplinaria delegada directa para aplicar sanciones correctivas menores de llamado de atención, apercibimiento y suspensiones de <strong>hasta cinco (5) días corridos</strong>, previa sustanciación del descargo formal del agente.</li>
 <li><strong>Vías Recursivas del Agente:</strong> Contra la Disposición de sanción del Jefe de Departamento, el agente J.L. puede interponer un <strong>Recurso de Revocatoria</strong> ante la misma Jefatura dentro de los <strong>diez (10) días hábiles administrativos</strong> contados a partir de su notificación formal, llevando implícito en subsidio el <strong>Recurso Jerárquico</strong> ante el Intendente Municipal si la revocatoria fuera rechazada (Ordenanza General 26348, Artículo 86º).</li>
@@ -509,7 +504,7 @@ a) Calcule la capacidad total del Sprint del equipo expresada en <strong>Horas d
 <p><strong>DISPOSICIÓN Nº</strong> [Dejar espacio para número]</p>
 <p><em>Firma y Sello del Jefe de Departamento</em></p>
 </details><details>
-<summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Violencia en MGP</b></summary><h3>1. Acoso Sexual y Hostigamiento Laboral (Ordenanza MGP 24271):</h3>
+<summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</b></summary><h3>1. Acoso Sexual y Hostigamiento Laboral (Ordenanza MGP 24271):</h3>
 <ul>
 <li><strong>Acoso Sexual:</strong> Es todo comportamiento de índole sexual (físico, verbal, gestual o escrito), no consentido y rechazado por quien lo recibe, que afecte su dignidad, y cuya solicitud condicione la estabilidad o progresión en la carrera administrativa del agente (abuso de poder), o cree un entorno laboral hostil.</li>
 <li><strong>Hostigamiento Laboral (Acoso Moral):</strong> Es el maltrato psicológico, hostigamiento, descrédito profesional sistemático o aislamiento laboral ejercido de forma continua sobre un agente por parte de superiores o pares, con el fin de provocar su desgaste psicofísico o forzar su renuncia o traslado.</li>
@@ -522,7 +517,7 @@ a) Calcule la capacidad total del Sprint del equipo expresada en <strong>Horas d
 <h3>3. Confidencialidad de las Inasistencias de la Agente:</h3>
 <p>El Jefe de Departamento debe garantizar que la justificación administrativa de las inasistencias de la agente (sea por licencia especial o por días de reposo médico) <strong>se maneje bajo estricta reserva de sumario y confidencialidad</strong>. No debe revelar los motivos reales de las faltas a los compañeros de oficina ni asentarlos en planillas públicas o murales del sector. Debe elevar las justificaciones médicas directamente a la Dirección de Personal en sobre cerrado o a través de trámites confidenciales en GDE.</p>
 </details><details>
-<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación Técnica (Normalización, Kanban, Pruebas y GDE)</b></summary><h3>1. Normalización de Bases de Datos Relacionales (Kendall &amp; Kendall)</h3>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (Normalización, Kanban, Pruebas y GDE)</b></summary><h3>1. Normalización de Bases de Datos Relacionales (Kendall &amp; Kendall)</h3>
 <p>La normalización es el proceso de organizar las tablas y relaciones de una base de datos para minimizar la redundancia y evitar anomalías al insertar, actualizar o borrar datos.</p>
 <ul>
 <li><strong>Primera Forma Normal (1NF):</strong> Elimina los grupos repetitivos o atributos multivalores. Todos los campos de una tabla deben contener valores atómicos (indivisibles) y debe definirse una Clave Primaria (Primary Key - PK) única para la tabla.</li>
@@ -586,16 +581,16 @@ Se descompone en tres tablas lógicas independientes:<ol>
 </ul>
 </li>
 <li><p><strong>Días de desarrollo individual totales acumulados por el equipo:</strong>
-$$\text{Días Totales} = 7 \text{ (A)} + 9 \text{ (B)} + 9 \text{ (C)} + 9 \text{ (D)} = \mathbf{34 \text{ días de desarrollo}}$$</p>
+$\text{Días Totales} = 7 \text{ (A)} + 9 \text{ (B)} + 9 \text{ (C)} + 9 \text{ (D)} = \mathbf{34 \text{ días de desarrollo}}$</p>
 </li>
 <li><p><strong>Capacidad Bruta del Sprint en Horas:</strong>
-$$\text{Horas Brutas} = 34 \text{ días de desarrollo} \times 6 \text{ horas/día} = \mathbf{204 \text{ horas brutas}}$$</p>
+$\text{Horas Brutas} = 34 \text{ días de desarrollo} \times 6 \text{ horas/día} = \mathbf{204 \text{ horas brutas}}$</p>
 </li>
 <li><p><strong>Horas de reuniones ágiles y tareas administrativas acumuladas:</strong>
-$$\text{Horas Reuniones} = 34 \text{ días de desarrollo} \times 1.5 \text{ horas/día} = \mathbf{51 \text{ horas}}$$</p>
+$\text{Horas Reuniones} = 34 \text{ días de desarrollo} \times 1.5 \text{ horas/día} = \mathbf{51 \text{ horas}}$</p>
 </li>
 <li><p><strong>Capacidad Total de Desarrollo Neto del Sprint:</strong>
-$$\text{Horas de Desarrollo Neto} = 204 \text{ horas brutas} - 51 \text{ horas} = \mathbf{153 \text{ horas netas}}$$</p>
+$\text{Horas de Desarrollo Neto} = 204 \text{ horas brutas} - 51 \text{ horas} = \mathbf{153 \text{ horas netas}}$</p>
 </li>
 </ol>
 <h4><strong>b) Cálculo de Puntos de Historia (Story Points) a comprometer:</strong></h4>
@@ -603,7 +598,7 @@ $$\text{Horas de Desarrollo Neto} = 204 \text{ horas brutas} - 51 \text{ horas} 
 <li>Esfuerzo estimado por punto de historia = $6 \text{ horas netas/SP}$</li>
 <li>Capacidad neta = $153 \text{ horas netas}$</li>
 </ul>
-<p>$$\text{Story Points Máximos} = \frac{153 \text{ horas netas}}{6 \text{ horas/SP}} = 25.5 \text{ Story Points}$$</p>
+<p>$\text{Story Points Máximos} = \frac{153 \text{ horas netas}}{6 \text{ horas/SP}} = 25.5 \text{ Story Points}$</p>
 <p>Dado que no se deben comprometer tareas por encima de la capacidad estimada para evitar retrasos y fallar en el Sprint Goal:</p>
 <ul>
 <li><strong>Respuesta:</strong> El equipo de desarrollo puede comprometer de manera realista en su Sprint Backlog un máximo de <strong>25 Puntos de Historia (Story Points)</strong> para cumplir con los estándares de calidad de su DoD en el transcurso de este Sprint de capacidad reducida.</li>

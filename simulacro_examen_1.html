@@ -8,250 +8,245 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <style>
-        
-:root {
-    --primary: #0077c2;
-    --primary-dark: #005b94;
-    --accent: #e3f2fd;
-    --text: #333333;
-    --text-muted: #666666;
-    --bg: #f5f7fa;
-    --card-bg: #ffffff;
-    --border: #e0e0e0;
-    --success: #2e7d32;
-    --shadow: 0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.1);
-}
+        :root {
+            --primary: #0077c2;
+            --primary-dark: #005b94;
+            --accent: #e3f2fd;
+            --text: #333333;
+            --text-muted: #666666;
+            --bg: #f5f7fa;
+            --card-bg: #ffffff;
+            --border: #e0e0e0;
+            --success: #2e7d32;
+            --shadow: 0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.1);
+        }
 
-@media (prefers-color-scheme: dark) {
-    :root {
-        --primary: #4fc3f7;
-        --primary-dark: #0288d1;
-        --accent: #1a237e;
-        --text: #e0e0e0;
-        --text-muted: #aaaaaa;
-        --bg: #121212;
-        --card-bg: #1e1e1e;
-        --border: #333333;
-        --success: #81c784;
-        --shadow: 0 4px 6px rgba(0,0,0,0.3);
-    }
-}
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primary: #4fc3f7;
+                --primary-dark: #0288d1;
+                --accent: #1a237e;
+                --text: #e0e0e0;
+                --text-muted: #aaaaaa;
+                --bg: #121212;
+                --card-bg: #1e1e1e;
+                --border: #333333;
+                --success: #81c784;
+                --shadow: 0 4px 6px rgba(0,0,0,0.3);
+            }
+        }
 
-body {
-    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
-    color: var(--text);
-    background-color: var(--bg);
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-}
+        body {
+            font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+            color: var(--text);
+            background-color: var(--bg);
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
 
-header {
-    background-color: var(--primary-dark);
-    color: white;
-    padding: 20px 40px;
-    box-shadow: var(--shadow);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+        header {
+            background-color: var(--primary-dark);
+            color: white;
+            padding: 20px 40px;
+            box-shadow: var(--shadow);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
 
-header h1 {
-    margin: 0;
-    font-size: 1.5rem;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-}
+        header h1 {
+            margin: 0;
+            font-size: 1.5rem;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
 
-header .subtitle {
-    font-size: 0.9rem;
-    opacity: 0.8;
-}
+        header .subtitle {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
 
-.container {
-    max-width: 900px;
-    margin: 40px auto;
-    padding: 0 20px;
-}
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
 
-.exam-card {
-    background-color: var(--card-bg);
-    border-radius: 8px;
-    box-shadow: var(--shadow);
-    padding: 40px;
-    border: 1px solid var(--border);
-    margin-bottom: 20px;
-}
+        .exam-card {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: var(--shadow);
+            padding: 40px;
+            border: 1px solid var(--border);
+            margin-bottom: 20px;
+        }
 
-h1, h2, h3 {
-    color: var(--primary-dark);
-}
+        h1, h2, h3 {
+            color: var(--primary-dark);
+        }
 
-h2 {
-    color: var(--primary);
-    border-bottom: 2px solid var(--primary);
-    padding-bottom: 8px;
-    margin-top: 40px;
-}
+        h2 {
+            color: var(--primary);
+            border-bottom: 2px solid var(--primary);
+            padding-bottom: 8px;
+            margin-top: 40px;
+        }
 
-h3 {
-    color: var(--text);
-    margin-top: 30px;
-    border-left: 4px solid var(--primary);
-    padding-left: 12px;
-}
+        h3 {
+            color: var(--text);
+            margin-top: 30px;
+            border-left: 4px solid var(--primary);
+            padding-left: 12px;
+        }
 
-ul {
-    padding-left: 20px;
-}
+        ul {
+            padding-left: 20px;
+        }
 
-li {
-    margin-bottom: 8px;
-}
+        li {
+            margin-bottom: 8px;
+        }
 
-/* Details and Summary styling for Solutions */
-details {
-    background-color: var(--accent);
-    border-left: 4px solid var(--primary);
-    border-radius: 4px;
-    margin: 20px 0;
-    padding: 15px;
-    transition: all 0.3s ease;
-}
+        details {
+            background-color: var(--accent);
+            border-left: 4px solid var(--primary);
+            border-radius: 4px;
+            margin: 20px 0;
+            padding: 15px;
+            transition: all 0.3s ease;
+        }
 
-details[open] {
-    box-shadow: var(--shadow);
-    background-color: var(--card-bg);
-    border: 1px solid var(--border);
-    border-left: 4px solid var(--primary);
-}
+        details[open] {
+            box-shadow: var(--shadow);
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            border-left: 4px solid var(--primary);
+        }
 
-summary {
-    font-weight: bold;
-    cursor: pointer;
-    outline: none;
-    user-select: none;
-    color: var(--primary-dark);
-    padding: 5px 0;
-}
+        summary {
+            font-weight: bold;
+            cursor: pointer;
+            outline: none;
+            user-select: none;
+            color: var(--primary-dark);
+            padding: 5px 0;
+        }
 
-summary:hover {
-    color: var(--primary);
-}
+        summary:hover {
+            color: var(--primary);
+        }
 
-details p, details ul {
-    margin-top: 15px;
-}
+        details p, details ul {
+            margin-top: 15px;
+        }
 
-/* Print Button and utilities */
-.actions {
-    display: flex;
-    gap: 10px;
-    margin-bottom: 20px;
-    justify-content: flex-end;
-}
+        .actions {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            justify-content: flex-end;
+        }
 
-.btn {
-    background-color: var(--primary);
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
-    cursor: pointer;
-    font-weight: bold;
-    text-decoration: none;
-    transition: background-color 0.2s;
-    font-size: 0.9rem;
-}
+        .btn {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            text-decoration: none;
+            transition: background-color 0.2s;
+            font-size: 0.9rem;
+        }
 
-.btn:hover {
-    background-color: var(--primary-dark);
-}
+        .btn:hover {
+            background-color: var(--primary-dark);
+        }
 
-.btn-secondary {
-    background-color: transparent;
-    color: var(--primary);
-    border: 1px solid var(--primary);
-}
+        .btn-secondary {
+            background-color: transparent;
+            color: var(--primary);
+            border: 1px solid var(--primary);
+        }
 
-.btn-secondary:hover {
-    background-color: var(--accent);
-    color: var(--primary-dark);
-}
+        .btn-secondary:hover {
+            background-color: var(--accent);
+            color: var(--primary-dark);
+        }
 
-.score-calculator {
-    margin-top: 40px;
-    padding: 20px;
-    background-color: var(--accent);
-    border-radius: 6px;
-    border: 1px solid var(--border);
-}
+        .score-calculator {
+            margin-top: 40px;
+            padding: 20px;
+            background-color: var(--accent);
+            border-radius: 6px;
+            border: 1px solid var(--border);
+        }
 
-.score-input {
-    width: 60px;
-    padding: 5px;
-    border-radius: 4px;
-    border: 1px solid var(--border);
-    text-align: center;
-    font-weight: bold;
-    background: var(--card-bg);
-    color: var(--text);
-}
+        .score-input {
+            width: 60px;
+            padding: 5px;
+            border-radius: 4px;
+            border: 1px solid var(--border);
+            text-align: center;
+            font-weight: bold;
+            background: var(--card-bg);
+            color: var(--text);
+        }
 
-.score-row {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 10px;
-}
+        .score-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
 
-.score-total {
-    font-size: 1.2rem;
-    font-weight: bold;
-    margin-top: 15px;
-    border-top: 1px dashed var(--border);
-    padding-top: 15px;
-    display: flex;
-    justify-content: space-between;
-}
+        .score-total {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-top: 15px;
+            border-top: 1px dashed var(--border);
+            padding-top: 15px;
+            display: flex;
+            justify-content: space-between;
+        }
 
-/* Blockquote styles */
-blockquote {
-    background: var(--accent);
-    border-left: 4px solid var(--primary);
-    margin: 1.5em 10px;
-    padding: 10px 20px;
-    font-style: italic;
-}
+        blockquote {
+            background: var(--accent);
+            border-left: 4px solid var(--primary);
+            margin: 1.5em 10px;
+            padding: 10px 20px;
+            font-style: italic;
+        }
 
-@media print {
-    body {
-        background-color: white;
-        color: black;
-    }
-    header, .actions, .score-calculator, summary::-webkit-details-marker, details summary {
-        display: none !important;
-    }
-    .exam-card {
-        box-shadow: none !important;
-        border: none !important;
-        padding: 0 !important;
-    }
-    details {
-        background-color: transparent !important;
-        border: none !important;
-        border-left: 2px solid #333 !important;
-        page-break-inside: avoid;
-    }
-    details[open] {
-        border: none !important;
-        border-left: 2px solid #333 !important;
-    }
-    h2, h3 {
-        page-break-after: avoid;
-    }
-}
-
+        @media print {
+            body {
+                background-color: white;
+                color: black;
+            }
+            header, .actions, .score-calculator, summary::-webkit-details-marker, details summary {
+                display: none !important;
+            }
+            .exam-card {
+                box-shadow: none !important;
+                border: none !important;
+                padding: 0 !important;
+            }
+            details {
+                background-color: transparent !important;
+                border: none !important;
+                border-left: 2px solid #333 !important;
+                page-break-inside: avoid;
+            }
+            details[open] {
+                border: none !important;
+                border-left: 2px solid #333 !important;
+            }
+            h2, h3 {
+                page-break-after: avoid;
+            }
+        }
     </style>
 </head>
 <body>
@@ -277,7 +272,7 @@ blockquote {
 <p><strong>Cargo:</strong> Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
 <hr>
 <h2>CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)</h2>
-<p><em>Instrucciones: Seleccione la alternativa correcta rodeando la letra de la opción elegida. <strong>En todos los casos, solo una de las alternativas es correcta.</strong> FUNDAMENTE cada respuesta con la norma y artículo correspondiente en el espacio asignado (puedes consultar tu marco teórico).</em></p>
+<p><em>Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.</em></p>
 <h3>1. La Administración local de los Partidos que forman la Provincia de Buenos Aires estará a cargo de una Municipalidad compuesta por:</h3>
 <ul>
 <li>a) Un Departamento Ejecutivo, desempeñado por un ciudadano con el título de Intendente, un Departamento Deliberativo, desempeñado por ciudadanos con el título de Concejal, y un Departamento Judicial desempeñado por ciudadanos con el título de Jueces de Faltas.</li>
@@ -372,7 +367,7 @@ blockquote {
 </ul>
 <p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
 <hr>
-<h2>CUESTION Nº 2: CASO SITUACIONAL DE HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)</h2>
+<h2>CUESTION Nº 2: HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)</h2>
 <p><em>Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.</em></p>
 <blockquote>
 <p>Un agente de soporte técnico de su dependencia, mientras se trasladaba por un pasillo común del edificio municipal para reparar una PC de otra oficina, resbala debido a que el piso estaba mojado y recién limpio (sin carteles de advertencia), sufriendo una fractura de cadera que le impide trabajar.</p>
@@ -383,7 +378,7 @@ blockquote {
 </ol>
 </blockquote>
 <hr>
-<h2>CUESTION Nº 3: CASO PRÁCTICO ADMINISTRATIVO Y REDACCIÓN (4 Puntos)</h2>
+<h2>CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)</h2>
 <p><em>Consigna: Resuelva el caso de falta disciplinaria y redacte el acto administrativo correspondiente.</em></p>
 <blockquote>
 <p>Usted como Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software constata que uno de los programadores a su cargo (Agente M.A., Legajo Nº 99.999, Categoría Técnico II) se ausentó de la oficina municipal en su horario habitual de trabajo. Al realizar una búsqueda exhaustiva del agente en las dependencias de la secretaría no lo encuentra. Tampoco registra fichada de salida ni solicitud de retiro autorizada. Posteriormente, se entera y constata mediante testigos que el agente se encontraba dictando una clase docente arancelada en un instituto universitario privado en dicho horario.</p>
@@ -395,7 +390,7 @@ blockquote {
 </ol>
 </blockquote>
 <hr>
-<h2>CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA EN EL ÁMBITO LABORAL (4.5 Puntos)</h2>
+<h2>CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</h2>
 <p><em>Consigna: Responda las siguientes preguntas justificando con el marco normativo nacional, provincial y municipal correspondiente (Ley Micaela y Ordenanza municipal 24271).</em></p>
 <ol>
 <li>Explique qué implicancia posee la capacitación en violencia de género sobre la carrera administrativa de los agentes públicos municipales y en qué norma se establece. (1.5 Puntos)</li>
@@ -403,7 +398,7 @@ blockquote {
 <li>Si usted como Jefe de Departamento recibe una denuncia de una agente bajo su cargo motivada en violencia laboral por razones de género en el área, ¿cuáles son los principios de abordaje inmediatos y las primeras diligencias que debe adoptar de acuerdo al protocolo municipal (Ordenanza 24271)? (1.5 Puntos)</li>
 </ol>
 <hr>
-<h2>CUESTION Nº 5: EVALUACIÓN TÉCNICA (15 Puntos - 3 Puntos c/u)</h2>
+<h2>CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)</h2>
 <p><em>Consigna: Responda de manera clara y precisa las siguientes preguntas basadas en la bibliografía oficial del cargo (Kendall &amp; Kendall 8va Edición y Scrum Manager v2.6).</em></p>
 <ol>
 <li><strong>Metodologías de Desarrollo (Kendall &amp; Kendall):</strong> Defina el Ciclo de Vida del Desarrollo de Sistemas (SDLC) tradicional en cascada de Kendall &amp; Kendall y contrástelo con el enfoque Ágil/XP (Programación Extrema). ¿Cuáles son las diferencias clave en cuanto a la respuesta al cambio y el involucramiento del cliente?</li>
@@ -472,7 +467,7 @@ a) Calcule la cantidad de Sprints necesarios para entregar el backlog completo y
 <em>(📋 Verificar en texto oficial de Decreto MGP 121/18)</em></li>
 </ul>
 </details><details>
-<summary><b>Desplegar Solución - CUESTION Nº 2: Caso Higiene, Seguridad y ART</b></summary><h3>1. Configuración de Accidente de Trabajo:</h3>
+<summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary><h3>1. Configuración de Accidente de Trabajo:</h3>
 <p><strong>Sí, configura un accidente de trabajo.</strong> </p>
 <ul>
 <li><strong>Fundamento Jurídico:</strong> De acuerdo con la <strong>Ley Nacional de Riesgos del Trabajo Nº 24557, Artículo 6º, Inciso 1</strong>: <em>&quot;Se considera accidente de trabajo a todo acontecimiento súbito y violento ocurrido por el hecho o en ocasión del trabajo...&quot;</em>. En este escenario, el resbalón ocurrió <em>en ocasión del trabajo</em>, ya que el agente se encontraba realizando tareas laborales encomendadas (trasladarse a reparar una PC) dentro del establecimiento de la Municipalidad (lugar de trabajo) y durante el horario laboral.</li>
@@ -483,7 +478,7 @@ a) Calcule la cantidad de Sprints necesarios para entregar el backlog completo y
 <li><strong>Norma Aplicable:</strong> <strong>Ley 24557, Artículo 20º</strong> (Prestaciones en especie). La ART debe proveer asistencia médica y farmacéutica, prótesis y ortopedia, rehabilitación, recalificación profesional y servicio funerario en caso de fallecimiento, cubriendo al 100% el tratamiento sin costo para el agente municipal.</li>
 </ul>
 </details><details>
-<summary><b>Desplegar Solución - CUESTION Nº 3: Caso Práctico Disciplinario y Acto Administrativo</b></summary><h3>1. Procedimiento Disciplinario y Plazos (Debido Proceso)</h3>
+<summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary><h3>1. Procedimiento Disciplinario y Plazos (Debido Proceso)</h3>
 <p>De acuerdo a la <strong>Ley 14656 (Artículos 105, 106 y concordantes)</strong> y el procedimiento administrativo municipal (Ordenanza General 26348):</p>
 <ol>
 <li><strong>Constatación y Reporte:</strong> El Jefe de Departamento debe redactar un informe detallado indicando fecha, hora y circunstancias de la ausencia del agente M.A. y adjuntar la prueba (planilla de reloj biométrico sin salida, actas de constatación de ausencia firmadas).</li>
@@ -542,7 +537,7 @@ a) Calcule la cantidad de Sprints necesarios para entregar el backlog completo y
 </li>
 </ul>
 </details><details>
-<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación Técnica (Kendall & Kendall y Scrum)</b></summary><h3>1. SDLC tradicional vs Enfoque Ágil/XP (Kendall &amp; Kendall)</h3>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (Kendall & Kendall y Scrum)</b></summary><h3>1. SDLC tradicional vs Enfoque Ágil/XP (Kendall &amp; Kendall)</h3>
 <ul>
 <li><strong>Ciclo de Vida de Desarrollo de Sistemas (SDLC) tradicional:</strong> Es un enfoque sistemático y secuencial en fases estructuradas: 1) Identificación de problemas, 2) Determinación de requerimientos humanos de información, 3) Análisis de necesidades del sistema, 4) Diseño del sistema recomendado, 5) Desarrollo y documentación del software, 6) Pruebas y mantenimiento, 7) Implantación y evaluación. Es altamente rígido: cada fase debe cerrarse antes de pasar a la siguiente (Cascada).</li>
 <li><strong>Enfoque Ágil/XP (Programación Extrema):</strong> Se basa en valores como comunicación, simplicidad, retroalimentación y valor. Las fases son iterativas y superpuestas. Los ciclos de desarrollo son muy cortos (entregas en semanas).</li>
@@ -616,7 +611,7 @@ a) Calcule la cantidad de Sprints necesarios para entregar el backlog completo y
 <li>Velocidad Promedio = $24 \text{ SP/Sprint}$</li>
 <li>Duración del Sprint = $2 \text{ semanas}$</li>
 </ul>
-<p>$$\text{Cantidad de Sprints} = \frac{\text{Backlog Total}}{\text{Velocidad}} = \frac{180 \text{ SP}}{24 \text{ SP/Sprint}} = 7.5 \text{ Sprints}$$</p>
+<p>$\text{Cantidad de Sprints} = \frac{\text{Backlog Total}}{\text{Velocidad}} = \frac{180 \text{ SP}}{24 \text{ SP/Sprint}} = 7.5 \text{ Sprints}$</p>
 <p>Dado que no se pueden realizar fracciones de Sprint para completar el trabajo, el resultado se redondea hacia arriba:</p>
 <ul>
 <li><strong>Sprints Necesarios:</strong> <strong>8 Sprints</strong> (el Sprint 8 será un Sprint parcial donde se completarán los 12 puntos de historia restantes).</li>
@@ -632,10 +627,10 @@ a) Calcule la cantidad de Sprints necesarios para entregar el backlog completo y
 <li><p><strong>Sprint 3 (Capacidad reducida):</strong> El equipo completa únicamente <strong>12 SP</strong>. Backlog restante = $132 - 12 = 120 \text{ SP}$.</p>
 </li>
 <li><p><strong>Sprints posteriores (Sprints normales recuperados):</strong>
-$$\text{Sprints normales restantes} = \frac{\text{Backlog Restante}}{\text{Velocidad Normal}} = \frac{120 \text{ SP}}{24 \text{ SP/Sprint}} = 5 \text{ Sprints}$$</p>
+$\text{Sprints normales restantes} = \frac{\text{Backlog Restante}}{\text{Velocidad Normal}} = \frac{120 \text{ SP}}{24 \text{ SP/Sprint}} = 5 \text{ Sprints}$</p>
 </li>
 <li><p><strong>Total de Sprints finales necesarios:</strong>
-$$\text{Total Sprints} = 2 \text{ (normales)} + 1 \text{ (reducido)} + 5 \text{ (normales restantes)} = \mathbf{8 \text{ Sprints}}$$</p>
+$\text{Total Sprints} = 2 \text{ (normales)} + 1 \text{ (reducido)} + 5 \text{ (normales restantes)} = \mathbf{8 \text{ Sprints}}$</p>
 </li>
 <li><p><strong>Conclusión de Impacto Temporal:</strong> El total de sprints necesarios sigue siendo <strong>8 Sprints</strong> (16 semanas de trabajo). </p>
 <ul>

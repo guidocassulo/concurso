@@ -6,8 +6,8 @@
 
 ---
 
-## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA DE COMPRAS MUNICIPALES (10 Puntos)
-*Instrucciones: Seleccione la alternativa correcta rodeando la letra de la opción elegida. **En todos los casos, solo una de las alternativas es correcta.** FUNDAMENTE cada respuesta con la norma y artículo correspondiente en el espacio asignado.*
+## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)
+*Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
 ### 1. Si el Departamento de TIC requiere contratar la renovación de licencias anuales de software de base de datos Oracle, siendo Oracle el único proveedor exclusivo a nivel nacional que posee la patente y distribución oficial del servicio, el Jefe de Departamento debe tramitar la adquisición bajo la modalidad de:
 *   a) Licitación Pública obligatoria, dado que es la regla general para compras del Estado.
@@ -109,7 +109,7 @@
 
 ---
 
-## CUESTION Nº 2: CASO SITUACIONAL DE HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)
+## CUESTION Nº 2: HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)
 *Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.*
 
 > Un agente del área de soporte técnico de su dependencia se encuentra en el Data Center municipal instalando un nuevo conmutador de red en el rack principal. Al manipular un cable de alimentación defectuoso que carecía de la debida aislación protectora, sufre una descarga eléctrica en su mano derecha y quemaduras leves. Al inspeccionar el sector, usted constata que el rack no contaba con conexión a tierra certificada y que el tablero eléctrico carecía de disyuntor diferencial en funcionamiento.
@@ -120,7 +120,7 @@
 
 ---
 
-## CUESTION Nº 3: CASO PRÁCTICO ADMINISTRATIVO Y REDACCIÓN (4 Puntos)
+## CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)
 *Consigna: Resuelva el caso disciplinario planteado y redacte el acto administrativo correspondiente.*
 
 > Mediante una auditoría de sistemas e inspección de tráfico de red, la Dirección General de TIC constata que el agente F.M. (Legajo Nº 66.666, Categoría Técnico II, Programador) instaló y ejecutó de manera continua un software de minería de criptomonedas utilizando la capacidad de procesamiento de tres servidores virtuales del municipio destinados al portal de trámites, consumiendo de forma anómala el ancho de banda del organismo en beneficio económico personal. El agente reconoce el hecho por escrito, manifestando que "fue en horario muerto" y que "no dañó ningún archivo".
@@ -133,7 +133,7 @@
 
 ---
 
-## CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA EN EL ÁMBITO LABORAL (4.5 Puntos)
+## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
 *Consigna: Responda la siguiente consulta sobre identidad de género en la administración pública fundamentando con la legislación nacional correspondiente.*
 
 > Una analista programadora de su dependencia presenta una nota formal ante su Jefatura solicitando que en todos los registros internos de la oficina (listados de asistencia, credencial de acceso físico, firma de correos electrónicos institucionales y usuario de red corporativo) se modifique su nombre anterior por el de "Juana Pérez" y su dirección de correo a `juana.perez@mardelplata.gov.ar` para respetar su identidad de género autopercibida. Informa que aún no ha iniciado el trámite judicial/registral de rectificación de su DNI.
@@ -144,7 +144,7 @@
 
 ---
 
-## CUESTION Nº 5: EVALUACIÓN TÉCNICA (15 Puntos - 3 Puntos c/u)
+## CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)
 *Consigna: Responda las siguientes preguntas basadas en la bibliografía oficial del cargo (Kendall & Kendall 8va Edición y Scrum Manager v2.6).*
 
 1.  **Implantación de Software (Kendall & Kendall):** Defina y compare las estrategias de conversión de sistemas: *Conversión Directa* (Direct Changeover) y *Conversión en Paralelo* (Parallel Conversion). Detalle las ventajas y desventajas críticas de cada enfoque para la puesta en servicio de un nuevo sistema de mesa de entradas.
@@ -203,7 +203,7 @@
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 2: Caso Higiene, Seguridad y ART</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary>
 
 ### 1. Configuración de Accidente Laboral y Cobertura:
 *   **Configuración:** **Sí, configura un accidente laboral.** El agente sufrió una descarga eléctrica en ocasión de realizar sus tareas asignadas (soporte e instalación física de red) dentro del establecimiento de la Municipalidad (lugar de trabajo) y durante el horario laboral.
@@ -223,7 +223,7 @@ Se violó el **Capítulo 14 (Instalaciones Eléctricas)** del Decreto 351/79 reg
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 3: Caso Práctico Disciplinario y Acto Administrativo</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary>
 
 ### 1. Procedimiento Disciplinario y Medida Preventiva (Ley 14656)
 *   **Procedimiento Obligatorio:** Al ser una falta calificada como grave (utilizar recursos informáticos del Estado para enriquecimiento personal de minería de criptomonedas, afectando la estabilidad del portal web), el castigo superará los 10 días de suspensión o implicará cesantía. Por lo tanto, **es obligatorio tramitar un Sumario Administrativo previo** (Artículo 108º de la Ley 14656).
@@ -284,7 +284,7 @@ Como Jefe de Departamento de Sistemas de Software, debes **dar curso inmediato, 
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación Técnica (Implantación, UML y Scrum)</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (Implantación, UML y Scrum)</b></summary>
 
 ### 1. Conversión Directa vs Conversión en Paralelo (Kendall & Kendall)
 *   **Conversión Directa:** El sistema antiguo se detiene por completo y el nuevo sistema se activa e implanta de forma inmediata.

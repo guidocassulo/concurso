@@ -8,250 +8,245 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <style>
-        
-:root {
-    --primary: #0077c2;
-    --primary-dark: #005b94;
-    --accent: #e3f2fd;
-    --text: #333333;
-    --text-muted: #666666;
-    --bg: #f5f7fa;
-    --card-bg: #ffffff;
-    --border: #e0e0e0;
-    --success: #2e7d32;
-    --shadow: 0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.1);
-}
+        :root {
+            --primary: #0077c2;
+            --primary-dark: #005b94;
+            --accent: #e3f2fd;
+            --text: #333333;
+            --text-muted: #666666;
+            --bg: #f5f7fa;
+            --card-bg: #ffffff;
+            --border: #e0e0e0;
+            --success: #2e7d32;
+            --shadow: 0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.1);
+        }
 
-@media (prefers-color-scheme: dark) {
-    :root {
-        --primary: #4fc3f7;
-        --primary-dark: #0288d1;
-        --accent: #1a237e;
-        --text: #e0e0e0;
-        --text-muted: #aaaaaa;
-        --bg: #121212;
-        --card-bg: #1e1e1e;
-        --border: #333333;
-        --success: #81c784;
-        --shadow: 0 4px 6px rgba(0,0,0,0.3);
-    }
-}
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primary: #4fc3f7;
+                --primary-dark: #0288d1;
+                --accent: #1a237e;
+                --text: #e0e0e0;
+                --text-muted: #aaaaaa;
+                --bg: #121212;
+                --card-bg: #1e1e1e;
+                --border: #333333;
+                --success: #81c784;
+                --shadow: 0 4px 6px rgba(0,0,0,0.3);
+            }
+        }
 
-body {
-    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
-    color: var(--text);
-    background-color: var(--bg);
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-}
+        body {
+            font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+            color: var(--text);
+            background-color: var(--bg);
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
 
-header {
-    background-color: var(--primary-dark);
-    color: white;
-    padding: 20px 40px;
-    box-shadow: var(--shadow);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+        header {
+            background-color: var(--primary-dark);
+            color: white;
+            padding: 20px 40px;
+            box-shadow: var(--shadow);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
 
-header h1 {
-    margin: 0;
-    font-size: 1.5rem;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-}
+        header h1 {
+            margin: 0;
+            font-size: 1.5rem;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
 
-header .subtitle {
-    font-size: 0.9rem;
-    opacity: 0.8;
-}
+        header .subtitle {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
 
-.container {
-    max-width: 900px;
-    margin: 40px auto;
-    padding: 0 20px;
-}
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
 
-.exam-card {
-    background-color: var(--card-bg);
-    border-radius: 8px;
-    box-shadow: var(--shadow);
-    padding: 40px;
-    border: 1px solid var(--border);
-    margin-bottom: 20px;
-}
+        .exam-card {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: var(--shadow);
+            padding: 40px;
+            border: 1px solid var(--border);
+            margin-bottom: 20px;
+        }
 
-h1, h2, h3 {
-    color: var(--primary-dark);
-}
+        h1, h2, h3 {
+            color: var(--primary-dark);
+        }
 
-h2 {
-    color: var(--primary);
-    border-bottom: 2px solid var(--primary);
-    padding-bottom: 8px;
-    margin-top: 40px;
-}
+        h2 {
+            color: var(--primary);
+            border-bottom: 2px solid var(--primary);
+            padding-bottom: 8px;
+            margin-top: 40px;
+        }
 
-h3 {
-    color: var(--text);
-    margin-top: 30px;
-    border-left: 4px solid var(--primary);
-    padding-left: 12px;
-}
+        h3 {
+            color: var(--text);
+            margin-top: 30px;
+            border-left: 4px solid var(--primary);
+            padding-left: 12px;
+        }
 
-ul {
-    padding-left: 20px;
-}
+        ul {
+            padding-left: 20px;
+        }
 
-li {
-    margin-bottom: 8px;
-}
+        li {
+            margin-bottom: 8px;
+        }
 
-/* Details and Summary styling for Solutions */
-details {
-    background-color: var(--accent);
-    border-left: 4px solid var(--primary);
-    border-radius: 4px;
-    margin: 20px 0;
-    padding: 15px;
-    transition: all 0.3s ease;
-}
+        details {
+            background-color: var(--accent);
+            border-left: 4px solid var(--primary);
+            border-radius: 4px;
+            margin: 20px 0;
+            padding: 15px;
+            transition: all 0.3s ease;
+        }
 
-details[open] {
-    box-shadow: var(--shadow);
-    background-color: var(--card-bg);
-    border: 1px solid var(--border);
-    border-left: 4px solid var(--primary);
-}
+        details[open] {
+            box-shadow: var(--shadow);
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            border-left: 4px solid var(--primary);
+        }
 
-summary {
-    font-weight: bold;
-    cursor: pointer;
-    outline: none;
-    user-select: none;
-    color: var(--primary-dark);
-    padding: 5px 0;
-}
+        summary {
+            font-weight: bold;
+            cursor: pointer;
+            outline: none;
+            user-select: none;
+            color: var(--primary-dark);
+            padding: 5px 0;
+        }
 
-summary:hover {
-    color: var(--primary);
-}
+        summary:hover {
+            color: var(--primary);
+        }
 
-details p, details ul {
-    margin-top: 15px;
-}
+        details p, details ul {
+            margin-top: 15px;
+        }
 
-/* Print Button and utilities */
-.actions {
-    display: flex;
-    gap: 10px;
-    margin-bottom: 20px;
-    justify-content: flex-end;
-}
+        .actions {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            justify-content: flex-end;
+        }
 
-.btn {
-    background-color: var(--primary);
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
-    cursor: pointer;
-    font-weight: bold;
-    text-decoration: none;
-    transition: background-color 0.2s;
-    font-size: 0.9rem;
-}
+        .btn {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            text-decoration: none;
+            transition: background-color 0.2s;
+            font-size: 0.9rem;
+        }
 
-.btn:hover {
-    background-color: var(--primary-dark);
-}
+        .btn:hover {
+            background-color: var(--primary-dark);
+        }
 
-.btn-secondary {
-    background-color: transparent;
-    color: var(--primary);
-    border: 1px solid var(--primary);
-}
+        .btn-secondary {
+            background-color: transparent;
+            color: var(--primary);
+            border: 1px solid var(--primary);
+        }
 
-.btn-secondary:hover {
-    background-color: var(--accent);
-    color: var(--primary-dark);
-}
+        .btn-secondary:hover {
+            background-color: var(--accent);
+            color: var(--primary-dark);
+        }
 
-.score-calculator {
-    margin-top: 40px;
-    padding: 20px;
-    background-color: var(--accent);
-    border-radius: 6px;
-    border: 1px solid var(--border);
-}
+        .score-calculator {
+            margin-top: 40px;
+            padding: 20px;
+            background-color: var(--accent);
+            border-radius: 6px;
+            border: 1px solid var(--border);
+        }
 
-.score-input {
-    width: 60px;
-    padding: 5px;
-    border-radius: 4px;
-    border: 1px solid var(--border);
-    text-align: center;
-    font-weight: bold;
-    background: var(--card-bg);
-    color: var(--text);
-}
+        .score-input {
+            width: 60px;
+            padding: 5px;
+            border-radius: 4px;
+            border: 1px solid var(--border);
+            text-align: center;
+            font-weight: bold;
+            background: var(--card-bg);
+            color: var(--text);
+        }
 
-.score-row {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 10px;
-}
+        .score-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
 
-.score-total {
-    font-size: 1.2rem;
-    font-weight: bold;
-    margin-top: 15px;
-    border-top: 1px dashed var(--border);
-    padding-top: 15px;
-    display: flex;
-    justify-content: space-between;
-}
+        .score-total {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-top: 15px;
+            border-top: 1px dashed var(--border);
+            padding-top: 15px;
+            display: flex;
+            justify-content: space-between;
+        }
 
-/* Blockquote styles */
-blockquote {
-    background: var(--accent);
-    border-left: 4px solid var(--primary);
-    margin: 1.5em 10px;
-    padding: 10px 20px;
-    font-style: italic;
-}
+        blockquote {
+            background: var(--accent);
+            border-left: 4px solid var(--primary);
+            margin: 1.5em 10px;
+            padding: 10px 20px;
+            font-style: italic;
+        }
 
-@media print {
-    body {
-        background-color: white;
-        color: black;
-    }
-    header, .actions, .score-calculator, summary::-webkit-details-marker, details summary {
-        display: none !important;
-    }
-    .exam-card {
-        box-shadow: none !important;
-        border: none !important;
-        padding: 0 !important;
-    }
-    details {
-        background-color: transparent !important;
-        border: none !important;
-        border-left: 2px solid #333 !important;
-        page-break-inside: avoid;
-    }
-    details[open] {
-        border: none !important;
-        border-left: 2px solid #333 !important;
-    }
-    h2, h3 {
-        page-break-after: avoid;
-    }
-}
-
+        @media print {
+            body {
+                background-color: white;
+                color: black;
+            }
+            header, .actions, .score-calculator, summary::-webkit-details-marker, details summary {
+                display: none !important;
+            }
+            .exam-card {
+                box-shadow: none !important;
+                border: none !important;
+                padding: 0 !important;
+            }
+            details {
+                background-color: transparent !important;
+                border: none !important;
+                border-left: 2px solid #333 !important;
+                page-break-inside: avoid;
+            }
+            details[open] {
+                border: none !important;
+                border-left: 2px solid #333 !important;
+            }
+            h2, h3 {
+                page-break-after: avoid;
+            }
+        }
     </style>
 </head>
 <body>
@@ -276,8 +271,8 @@ blockquote {
             <h1>SIMULACRO DE EXAMEN Nº 4</h1>
 <p><strong>Cargo:</strong> Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
 <hr>
-<h2>CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA DE COMPRAS MUNICIPALES (10 Puntos)</h2>
-<p><em>Instrucciones: Seleccione la alternativa correcta rodeando la letra de la opción elegida. <strong>En todos los casos, solo una de las alternativas es correcta.</strong> FUNDAMENTE cada respuesta con la norma y artículo correspondiente en el espacio asignado.</em></p>
+<h2>CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)</h2>
+<p><em>Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.</em></p>
 <h3>1. Si el Departamento de TIC requiere contratar la renovación de licencias anuales de software de base de datos Oracle, siendo Oracle el único proveedor exclusivo a nivel nacional que posee la patente y distribución oficial del servicio, el Jefe de Departamento debe tramitar la adquisición bajo la modalidad de:</h3>
 <ul>
 <li>a) Licitación Pública obligatoria, dado que es la regla general para compras del Estado.</li>
@@ -368,7 +363,7 @@ blockquote {
 </ul>
 <p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
 <hr>
-<h2>CUESTION Nº 2: CASO SITUACIONAL DE HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)</h2>
+<h2>CUESTION Nº 2: HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)</h2>
 <p><em>Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.</em></p>
 <blockquote>
 <p>Un agente del área de soporte técnico de su dependencia se encuentra en el Data Center municipal instalando un nuevo conmutador de red en el rack principal. Al manipular un cable de alimentación defectuoso que carecía de la debida aislación protectora, sufre una descarga eléctrica en su mano derecha y quemaduras leves. Al inspeccionar el sector, usted constata que el rack no contaba con conexión a tierra certificada y que el tablero eléctrico carecía de disyuntor diferencial en funcionamiento.</p>
@@ -379,7 +374,7 @@ blockquote {
 </ol>
 </blockquote>
 <hr>
-<h2>CUESTION Nº 3: CASO PRÁCTICO ADMINISTRATIVO Y REDACCIÓN (4 Puntos)</h2>
+<h2>CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)</h2>
 <p><em>Consigna: Resuelva el caso disciplinario planteado y redacte el acto administrativo correspondiente.</em></p>
 <blockquote>
 <p>Mediante una auditoría de sistemas e inspección de tráfico de red, la Dirección General de TIC constata que el agente F.M. (Legajo Nº 66.666, Categoría Técnico II, Programador) instaló y ejecutó de manera continua un software de minería de criptomonedas utilizando la capacidad de procesamiento de tres servidores virtuales del municipio destinados al portal de trámites, consumiendo de forma anómala el ancho de banda del organismo en beneficio económico personal. El agente reconoce el hecho por escrito, manifestando que &quot;fue en horario muerto&quot; y que &quot;no dañó ningún archivo&quot;.</p>
@@ -391,7 +386,7 @@ blockquote {
 </ol>
 </blockquote>
 <hr>
-<h2>CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA EN EL ÁMBITO LABORAL (4.5 Puntos)</h2>
+<h2>CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</h2>
 <p><em>Consigna: Responda la siguiente consulta sobre identidad de género en la administración pública fundamentando con la legislación nacional correspondiente.</em></p>
 <blockquote>
 <p>Una analista programadora de su dependencia presenta una nota formal ante su Jefatura solicitando que en todos los registros internos de la oficina (listados de asistencia, credencial de acceso físico, firma de correos electrónicos institucionales y usuario de red corporativo) se modifique su nombre anterior por el de &quot;Juana Pérez&quot; y su dirección de correo a <code>juana.perez@mardelplata.gov.ar</code> para respetar su identidad de género autopercibida. Informa que aún no ha iniciado el trámite judicial/registral de rectificación de su DNI.</p>
@@ -402,7 +397,7 @@ blockquote {
 </ol>
 </blockquote>
 <hr>
-<h2>CUESTION Nº 5: EVALUACIÓN TÉCNICA (15 Puntos - 3 Puntos c/u)</h2>
+<h2>CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)</h2>
 <p><em>Consigna: Responda las siguientes preguntas basadas en la bibliografía oficial del cargo (Kendall &amp; Kendall 8va Edición y Scrum Manager v2.6).</em></p>
 <ol>
 <li><strong>Implantación de Software (Kendall &amp; Kendall):</strong> Defina y compare las estrategias de conversión de sistemas: <em>Conversión Directa</em> (Direct Changeover) y <em>Conversión en Paralelo</em> (Parallel Conversion). Detalle las ventajas y desventajas críticas de cada enfoque para la puesta en servicio de un nuevo sistema de mesa de entradas.</li>
@@ -466,7 +461,7 @@ a) Determine la Velocidad Real entregada por el equipo en este Sprint. Justifiqu
 <li><strong>Fundamento Normativo:</strong> Ley 14656, <strong>Artículo 89º</strong>: Establece que para la atención de personas que integren el mismo grupo familiar que padezcan una enfermedad que les impida valerse por sus propios medios, <em>&quot;se concederá al trabajador licencia con goce íntegro de haberes, hasta un máximo de veinte (20) días por año calendario&quot;</em> (pudiendo extenderse a 25 días en caso de hijos con enfermedades crónicas o discapacidad). <em>(📋 Verificar en texto oficial de Ley 14656 - Art. 89º)</em></li>
 </ul>
 </details><details>
-<summary><b>Desplegar Solución - CUESTION Nº 2: Caso Higiene, Seguridad y ART</b></summary><h3>1. Configuración de Accidente Laboral y Cobertura:</h3>
+<summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary><h3>1. Configuración de Accidente Laboral y Cobertura:</h3>
 <ul>
 <li><strong>Configuración:</strong> <strong>Sí, configura un accidente laboral.</strong> El agente sufrió una descarga eléctrica en ocasión de realizar sus tareas asignadas (soporte e instalación física de red) dentro del establecimiento de la Municipalidad (lugar de trabajo) y durante el horario laboral.</li>
 <li><strong>Norma Nacional:</strong> Se rige bajo la <strong>Ley Nacional de Riesgos del Trabajo Nº 24557</strong> (y modificatorias), la cual garantiza al agente afectado la cobertura médica total de urgencia, traslados, medicamentos, cirugías (prestaciones en especie) y el pago de su salario durante su convalecencia (prestaciones dinerarias por ILT) a través de la ART.</li>
@@ -488,7 +483,7 @@ a) Determine la Velocidad Real entregada por el equipo en este Sprint. Justifiqu
 </li>
 </ul>
 </details><details>
-<summary><b>Desplegar Solución - CUESTION Nº 3: Caso Práctico Disciplinario y Acto Administrativo</b></summary><h3>1. Procedimiento Disciplinario y Medida Preventiva (Ley 14656)</h3>
+<summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary><h3>1. Procedimiento Disciplinario y Medida Preventiva (Ley 14656)</h3>
 <ul>
 <li><strong>Procedimiento Obligatorio:</strong> Al ser una falta calificada como grave (utilizar recursos informáticos del Estado para enriquecimiento personal de minería de criptomonedas, afectando la estabilidad del portal web), el castigo superará los 10 días de suspensión o implicará cesantía. Por lo tanto, <strong>es obligatorio tramitar un Sumario Administrativo previo</strong> (Artículo 108º de la Ley 14656).</li>
 <li><strong>Medida Preventiva Jerárquica:</strong> El Jefe de Departamento debe solicitar de inmediato el <strong>bloqueo físico y lógico del perfil de accesos informáticos (usuarios de red, VPN, credenciales SSH/RDP) del agente F.M.</strong> y suspender provisionalmente sus permisos sobre servidores municipales. Adicionalmente, debe proponer en la elevación la <strong>suspensión preventiva del agente</strong> sin goce de haberes (o con haberes según defina el sumario) por un término de hasta 60 días para evitar sabotajes en la base de datos municipal durante la investigación.</li>
@@ -525,7 +520,7 @@ a) Determine la Velocidad Real entregada por el equipo en este Sprint. Justifiqu
 <li><strong>Fundamento:</strong> El mismo <strong>Artículo 12º de la Ley 26743</strong> establece explícitamente: *&quot;...En aquellas circunstancias en que la persona deba ser nombrada en público deberá utilizarse únicamente el nombre de pila de elección que respete la identidad de género adoptada. <strong>A sola solicitud del interesado el nombre de pila adoptado deberá ser utilizado... sin que sea necesaria la rectificación previa del documento nacional de identidad...</strong>&quot;*. En los registros que mantengan el nombre legal por razones tributarias o contractuales estrictas, se debe utilizar un formato combinado (ej. Juana Pérez [Nombre autopercibido] / Iniciales y apellido legal), pero en toda la interacción diaria (correo, usuario, credenciales, trato verbal) debe figurar exclusivamente su nombre autopercibido.</li>
 </ul>
 </details><details>
-<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación Técnica (Implantación, UML y Scrum)</b></summary><h3>1. Conversión Directa vs Conversión en Paralelo (Kendall &amp; Kendall)</h3>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (Implantación, UML y Scrum)</b></summary><h3>1. Conversión Directa vs Conversión en Paralelo (Kendall &amp; Kendall)</h3>
 <ul>
 <li><strong>Conversión Directa:</strong> El sistema antiguo se detiene por completo y el nuevo sistema se activa e implanta de forma inmediata.<ul>
 <li><em>Ventaja:</em> Es la estrategia de menor costo económico, requiere menos tiempo de transición y evita que los usuarios municipales deban duplicar tareas de carga de datos en dos sistemas diferentes.</li>
@@ -603,7 +598,7 @@ a) Determine la Velocidad Real entregada por el equipo en este Sprint. Justifiqu
 <li>Backlog Restante = $112 \text{ SP}$</li>
 <li>Duración del Sprint = $2 \text{ semanas}$</li>
 </ul>
-<p>$$\text{Sprints necesarios} = \frac{\text{Backlog Restante}}{\text{Velocidad}} = \frac{112 \text{ SP}}{28 \text{ SP/Sprint}} = \mathbf{4 \text{ Sprints}}$$</p>
+<p>$\text{Sprints necesarios} = \frac{\text{Backlog Restante}}{\text{Velocidad}} = \frac{112 \text{ SP}}{28 \text{ SP/Sprint}} = \mathbf{4 \text{ Sprints}}$</p>
 <ul>
 <li><strong>Tiempo Estimado:</strong> $4 \text{ Sprints} \times 2 \text{ semanas/Sprint} = \mathbf{8 \text{ Semanas}}$ de trabajo total restantes para la finalización del proyecto.</li>
 </ul>

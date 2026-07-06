@@ -6,8 +6,8 @@
 
 ---
 
-## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA DE COMPRAS MUNICIPALES (10 Puntos)
-*Instrucciones: Seleccione la alternativa correcta rodeando la letra de la opción elegida. **En todos los casos, solo una de las alternativas es correcta.** FUNDAMENTE cada respuesta con la norma y artículo correspondiente en el espacio asignado.*
+## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)
+*Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
 ### 1. Si la Municipalidad de General Pueyrredón requiere contratar un servicio de consultoría externa para el desarrollo de un módulo de contabilidad financiera que durará dieciocho (18) meses, comprometiendo partidas presupuestarias del ejercicio fiscal actual y del siguiente:
 *   a) El Secretario de Hacienda puede autorizar la contratación directamente si cuenta con fondos en el mes en curso.
@@ -109,7 +109,7 @@
 
 ---
 
-## CUESTION Nº 2: CASO SITUACIONAL DE HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)
+## CUESTION Nº 2: HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)
 *Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.*
 
 > Un analista programador de su dependencia, asignado a tareas de desarrollo del portal de autogestión de tasas, presenta un reclamo formal ante la Jefatura. Manifiesta que padece fatiga visual severa, dolores de cabeza y síndrome del ojo seco de carácter crónico debido a que la iluminación de su puesto de trabajo es deficiente y la pantalla no cuenta con filtros ergonómicos. Solicita el inicio de un expediente de cobertura médica ante la ART contratada por el municipio.
@@ -120,7 +120,7 @@
 
 ---
 
-## CUESTION Nº 3: CASO PRÁCTICO ADMINISTRATIVO Y REDACCIÓN (4 Puntos)
+## CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)
 *Consigna: Resuelva el caso disciplinario planteado y redacte el acto administrativo correspondiente.*
 
 > Durante una urgencia operativa en la Mesa de Entradas de la municipalidad, donde los sistemas de atención al público se cayeron por una falla en la placa de red de la PC principal, usted como Jefe de Departamento le ordena de forma presencial y directa al programador J.L. (Legajo Nº 55.555, Categoría Técnico II) que se dirija al sector a reemplazar la placa de red dañada para restablecer el servicio. El agente J.L. se niega rotundamente a cumplir la orden, manifestando de forma descomedida ante otros agentes que su contrato es de "Desarrollador de software" y que "reparar PCs es tarea de soporte de hardware, no del área de programación". El hecho queda asentado en un acta técnica.
@@ -133,7 +133,7 @@
 
 ---
 
-## CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA EN EL ÁMBITO LABORAL (4.5 Puntos)
+## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
 *Consigna: Responda las siguientes preguntas sobre el Protocolo de Violencia de Género de la MGP (Ordenanza 24271).*
 
 1.  Defina brevemente las conductas que configuran "acoso sexual" y "hostigamiento laboral" en razón del género en el ámbito laboral de acuerdo con la Ordenanza 24271. (1.5 Puntos)
@@ -142,7 +142,7 @@
 
 ---
 
-## CUESTION Nº 5: EVALUACIÓN TÉCNICA (15 Puntos - 3 Puntos c/u)
+## CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)
 *Consigna: Responda las siguientes preguntas basadas en la bibliografía oficial del cargo (Kendall & Kendall 8va Edición y Scrum Manager v2.6).*
 
 1.  **Diseño de Bases de Datos (Kendall & Kendall):** Explique conceptualmente las tres primeras formas normales de bases de datos relacionales: Primera Forma Normal (1NF), Segunda Forma Normal (2NF) y Tercera Forma Normal (3NF). Proponga un ejemplo de tabla municipal y muestre cómo se normaliza para evitar anomalías de inserción y redundancia.
@@ -202,7 +202,7 @@
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 2: Caso Higiene, Seguridad y ART</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary>
 
 ### 1. Encuadre en el Listado de Enfermedades Profesionales:
 **No califica de forma directa como Enfermedad Profesional en el listado cerrado.**
@@ -222,7 +222,7 @@ El Municipio está obligado a cumplir con el **Anexo IV (Iluminación)** del Dec
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 3: Caso Práctico Disciplinario y Acto Administrativo</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary>
 
 ### 1. Competencias Jerárquicas y Vías Recursivas
 *   **Facultad Directa:** **Sí, usted posee facultades como Jefe de Departamento.** De acuerdo con el régimen de disciplina de la **Ley 14656 (Artículos 105 y 106)** y el Decreto reglamentario local de delegación disciplinaria **1539/18, Artículo 1º, Inciso c**, los Jefes de Departamento poseen competencia disciplinaria delegada directa para aplicar sanciones correctivas menores de llamado de atención, apercibimiento y suspensiones de **hasta cinco (5) días corridos**, previa sustanciación del descargo formal del agente.
@@ -269,7 +269,7 @@ Por ello, en ejercicio de las facultades disciplinarias delegadas mediante el De
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Violencia en MGP</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</b></summary>
 
 ### 1. Acoso Sexual y Hostigamiento Laboral (Ordenanza MGP 24271):
 *   **Acoso Sexual:** Es todo comportamiento de índole sexual (físico, verbal, gestual o escrito), no consentido y rechazado por quien lo recibe, que afecte su dignidad, y cuya solicitud condicione la estabilidad o progresión en la carrera administrativa del agente (abuso de poder), o cree un entorno laboral hostil.
@@ -285,7 +285,7 @@ El Jefe de Departamento debe garantizar que la justificación administrativa de 
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación Técnica (Normalización, Kanban, Pruebas y GDE)</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (Normalización, Kanban, Pruebas y GDE)</b></summary>
 
 ### 1. Normalización de Bases de Datos Relacionales (Kendall & Kendall)
 La normalización es el proceso de organizar las tablas y relaciones de una base de datos para minimizar la redundancia y evitar anomalías al insertar, actualizar o borrar datos.

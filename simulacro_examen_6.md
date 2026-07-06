@@ -6,8 +6,8 @@
 
 ---
 
-## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA DE COMPRAS MUNICIPALES (10 Puntos)
-*Instrucciones: Seleccione la alternativa correcta rodeando la letra de la opción elegida. **En todos los casos, solo una de las alternativas es correcta.** FUNDAMENTE cada respuesta con la norma y artículo correspondiente en el espacio asignado.*
+## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)
+*Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
 ### 1. Al elaborar las especificaciones técnicas del Pliego de Bases y Condiciones Particulares para la adquisición de switches y routers para el Data Center municipal mediante Concurso de Precios, el Jefe de Departamento debe cumplir con el principio de:
 *   a) Exclusividad de marcas comerciales, especificando una única marca del mercado para evitar ofertas alternativas.
@@ -109,7 +109,7 @@
 
 ---
 
-## CUESTION Nº 2: CASO SITUACIONAL DE HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)
+## CUESTION Nº 2: HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)
 *Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.*
 
 > Un agente del área de soporte técnico de su departamento recibe la instrucción de trasladar un chasis de rack de servidores de 50 kg desde la oficina de desarrollo hacia el depósito de hardware en el subsuelo. Al levantarlo de forma manual sin ayuda de otros agentes ni elementos mecánicos, sufre un dolor lumbar agudo invalidante. El diagnóstico médico determina una hernia de disco lumbar extruida que requiere tratamiento de kinesiología y reposo prolongado de 60 días.
@@ -120,7 +120,7 @@
 
 ---
 
-## CUESTION Nº 3: CASO PRÁCTICO ADMINISTRATIVO Y REDACCIÓN (4 Puntos)
+## CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)
 *Consigna: Resuelva el caso disciplinario planteado y redacte el acto administrativo correspondiente.*
 
 > A través del análisis de logs de base de datos del sistema de control de asistencia de la municipalidad, se descubre que el agente de soporte técnico A.T. (Legajo Nº 44.444, Categoría Técnico I) utilizó indebidamente las credenciales de acceso de administrador de red de su supervisor (las cuales obtuvo mediante técnicas no autorizadas) para ingresar al servidor de bases de datos biométricas y alterar de forma fraudulenta los registros de llegadas tarde propios y de otros dos agentes de su oficina. Tras sustanciarse la imputación, el agente A.T. no justifica la acción y confiesa el hecho.
@@ -133,7 +133,7 @@
 
 ---
 
-## CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA EN EL ÁMBITO LABORAL (4.5 Puntos)
+## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
 *Consigna: Responda las siguientes preguntas sobre la Ley Micaela (Ley 27499 / Ley 15134) en el ámbito municipal.*
 
 1.  Explique cuál es la responsabilidad jerárquica que le compete a usted como Jefe de Departamento para garantizar el cumplimiento de la capacitación obligatoria en género de la Ley Micaela por parte del personal técnico y administrativo a su cargo. (1.5 Puntos)
@@ -142,7 +142,7 @@
 
 ---
 
-## CUESTION Nº 5: EVALUACIÓN TÉCNICA (15 Puntos - 3 Puntos c/u)
+## CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)
 *Consigna: Responda las siguientes preguntas basadas en la bibliografía oficial del cargo (Kendall & Kendall 8va Edición y Scrum Manager v2.6).*
 
 1.  **Usabilidad de Interfaces UX/UI (Kendall & Kendall):** Explique el concepto de usabilidad en sistemas web de administración municipal. Defina brevemente tres (3) de las heurísticas de usabilidad de Nielsen aplicadas al diseño de portales tributarios municipales y explique el concepto de accesibilidad web (WCAG 2.1).
@@ -199,7 +199,7 @@
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 2: Caso Higiene, Seguridad y ART</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary>
 
 ### 1. Configuración de Accidente Laboral:
 **Sí, el siniestro califica formalmente como un Accidente de Trabajo.**
@@ -217,7 +217,7 @@ Se infringió el **Anexo I (Especificaciones Técnicas de Ergonomía para la man
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 3: Caso Práctico Disciplinario y Acto Administrativo</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary>
 
 ### 1. Procedimiento Disciplinario y Medida Jerárquica Directa
 *   **Procedimiento Obligatorio:** Al configurarse la comisión de una falta administrativa gravísima de índole ética e informática (utilización indebida de credenciales del superior para alterar de forma fraudulenta las marcas biométricas del reloj horario de asistencia), la sanción a aplicar es la de **cesantía o exoneración** del agente A.T. Por consiguiente, **es requisito obligatorio tramitar un Sumario Administrativo previo** (Artículo 108º de la Ley 14656).
@@ -262,7 +262,7 @@ Por ello, en uso de las atribuciones de supervisión técnico-disciplinarias de 
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Ley Micaela</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</b></summary>
 
 ### 1. Responsabilidad Jerárquica del Jefe de Departamento:
 Al Jefe de Departamento le compete la **obligación legal de velar por el cumplimiento del plan de capacitación obligatoria en género de la Ley Micaela** por parte de la totalidad del personal bajo su cargo (Ley 15134 y Ley 27499). Debe notificar formalmente a los agentes sobre el inicio de las cohortes de capacitación, realizar el seguimiento de acreditación de certificados del personal del área y asegurar el acceso democrático a la formación.
@@ -278,7 +278,7 @@ Para posibilitar la realización de la capacitación obligatoria sin afectar el 
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación Técnica (UX, Estimaciones, UML y Kanban)</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (UX, Estimaciones, UML y Kanban)</b></summary>
 
 ### 1. Usabilidad UX/UI y Accesibilidad Web (Kendall & Kendall)
 *   **Usabilidad:** Es el atributo de calidad que mide qué tan fácil de usar, interactivo, intuitivo y eficiente resulta un sistema de software para los usuarios reales que lo operan (ej. los ciudadanos que pagan tasas en el portal).

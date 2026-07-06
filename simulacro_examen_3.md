@@ -7,7 +7,7 @@
 ---
 
 ## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)
-*Instrucciones: Seleccione la alternativa correcta rodeando la letra de la opción elegida. **En todos los casos, solo una de las alternativas es correcta.** FUNDAMENTE cada respuesta con la norma y artículo correspondiente en el espacio asignado.*
+*Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
 ### 1. Según la Ordenanza General 26348 (Procedimiento Administrativo Municipal), cuando la administración no resuelve un trámite o petición dentro de los plazos reglamentarios, el administrado puede considerar configurado el "silencio de la administración" con efecto denegatorio una vez transcurrido el siguiente plazo sin respuesta:
 *   a) Diez (10) días hábiles administrativos.
@@ -109,7 +109,7 @@
 
 ---
 
-## CUESTION Nº 2: CASO SITUACIONAL DE HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)
+## CUESTION Nº 2: HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)
 *Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.*
 
 > Un agente de su departamento, con una antigüedad de 8 años en el puesto de soporte técnico y desarrollo, comienza a manifestar dolores persistentes en su muñeca y mano derecha. Es diagnosticado clínicamente con "Síndrome del Túnel Carpiano" crónico, una afección ergonómica del nervio mediano. El agente sostiene que la lesión se debe a sus tareas diarias de digitación intensiva y reparación manual de hardware, y solicita la cobertura de su tratamiento médico.
@@ -120,7 +120,7 @@
 
 ---
 
-## CUESTION Nº 3: CASO PRÁCTICO ADMINISTRATIVO Y REDACCIÓN (4 Puntos)
+## CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)
 *Consigna: Resuelva el caso disciplinario planteado y redacte el acto administrativo/elevación correspondiente.*
 
 > Usted como Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software constata mediante una auditoría informática automatizada (logs de acceso a la base de datos municipal de Catastro y Tasas) que el agente R.D. (Legajo Nº 77.777, Categoría Técnico I) extrajo y exportó sin autorización un listado con datos fiscales confidenciales de contribuyentes y deudas, habiéndolos entregado posteriormente a una empresa inmobiliaria privada para su beneficio económico personal. El agente es confrontado y reconoce su autoría del hecho por escrito en un descargo preliminar, calificándolo de "un favor personal sin mala intención".
@@ -133,7 +133,7 @@
 
 ---
 
-## CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA EN EL ÁMBITO LABORAL (4.5 Puntos)
+## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
 *Consigna: Responda las siguientes preguntas justificando con el marco normativo municipal e internacional (Ordenanza 24271 MGP y leyes concordantes).*
 
 1.  ¿Existe en el ámbito de la Municipalidad de General Pueyrredón una licencia especial por violencia de género para las agentes municipales? En caso afirmativo, indique bajo qué norma se rige, si es con o sin goce de haberes y si requiere una antigüedad mínima para su usufructo. (1.5 Puntos)
@@ -142,7 +142,7 @@
 
 ---
 
-## CUESTION Nº 5: EVALUACIÓN TÉCNICA (15 Puntos - 3 Puntos c/u)
+## CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)
 *Consigna: Responda las siguientes preguntas basadas en la bibliografía oficial del cargo (Kendall & Kendall 8va Edición y Scrum Manager v2.6).*
 
 1.  **Diseño Orientado a Objetos (Kendall & Kendall):** Defina los conceptos de **Cohesión** y **Acoplamiento**. Explique detalladamente por qué un buen diseño de sistemas de software debe buscar siempre una **alta cohesión y un bajo acoplamiento** en sus clases y componentes de software.
@@ -197,7 +197,7 @@
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 2: Caso Higiene, Seguridad y ART</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary>
 
 ### 1. Configuración de la Cobertura:
 **Sí, la situación está cubierta por la legislación.**
@@ -213,7 +213,7 @@ Si la ART rechaza formalmente la enfermedad profesional alegando que la causa es
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 3: Caso Práctico Disciplinario y Acto Administrativo</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary>
 
 ### 1. Procedimiento Obligatorio y Medida Precautoria (Ley 14656)
 *   **Procedimiento Obligatorio:** Al tratarse de una falta de extrema gravedad susceptible de sanción expulsiva (cesantía o exoneración), es **requisito constitucional de validez sustanciar un Sumario Administrativo previo** (Ley 14656, Artículo 108 y concordantes). No se puede aplicar la cesantía de manera directa. El sumario garantiza la investigación del hecho, la recolección de pruebas y el pleno ejercicio del derecho de defensa del agente antes del dictado de la resolución definitiva por parte del Intendente Municipal.
@@ -284,7 +284,7 @@ En caso de coexistencia de la denunciante y el denunciado en la misma oficina de
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación Técnica (Cohesión, Scrum y Kanban)</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (Cohesión, Scrum y Kanban)</b></summary>
 
 ### 1. Cohesión y Acoplamiento (Kendall & Kendall)
 *   **Cohesión:** Mide la fuerza de la relación funcional entre los atributos y métodos dentro de una sola clase o módulo de software. Determina qué tan enfocada está una clase en realizar una única tarea y meta de negocio (ej. Cohesión funcional alta: una clase `LiquidadorDeTasas` que solo calcula impuestos).

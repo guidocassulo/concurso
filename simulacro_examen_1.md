@@ -7,7 +7,7 @@
 ---
 
 ## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)
-*Instrucciones: Seleccione la alternativa correcta rodeando la letra de la opción elegida. **En todos los casos, solo una de las alternativas es correcta.** FUNDAMENTE cada respuesta con la norma y artículo correspondiente en el espacio asignado (puedes consultar tu marco teórico).*
+*Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
 ### 1. La Administración local de los Partidos que forman la Provincia de Buenos Aires estará a cargo de una Municipalidad compuesta por:
 *   a) Un Departamento Ejecutivo, desempeñado por un ciudadano con el título de Intendente, un Departamento Deliberativo, desempeñado por ciudadanos con el título de Concejal, y un Departamento Judicial desempeñado por ciudadanos con el título de Jueces de Faltas.
@@ -113,7 +113,7 @@
 
 ---
 
-## CUESTION Nº 2: CASO SITUACIONAL DE HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)
+## CUESTION Nº 2: HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)
 *Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.*
 
 > Un agente de soporte técnico de su dependencia, mientras se trasladaba por un pasillo común del edificio municipal para reparar una PC de otra oficina, resbala debido a que el piso estaba mojado y recién limpio (sin carteles de advertencia), sufriendo una fractura de cadera que le impide trabajar.
@@ -124,7 +124,7 @@
 
 ---
 
-## CUESTION Nº 3: CASO PRÁCTICO ADMINISTRATIVO Y REDACCIÓN (4 Puntos)
+## CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)
 *Consigna: Resuelva el caso de falta disciplinaria y redacte el acto administrativo correspondiente.*
 
 > Usted como Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software constata que uno de los programadores a su cargo (Agente M.A., Legajo Nº 99.999, Categoría Técnico II) se ausentó de la oficina municipal en su horario habitual de trabajo. Al realizar una búsqueda exhaustiva del agente en las dependencias de la secretaría no lo encuentra. Tampoco registra fichada de salida ni solicitud de retiro autorizada. Posteriormente, se entera y constata mediante testigos que el agente se encontraba dictando una clase docente arancelada en un instituto universitario privado en dicho horario.
@@ -137,7 +137,7 @@
 
 ---
 
-## CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA EN EL ÁMBITO LABORAL (4.5 Puntos)
+## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
 *Consigna: Responda las siguientes preguntas justificando con el marco normativo nacional, provincial y municipal correspondiente (Ley Micaela y Ordenanza municipal 24271).*
 
 1.  Explique qué implicancia posee la capacitación en violencia de género sobre la carrera administrativa de los agentes públicos municipales y en qué norma se establece. (1.5 Puntos)
@@ -146,7 +146,7 @@
 
 ---
 
-## CUESTION Nº 5: EVALUACIÓN TÉCNICA (15 Puntos - 3 Puntos c/u)
+## CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)
 *Consigna: Responda de manera clara y precisa las siguientes preguntas basadas en la bibliografía oficial del cargo (Kendall & Kendall 8va Edición y Scrum Manager v2.6).*
 
 1.  **Metodologías de Desarrollo (Kendall & Kendall):** Defina el Ciclo de Vida del Desarrollo de Sistemas (SDLC) tradicional en cascada de Kendall & Kendall y contrástelo con el enfoque Ágil/XP (Programación Extrema). ¿Cuáles son las diferencias clave en cuanto a la respuesta al cambio y el involucramiento del cliente?
@@ -211,7 +211,7 @@
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 2: Caso Higiene, Seguridad y ART</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary>
 
 ### 1. Configuración de Accidente de Trabajo:
 **Sí, configura un accidente de trabajo.** 
@@ -224,7 +224,7 @@ El responsable legal de brindar las prestaciones médicas, asistenciales y farma
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 3: Caso Práctico Disciplinario y Acto Administrativo</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary>
 
 ### 1. Procedimiento Disciplinario y Plazos (Debido Proceso)
 De acuerdo a la **Ley 14656 (Artículos 105, 106 y concordantes)** y el procedimiento administrativo municipal (Ordenanza General 26348):
@@ -304,7 +304,7 @@ Al recibir una denuncia de violencia laboral o acoso por razones de género, el 
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación Técnica (Kendall & Kendall y Scrum)</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (Kendall & Kendall y Scrum)</b></summary>
 
 ### 1. SDLC tradicional vs Enfoque Ágil/XP (Kendall & Kendall)
 *   **Ciclo de Vida de Desarrollo de Sistemas (SDLC) tradicional:** Es un enfoque sistemático y secuencial en fases estructuradas: 1) Identificación de problemas, 2) Determinación de requerimientos humanos de información, 3) Análisis de necesidades del sistema, 4) Diseño del sistema recomendado, 5) Desarrollo y documentación del software, 6) Pruebas y mantenimiento, 7) Implantación y evaluación. Es altamente rígido: cada fase debe cerrarse antes de pasar a la siguiente (Cascada).

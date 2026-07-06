@@ -7,7 +7,7 @@
 ---
 
 ## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)
-*Instrucciones: Seleccione la alternativa correcta rodeando la letra de la opción elegida. **En todos los casos, solo una de las alternativas es correcta.** FUNDAMENTE cada respuesta con la norma y artículo correspondiente en el espacio asignado.*
+*Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
 ### 1. En el marco del sistema contable y de administración financiera municipal (RAFAM - Decreto 2980/00), ¿cuál de las siguientes etapas del gasto genera el registro definitivo de la deuda y afecta presupuestariamente el ejercicio?
 *   a) El Compromiso.
@@ -109,7 +109,7 @@
 
 ---
 
-## CUESTION Nº 2: CASO SITUACIONAL DE HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)
+## CUESTION Nº 2: HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)
 *Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.*
 
 > Un analista programador de su dependencia, con horario laboral asignado de 08:00 a 14:00 hs, se traslada en su motocicleta desde su domicilio real declarado hacia el edificio de la Municipalidad (Mesa de Entradas de Sistemas). En el trayecto directo habitual, a las 07:45 hs, es colisionado por un automóvil particular en la vía pública, sufriendo lesiones que le demandan una internación y posterior reposo médico de 30 días.
@@ -120,7 +120,7 @@
 
 ---
 
-## CUESTION Nº 3: CASO PRÁCTICO ADMINISTRATIVO Y REDACCIÓN (4 Puntos)
+## CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)
 *Consigna: Resuelva el caso de falta disciplinaria y redacte el acto administrativo correspondiente.*
 
 > Usted como Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software es informado de que el agente J.P. (Legajo Nº 88.888, Categoría Técnico I, Programador) agredió verbalmente e insultó con términos despectivos a un contribuyente que asistió a la oficina a reclamar por una falla en la Clave Tributaria, y posteriormente mantuvo una conducta agresiva con un compañero de la misma oficina que intentó calmarlo. El hecho fue presenciado por dos agentes municipales del sector y quedó asentado en el reporte diario de novedades.
@@ -133,7 +133,7 @@
 
 ---
 
-## CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA EN EL ÁMBITO LABORAL (4.5 Puntos)
+## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
 *Consigna: Responda las siguientes preguntas conforme a la Ordenanza Municipal 24271 (Protocolo de Género MGP) y leyes nacionales/provinciales.*
 
 1.  Defina brevemente qué conductas constituyen "violencia laboral por razones de género" en el ámbito de la administración pública municipal. (1.5 Puntos)
@@ -142,7 +142,7 @@
 
 ---
 
-## CUESTION Nº 5: EVALUACIÓN TÉCNICA (15 Puntos - 3 Puntos c/u)
+## CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)
 *Consigna: Responda las siguientes preguntas basadas en la bibliografía oficial del concurso (Kendall & Kendall 8va Edición y Scrum Manager v2.6).*
 
 1.  **Arquitectura de Software (Kendall & Kendall):** Explique detalladamente el patrón arquitectónico Modelo-Vista-Controlador (MVC). Describa la función específica de cada uno de sus tres componentes y detalle el flujo de comunicación que ocurre cuando un usuario solicita ver sus datos en una aplicación web municipal.
@@ -214,7 +214,7 @@
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 2: Caso Higiene, Seguridad y ART</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary>
 
 ### 1. Configuración del Siniestro y Concepto:
 **Sí, el siniestro está plenamente cubierto por la legislación.**
@@ -234,7 +234,7 @@
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 3: Caso Práctico Disciplinario y Acto Administrativo</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary>
 
 ### 1. Plazos de Defensa y de Recursos (Ordenanza General 26348)
 1.  **Defensa (Descargo):** El agente cuenta con un plazo mínimo de **cinco (5) días hábiles** (tras ser notificado del traslado de la imputación) para presentar su descargo por escrito, ofrecer pruebas y justificaciones.
@@ -279,7 +279,7 @@ Por ello, en uso de las atribuciones delegadas mediante el Decreto Nº 1539/18,
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Violencia en MGP</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</b></summary>
 
 ### 1. Definición de Violencia Laboral por Razones de Género:
 Constituye violencia laboral por razones de género toda conducta, acción, omisión, hostigamiento, maltrato físico o psicológico o discriminación ejercida en el ámbito laboral municipal hacia una persona basada en su género, identidad de género o su orientación sexual, que atente contra su dignidad, integridad física, psicológica, sexual, su desempeño laboral o su estabilidad en el empleo. Incluye acoso sexual, desigualdad salarial injustificada o limitaciones arbitrarias en el desarrollo de la carrera.
@@ -295,7 +295,7 @@ Constituye violencia laboral por razones de género toda conducta, acción, omis
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación Técnica (MVC, Scrum y Kendall)</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (MVC, Scrum y Kendall)</b></summary>
 
 ### 1. Patrón Modelo-Vista-Controlador (MVC) y Flujo de Comunicación
 El patrón MVC separa los componentes de una aplicación de software en tres capas lógicas para facilitar el mantenimiento, la modularidad y el desarrollo colaborativo:
