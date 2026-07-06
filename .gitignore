@@ -1,0 +1,23 @@
+# Ignorar dependencias de Node
+node_modules/
+package-lock.json
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de logs y temporales
+*.log
+*.js
+
+# Ignorar volcados de texto y archivos decodificados
+*_text.txt
+*_decoded.txt
+*concurso_previo*
+mock_test_*.md
+anexo_text.txt
+api_4_text.txt
+decreto_2250_text.txt
+if_2026_text.txt
+circular_*.txt
+analisis_*.txt

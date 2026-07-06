@@ -1,0 +1,674 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulacro de Examen Nº 5 - Municipalidad de Gral. Pueyrredón</title>
+    <style>
+        
+:root {
+    --primary: #0077c2;
+    --primary-dark: #005b94;
+    --accent: #e3f2fd;
+    --text: #333333;
+    --text-muted: #666666;
+    --bg: #f5f7fa;
+    --card-bg: #ffffff;
+    --border: #e0e0e0;
+    --success: #2e7d32;
+    --shadow: 0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.1);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primary: #4fc3f7;
+        --primary-dark: #0288d1;
+        --accent: #1a237e;
+        --text: #e0e0e0;
+        --text-muted: #aaaaaa;
+        --bg: #121212;
+        --card-bg: #1e1e1e;
+        --border: #333333;
+        --success: #81c784;
+        --shadow: 0 4px 6px rgba(0,0,0,0.3);
+    }
+}
+
+body {
+    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+    color: var(--text);
+    background-color: var(--bg);
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: var(--primary-dark);
+    color: white;
+    padding: 20px 40px;
+    box-shadow: var(--shadow);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+header .subtitle {
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
+
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.exam-card {
+    background-color: var(--card-bg);
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+    padding: 40px;
+    border: 1px solid var(--border);
+    margin-bottom: 20px;
+}
+
+h1, h2, h3 {
+    color: var(--primary-dark);
+}
+
+h2 {
+    color: var(--primary);
+    border-bottom: 2px solid var(--primary);
+    padding-bottom: 8px;
+    margin-top: 40px;
+}
+
+h3 {
+    color: var(--text);
+    margin-top: 30px;
+    border-left: 4px solid var(--primary);
+    padding-left: 12px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* Details and Summary styling for Solutions */
+details {
+    background-color: var(--accent);
+    border-left: 4px solid var(--primary);
+    border-radius: 4px;
+    margin: 20px 0;
+    padding: 15px;
+    transition: all 0.3s ease;
+}
+
+details[open] {
+    box-shadow: var(--shadow);
+    background-color: var(--card-bg);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--primary);
+}
+
+summary {
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+    user-select: none;
+    color: var(--primary-dark);
+    padding: 5px 0;
+}
+
+summary:hover {
+    color: var(--primary);
+}
+
+details p, details ul {
+    margin-top: 15px;
+}
+
+/* Print Button and utilities */
+.actions {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    justify-content: flex-end;
+}
+
+.btn {
+    background-color: var(--primary);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background-color 0.2s;
+    font-size: 0.9rem;
+}
+
+.btn:hover {
+    background-color: var(--primary-dark);
+}
+
+.btn-secondary {
+    background-color: transparent;
+    color: var(--primary);
+    border: 1px solid var(--primary);
+}
+
+.btn-secondary:hover {
+    background-color: var(--accent);
+    color: var(--primary-dark);
+}
+
+.score-calculator {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: var(--accent);
+    border-radius: 6px;
+    border: 1px solid var(--border);
+}
+
+.score-input {
+    width: 60px;
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+    text-align: center;
+    font-weight: bold;
+    background: var(--card-bg);
+    color: var(--text);
+}
+
+.score-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.score-total {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 15px;
+    border-top: 1px dashed var(--border);
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Blockquote styles */
+blockquote {
+    background: var(--accent);
+    border-left: 4px solid var(--primary);
+    margin: 1.5em 10px;
+    padding: 10px 20px;
+    font-style: italic;
+}
+
+@media print {
+    body {
+        background-color: white;
+        color: black;
+    }
+    header, .actions, .score-calculator, summary::-webkit-details-marker, details summary {
+        display: none !important;
+    }
+    .exam-card {
+        box-shadow: none !important;
+        border: none !important;
+        padding: 0 !important;
+    }
+    details {
+        background-color: transparent !important;
+        border: none !important;
+        border-left: 2px solid #333 !important;
+        page-break-inside: avoid;
+    }
+    details[open] {
+        border: none !important;
+        border-left: 2px solid #333 !important;
+    }
+    h2, h3 {
+        page-break-after: avoid;
+    }
+}
+
+    </style>
+</head>
+<body>
+    <header>
+        <div>
+            <h1>MUNICIPALIDAD DE GENERAL PUEYRREDON</h1>
+            <div class="subtitle">Concurso de Cargos Jerárquicos - Sistemas de Software</div>
+        </div>
+        <div>
+            <span class="subtitle">Simulacro 5 / 6</span>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="actions">
+            <button class="btn btn-secondary" onclick="window.print()">Imprimir Examen / PDF</button>
+            <button class="btn btn-secondary" onclick="toggleAnswers(true)">Mostrar Respuestas</button>
+            <button class="btn btn-secondary" onclick="toggleAnswers(false)">Ocultar Respuestas</button>
+        </div>
+
+        <div class="exam-card">
+            <h1>SIMULACRO DE EXAMEN Nº 5</h1>
+<p><strong>Cargo:</strong> Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
+<hr>
+<h2>CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA DE COMPRAS MUNICIPALES (10 Puntos)</h2>
+<p><em>Instrucciones: Seleccione la alternativa correcta rodeando la letra de la opción elegida. <strong>En todos los casos, solo una de las alternativas es correcta.</strong> FUNDAMENTE cada respuesta con la norma y artículo correspondiente en el espacio asignado.</em></p>
+<h3>1. Si la Municipalidad de General Pueyrredón requiere contratar un servicio de consultoría externa para el desarrollo de un módulo de contabilidad financiera que durará dieciocho (18) meses, comprometiendo partidas presupuestarias del ejercicio fiscal actual y del siguiente:</h3>
+<ul>
+<li>a) El Secretario de Hacienda puede autorizar la contratación directamente si cuenta con fondos en el mes en curso.</li>
+<li>b) Requiere la aprobación previa del Honorable Concejo Deliberante (H.C.D.) mediante ordenanza por mayoría absoluta.</li>
+<li>c) Debe tramitarse como una contratación transitoria, quedando exceptuada de la aprobación legislativa si la tasa de interés es baja.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>2. De acuerdo con el Escalafón del Personal de la Municipalidad de General Pueyrredón y el Decreto de Habilitación Tecnológica (Decreto 2250/13 - Grupo Ocupacional Computación), el personal de sistemas se divide técnicamente en los siguientes agrupamientos profesionales y técnicos:</h3>
+<ul>
+<li>a) Administrativos generales de sistemas, Operarios de PC y Técnicos de red exclusivamente.</li>
+<li>b) Operación, Programación, Análisis de Sistemas y Soporte Técnico.</li>
+<li>c) Profesionales informáticos del área nacional, personal técnico y agentes de mantenimiento.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>3. Según la Ordenanza General 26348 (Procedimiento Administrativo Municipal), ¿cuál es el plazo de inactividad de la administración que configura el &quot;silencio denegatorio&quot; de un trámite una vez que el expediente se encuentra en condiciones de ser resuelto?</h3>
+<ul>
+<li>a) Diez (10) días corridos.</li>
+<li>b) Quince (15) días hábiles administrativos.</li>
+<li>c) Treinta (30) días hábiles administrativos.</li>
+<li>d) Noventa (90) días hábiles administrativos.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>4. De acuerdo con la reglamentación de control horario de la MGP (Decreto 121/18), si un agente de su departamento olvida registrar su ingreso mediante el reloj biométrico, el plazo máximo que posee para justificar dicha omisión presentando la planilla de excepción ante su superior inmediato es de:</h3>
+<ul>
+<li>a) Veinticuatro (24) horas hábiles.</li>
+<li>b) Cuarenta y ocho (48) horas hábiles a partir de producido el olvido del registro.</li>
+<li>c) Cinco (5) días corridos.</li>
+<li>d) Debe esperar a la liquidación de haberes mensual para realizar el descargo de descuento.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>5. En una compra de computadoras para el área de sistemas mediante la modalidad de Concurso de Precios (LOM y RAFAM), la autoridad competente facultada por ley para realizar la adjudicación definitiva del contrato de compra es:</h3>
+<ul>
+<li>a) El Director de Compras y Suministros municipal de forma directa.</li>
+<li>b) El Intendente Municipal (Departamento Ejecutivo) mediante decreto correspondiente.</li>
+<li>c) El Honorable Concejo Deliberante a través de resolución especial.</li>
+<li>d) El Contador Municipal.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>6. De acuerdo con el régimen del Estatuto Municipal (Ley 14656), la estabilidad absoluta de planta permanente del agente público municipal se adquiere de pleno derecho:</h3>
+<ul>
+<li>a) Al cumplir seis (6) meses de prestación de servicio y ser ratificado por escrito.</li>
+<li>b) Automáticamente al cumplir los doce (12) meses de prestación de servicios efectiva, si no mediare calificación desfavorable del superior o exoneración decretada.</li>
+<li>c) Al cumplir los dos (2) años de antigüedad en el legajo del agente.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>7. Según la Ordenanza General 26348, ¿cuál es el plazo perentorio de interposición que posee un agente municipal para presentar un Recurso de Revocatoria contra una Disposición de Jefatura que le aplica una suspensión?</h3>
+<ul>
+<li>a) Cinco (5) días hábiles administrativos contados a partir del día siguiente al de la notificación.</li>
+<li>b) Diez (10) días hábiles administrativos contados a partir del día siguiente al de la notificación formal.</li>
+<li>c) Quince (15) días corridos.</li>
+<li>d) Treinta (30) días hábiles.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>8. En el ámbito municipal, la facultad para autorizar la concesión del uso del espectro radioeléctrico público de la comuna para el desarrollo de redes inalámbricas por terceros privados es competencia exclusiva de:</h3>
+<ul>
+<li>a) El Director General de TIC mediante un informe de factibilidad.</li>
+<li>b) El Honorable Concejo Deliberante (H.C.D.) mediante la sanción de una ordenanza de concesión.</li>
+<li>c) El Intendente Municipal mediante decreto reglamentario.</li>
+<li>d) La Secretaría de Hacienda municipal.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>9. De acuerdo al Manual de Redacción de la MGP (Decreto 966/19), el documento oficial de carácter general utilizado por las autoridades de supervisión jerárquica para transmitir directivas, instrucciones obligatorias y uniformes a un conjunto de dependencias o agentes del mismo nivel administrativo se denomina:</h3>
+<ul>
+<li>a) Nota Oficial.</li>
+<li>b) Providencia.</li>
+<li>c) Circular.</li>
+<li>d) Dictamen.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>10. Conforme a las licencias vigentes en la Ley 14656 y decretos municipales, la licencia extraordinaria por atención de familiar enfermo a cargo directo se otorga bajo las siguientes condiciones de cobro:</h3>
+<ul>
+<li>a) Sin goce de sueldo en todos los casos por tratarse de un asunto particular del agente.</li>
+<li>b) Con goce íntegro de haberes por el período reglamentario máximo (hasta 20 días al año).</li>
+<li>c) Con descuento del 50% del salario básico a partir del tercer día de inasistencia.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h2>CUESTION Nº 2: CASO SITUACIONAL DE HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)</h2>
+<p><em>Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.</em></p>
+<blockquote>
+<p>Un analista programador de su dependencia, asignado a tareas de desarrollo del portal de autogestión de tasas, presenta un reclamo formal ante la Jefatura. Manifiesta que padece fatiga visual severa, dolores de cabeza y síndrome del ojo seco de carácter crónico debido a que la iluminación de su puesto de trabajo es deficiente y la pantalla no cuenta con filtros ergonómicos. Solicita el inicio de un expediente de cobertura médica ante la ART contratada por el municipio.</p>
+<p>Se solicita:</p>
+<ol>
+<li>Indique si dicha patología califica formalmente como Enfermedad Profesional de acuerdo al listado oficial del Decreto Nacional 658/96 de la Ley 24557 y fundamente su respuesta.</li>
+<li>Detalle cuáles son los deberes preventivos del Municipio (empleador) bajo la Ley de Higiene y Seguridad 19587 en relación con la ergonomía visual y qué medidas correctivas debe adoptar en el puesto de trabajo del agente.</li>
+</ol>
+</blockquote>
+<hr>
+<h2>CUESTION Nº 3: CASO PRÁCTICO ADMINISTRATIVO Y REDACCIÓN (4 Puntos)</h2>
+<p><em>Consigna: Resuelva el caso disciplinario planteado y redacte el acto administrativo correspondiente.</em></p>
+<blockquote>
+<p>Durante una urgencia operativa en la Mesa de Entradas de la municipalidad, donde los sistemas de atención al público se cayeron por una falla en la placa de red de la PC principal, usted como Jefe de Departamento le ordena de forma presencial y directa al programador J.L. (Legajo Nº 55.555, Categoría Técnico II) que se dirija al sector a reemplazar la placa de red dañada para restablecer el servicio. El agente J.L. se niega rotundamente a cumplir la orden, manifestando de forma descomedida ante otros agentes que su contrato es de &quot;Desarrollador de software&quot; y que &quot;reparar PCs es tarea de soporte de hardware, no del área de programación&quot;. El hecho queda asentado en un acta técnica.</p>
+<p>Tras vencer el plazo de traslado sin que su descargo aporte justificativos válidos de fuerza mayor, usted decide sancionar al agente aplicando una <strong>sanción correctiva menor de un (1) día de suspensión sin goce de haberes</strong> por insubordinación e incumplimiento de deberes de impulsar el trámite y obediencia jerárquica (Art. 107 inc 1 y 2 de la Ley 14656).</p>
+<p>Se solicita:</p>
+<ol>
+<li>Explique fundadamente si usted posee facultades como Jefe de Departamento para aplicar de forma directa esta sanción y qué recurso jerárquico puede interponer el agente de acuerdo al procedimiento administrativo. (1.5 Puntos)</li>
+<li>Redacte la parte dispositiva y de fundamentación (<code>VISTO</code>, <code>CONSIDERANDO</code> y <code>DISPONE</code>) de la Disposición mediante la cual aplica la suspensión de 1 día al agente J.L. (2.5 Puntos)</li>
+</ol>
+</blockquote>
+<hr>
+<h2>CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA EN EL ÁMBITO LABORAL (4.5 Puntos)</h2>
+<p><em>Consigna: Responda las siguientes preguntas sobre el Protocolo de Violencia de Género de la MGP (Ordenanza 24271).</em></p>
+<ol>
+<li>Defina brevemente las conductas que configuran &quot;acoso sexual&quot; y &quot;hostigamiento laboral&quot; en razón del género en el ámbito laboral de acuerdo con la Ordenanza 24271. (1.5 Puntos)</li>
+<li>Explique cuál es el rol específico que le compete al área de Medicina del Trabajo (Salud Ocupacional) en la Municipalidad en relación con las licencias médicas y el acompañamiento de las agentes víctimas de violencia de género. (1.5 Puntos)</li>
+<li>¿Cómo debe proceder usted como superior jerárquico respecto a la confidencialidad de la justificación de las inasistencias de una agente a su cargo derivadas de situaciones de violencia de género? (1.5 Puntos)</li>
+</ol>
+<hr>
+<h2>CUESTION Nº 5: EVALUACIÓN TÉCNICA (15 Puntos - 3 Puntos c/u)</h2>
+<p><em>Consigna: Responda las siguientes preguntas basadas en la bibliografía oficial del cargo (Kendall &amp; Kendall 8va Edición y Scrum Manager v2.6).</em></p>
+<ol>
+<li><strong>Diseño de Bases de Datos (Kendall &amp; Kendall):</strong> Explique conceptualmente las tres primeras formas normales de bases de datos relacionales: Primera Forma Normal (1NF), Segunda Forma Normal (2NF) y Tercera Forma Normal (3NF). Proponga un ejemplo de tabla municipal y muestre cómo se normaliza para evitar anomalías de inserción y redundancia.</li>
+<li><strong>Métricas en Kanban (Scrum Manager):</strong> Defina los conceptos ágiles de <em>Lead Time</em> (Tiempo de Entrega) y <em>Cycle Time</em> (Tiempo de Ciclo). Explique la diferencia de alcance entre ambos conceptos y cómo se visualizan en un flujo de trabajo Kanban.</li>
+<li><strong>Metodologías de Pruebas (Kendall &amp; Kendall):</strong> Describa el propósito y las diferencias operativas de las siguientes pruebas de software: <em>Pruebas Unitarias</em>, <em>Pruebas de Integración</em> y <em>Pruebas de Aceptación del Usuario (UAT)</em>.</li>
+<li><strong>Gestión Documental Electrónica (GDE):</strong> Explique el funcionamiento y propósito del módulo CCOO (Comunicaciones Oficiales) del sistema GDE. Detalle sus diferencias operativas con el módulo GEDO y en qué casos de trámites de Jefatura de Sistemas debe ser utilizado de forma prioritaria.</li>
+<li><strong>Cálculo Práctico de Capacidad del Sprint (Sprint Capacity):</strong><blockquote>
+<p>Un equipo de desarrollo a su cargo compuesto por <strong>4 Desarrolladores</strong> ejecutará un Sprint con una duración reglamentaria de <strong>2 semanas (10 días hábiles)</strong>. La jornada laboral asignada es de <strong>6 horas diarias</strong>.</p>
+<p>Durante la planificación del Sprint, se constatan las siguientes condiciones de disponibilidad:</p>
+<ul>
+<li>Se registra un (1) feriado nacional obligatorio en el que el municipio permanecerá cerrado.</li>
+<li>El Desarrollador A cuenta con una licencia médica aprobada que le demandará dos (2) días hábiles de inasistencia durante el Sprint.</li>
+<li>El equipo dedica de forma obligatoria y promedio <strong>1.5 horas diarias por persona</strong> para reuniones ágiles (Daily, Planning, Retrospectiva) y tareas administrativas generales.</li>
+</ul>
+<p>Resuelva los siguientes puntos:
+a) Calcule la capacidad total del Sprint del equipo expresada en <strong>Horas de Desarrollo Neto</strong>. Detalle los pasos del cálculo matemático.<br>b) Si las estimaciones del Product Backlog determinan que cada <strong>Punto de Historia (Story Point - SP)</strong> demanda un promedio histórico de <strong>6 horas de desarrollo neto</strong> de programación y testeo por el equipo, calcule el máximo de Story Points que el equipo de desarrollo puede comprometer de manera realista en este Sprint para cumplir con su DoD.</p>
+</blockquote>
+</li>
+</ol>
+<hr>
+<hr>
+<h2>GUÍA DE RESPUESTAS Y SOLUCIONES EXPLICADAS (INFORMACIÓN OCULTA PARA AUTOEVALUACIÓN)</h2>
+<details>
+<summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary><h3>1. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículo 155º</strong> (y reglamentos contables RAFAM). Toda contratación que exceda la duración del ejercicio financiero anual (12 meses de presupuesto corriente) comprometiendo erogaciones presupuestarias plurianuales de años futuros requiere la previa y expresa autorización y convalidación del Honorable Concejo Deliberante (HCD) mediante la sanción de una ordenanza con mayoría de los concejales presentes. <em>(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades - Art. 155º)</em></li>
+</ul>
+<h3>2. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>2250/13 (Grupo Ocupacional Computación)</strong>: El escalafón del personal técnico y profesional del área de informática del municipio de General Pueyrredón se estructura formalmente en cuatro agrupamientos o clases de tareas: Operación, Programación, Análisis de Sistemas y Soporte Técnico. <em>(📋 Verificar en texto oficial de Decreto MGP 2250/13)</em></li>
+</ul>
+<h3>3. Respuesta Correcta: <strong>c</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ordenanza General 26348, <strong>Artículo 79º</strong>: El silencio de la administración de efectos denegatorios (silencio negativo) se produce de pleno derecho transcurrido el plazo máximo de <strong>treinta (30) días hábiles administrativos</strong> desde que las actuaciones se encuentren en condiciones de ser resueltas por el funcionario competente (ej. con dictámenes y pruebas cerradas) sin que haya recaído resolución definitiva. <em>(📋 Verificar en texto oficial de Ordenanza General 26348 - Art. 79º)</em></li>
+</ul>
+<h3>4. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>121/18, Artículo 6º</strong>: El agente municipal que haya omitido registrar su fichada biométrica por olvido tiene un plazo perentorio de hasta <strong>cuarenta y ocho (48) horas hábiles</strong> posteriores al suceso para justificar formalmente la omisión presentando la correspondiente planilla de excepción con la firma avalada de su superior jerárquico. <em>(📋 Verificar en texto oficial de Decreto MGP 121/18 - Art. 6º)</em></li>
+</ul>
+<h3>5. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades y RAFAM. La adjudicación de las compras municipales tramitadas mediante Concurso de Precios es facultad del <strong>Departamento Ejecutivo (Intendente Municipal)</strong>, instrumentada mediante el dictado de un Decreto de adjudicación previo dictamen de la comisión permanente de compras del municipio. <em>(📋 Verificar en texto oficial de LOM y RAFAM)</em></li>
+</ul>
+<h3>6. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley 14656, <strong>Artículo 6º</strong>: La estabilidad se adquiere automáticamente una vez transcurrido el plazo del período de prueba establecido en doce (12) meses de prestación efectiva de tareas, a menos que el agente sea descalificado o exonerado previamente de forma motivada por el departamento ejecutivo municipal. <em>(📋 Verificar en texto oficial de Ley 14656 - Art. 6º)</em></li>
+</ul>
+<h3>7. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ordenanza General 26348 (Procedimiento Administrativo Municipal), <strong>Artículo 86º</strong>: El recurso de revocatoria contra un acto administrativo de alcance individual (como una Disposición que aplica una sanción disciplinaria) debe interponerse de forma justificada en el plazo perentorio de <strong>diez (10) días hábiles administrativos</strong> a partir del día siguiente al de la notificación formal del acto al interesado. <em>(📋 Verificar en texto oficial de Ordenanza General 26348 - Art. 86º)</em></li>
+</ul>
+<h3>8. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículo 27º, Inciso 2</strong> y <strong>Artículo 56º</strong>. Las autorizaciones de uso comercial o concesiones sobre bienes de dominio público municipal (espectro radioeléctrico local o postería de tendidos físicos) requieren ser convalidadas e instrumentadas mediante una Ordenanza específica sancionada por el Honorable Concejo Deliberante (HCD). <em>(📋 Verificar en texto oficial de LOM - Art. 27º inc. 2 y Art. 56º)</em></li>
+</ul>
+<h3>9. Respuesta Correcta: <strong>c</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP 966/19 (Manual de Redacción), <strong>Anexo I, Capítulo III, Sección Circulares</strong>: <em>&quot;La Circular es el documento oficial de comunicación de alcance general firmado por la autoridad jerárquica para impartir instrucciones directivas o informaciones de cumplimiento uniforme a un conjunto homogéneo de dependencias o agentes...&quot;</em>. <em>(📋 Verificar en texto oficial de Decreto MGP 966/19)</em></li>
+</ul>
+<h3>10. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley 14656, <strong>Artículo 89º</strong> en concordancia con los reglamentos de personal de la MGP. Se otorga licencia con goce íntegro de haberes para la atención de familiares directos enfermos a cargo del agente por un término máximo de hasta veinte (20) días por año calendario. <em>(📋 Verificar en texto oficial de Ley 14656 - Art. 89º)</em></li>
+</ul>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 2: Caso Higiene, Seguridad y ART</b></summary><h3>1. Encuadre en el Listado de Enfermedades Profesionales:</h3>
+<p><strong>No califica de forma directa como Enfermedad Profesional en el listado cerrado.</strong></p>
+<ul>
+<li><strong>Justificación:</strong> El listado cerrado de enfermedades profesionales establecido por el <strong>Decreto Nacional 658/96 (Ley 24557)</strong> no incluye a la fatiga visual ni al síndrome del ojo seco como afecciones generadoras de incapacidad laboral bajo la exposición a agentes de riesgo informáticos de forma directa (a diferencia de la tendinitis o el túnel carpiano que sí figuran asociados al riesgo físico de movimientos repetitivos). La ART rechazará la denuncia inicialmente.</li>
+<li><strong>Vía Excepcional:</strong> Para su cobertura, el agente o el municipio deberán demostrar la relación de causalidad directa ante la Comisión Médica Jurisdiccional (CMJ), probando que las condiciones ambientales del puesto municipal fueron la causa exclusiva de la afección visual.</li>
+</ul>
+<h3>2. Deberes Preventivos del Municipio (Ley 19587 y Decreto 351/79):</h3>
+<p>El Municipio está obligado a cumplir con el <strong>Anexo IV (Iluminación)</strong> del Decreto 351/79 reglamentario de la Ley 19587:</p>
+<ul>
+<li><strong>Deberes de Iluminación:</strong> Proveer niveles mínimos de iluminancia (lux) adecuados para tareas de oficina con uso de pantallas (mínimo 500 lux de iluminación localizada y general), asegurando que no existan deslumbramientos directos o reflejos molestos en la pantalla del programador.</li>
+<li><strong>Deberes Ergonomía de Pantallas:</strong> Las pantallas del personal de sistemas deben contar con regulación de brillo/contraste en funcionamiento, estar ubicadas a la distancia ergonómica correcta (entre 50 y 70 cm del operario) y contar con filtros o paneles antirreflejos si las condiciones de luz ambiental lo requirieran.</li>
+<li><strong>Medidas Correctivas Inmediatas:</strong> El Jefe de Sistemas debe solicitar a Infraestructura/Mantenimiento:<ol>
+<li>Medición de niveles de lux en el puesto mediante luxómetro.</li>
+<li>Adecuación o reemplazo de luminarias deficientes (instalar tubos LED con difusores antirreflejos).</li>
+<li>Provisión de brazo o soporte regulable para la pantalla de la agente.</li>
+<li>Establecer pausas ergonómicas periódicas de descanso visual (regla 20-20-20).</li>
+</ol>
+</li>
+</ul>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 3: Caso Práctico Disciplinario y Acto Administrativo</b></summary><h3>1. Competencias Jerárquicas y Vías Recursivas</h3>
+<ul>
+<li><strong>Facultad Directa:</strong> <strong>Sí, usted posee facultades como Jefe de Departamento.</strong> De acuerdo con el régimen de disciplina de la <strong>Ley 14656 (Artículos 105 y 106)</strong> y el Decreto reglamentario local de delegación disciplinaria <strong>1539/18, Artículo 1º, Inciso c</strong>, los Jefes de Departamento poseen competencia disciplinaria delegada directa para aplicar sanciones correctivas menores de llamado de atención, apercibimiento y suspensiones de <strong>hasta cinco (5) días corridos</strong>, previa sustanciación del descargo formal del agente.</li>
+<li><strong>Vías Recursivas del Agente:</strong> Contra la Disposición de sanción del Jefe de Departamento, el agente J.L. puede interponer un <strong>Recurso de Revocatoria</strong> ante la misma Jefatura dentro de los <strong>diez (10) días hábiles administrativos</strong> contados a partir de su notificación formal, llevando implícito en subsidio el <strong>Recurso Jerárquico</strong> ante el Intendente Municipal si la revocatoria fuera rechazada (Ordenanza General 26348, Artículo 86º).</li>
+</ul>
+<hr>
+<h3>2. Redacción de la Disposición (Estructura Formal)</h3>
+<p><strong>MAR DEL PLATA,</strong> [Insertar Fecha]</p>
+<p><strong>VISTO</strong> las actuaciones administrativas iniciadas por el incidente de insubordinación registrado el día [Fecha del hecho] en este Departamento de Sistemas de Software, que involucra al Agente J.L., Legajo Nº 55.555, Categoría Técnico II; y</p>
+<p><strong>CONSIDERANDO:</strong></p>
+<p>Que con fecha [Fecha del hecho], ante una interrupción crítica del sistema de atención al público en la Mesa de Entradas municipal por falla física del hardware de red, esta Jefatura ordenó formal y directamente al citado agente proceder al reemplazo de la placa de red de la PC de dicho sector.</p>
+<p>Que el agente J.L. se negó formal y taxativamente a cumplir con la orden impartida, aduciendo que dicha tarea de soporte físico de hardware no se correspondía con sus tareas de programación de software.</p>
+<p>Que esta conducta infringe de forma directa los deberes establecidos en la Ley Nº 14656, en particular su <strong>Artículo 107º, Inciso 1</strong> (prestar el servicio con eficiencia, capacidad y diligencia) e <strong>Inciso 2</strong> (obedecer las órdenes emanadas de los superiores jerárquicos competentes destinadas al servicio).</p>
+<p>Que el agrupamiento de personal del Decreto 2250/13 contempla dentro de la polivalencia de tareas de la planta técnica del sector informático el auxilio y mantenimiento de las terminales de operación ante contingencias urgentes del servicio.</p>
+<p>Que con el objeto de preservar las garantías de Debido Proceso y de la Defensa en Juicio, se confirió el correspondiente traslado para descargo al agente J.P., habiendo presentado su descargo por escrito dentro del término legal sin fundamentar razones de fuerza mayor o ilegalidad de la orden recibida que justifiquen su negativa.</p>
+<p>Que valorando la gravedad del hecho al obstaculizar el restablecimiento de los servicios de atención directa a los contribuyentes, y considerando que el agente no cuenta con antecedentes desfavorables en su legajo personal, resulta proporcional aplicar una sanción correctiva de un (1) día de suspensión de haberes.</p>
+<p>Por ello, en ejercicio de las facultades disciplinarias delegadas mediante el Decreto Nº 916/20 y Decreto Nº 1539/18,</p>
+<p><strong>EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE</strong></p>
+<p><strong>D I S P O N E:</strong></p>
+<p><strong>ARTÍCULO 1º.-</strong> Aplicar al Agente <strong>J.L.</strong>, Legajo Nº <strong>55.555</strong>, Categoría <strong>Técnico II</strong> del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, la sanción disciplinaria de <strong>un (1) día de suspensión sin goce de haberes</strong>, por infracción a los deberes de servicio y obediencia jerárquica previstos en el Artículo 107º, Incisos 1 y 2 de la Ley Nº 14656 el día [Fecha del hecho].</p>
+<p><strong>ARTÍCULO 2º.-</strong> Establecer que la suspensión de tareas dispuesta en el Artículo 1º se hará efectiva una vez transcurridos diez (10) días hábiles administrativos a partir de su notificación formal, de conformidad con los plazos recursivos de la Ordenanza General 26348.</p>
+<p><strong>ARTÍCULO 3º.-</strong> Registrar en el Legajo de Personal del Agente, notificar con copia al interesado de acuerdo al Artículo 62º de la Ordenanza General 26348, girar a la Dirección de Personal y archivar.</p>
+<p><strong>DISPOSICIÓN Nº</strong> [Dejar espacio para número]</p>
+<p><em>Firma y Sello del Jefe de Departamento</em></p>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Violencia en MGP</b></summary><h3>1. Acoso Sexual y Hostigamiento Laboral (Ordenanza MGP 24271):</h3>
+<ul>
+<li><strong>Acoso Sexual:</strong> Es todo comportamiento de índole sexual (físico, verbal, gestual o escrito), no consentido y rechazado por quien lo recibe, que afecte su dignidad, y cuya solicitud condicione la estabilidad o progresión en la carrera administrativa del agente (abuso de poder), o cree un entorno laboral hostil.</li>
+<li><strong>Hostigamiento Laboral (Acoso Moral):</strong> Es el maltrato psicológico, hostigamiento, descrédito profesional sistemático o aislamiento laboral ejercido de forma continua sobre un agente por parte de superiores o pares, con el fin de provocar su desgaste psicofísico o forzar su renuncia o traslado.</li>
+</ul>
+<h3>2. Rol de Medicina del Trabajo / Salud Ocupacional (Ord. 24271):</h3>
+<ul>
+<li><strong>Evaluación Médica y Acompañamiento:</strong> Salud Ocupacional interviene para brindar el apto médico y realizar la justificación de las inasistencias de las agentes derivadas de las afecciones físicas o psicológicas consecuencia de la violencia sufrida.</li>
+<li><strong>Resguardo de Datos:</strong> El personal médico de Salud Ocupacional tiene la obligación del secreto profesional, debiendo justificar las inasistencias en la planilla pública de novedades bajo códigos genéricos (ej. &quot;Régimen de Licencia Especial&quot; o &quot;Artículo Médico Especial MGP&quot;) sin especificar las causas o el diagnóstico de violencia de género, resguardando la intimidad de la agente.</li>
+</ul>
+<h3>3. Confidencialidad de las Inasistencias de la Agente:</h3>
+<p>El Jefe de Departamento debe garantizar que la justificación administrativa de las inasistencias de la agente (sea por licencia especial o por días de reposo médico) <strong>se maneje bajo estricta reserva de sumario y confidencialidad</strong>. No debe revelar los motivos reales de las faltas a los compañeros de oficina ni asentarlos en planillas públicas o murales del sector. Debe elevar las justificaciones médicas directamente a la Dirección de Personal en sobre cerrado o a través de trámites confidenciales en GDE.</p>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación Técnica (Normalización, Kanban, Pruebas y GDE)</b></summary><h3>1. Normalización de Bases de Datos Relacionales (Kendall &amp; Kendall)</h3>
+<p>La normalización es el proceso de organizar las tablas y relaciones de una base de datos para minimizar la redundancia y evitar anomalías al insertar, actualizar o borrar datos.</p>
+<ul>
+<li><strong>Primera Forma Normal (1NF):</strong> Elimina los grupos repetitivos o atributos multivalores. Todos los campos de una tabla deben contener valores atómicos (indivisibles) y debe definirse una Clave Primaria (Primary Key - PK) única para la tabla.</li>
+<li><strong>Segunda Forma Normal (2NF):</strong> Debe cumplir con la 1NF y, además, todos los atributos que no forman parte de la Clave Primaria deben depender funcionalmente de manera completa de toda la Clave Primaria (eliminando dependencias parciales en claves compuestas).</li>
+<li><strong>Tercera Forma Normal (3NF):</strong> Debe cumplir con la 2NF y, además, se deben eliminar las dependencias transitivas (ningún atributo no clave puede depender funcionalmente de otro atributo no clave).</li>
+</ul>
+<h4><strong>Ejemplo de Normalización Municipal (Contribuyentes y Tasas):</strong></h4>
+<ul>
+<li><em>Tabla en Estado Inicial (Sin normalizar):</em>
+<code>TASAS_MUNICIPALES (CUIT_Contribuyente, Nombre_Contribuyente, ID_Tasa, Tipo_Tasa, Monto, Categoria_Mesa)</code></li>
+<li><em>Normalización a 3NF:</em>
+Se descompone en tres tablas lógicas independientes:<ol>
+<li><strong>Tabla CONTRIBUYENTES (PK: CUIT_Contribuyente):</strong>
+<code>[CUIT_Contribuyente (PK), Nombre_Contribuyente]</code> (Elimina redundancia del nombre del contribuyente si tiene múltiples tasas).</li>
+<li><strong>Tabla DETALLE_TASAS (PK: ID_Tasa):</strong>
+<code>[ID_Tasa (PK), Tipo_Tasa, Monto]</code> (Elimina redundancia de descripción de montos y tipos de tasas).</li>
+<li><strong>Tabla LIQUIDACIONES (PK compuesta: CUIT_Contribuyente, ID_Tasa):</strong>
+<code>[CUIT_Contribuyente (FK), ID_Tasa (FK), Categoria_Mesa]</code> (Registra la relación sin dependencias parciales ni transitivas).</li>
+</ol>
+</li>
+</ul>
+<p><em>(📖 Kendall &amp; Kendall, Cap. 12, págs. 413-426)</em></p>
+<hr>
+<h3>2. Lead Time vs Cycle Time en Kanban (Scrum Manager)</h3>
+<ul>
+<li><strong>Lead Time (Tiempo de Entrega):</strong> Es el tiempo total transcurrido desde el momento preciso en que un cliente o área usuaria municipal solicita formalmente un requerimiento (ingresa el ticket a la columna <code>To Do</code> o Pila de Producto) hasta que la funcionalidad está completamente entregada, probada y desplegada en producción (<code>Done</code>). Mide la velocidad de respuesta del departamento desde la perspectiva del cliente.</li>
+<li><strong>Cycle Time (Tiempo de Ciclo):</strong> Es el tiempo que transcurre desde que el equipo de desarrollo de software toma activamente la tarea de la pila de pendientes e inicia los trabajos de codificación (pasa a la columna <code>In Progress</code> / <code>Analysis</code>) hasta que la tarea es finalizada y testeada en <code>Done</code>. Mide la eficiencia y velocidad operativa interna del equipo de desarrollo de software.</li>
+<li><em>Visualización:</em> En un tablero Kanban, el <em>Cycle Time</em> abarca el trayecto activo (columnas intermedias como <code>Analysis</code> + <code>Coding</code> + <code>Testing</code>), mientras que el <em>Lead Time</em> abarca desde el inicio del tablero (<code>To Do</code>) hasta el final del mismo (<code>Done</code>).</li>
+</ul>
+<p><em>(📖 Scrum Manager v2.6, págs. 60-70)</em></p>
+<hr>
+<h3>3. Pruebas Unitarias, de Integración y UAT (Kendall &amp; Kendall)</h3>
+<ul>
+<li><strong>Pruebas Unitarias (Unit Testing):</strong> Son pruebas de bajo nivel enfocadas en verificar el correcto funcionamiento de una sección específica de código (método, clase, función) de forma totalmente aislada del resto del sistema. Las realiza el propio programador durante la etapa de codificación para asegurar la robustez de su lógica.</li>
+<li><strong>Pruebas de Integración (Integration Testing):</strong> Pruebas enfocadas en verificar que los diferentes módulos o componentes de software interactúan y se comunican correctamente entre sí cuando son ensamblados (ej. validar que el Controlador se comunica correctamente con el Modelo de base de datos sin errores de tipo de dato).</li>
+<li><strong>Pruebas de Aceptación de Usuario (UAT - User Acceptance Testing):</strong> Pruebas de alto nivel realizadas por los usuarios finales reales o el Product Owner. Su propósito es validar que el sistema completo cumple satisfactoriamente con los requerimientos funcionales de negocio originales y funciona de acuerdo al flujo real de trabajo municipal antes de su implantación definitiva.</li>
+</ul>
+<p><em>(📖 Kendall &amp; Kendall, Cap. 18, pág. 526+)</em></p>
+<hr>
+<h3>4. Módulo de Comunicaciones Oficiales (CCOO) de GDE</h3>
+<p>El módulo <strong>CCOO</strong> de GDE es la herramienta de software oficial diseñada para posibilitar la tramitación electrónica de comunicaciones formales y memorandos internos en la administración pública.</p>
+<ul>
+<li><strong>Diferencias con GEDO:</strong> El módulo GEDO se utiliza para la creación de documentos oficiales de carácter perenne o con estructura reglamentaria compleja (como Informes, Disposiciones, Decretos, Resoluciones). El módulo CCOO se utiliza para el intercambio dinámico de circulares informativas, memos de Jefatura y notificaciones individuales que van dirigidas a personas o dependencias específicas. Las comunicaciones CCOO se firman digitalmente, tienen validez legal plena de notificación y se registran en el legajo del receptor si correspondiese.</li>
+<li><em>Uso en Jefatura:</em> El Jefe de Sistemas debe utilizar CCOO prioritariamente para notificar decisiones operativas al personal (como guardias, horarios, turnos de mantenimiento) o solicitar formalmente información técnica interna a otras dependencias sin necesidad de caratular un expediente electrónico (EE) complejo.</li>
+</ul>
+<p><em>(📋 Fuente: Reglamentaciones operativas del sistema GDE de la MGP)</em></p>
+<hr>
+<h3>5. Resolución de Caso Práctico de Capacidad del Sprint</h3>
+<h4><strong>a) Cálculo de la Capacidad en Horas de Desarrollo Neto:</strong></h4>
+<ol>
+<li><p><strong>Días hábiles base del Sprint:</strong> 10 días hábiles (2 semanas).</p>
+</li>
+<li><p><strong>Días hábiles por feriado:</strong> $10 - 1 = \mathbf{9 \text{ días hábiles}}$.</p>
+</li>
+<li><p><strong>Días hábiles individuales disponibles por programador:</strong></p>
+<ul>
+<li>Desarrollador A: $9 \text{ días} - 2 \text{ días (licencia)} = \mathbf{7 \text{ días hábiles}}$.</li>
+<li>Desarrollador B: $\mathbf{9 \text{ días hábiles}}$.</li>
+<li>Desarrollador C: $\mathbf{9 \text{ días hábiles}}$.</li>
+<li>Desarrollador D: $\mathbf{9 \text{ días hábiles}}$.</li>
+</ul>
+</li>
+<li><p><strong>Días de desarrollo individual totales acumulados por el equipo:</strong>
+$$\text{Días Totales} = 7 \text{ (A)} + 9 \text{ (B)} + 9 \text{ (C)} + 9 \text{ (D)} = \mathbf{34 \text{ días de desarrollo}}$$</p>
+</li>
+<li><p><strong>Capacidad Bruta del Sprint en Horas:</strong>
+$$\text{Horas Brutas} = 34 \text{ días de desarrollo} \times 6 \text{ horas/día} = \mathbf{204 \text{ horas brutas}}$$</p>
+</li>
+<li><p><strong>Horas de reuniones ágiles y tareas administrativas acumuladas:</strong>
+$$\text{Horas Reuniones} = 34 \text{ días de desarrollo} \times 1.5 \text{ horas/día} = \mathbf{51 \text{ horas}}$$</p>
+</li>
+<li><p><strong>Capacidad Total de Desarrollo Neto del Sprint:</strong>
+$$\text{Horas de Desarrollo Neto} = 204 \text{ horas brutas} - 51 \text{ horas} = \mathbf{153 \text{ horas netas}}$$</p>
+</li>
+</ol>
+<h4><strong>b) Cálculo de Puntos de Historia (Story Points) a comprometer:</strong></h4>
+<ul>
+<li>Esfuerzo estimado por punto de historia = $6 \text{ horas netas/SP}$</li>
+<li>Capacidad neta = $153 \text{ horas netas}$</li>
+</ul>
+<p>$$\text{Story Points Máximos} = \frac{153 \text{ horas netas}}{6 \text{ horas/SP}} = 25.5 \text{ Story Points}$$</p>
+<p>Dado que no se deben comprometer tareas por encima de la capacidad estimada para evitar retrasos y fallar en el Sprint Goal:</p>
+<ul>
+<li><strong>Respuesta:</strong> El equipo de desarrollo puede comprometer de manera realista en su Sprint Backlog un máximo de <strong>25 Puntos de Historia (Story Points)</strong> para cumplir con los estándares de calidad de su DoD en el transcurso de este Sprint de capacidad reducida.</li>
+</ul>
+<p><em>(📖 Scrum Manager v2.6, págs. 37-46)</em></p>
+</details>
+
+            
+            <div class="score-calculator">
+                <h3>Calculadora de Puntaje (Autoevaluación)</h3>
+                <p>Ingresa los puntos obtenidos en cada sección para calcular tu nota final (Puntaje de aprobación: 25 puntos / 70%):</p>
+                <div class="score-row">
+                    <span>Cuestión 1 (Normativa - Máx 10 pts):</span>
+                    <input type="number" min="0" max="10" step="0.5" class="score-input" id="q1" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 2 (Higiene y ART - Máx 1.5 pts):</span>
+                    <input type="number" min="0" max="1.5" step="0.25" class="score-input" id="q2" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 3 (Caso Disciplinario - Máx 4 pts):</span>
+                    <input type="number" min="0" max="4" step="0.5" class="score-input" id="q3" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 4 (Perspectiva de Género - Máx 4.5 pts):</span>
+                    <input type="number" min="0" max="4.5" step="0.25" class="score-input" id="q4" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 5 (Evaluación Técnica - Máx 15 pts):</span>
+                    <input type="number" min="0" max="15" step="0.5" class="score-input" id="q5" oninput="calcScore()">
+                </div>
+                <div class="score-total">
+                    <span>Puntaje Total (Máximo 35):</span>
+                    <span id="total-score">0.0 / 35.0 (<span id="result-status" style="font-weight: bold; color: var(--text-muted);">Sin evaluar</span>)</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleAnswers(show) {
+            const details = document.querySelectorAll('details');
+            details.forEach(d => {
+                d.open = show;
+            });
+        }
+
+        function calcScore() {
+            const q1 = parseFloat(document.getElementById('q1').value) || 0;
+            const q2 = parseFloat(document.getElementById('q2').value) || 0;
+            const q3 = parseFloat(document.getElementById('q3').value) || 0;
+            const q4 = parseFloat(document.getElementById('q4').value) || 0;
+            const q5 = parseFloat(document.getElementById('q5').value) || 0;
+            
+            const total = q1 + q2 + q3 + q4 + q5;
+            const totalFixed = Math.min(35, total).toFixed(2);
+            
+            const statusSpan = document.getElementById('result-status');
+            if (total >= 25) {
+                statusSpan.innerHTML = "APROBADO";
+                statusSpan.style.color = "var(--success)";
+            } else {
+                statusSpan.innerHTML = "DESAPROBADO";
+                statusSpan.style.color = "red";
+            }
+            
+            document.getElementById('total-score').innerHTML = totalFixed + " / 35.0 (" + statusSpan.outerHTML + ")";
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulacro de Examen Nº 4 - Municipalidad de Gral. Pueyrredón</title>
+    <style>
+        
+:root {
+    --primary: #0077c2;
+    --primary-dark: #005b94;
+    --accent: #e3f2fd;
+    --text: #333333;
+    --text-muted: #666666;
+    --bg: #f5f7fa;
+    --card-bg: #ffffff;
+    --border: #e0e0e0;
+    --success: #2e7d32;
+    --shadow: 0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.1);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primary: #4fc3f7;
+        --primary-dark: #0288d1;
+        --accent: #1a237e;
+        --text: #e0e0e0;
+        --text-muted: #aaaaaa;
+        --bg: #121212;
+        --card-bg: #1e1e1e;
+        --border: #333333;
+        --success: #81c784;
+        --shadow: 0 4px 6px rgba(0,0,0,0.3);
+    }
+}
+
+body {
+    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+    color: var(--text);
+    background-color: var(--bg);
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: var(--primary-dark);
+    color: white;
+    padding: 20px 40px;
+    box-shadow: var(--shadow);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+header .subtitle {
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
+
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.exam-card {
+    background-color: var(--card-bg);
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+    padding: 40px;
+    border: 1px solid var(--border);
+    margin-bottom: 20px;
+}
+
+h1, h2, h3 {
+    color: var(--primary-dark);
+}
+
+h2 {
+    color: var(--primary);
+    border-bottom: 2px solid var(--primary);
+    padding-bottom: 8px;
+    margin-top: 40px;
+}
+
+h3 {
+    color: var(--text);
+    margin-top: 30px;
+    border-left: 4px solid var(--primary);
+    padding-left: 12px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* Details and Summary styling for Solutions */
+details {
+    background-color: var(--accent);
+    border-left: 4px solid var(--primary);
+    border-radius: 4px;
+    margin: 20px 0;
+    padding: 15px;
+    transition: all 0.3s ease;
+}
+
+details[open] {
+    box-shadow: var(--shadow);
+    background-color: var(--card-bg);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--primary);
+}
+
+summary {
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+    user-select: none;
+    color: var(--primary-dark);
+    padding: 5px 0;
+}
+
+summary:hover {
+    color: var(--primary);
+}
+
+details p, details ul {
+    margin-top: 15px;
+}
+
+/* Print Button and utilities */
+.actions {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    justify-content: flex-end;
+}
+
+.btn {
+    background-color: var(--primary);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background-color 0.2s;
+    font-size: 0.9rem;
+}
+
+.btn:hover {
+    background-color: var(--primary-dark);
+}
+
+.btn-secondary {
+    background-color: transparent;
+    color: var(--primary);
+    border: 1px solid var(--primary);
+}
+
+.btn-secondary:hover {
+    background-color: var(--accent);
+    color: var(--primary-dark);
+}
+
+.score-calculator {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: var(--accent);
+    border-radius: 6px;
+    border: 1px solid var(--border);
+}
+
+.score-input {
+    width: 60px;
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+    text-align: center;
+    font-weight: bold;
+    background: var(--card-bg);
+    color: var(--text);
+}
+
+.score-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.score-total {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 15px;
+    border-top: 1px dashed var(--border);
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Blockquote styles */
+blockquote {
+    background: var(--accent);
+    border-left: 4px solid var(--primary);
+    margin: 1.5em 10px;
+    padding: 10px 20px;
+    font-style: italic;
+}
+
+@media print {
+    body {
+        background-color: white;
+        color: black;
+    }
+    header, .actions, .score-calculator, summary::-webkit-details-marker, details summary {
+        display: none !important;
+    }
+    .exam-card {
+        box-shadow: none !important;
+        border: none !important;
+        padding: 0 !important;
+    }
+    details {
+        background-color: transparent !important;
+        border: none !important;
+        border-left: 2px solid #333 !important;
+        page-break-inside: avoid;
+    }
+    details[open] {
+        border: none !important;
+        border-left: 2px solid #333 !important;
+    }
+    h2, h3 {
+        page-break-after: avoid;
+    }
+}
+
+    </style>
+</head>
+<body>
+    <header>
+        <div>
+            <h1>MUNICIPALIDAD DE GENERAL PUEYRREDON</h1>
+            <div class="subtitle">Concurso de Cargos Jerárquicos - Sistemas de Software</div>
+        </div>
+        <div>
+            <span class="subtitle">Simulacro 4 / 6</span>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="actions">
+            <button class="btn btn-secondary" onclick="window.print()">Imprimir Examen / PDF</button>
+            <button class="btn btn-secondary" onclick="toggleAnswers(true)">Mostrar Respuestas</button>
+            <button class="btn btn-secondary" onclick="toggleAnswers(false)">Ocultar Respuestas</button>
+        </div>
+
+        <div class="exam-card">
+            <h1>SIMULACRO DE EXAMEN Nº 4</h1>
+<p><strong>Cargo:</strong> Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
+<hr>
+<h2>CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA DE COMPRAS MUNICIPALES (10 Puntos)</h2>
+<p><em>Instrucciones: Seleccione la alternativa correcta rodeando la letra de la opción elegida. <strong>En todos los casos, solo una de las alternativas es correcta.</strong> FUNDAMENTE cada respuesta con la norma y artículo correspondiente en el espacio asignado.</em></p>
+<h3>1. Si el Departamento de TIC requiere contratar la renovación de licencias anuales de software de base de datos Oracle, siendo Oracle el único proveedor exclusivo a nivel nacional que posee la patente y distribución oficial del servicio, el Jefe de Departamento debe tramitar la adquisición bajo la modalidad de:</h3>
+<ul>
+<li>a) Licitación Pública obligatoria, dado que es la regla general para compras del Estado.</li>
+<li>b) Contratación Directa por exclusividad, de conformidad con las excepciones de compras del régimen municipal.</li>
+<li>c) Licitación Privada, invitando al menos a tres proveedores informáticos locales.</li>
+<li>d) Concurso de Precios ordinario.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>2. Según el Estatuto de Empleo Público Municipal (Ley 14656), el personal seleccionado ingresa al municipio bajo la condición de estabilidad laboral tras superar un período de prueba de:</h3>
+<ul>
+<li>a) Tres (3) meses de servicio activo.</li>
+<li>b) Seis (6) meses de servicio activo.</li>
+<li>c) Doce (12) meses de prestación de servicios efectiva.</li>
+<li>d) Dos (2) años de servicio efectivo y aprobación de examen de idoneidad técnica.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>3. De acuerdo con la Ordenanza General 26348 (Procedimiento Administrativo Municipal), los plazos procesales establecidos para las dependencias y los administrados se computan en:</h3>
+<ul>
+<li>a) Días corridos, incluyendo feriados y fines de semana.</li>
+<li>b) Días hábiles administrativos, salvo disposición expresa en contrario de la ley o del acto.</li>
+<li>c) Semanas calendarias completas.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>4. Si la Municipalidad planea suscribir un contrato de &quot;leasing&quot; o alquiler de infraestructura de servidores en la nube (cloud) que excede el período presupuestario anual, comprometiendo partidas presupuestarias de ejercicios financieros futuros:</h3>
+<ul>
+<li>a) El Intendente puede adjudicarlo directamente por decreto sin consultar a otros organismos.</li>
+<li>b) Requiere la autorización previa del Honorable Concejo Deliberante (H.C.D.) mediante ordenanza aprobada por mayoría.</li>
+<li>c) Se debe tramitar el pago completo por adelantado afectando el presupuesto del año en curso únicamente.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>5. De conformidad con el régimen estatutario (Ley 14656), el agente municipal masculino tiene derecho por el nacimiento de su hijo/a a usufructuar una licencia por paternidad de:</h3>
+<ul>
+<li>a) Dos (2) días hábiles administrativos.</li>
+<li>b) Cinco (5) días corridos.</li>
+<li>c) Quince (15) días corridos con goce íntegro de haberes.</li>
+<li>d) Un (1) mes sin goce de sueldo.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>6. En la tramitación de expedientes digitales, las notificaciones practicadas en el Domicilio Electrónico Constituido del administrado:</h3>
+<ul>
+<li>a) Carecen de valor legal hasta que el contribuyente firme una constancia física en Mesa de Entradas.</li>
+<li>b) Producen plenos efectos legales y se consideran válidas a partir del momento de su disponibilidad en el sistema de buzón electrónico o al día hábil siguiente.</li>
+<li>c) Solo son válidas para trámites comerciales pero no para sumarios o notificaciones disciplinarias del personal.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>7. Según el Manual de Redacción de la MGP (Decreto 966/19), el documento interno, sintético y de carácter directo utilizado exclusivamente para girar las actuaciones entre oficinas, solicitar informes técnicos o impulsar el trámite sin estructura de considerandos se denomina:</h3>
+<ul>
+<li>a) Nota Oficial.</li>
+<li>b) Providencia.</li>
+<li>c) Circular.</li>
+<li>d) Dictamen.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>8. En el proceso de compras del área de Sistemas bajo el régimen de la L.O.M. y la RAFAM, la responsabilidad de redactar las especificaciones técnicas detalladas y los requerimientos funcionales del Pliego de Bases y Condiciones Particulares recae sobre:</h3>
+<ul>
+<li>a) La Dirección de Compras y Suministros municipal de forma exclusiva.</li>
+<li>b) El Contador Municipal para verificar los códigos de barra.</li>
+<li>c) El Jefe del Departamento Técnico (área usuaria y especialista) que inicia el requerimiento de gasto.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>9. La entrega en concesión del uso del tendido de la red de fibra óptica municipal a un proveedor privado de internet para su explotación comercial:</h3>
+<ul>
+<li>a) Puede ser dispuesta directamente por el Director de Sistemas mediante una disposición interna de Jefatura.</li>
+<li>b) Requiere la aprobación previa del Honorable Concejo Deliberante (H.C.D.) de conformidad con las facultades de la LOM.</li>
+<li>c) No está permitida bajo ningún concepto legal por tratarse de un activo intangible del Estado.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>10. Conforme a la Ley 14656 y decretos municipales, el agente municipal que deba ausentarse para el cuidado de un miembro enfermo del grupo familiar directo a su cargo, puede solicitar licencia con goce de haberes por un límite anual de:</h3>
+<ul>
+<li>a) Hasta cinco (5) días hábiles únicamente.</li>
+<li>b) Hasta veinte (20) días corridos por año calendario (prorrogables según reglamentación).</li>
+<li>c) Hasta noventa (90) días continuos.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h2>CUESTION Nº 2: CASO SITUACIONAL DE HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)</h2>
+<p><em>Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.</em></p>
+<blockquote>
+<p>Un agente del área de soporte técnico de su dependencia se encuentra en el Data Center municipal instalando un nuevo conmutador de red en el rack principal. Al manipular un cable de alimentación defectuoso que carecía de la debida aislación protectora, sufre una descarga eléctrica en su mano derecha y quemaduras leves. Al inspeccionar el sector, usted constata que el rack no contaba con conexión a tierra certificada y que el tablero eléctrico carecía de disyuntor diferencial en funcionamiento.</p>
+<p>Se solicita:</p>
+<ol>
+<li>Indique si el siniestro configura un accidente laboral cubierto y qué norma nacional rige la cobertura de salud e indemnizaciones.</li>
+<li>Identifique qué obligaciones legales de Higiene y Seguridad Laboral (Ley 19587 y Decreto 351/79) se omitieron en el ámbito de trabajo y qué elementos debieron proveerse para evitar el siniestro.</li>
+</ol>
+</blockquote>
+<hr>
+<h2>CUESTION Nº 3: CASO PRÁCTICO ADMINISTRATIVO Y REDACCIÓN (4 Puntos)</h2>
+<p><em>Consigna: Resuelva el caso disciplinario planteado y redacte el acto administrativo correspondiente.</em></p>
+<blockquote>
+<p>Mediante una auditoría de sistemas e inspección de tráfico de red, la Dirección General de TIC constata que el agente F.M. (Legajo Nº 66.666, Categoría Técnico II, Programador) instaló y ejecutó de manera continua un software de minería de criptomonedas utilizando la capacidad de procesamiento de tres servidores virtuales del municipio destinados al portal de trámites, consumiendo de forma anómala el ancho de banda del organismo en beneficio económico personal. El agente reconoce el hecho por escrito, manifestando que &quot;fue en horario muerto&quot; y que &quot;no dañó ningún archivo&quot;.</p>
+<p>Al configurarse una falta grave de uso indebido de bienes públicos y violación de las normas de seguridad informática de la comuna (Art. 107 inc 1 y 5 Ley 14656), usted como Jefe de Sistemas de Software decide elevar las actuaciones para aplicar una sanción severa de suspensión y apartar preventivamente al agente de los servidores.</p>
+<p>Se solicita:</p>
+<ol>
+<li>Indique fundadamente qué procedimiento formal se debe seguir conforme a la Ley 14656 y qué medida preventiva inmediata debe solicitar respecto al perfil de accesos lógicos y físicos del agente en los servidores municipales. (1.5 Puntos)</li>
+<li>Redacte la parte dispositiva y de fundamentación (<code>VISTO</code>, <code>CONSIDERANDO</code> y <code>DISPONE</code>) de la Disposición mediante la cual usted, como Jefe de Departamento, eleva el caso promoviendo el sumario y disponiendo la medida precautoria. (2.5 Puntos)</li>
+</ol>
+</blockquote>
+<hr>
+<h2>CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA EN EL ÁMBITO LABORAL (4.5 Puntos)</h2>
+<p><em>Consigna: Responda la siguiente consulta sobre identidad de género en la administración pública fundamentando con la legislación nacional correspondiente.</em></p>
+<blockquote>
+<p>Una analista programadora de su dependencia presenta una nota formal ante su Jefatura solicitando que en todos los registros internos de la oficina (listados de asistencia, credencial de acceso físico, firma de correos electrónicos institucionales y usuario de red corporativo) se modifique su nombre anterior por el de &quot;Juana Pérez&quot; y su dirección de correo a <code>juana.perez@mardelplata.gov.ar</code> para respetar su identidad de género autopercibida. Informa que aún no ha iniciado el trámite judicial/registral de rectificación de su DNI.</p>
+<p>Se solicita:</p>
+<ol>
+<li>Explique cómo debe proceder usted como Jefe de Departamento y qué establece la Ley Nacional de Identidad de Género Nº 26743 respecto al &quot;Trato Digno&quot; y el nombre autopercibido en los registros públicos de la administración. (2.5 Puntos)</li>
+<li>Indique si es legalmente válido exigirle a la agente la presentación del DNI rectificado como condición previa para realizar los cambios solicitados en los sistemas de información municipales. (2.0 Puntos)</li>
+</ol>
+</blockquote>
+<hr>
+<h2>CUESTION Nº 5: EVALUACIÓN TÉCNICA (15 Puntos - 3 Puntos c/u)</h2>
+<p><em>Consigna: Responda las siguientes preguntas basadas en la bibliografía oficial del cargo (Kendall &amp; Kendall 8va Edición y Scrum Manager v2.6).</em></p>
+<ol>
+<li><strong>Implantación de Software (Kendall &amp; Kendall):</strong> Defina y compare las estrategias de conversión de sistemas: <em>Conversión Directa</em> (Direct Changeover) y <em>Conversión en Paralelo</em> (Parallel Conversion). Detalle las ventajas y desventajas críticas de cada enfoque para la puesta en servicio de un nuevo sistema de mesa de entradas.</li>
+<li><strong>UML y Comportamiento de Sistemas (Kendall &amp; Kendall):</strong> Explique el propósito de un Diagrama de Transición de Estados en UML. Diseñe textualmente la estructura de estados y transiciones (acciones) para representar el ciclo de vida de la entidad &quot;Ticket de Soporte Técnico&quot; desde su apertura hasta su cierre definitivo en el municipio.</li>
+<li><strong>Calidad y Procesos Ágiles (Scrum Manager):</strong> Defina qué es la &quot;Definición de Terminado&quot; (Definition of Done - DoD) en Scrum. Explique cómo evoluciona la DoD a lo largo del tiempo en un Scrum Team y cuál es su impacto sobre la reducción de la deuda técnica.</li>
+<li><strong>Desperdicios en Agilidad (Scrum Manager):</strong> En la gestión ágil de proyectos y Kanban, el concepto de desperdicio (<em>Muda</em>) es central. Identifique y describa brevemente cuatro (4) tipos de desperdicios de software que ocurren habitualmente en un equipo de desarrollo de software municipal.</li>
+<li><strong>Cálculo Práctico de Velocidad y Estimación (Scrum):</strong><blockquote>
+<p>Un equipo de desarrollo a su cargo ejecuta un Sprint de 2 semanas de duración para codificar un módulo de turnos web. Al planificar el Sprint, el equipo seleccionó e incluyó en su Sprint Backlog 5 historias de usuario que sumaban un total de <strong>30 Puntos de Historia (Story Points - SP)</strong>.</p>
+<p>Al finalizar el Sprint en el día 10 de trabajo, el gráfico de Burndown de Puntos de Historia muestra los siguientes resultados:</p>
+<ul>
+<li>Historias de Usuario A, B, C y D: Completamente terminadas y validadas según su DoD (Suman <strong>28 SP</strong> en total).</li>
+<li>Historia de Usuario E: Pendiente de testing final debido a la caída temporal del servidor de pruebas el último día de trabajo (Equivale a <strong>2 SP</strong>).</li>
+</ul>
+<p>Resuelva los siguientes puntos:
+a) Determine la Velocidad Real entregada por el equipo en este Sprint. Justifique conceptualmente su respuesta de acuerdo con el marco Scrum.<br>b) Si el backlog restante del proyecto de turnos suma un total de <strong>112 Puntos de Historia</strong>, y asumiendo que el equipo mantendrá de manera estable la velocidad real obtenida en este Sprint, calcule cuántos Sprints adicionales (y semanas de trabajo) se necesitarán para completar el proyecto.</p>
+</blockquote>
+</li>
+</ol>
+<hr>
+<hr>
+<h2>GUÍA DE RESPUESTAS Y SOLUCIONES EXPLICADAS (INFORMACIÓN OCULTA PARA AUTOEVALUACIÓN)</h2>
+<details>
+<summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary><h3>1. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), <strong>Artículo 156º, Inciso 4</strong> (excepciones a la licitación pública): Se permite la contratación directa en compras municipales <em>&quot;Cuando se trate de objetos o servicios cuya fabricación o propiedad sea exclusiva de quienes tengan patentes de invención o privilegios acumulados, o cuando no hubiere más de un solo productor o proveedor...&quot;</em>. En este caso, Oracle posee la propiedad y distribución exclusiva del software, encuadrando en la causal de exclusividad. <em>(📋 Nota: Los artículos específicos del régimen de excepciones de contratación directa varían según la versión vigente de la LOM y el Reglamento de Contrataciones Municipal. Verificar en el texto oficial actualizado.)</em></li>
+</ul>
+<h3>2. Respuesta Correcta: <strong>c</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley 14656, <strong>Artículo 6º</strong>: <em>&quot;La estabilidad es el derecho del agente de planta permanente a conservar el empleo... El ingreso a la función pública municipal se formalizará mediante un período de prueba de doce (12) meses de prestación de servicios efectiva...&quot;</em>. Durante este plazo, el agente puede ser desafectado sin derecho a indemnización en caso de calificaciones deficientes. <em>(📋 Verificar en texto oficial de Ley 14656)</em></li>
+</ul>
+<h3>3. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ordenanza General 26348, <strong>Artículo 78º</strong>: <em>&quot;Todos los plazos procesales se computan en días hábiles administrativos, salvo disposición legal en contrario o habilitación expresa de feriados por la autoridad municipal...&quot;</em>. Los fines de semana y feriados quedan excluidos de los cómputos temporales de trámites ordinarios. <em>(📋 Verificar en texto oficial de Ordenanza General 26348)</em></li>
+</ul>
+<h3>4. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículo 155º</strong>: <em>&quot;Se requerirá autorización previa del Concejo Deliberante para realizar compras o comprometer servicios que excedan el ejercicio financiero anual o graven presupuestos de años futuros...&quot;</em>. El leasing de servidores en la nube plurianual excede el ejercicio fiscal corriente, requiriendo intervención y ordenanza aprobada por el cuerpo deliberativo. <em>(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades)</em></li>
+</ul>
+<h3>5. Respuesta Correcta: <strong>c</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley 14656, <strong>Artículo 92º</strong> y reglamentaciones locales de la MGP. El Estatuto de Empleo Público Municipal establece en su artículo 92 que los progenitores no gestantes tienen derecho a una licencia de no menos de cinco (5) días hábiles con goce de haberes. Sin embargo, en el ámbito municipal de General Pueyrredón, esta fue extendida a quince (15) días corridos por decreto y convenio colectivo local. <em>(📋 Verificar en texto oficial de Ley 14656 - Art. 92º)</em></li>
+</ul>
+<h3>6. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decretos MGP de despapelización e implementación del Domicilio Electrónico Constituido (en consonancia con el Código Civil y Comercial y la Ordenanza 26348). Las notificaciones dirigidas al buzón electrónico oficial del administrado surten efectos legales idénticos a las notificaciones físicas por cédula, y se consideran firmes a partir de su acceso en el sistema o de forma ficta al día hábil siguiente de su alojamiento digital. <em>(📋 Verificar en texto oficial de Decretos MGP de despapelización y Ordenanza 26348)</em></li>
+</ul>
+<h3>7. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP 966/19 (Manual de Redacción Administrativa), <strong>Anexo I, Capítulo III, Sección Providencias</strong>: <em>&quot;La Providencia es un documento de mero trámite y de impulso procesal interno, redactado de forma directa y sintética por el funcionario a cargo de una dependencia para girar las actuaciones, solicitar informes o instruir una tarea, careciendo de formalidades complejas como vistos y considerandos&quot;</em>. <em>(📋 Verificar en texto oficial de Decreto MGP 966/19)</em></li>
+</ul>
+<h3>8. Respuesta Correcta: <strong>c</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Reglamento contable de la RAFAM y Ley de Compras de la LOM. El diseño y redacción del Pliego Técnico (especificaciones de hardware, software, ancho de banda o requerimientos de sistemas) es de responsabilidad exclusiva del área técnica usuaria (Jefe de Departamento / Especialista en TIC), siendo la Dirección de Compras la encargada únicamente de anexar las cláusulas legales, administrativas e impositivas (Pliego de Bases y Condiciones Generales). <em>(📋 Verificar en texto oficial de RAFAM y Reglamento de Compras LOM)</em></li>
+</ul>
+<h3>9. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículo 56º</strong>: Corresponde al Honorable Concejo Deliberante (HCD) autorizar las concesiones de uso y explotación de servicios o bienes públicos del ejido municipal. Las redes de fibra óptica e infraestructura de telecomunicaciones forman parte de los bienes públicos de la comuna, por lo que su concesión comercial requiere de una ordenanza específica sancionada por el HCD. <em>(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades)</em></li>
+</ul>
+<h3>10. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley 14656, <strong>Artículo 89º</strong>: Establece que para la atención de personas que integren el mismo grupo familiar que padezcan una enfermedad que les impida valerse por sus propios medios, <em>&quot;se concederá al trabajador licencia con goce íntegro de haberes, hasta un máximo de veinte (20) días por año calendario&quot;</em> (pudiendo extenderse a 25 días en caso de hijos con enfermedades crónicas o discapacidad). <em>(📋 Verificar en texto oficial de Ley 14656 - Art. 89º)</em></li>
+</ul>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 2: Caso Higiene, Seguridad y ART</b></summary><h3>1. Configuración de Accidente Laboral y Cobertura:</h3>
+<ul>
+<li><strong>Configuración:</strong> <strong>Sí, configura un accidente laboral.</strong> El agente sufrió una descarga eléctrica en ocasión de realizar sus tareas asignadas (soporte e instalación física de red) dentro del establecimiento de la Municipalidad (lugar de trabajo) y durante el horario laboral.</li>
+<li><strong>Norma Nacional:</strong> Se rige bajo la <strong>Ley Nacional de Riesgos del Trabajo Nº 24557</strong> (y modificatorias), la cual garantiza al agente afectado la cobertura médica total de urgencia, traslados, medicamentos, cirugías (prestaciones en especie) y el pago de su salario durante su convalecencia (prestaciones dinerarias por ILT) a través de la ART.</li>
+</ul>
+<h3>2. Omitidas Normas de Higiene y Seguridad (Ley 19587 y Decreto 351/79):</h3>
+<p>Se violó el <strong>Capítulo 14 (Instalaciones Eléctricas)</strong> del Decreto 351/79 reglamentario de la Ley 19587:</p>
+<ul>
+<li><strong>Omisiones Estructurales:</strong><ol>
+<li><strong>Falta de Disyuntor Diferencial:</strong> El tablero eléctrico debe contar con disyuntor diferencial de sensibilidad adecuada (30 mA) para cortar la energía automáticamente ante una fuga a tierra (electrocución del operario).</li>
+<li><strong>Falta de Puesta a Tierra:</strong> Toda instalación y racks metálicos del Data Center deben estar conectados a un sistema de puesta a tierra (jabalina) verificado y certificado periódicamente.</li>
+<li><strong>Falta de Mantenimiento Preventivo:</strong> Mantener en servicio un cable de alimentación con la aislación dañada infringe el deber de conservar las instalaciones eléctricas en condiciones seguras.</li>
+</ol>
+</li>
+<li><strong>Falta de Provisión de EPP (Elementos de Protección Personal):</strong> El municipio debió proveer de forma obligatoria y gratuita al personal de soporte técnico:<ul>
+<li>Calzado de seguridad dieléctrico (sin puntera metálica e impermeables).</li>
+<li>Guantes dieléctricos de baja tensión.</li>
+<li>Herramientas con aislamiento certificado para trabajos eléctricos.</li>
+</ul>
+</li>
+</ul>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 3: Caso Práctico Disciplinario y Acto Administrativo</b></summary><h3>1. Procedimiento Disciplinario y Medida Preventiva (Ley 14656)</h3>
+<ul>
+<li><strong>Procedimiento Obligatorio:</strong> Al ser una falta calificada como grave (utilizar recursos informáticos del Estado para enriquecimiento personal de minería de criptomonedas, afectando la estabilidad del portal web), el castigo superará los 10 días de suspensión o implicará cesantía. Por lo tanto, <strong>es obligatorio tramitar un Sumario Administrativo previo</strong> (Artículo 108º de la Ley 14656).</li>
+<li><strong>Medida Preventiva Jerárquica:</strong> El Jefe de Departamento debe solicitar de inmediato el <strong>bloqueo físico y lógico del perfil de accesos informáticos (usuarios de red, VPN, credenciales SSH/RDP) del agente F.M.</strong> y suspender provisionalmente sus permisos sobre servidores municipales. Adicionalmente, debe proponer en la elevación la <strong>suspensión preventiva del agente</strong> sin goce de haberes (o con haberes según defina el sumario) por un término de hasta 60 días para evitar sabotajes en la base de datos municipal durante la investigación.</li>
+</ul>
+<hr>
+<h3>2. Redacción de la Disposición de Elevación</h3>
+<p><strong>MAR DEL PLATA,</strong> [Insertar Fecha]</p>
+<p><strong>VISTO</strong> el informe de auditoría de red elaborado por la Dirección General de TIC referente al uso no autorizado de la infraestructura virtual y servidores municipales por parte del agente F.M., Legajo Nº 66.666; y</p>
+<p><strong>CONSIDERANDO:</strong></p>
+<p>Que las auditorías técnicas de consumo de recursos y logs de acceso a servidores virtuales del portal municipal demostraron que el agente F.M., Categoría Técnico II, instaló y ejecutó de manera sistemática código de minería de criptomonedas en beneficio económico privado.</p>
+<p>Que este accionar alteró significativamente el rendimiento de las plataformas de trámites municipales orientadas a la ciudadanía y afectó el ancho de banda de la red corporativa de la comuna.</p>
+<p>Que el agente F.M. admitió por escrito el desempeño de la conducta descripta, manifestando que realizaba las tareas de minería en horarios de servicio.</p>
+<p>Que esta conducta representa una grave infracción a las obligaciones contenidas en la Ley Nº 14656, en especial su <strong>Artículo 107º, Inciso 1</strong> (prestar el servicio con eficiencia y capacidad) e <strong>Inciso 5</strong> (guardar reserva y no utilizar recursos del Estado para fines ajenos al servicio público).</p>
+<p>Que dada la gravedad de la falta y la naturaleza expulsiva de la eventual sanción definitiva (cesantía o exoneración), corresponde elevar formalmente los obrados para la instrucción obligatoria de un Sumario Administrativo previo de conformidad con el Artículo 108º de la Ley 14656.</p>
+<p>Que por estrictas medidas de seguridad informática del Data Center municipal y para resguardar la integridad lógica de las aplicaciones y datos públicos, resulta indispensable proceder al bloqueo inmediato de accesos informáticos del agente y disponer su suspensión preventiva de tareas en tanto dure la tramitación de las actuaciones.</p>
+<p>Por ello, en uso de las competencias de supervisión disciplinaria delegadas,</p>
+<p><strong>EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE</strong></p>
+<p><strong>D I S P O N E:</strong></p>
+<p><strong>ARTÍCULO 1º.-</strong> Elevar formalmente el informe de auditoría informática y el reconocimiento de hechos ante la Dirección de Personal y la Dirección de Asuntos Jurídicos, solicitando la instrucción del <strong>Sumario Administrativo previo</strong> al Agente <strong>F.M.</strong>, Legajo Nº <strong>66.666</strong>, Categoría <strong>Técnico II</strong>, bajo los supuestos del Artículo 108º de la Ley Nº 14656.</p>
+<p><strong>ARTÍCULO 2º.-</strong> Disponer el <strong>bloqueo inmediato y preventivo de todos los perfiles de acceso lógico (VPN, usuarios, contraseñas, accesos de red) e ingreso físico</strong> del agente F.M. a la infraestructura de servidores municipales, y proponer su suspensión preventiva del cargo sin goce de haberes por el período sumarial reglamentario.</p>
+<p><strong>ARTÍCULO 3º.-</strong> Registrar en el Departamento, notificar a los organismos de supervisión técnica y archivar.</p>
+<p><strong>DISPOSICIÓN Nº</strong> [Dejar espacio para número]</p>
+<p><em>Firma y Sello del Jefe de Departamento</em></p>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género e Identidad de Género</b></summary><h3>1. Procedimiento Técnico y Legal conforme a la Ley 26743:</h3>
+<p>Como Jefe de Departamento de Sistemas de Software, debes <strong>dar curso inmediato, favorable y con carácter prioritario</strong> a la solicitud de la agente. </p>
+<ul>
+<li><strong>Fundamento de Trato Digno:</strong> De acuerdo al <strong>Artículo 12º de la Ley Nacional de Identidad de Género Nº 26743</strong>: <em>&quot;Deberá respetarse la identidad de género adoptada por las personas, en especial por niñas, niños y adolescentes, que utilicen un nombre de pila distinto al consignado en su acta de nacimiento. A su sola solicitud, el nombre de pila adoptado deberá ser utilizado para la citación, registro, legajo, llamamiento y cualquier otra gestión en los ámbitos públicos y privados...&quot;</em>.</li>
+<li><strong>Acciones a adoptar:</strong> Debes instruir al administrador de redes y correo para modificar su cuenta institucional a <code>juana.perez@mardelplata.gov.ar</code>, adecuar el usuario de Active Directory, modificar su nombre en los relojes biométricos de fichada, credenciales físicas y listados internos del Departamento de Sistemas de Software.</li>
+</ul>
+<h3>2. Validez de exigir el DNI rectificado previo:</h3>
+<p><strong>Es absolutamente ilegal e inválido</strong> exigir la presentación del DNI rectificado como condición previa para adecuar los sistemas internos.</p>
+<ul>
+<li><strong>Fundamento:</strong> El mismo <strong>Artículo 12º de la Ley 26743</strong> establece explícitamente: *&quot;...En aquellas circunstancias en que la persona deba ser nombrada en público deberá utilizarse únicamente el nombre de pila de elección que respete la identidad de género adoptada. <strong>A sola solicitud del interesado el nombre de pila adoptado deberá ser utilizado... sin que sea necesaria la rectificación previa del documento nacional de identidad...</strong>&quot;*. En los registros que mantengan el nombre legal por razones tributarias o contractuales estrictas, se debe utilizar un formato combinado (ej. Juana Pérez [Nombre autopercibido] / Iniciales y apellido legal), pero en toda la interacción diaria (correo, usuario, credenciales, trato verbal) debe figurar exclusivamente su nombre autopercibido.</li>
+</ul>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación Técnica (Implantación, UML y Scrum)</b></summary><h3>1. Conversión Directa vs Conversión en Paralelo (Kendall &amp; Kendall)</h3>
+<ul>
+<li><strong>Conversión Directa:</strong> El sistema antiguo se detiene por completo y el nuevo sistema se activa e implanta de forma inmediata.<ul>
+<li><em>Ventaja:</em> Es la estrategia de menor costo económico, requiere menos tiempo de transición y evita que los usuarios municipales deban duplicar tareas de carga de datos en dos sistemas diferentes.</li>
+<li><em>Desventaja:</em> Es una estrategia de alto riesgo. Si el nuevo software presenta fallos críticos en producción, no hay un sistema de respaldo activo de inmediato, pudiendo paralizar la atención al público.</li>
+</ul>
+</li>
+<li><strong>Conversión en Paralelo:</strong> Ambos sistemas (el antiguo y el nuevo) operan y procesan los datos reales de forma simultánea durante un período de tiempo definido.<ul>
+<li><em>Ventaja:</em> Riesgo técnico mínimo. Si el nuevo sistema falla, la operación continúa normalmente en el antiguo. Permite realizar auditorías cruzadas de datos para verificar la exactitud del nuevo software.</li>
+<li><em>Desventaja:</em> Alto costo y sobrecarga del personal administrativo municipal, que debe registrar e introducir dos veces cada trámite y expediente, afectando la agilidad de la oficina.</li>
+</ul>
+</li>
+</ul>
+<p><em>(📖 Kendall &amp; Kendall, Cap. 18, págs. 535-540)</em></p>
+<hr>
+<h3>2. Diagrama de Transición de Estados en UML (Mesa de Soporte de TIC)</h3>
+<ul>
+<li><strong>Propósito:</strong> Modelar el comportamiento dinámico de una entidad u objeto a lo largo de su ciclo de vida, representando los diferentes estados que puede adoptar en respuesta a eventos o acciones del sistema.</li>
+<li><strong>Diseño de Estados y Transiciones de la entidad &quot;Ticket de Soporte&quot;:</strong><ol>
+<li><strong>Estado Inicial:</strong> Repositorio en espera.</li>
+<li><strong>Estado: CREADO/ABIERTO:</strong> El usuario municipal reporta la falla y se genera el ticket.<ul>
+<li><em>Transición (Evento: Asignar Técnico de Soporte):</em> Pasa al estado <strong>ASIGNADO / EN ANÁLISIS</strong>.</li>
+</ul>
+</li>
+<li><strong>Estado: EN ANÁLISIS:</strong> El técnico revisa la PC o software.<ul>
+<li><em>Transición (Evento: Iniciar Desarrollo de Parche/Reparación):</em> Pasa al estado <strong>EN DESARROLLO / TRABAJO</strong>.</li>
+<li><em>Transición (Evento: Requiere repuesto o espera de feedback del usuario):</em> Pasa al estado transitorio <strong>EN ESPERA / BLOQUEADO</strong>. Una vez recibido el insumo, retorna a <strong>EN ANÁLISIS</strong>.</li>
+</ul>
+</li>
+<li><strong>Estado: EN DESARROLLO / EN TRABAJO:</strong> Se codifica el parche o se cambia el hardware.<ul>
+<li><em>Transición (Evento: Finalizar tareas y enviar a pruebas):</em> Pasa al estado <strong>EN PRUEBAS / EN TESTING</strong>.</li>
+</ul>
+</li>
+<li><strong>Estado: EN PRUEBAS / EN TESTING:</strong> El área de QA o el usuario verifica que el problema esté solucionado (UAT).<ul>
+<li><em>Transición (Evento: Rechazo de solución):</em> Retorna a <strong>EN DESARROLLO</strong>.</li>
+<li><em>Transición (Evento: Solución Aprobada):</em> Pasa al estado <strong>RESUELTO</strong>.</li>
+</ul>
+</li>
+<li><strong>Estado: RESUELTO:</strong> El problema está subsanado temporalmente y notificado.<ul>
+<li><em>Transición (Evento: Cierre formal automático o por usuario):</em> Pasa al estado final <strong>CERRADO</strong>.</li>
+</ul>
+</li>
+<li><strong>Estado Final (CERRADO):</strong> Fin del ciclo de vida del Ticket (no admite nuevas modificaciones).</li>
+</ol>
+</li>
+</ul>
+<p><em>(📖 Kendall &amp; Kendall, Cap. 10, pág. 310)</em></p>
+<hr>
+<h3>3. Definición de Terminado (DoD) y Reducción de Deuda Técnica (Scrum Manager)</h3>
+<p>La <strong>Definición de Terminado (DoD)</strong> es una lista de comprobación de criterios de calidad técnica obligatorios que debe cumplir cada incremento o historia de usuario del backlog para considerarse realmente finalizada y lista para producción (ej. &quot;Revisión de código ejecutada&quot;, &quot;Pruebas de integración aprobadas al 100%&quot;, &quot;Sin vulnerabilidades de seguridad OWASP&quot;).</p>
+<ul>
+<li><strong>Evolución:</strong> La DoD no es estática. A medida que el equipo de desarrollo de software madura y adopta mejores herramientas (ej. integración continua, testing automatizado), la DoD evoluciona haciéndose <strong>más estricta y abarcativa</strong>.</li>
+<li><strong>Reducción de la Deuda Técnica:</strong> Al obligar al equipo a entregar software que cumpla con altos estándares de calidad antes de cerrar cada Sprint, se evita el &quot;Gold Plating&quot; inverso o deudas técnicas (código mal programado, sin tests o sin documentar que luego demanda costosas horas de refactorización y causa bugs en producción). Lo que se declara &quot;Terminado&quot; está listo y limpio en un 100%.</li>
+</ul>
+<p><em>(📖 Scrum Manager v2.6, págs. 21-25)</em></p>
+<hr>
+<h3>4. Desperdicios de Software (<em>Muda</em>) en el Municipio (Scrum Manager)</h3>
+<ol>
+<li><strong>Trabajo a medio hacer (Software parcialmente desarrollado):</strong> Historias de usuario codificadas que quedan pendientes de testeo y no se despliegan al final del sprint. No aportan valor real y acumulan inventario técnico ocioso.</li>
+<li><strong>Características extra (Gold Plating):</strong> Programar funcionalidades o botones que el área usuaria de la Municipalidad no solicitó originalmente en el pliego o backlog. Incrementa la complejidad del código y del mantenimiento sin aportar valor de negocio.</li>
+<li><strong>Procesamiento extra (Traspasos y Handoffs):</strong> Pérdidas de información y retrasos que ocurren cuando una tarea pasa por demasiadas manos (ej. del Diseñador UX al Analista, del Analista al Desarrollador, del Desarrollador al Tester, de este al Administrador de Redes) debido a la falta de un equipo multidisciplinario integrado.</li>
+<li><strong>Retrasos y Esperas:</strong> Periodos en que los desarrolladores se encuentran inactivos esperando autorizaciones formales por expediente papel, despliegue de servidores por el área de infraestructura, o la validación del Product Owner.</li>
+<li><strong>Defectos y Errores:</strong> Errores de programación (bugs) que obligan a realizar retrabajo, corrigiendo líneas de código en producción que ya habían sido dadas por terminadas, consumiendo recursos del equipo de Sistemas.</li>
+</ol>
+<p><em>(📖 Scrum Manager v2.6, págs. 71-72)</em></p>
+<hr>
+<h3>5. Resolución de Caso Práctico de Velocidad y Estimación (Scrum)</h3>
+<h4><strong>a) Determinación de la Velocidad Real del Sprint:</strong></h4>
+<p>La velocidad real del equipo en este Sprint fue de <strong>28 Puntos de Historia (SP)</strong>.</p>
+<ul>
+<li><strong>Justificación Conceptual:</strong> En el marco ágil de Scrum, <strong>no se otorga crédito parcial</strong> por tareas no terminadas al 100%. Dado que la Historia de Usuario E (de 2 SP) no cumplió con los criterios de la Definición de Terminado (DoD) al faltar el testing final el último día del Sprint, su puntaje no computa en la velocidad de este Sprint y la historia debe retornar al Product Backlog para su replanificación en el Sprint siguiente.</li>
+</ul>
+<h4><strong>b) Proyección de Entregas (Backlog Restante):</strong></h4>
+<ul>
+<li>Velocidad promedio estable = $28 \text{ SP/Sprint}$</li>
+<li>Backlog Restante = $112 \text{ SP}$</li>
+<li>Duración del Sprint = $2 \text{ semanas}$</li>
+</ul>
+<p>$$\text{Sprints necesarios} = \frac{\text{Backlog Restante}}{\text{Velocidad}} = \frac{112 \text{ SP}}{28 \text{ SP/Sprint}} = \mathbf{4 \text{ Sprints}}$$</p>
+<ul>
+<li><strong>Tiempo Estimado:</strong> $4 \text{ Sprints} \times 2 \text{ semanas/Sprint} = \mathbf{8 \text{ Semanas}}$ de trabajo total restantes para la finalización del proyecto.</li>
+</ul>
+<p><em>(📖 Scrum Manager v2.6, págs. 37-46)</em></p>
+</details>
+
+            
+            <div class="score-calculator">
+                <h3>Calculadora de Puntaje (Autoevaluación)</h3>
+                <p>Ingresa los puntos obtenidos en cada sección para calcular tu nota final (Puntaje de aprobación: 25 puntos / 70%):</p>
+                <div class="score-row">
+                    <span>Cuestión 1 (Normativa - Máx 10 pts):</span>
+                    <input type="number" min="0" max="10" step="0.5" class="score-input" id="q1" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 2 (Higiene y ART - Máx 1.5 pts):</span>
+                    <input type="number" min="0" max="1.5" step="0.25" class="score-input" id="q2" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 3 (Caso Disciplinario - Máx 4 pts):</span>
+                    <input type="number" min="0" max="4" step="0.5" class="score-input" id="q3" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 4 (Perspectiva de Género - Máx 4.5 pts):</span>
+                    <input type="number" min="0" max="4.5" step="0.25" class="score-input" id="q4" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 5 (Evaluación Técnica - Máx 15 pts):</span>
+                    <input type="number" min="0" max="15" step="0.5" class="score-input" id="q5" oninput="calcScore()">
+                </div>
+                <div class="score-total">
+                    <span>Puntaje Total (Máximo 35):</span>
+                    <span id="total-score">0.0 / 35.0 (<span id="result-status" style="font-weight: bold; color: var(--text-muted);">Sin evaluar</span>)</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleAnswers(show) {
+            const details = document.querySelectorAll('details');
+            details.forEach(d => {
+                d.open = show;
+            });
+        }
+
+        function calcScore() {
+            const q1 = parseFloat(document.getElementById('q1').value) || 0;
+            const q2 = parseFloat(document.getElementById('q2').value) || 0;
+            const q3 = parseFloat(document.getElementById('q3').value) || 0;
+            const q4 = parseFloat(document.getElementById('q4').value) || 0;
+            const q5 = parseFloat(document.getElementById('q5').value) || 0;
+            
+            const total = q1 + q2 + q3 + q4 + q5;
+            const totalFixed = Math.min(35, total).toFixed(2);
+            
+            const statusSpan = document.getElementById('result-status');
+            if (total >= 25) {
+                statusSpan.innerHTML = "APROBADO";
+                statusSpan.style.color = "var(--success)";
+            } else {
+                statusSpan.innerHTML = "DESAPROBADO";
+                statusSpan.style.color = "red";
+            }
+            
+            document.getElementById('total-score').innerHTML = totalFixed + " / 35.0 (" + statusSpan.outerHTML + ")";
+        }
+    </script>
+</body>
+</html>

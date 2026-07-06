@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulacro de Examen Nº 1 - Municipalidad de Gral. Pueyrredón</title>
+    <style>
+        
+:root {
+    --primary: #0077c2;
+    --primary-dark: #005b94;
+    --accent: #e3f2fd;
+    --text: #333333;
+    --text-muted: #666666;
+    --bg: #f5f7fa;
+    --card-bg: #ffffff;
+    --border: #e0e0e0;
+    --success: #2e7d32;
+    --shadow: 0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.1);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primary: #4fc3f7;
+        --primary-dark: #0288d1;
+        --accent: #1a237e;
+        --text: #e0e0e0;
+        --text-muted: #aaaaaa;
+        --bg: #121212;
+        --card-bg: #1e1e1e;
+        --border: #333333;
+        --success: #81c784;
+        --shadow: 0 4px 6px rgba(0,0,0,0.3);
+    }
+}
+
+body {
+    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+    color: var(--text);
+    background-color: var(--bg);
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: var(--primary-dark);
+    color: white;
+    padding: 20px 40px;
+    box-shadow: var(--shadow);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+header .subtitle {
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
+
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.exam-card {
+    background-color: var(--card-bg);
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+    padding: 40px;
+    border: 1px solid var(--border);
+    margin-bottom: 20px;
+}
+
+h1, h2, h3 {
+    color: var(--primary-dark);
+}
+
+h2 {
+    color: var(--primary);
+    border-bottom: 2px solid var(--primary);
+    padding-bottom: 8px;
+    margin-top: 40px;
+}
+
+h3 {
+    color: var(--text);
+    margin-top: 30px;
+    border-left: 4px solid var(--primary);
+    padding-left: 12px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* Details and Summary styling for Solutions */
+details {
+    background-color: var(--accent);
+    border-left: 4px solid var(--primary);
+    border-radius: 4px;
+    margin: 20px 0;
+    padding: 15px;
+    transition: all 0.3s ease;
+}
+
+details[open] {
+    box-shadow: var(--shadow);
+    background-color: var(--card-bg);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--primary);
+}
+
+summary {
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+    user-select: none;
+    color: var(--primary-dark);
+    padding: 5px 0;
+}
+
+summary:hover {
+    color: var(--primary);
+}
+
+details p, details ul {
+    margin-top: 15px;
+}
+
+/* Print Button and utilities */
+.actions {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    justify-content: flex-end;
+}
+
+.btn {
+    background-color: var(--primary);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background-color 0.2s;
+    font-size: 0.9rem;
+}
+
+.btn:hover {
+    background-color: var(--primary-dark);
+}
+
+.btn-secondary {
+    background-color: transparent;
+    color: var(--primary);
+    border: 1px solid var(--primary);
+}
+
+.btn-secondary:hover {
+    background-color: var(--accent);
+    color: var(--primary-dark);
+}
+
+.score-calculator {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: var(--accent);
+    border-radius: 6px;
+    border: 1px solid var(--border);
+}
+
+.score-input {
+    width: 60px;
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+    text-align: center;
+    font-weight: bold;
+    background: var(--card-bg);
+    color: var(--text);
+}
+
+.score-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.score-total {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 15px;
+    border-top: 1px dashed var(--border);
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Blockquote styles */
+blockquote {
+    background: var(--accent);
+    border-left: 4px solid var(--primary);
+    margin: 1.5em 10px;
+    padding: 10px 20px;
+    font-style: italic;
+}
+
+@media print {
+    body {
+        background-color: white;
+        color: black;
+    }
+    header, .actions, .score-calculator, summary::-webkit-details-marker, details summary {
+        display: none !important;
+    }
+    .exam-card {
+        box-shadow: none !important;
+        border: none !important;
+        padding: 0 !important;
+    }
+    details {
+        background-color: transparent !important;
+        border: none !important;
+        border-left: 2px solid #333 !important;
+        page-break-inside: avoid;
+    }
+    details[open] {
+        border: none !important;
+        border-left: 2px solid #333 !important;
+    }
+    h2, h3 {
+        page-break-after: avoid;
+    }
+}
+
+    </style>
+</head>
+<body>
+    <header>
+        <div>
+            <h1>MUNICIPALIDAD DE GENERAL PUEYRREDON</h1>
+            <div class="subtitle">Concurso de Cargos Jerárquicos - Sistemas de Software</div>
+        </div>
+        <div>
+            <span class="subtitle">Simulacro 1 / 6</span>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="actions">
+            <button class="btn btn-secondary" onclick="window.print()">Imprimir Examen / PDF</button>
+            <button class="btn btn-secondary" onclick="toggleAnswers(true)">Mostrar Respuestas</button>
+            <button class="btn btn-secondary" onclick="toggleAnswers(false)">Ocultar Respuestas</button>
+        </div>
+
+        <div class="exam-card">
+            <h1>SIMULACRO DE EXAMEN Nº 1</h1>
+<p><strong>Cargo:</strong> Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
+<hr>
+<h2>CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)</h2>
+<p><em>Instrucciones: Seleccione la alternativa correcta rodeando la letra de la opción elegida. <strong>En todos los casos, solo una de las alternativas es correcta.</strong> FUNDAMENTE cada respuesta con la norma y artículo correspondiente en el espacio asignado (puedes consultar tu marco teórico).</em></p>
+<h3>1. La Administración local de los Partidos que forman la Provincia de Buenos Aires estará a cargo de una Municipalidad compuesta por:</h3>
+<ul>
+<li>a) Un Departamento Ejecutivo, desempeñado por un ciudadano con el título de Intendente, un Departamento Deliberativo, desempeñado por ciudadanos con el título de Concejal, y un Departamento Judicial desempeñado por ciudadanos con el título de Jueces de Faltas.</li>
+<li>b) Un Departamento Ejecutivo, desempeñado por un ciudadano con el título de Intendente, y un Departamento Deliberativo, desempeñado por ciudadanos con el título de Concejal.</li>
+<li>c) Un Departamento Ejecutivo, desempeñado por un ciudadano con el título de Intendente.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>2. De acuerdo con la Ley Orgánica de las Municipalidades (L.O.M. Decreto-Ley 6769/58), el patrimonio municipal está constituido por:</h3>
+<ul>
+<li>a) Bienes muebles e inmuebles exclusivamente.</li>
+<li>b) Bienes inmuebles, muebles, semovientes, créditos, títulos y acciones adquiridos a título oneroso o gratuito, y las donaciones y legados aceptados.</li>
+<li>c) Bienes inmuebles y muebles adquiridos a título oneroso, excluyendo las donaciones.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>3. El Honorable Tribunal de Cuentas de la Provincia de Buenos Aires podrá imponer a los funcionarios y empleados municipales, según la L.O.M., las siguientes sanciones:</h3>
+<ul>
+<li>a) Solamente llamados de atención y amonestaciones.</li>
+<li>b) Solamente inhabilitación para el ejercicio de empleo municipal.</li>
+<li>c) Solamente cargos pecuniarios.</li>
+<li>d) Cargos pecuniarios y multas exclusivamente.</li>
+<li>e) Cargos pecuniarios, llamados de atención, amonestaciones, multas, y otros previstos por ley.</li>
+<li>f) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>4. Una Ordenanza es una norma legal municipal que posee la siguiente característica:</h3>
+<ul>
+<li>a) Es una norma dictada por el Intendente Municipal para regular el funcionamiento de una dependencia particular.</li>
+<li>b) Es una decisión de carácter interno adoptada por un Director General para organizar a su personal.</li>
+<li>c) Es sancionada por el Departamento Deliberativo (Concejo Deliberante) de acuerdo con las atribuciones de la Constitución Provincial y la Ley Orgánica de las Municipalidades.</li>
+<li>d) Es una instrucción técnica del área de Sistemas sobre el uso del software municipal.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>5. Para la redacción de documentación administrativa en la Municipalidad de General Pueyrredón, según el Manual de Redacción vigente (Decreto 966/19), los nombres de las personas físicas se escriben de la siguiente manera:</h3>
+<ul>
+<li>a) Completos con letras mayúsculas, en el orden de nombres y luego apellidos, indicando siempre el número de DNI al final.</li>
+<li>b) Completos con letras mayúsculas y siempre en un orden, es decir, primero los apellidos y luego los nombres. Si se mencionan nombres de agentes municipales, se consignará a continuación el número de legajo.</li>
+<li>c) En formato tipo título (Mayúscula inicial), primero el apellido y luego los nombres, sin necesidad de consignar legajo para evitar la exposición de datos personales.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>6. En relación a los expedientes digitales en el marco de la Ordenanza General 26348 (Procedimiento Administrativo Municipal):</h3>
+<ul>
+<li>a) Los expedientes digitales podrán abarcar un número de orden que no exceda de doscientos (200) documentos adjuntos.</li>
+<li>b) Podrán abarcar un número de orden ilimitado de documentos. Cada uno de ellos, además, podrá tener tantos documentos adjuntos como soporte el tipo de documento seleccionado, formando parte de la actuación principal con el mismo valor legal.</li>
+<li>c) Podrán abarcar un número de orden ilimitado, pero no podrán tener más de diez (10) documentos adjuntos como soporte en total.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>7. Un empleado a su cargo se encuentra sumariado administrativamente por presuntas irregularidades. Dicho sumario se encuentra a la fecha en trámite sin resolución definitiva. El empleado le presenta una solicitud formal de reencasillamiento para pasar de su cargo actual de Técnico II a Técnico III. Usted como Jefe de Departamento:</h3>
+<ul>
+<li>a) Rechaza de plano la solicitud que le presenta debido a su condición de sumariado.</li>
+<li>b) Acepta la solicitud que le presenta y le da el curso correspondiente de acuerdo al trámite ordinario.</li>
+<li>c) Acepta la solicitud, pero suspende su tramitación y no le da curso hasta tanto recaiga resolución definitiva en el sumario.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>8. Un agente de soporte técnico bajo su dependencia mantiene una discusión acalorada con un agente administrativo del área de Salud y le falta el respeto verbalmente en presencia de varios testigos. La falta queda debidamente constatada. Como Jefe de Departamento, ¿qué sanciones correctivas directas puede aplicarle al agente sin necesidad de iniciar sumario?</h3>
+<ul>
+<li>a) Llamado de atención únicamente.</li>
+<li>b) Llamado de atención o apercibimiento.</li>
+<li>c) Suspensión de hasta 10 días corridos de forma directa.</li>
+<li>d) Llamado de atención, apercibimiento o suspensión de hasta 5 días corridos.</li>
+<li>e) Descuento del día de haberes sin más trámite.</li>
+<li>f) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>9. Un empleado a su cargo llega 12 minutos tarde respecto del horario de inicio de su jornada laboral. Es la primera vez que ocurre esto en el mes calendario. Como Jefe de Departamento, ¿cuál es la medida a tomar?</h3>
+<ul>
+<li>a) Debe aplicarle un apercibimiento por escrito debido al retraso injustificado.</li>
+<li>b) Debe suspenderlo por 1 día sin goce de haberes por llegar tarde.</li>
+<li>c) Se considera una tardanza justificada dentro del régimen de tolerancias mensuales y no corresponde aplicar sanción disciplinaria directa (aunque sí el registro respectivo del horario).</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>10. Un agente a su cargo llega 40 minutos tarde a registrar su ingreso a la jornada laboral. De acuerdo a la reglamentación vigente de control horario de la MGP (Decreto 121/18), dicho agente:</h3>
+<ul>
+<li>a) Puede ingresar a prestar servicios normalmente y compensar los 40 minutos al final de la jornada.</li>
+<li>b) Puede quedarse a prestar servicios siempre y cuando la situación se deba a fuerza mayor debidamente acreditada y sea autorizada por su superior jerárquico.</li>
+<li>c) No puede bajo ninguna circunstancia quedarse a prestar servicios y se le computará inasistencia injustificada.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h2>CUESTION Nº 2: CASO SITUACIONAL DE HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)</h2>
+<p><em>Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.</em></p>
+<blockquote>
+<p>Un agente de soporte técnico de su dependencia, mientras se trasladaba por un pasillo común del edificio municipal para reparar una PC de otra oficina, resbala debido a que el piso estaba mojado y recién limpio (sin carteles de advertencia), sufriendo una fractura de cadera que le impide trabajar.</p>
+<p>Se solicita:</p>
+<ol>
+<li>Indique si dicha situación configura un accidente de trabajo de acuerdo a la legislación vigente y fundamente su respuesta.</li>
+<li>Identifique quién es el responsable de brindar las prestaciones médicas y farmacéuticas, y cuál es la norma nacional aplicable.</li>
+</ol>
+</blockquote>
+<hr>
+<h2>CUESTION Nº 3: CASO PRÁCTICO ADMINISTRATIVO Y REDACCIÓN (4 Puntos)</h2>
+<p><em>Consigna: Resuelva el caso de falta disciplinaria y redacte el acto administrativo correspondiente.</em></p>
+<blockquote>
+<p>Usted como Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software constata que uno de los programadores a su cargo (Agente M.A., Legajo Nº 99.999, Categoría Técnico II) se ausentó de la oficina municipal en su horario habitual de trabajo. Al realizar una búsqueda exhaustiva del agente en las dependencias de la secretaría no lo encuentra. Tampoco registra fichada de salida ni solicitud de retiro autorizada. Posteriormente, se entera y constata mediante testigos que el agente se encontraba dictando una clase docente arancelada en un instituto universitario privado en dicho horario.</p>
+<p>Teniendo en cuenta que el agente no registra antecedentes disciplinarios previos en su legajo y que usted decide aplicarle la <strong>sanción correctiva máxima</strong> permitida para su rango jerárquico como Jefe de Departamento.</p>
+<p>Se solicita:</p>
+<ol>
+<li>Indique el procedimiento formal que debe seguir a partir de la constatación de la falta, mencionando los plazos involucrados para garantizar el derecho de defensa del agente (debido proceso). (1.5 Puntos)</li>
+<li>Redacte formalmente el acto administrativo (Disposición) mediante el cual aplica la sanción al agente. El texto debe contar con los elementos estructurales obligatorios: <code>VISTO</code>, <code>CONSIDERANDO</code>, y la parte dispositiva (<code>DISPONE</code>), de conformidad con la Ley 14656 y las normas de redacción municipal. Asimismo, informe si requiere dictamen jurídico previo. (2.5 Puntos)</li>
+</ol>
+</blockquote>
+<hr>
+<h2>CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA EN EL ÁMBITO LABORAL (4.5 Puntos)</h2>
+<p><em>Consigna: Responda las siguientes preguntas justificando con el marco normativo nacional, provincial y municipal correspondiente (Ley Micaela y Ordenanza municipal 24271).</em></p>
+<ol>
+<li>Explique qué implicancia posee la capacitación en violencia de género sobre la carrera administrativa de los agentes públicos municipales y en qué norma se establece. (1.5 Puntos)</li>
+<li>¿Es verdadero o falso que si un agente público municipal se niega de manera injustificada a realizar las capacitaciones sobre género establecidas por la Ley Micaela puede ser pasible de sanciones disciplinarias? Fundamente con la norma. (1.5 Puntos)</li>
+<li>Si usted como Jefe de Departamento recibe una denuncia de una agente bajo su cargo motivada en violencia laboral por razones de género en el área, ¿cuáles son los principios de abordaje inmediatos y las primeras diligencias que debe adoptar de acuerdo al protocolo municipal (Ordenanza 24271)? (1.5 Puntos)</li>
+</ol>
+<hr>
+<h2>CUESTION Nº 5: EVALUACIÓN TÉCNICA (15 Puntos - 3 Puntos c/u)</h2>
+<p><em>Consigna: Responda de manera clara y precisa las siguientes preguntas basadas en la bibliografía oficial del cargo (Kendall &amp; Kendall 8va Edición y Scrum Manager v2.6).</em></p>
+<ol>
+<li><strong>Metodologías de Desarrollo (Kendall &amp; Kendall):</strong> Defina el Ciclo de Vida del Desarrollo de Sistemas (SDLC) tradicional en cascada de Kendall &amp; Kendall y contrástelo con el enfoque Ágil/XP (Programación Extrema). ¿Cuáles son las diferencias clave en cuanto a la respuesta al cambio y el involucramiento del cliente?</li>
+<li><strong>Marco Scrum (Scrum Manager):</strong> Defina y describa los roles fundamentales que componen un Scrum Team (Product Owner, Scrum Master, Developers). Explique brevemente la responsabilidad principal de cada uno en el proyecto.</li>
+<li><strong>Modelado de Requerimientos con UML (Kendall &amp; Kendall):</strong> Explique el propósito de un Diagrama de Casos de Uso en UML. Defina sus componentes principales (Actores, Casos de Uso, relaciones <code>&lt;&lt;include&gt;&gt;</code> e <code>&lt;&lt;exclude&gt;&gt;/&lt;&lt;extend&gt;&gt;</code>) y represente textualmente un caso de uso práctico para un &quot;Sistema Municipal de Gestión de Tickets de Soporte&quot;.</li>
+<li><strong>Ceremonias del Sprint (Scrum Manager):</strong> Describa las ceremonias del Sprint: <em>Sprint Planning</em> y <em>Daily Scrum</em>. Indique para cada una su propósito principal, la duración recomendada y quiénes están obligados a participar.</li>
+<li><strong>Cálculo Práctico de Planificación Ágil:</strong><blockquote>
+<p>Un equipo de desarrollo a su cargo debe implementar un nuevo módulo de Firma Digital en el sistema municipal de expedientes. El backlog estimado y priorizado suma un total de <strong>180 puntos de historia (Story Points)</strong>. La velocidad promedio histórica del equipo es de <strong>24 puntos de historia por Sprint</strong>, y cada Sprint tiene una duración establecida de <strong>2 semanas</strong>.</p>
+<p>Resuelva los siguientes cálculos:
+a) Calcule la cantidad de Sprints necesarios para entregar el backlog completo y el tiempo estimado en semanas de trabajo.<br>b) Suponga que al iniciar el Sprint 3, un programador clave (Senior) se enferma por un Sprint completo, lo que reduce la capacidad de desarrollo del equipo a la mitad durante esas 2 semanas. Si en el Sprint 3 la velocidad del equipo cae a 12 puntos de historia, y luego del Sprint 3 recupera su velocidad histórica normal, calcule el nuevo total de sprints necesarios y el impacto temporal (en semanas de retraso, si existiera).</p>
+</blockquote>
+</li>
+</ol>
+<hr>
+<hr>
+<h2>GUÍA DE RESPUESTAS Y SOLUCIONES EXPLICADAS (INFORMACIÓN OCULTA PARA AUTOEVALUACIÓN)</h2>
+<details>
+<summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary><h3>1. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), <strong>Artículo 1º</strong>: <em>&quot;La administración local de los partidos que forman la Provincia estará a cargo de una Municipalidad, compuesta de un Departamento Ejecutivo, desempeñado por un ciudadano con el título de Intendente Municipal y un Departamento Deliberativo, desempeñado por ciudadanos con el título de Concejal...&quot;</em>. El Departamento Judicial (o Jueces de Faltas) no forman un &quot;poder&quot; independiente del municipio de rango constitucional/legal autónomo en la composición orgánica de la LOM, sino que dependen administrativamente del Departamento Ejecutivo.
+<em>(📋 Verificar en texto oficial de Decreto-Ley 6769/58 - L.O.M.)</em></li>
+</ul>
+<h3>2. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículo 225º</strong>: <em>&quot;El patrimonio de la Municipalidad se compone de sus bienes muebles e inmuebles, semovientes, créditos, títulos y acciones adquiridos por cualquier título legítimo; de las donaciones o legados aceptados...&quot;</em>.
+<em>(📋 Verificar en texto oficial de Decreto-Ley 6769/58 - L.O.M.)</em></li>
+</ul>
+<h3>3. Respuesta Correcta: <strong>e</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículo 243º</strong>: <em>&quot;Las sanciones que aplicará el Tribunal de Cuentas serán: 1º Llamados de atención; 2º Amonestaciones; 3º Multas; 4º Cargos pecuniarios...&quot;</em>. Las multas y cargos pecuniarios son independientes y acumulables a otras llamadas de atención administrativas.
+<em>(📋 Verificar en texto oficial de Decreto-Ley 6769/58 - L.O.M.)</em></li>
+</ul>
+<h3>4. Respuesta Correcta: <strong>c</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículo 24º</strong>: <em>&quot;Corresponde a la función deliberativa sancionar las ordenanzas y disposiciones, sobre la base de las atribuciones que fija la Constitución y la presente Ley...&quot;</em>. Las ordenanzas son normas de carácter general sancionadas por el H.C.D. que tienen fuerza de ley local.
+<em>(📋 Verificar en texto oficial de Decreto-Ley 6769/58 - L.O.M.)</em></li>
+</ul>
+<h3>5. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto 966/19 de la MGP (Manual de Redacción Administrativa), <strong>Anexo I, Capítulo II, Inciso 16</strong>: <em>&quot;Los nombres de personas físicas... se escribirán siempre en el orden de primero apellidos y luego nombres, completos y en letras mayúsculas. Cuando se trate de agentes municipales se hará constar a continuación del nombre, su correspondiente número de legajo...&quot;</em>.
+<em>(📋 Verificar en texto oficial de Decreto 966/19 - Manual de Redacción Administrativa MGP)</em></li>
+</ul>
+<h3>6. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ordenanza General 26348 (Procedimiento Administrativo Municipal), <strong>Anexo I, Capítulo III, Artículo 41</strong> (regulación de la digitalización de actuaciones y expedientes electrónicos): Los expedientes digitales no se limitan a 200 folios como el expediente de papel histórico, permitiendo un número de orden ilimitado de documentos con idéntico valor legal que los originales.
+<em>(📋 Verificar en texto oficial de Ordenanza General 26348)</em></li>
+</ul>
+<h3>7. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley 14656 (Estatuto del Empleo Público Municipal), <strong>Artículo 25º</strong> y concordantes. El derecho a la carrera y el principio de inocencia determinan que el procesamiento o sumario administrativo en trámite no suspende de por sí los derechos estatutarios del agente (como el derecho a presentarse o solicitar reencasillamientos y promociones), a menos que exista una suspensión preventiva dictada por resolución fundada del Intendente o que la sanción firme sea cesantía/exoneración.
+<em>(📋 Verificar en texto oficial de Ley 14656)</em></li>
+</ul>
+<h3>8. Respuesta Correcta: <strong>d</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley 14656, <strong>Artículos 105º y 106º</strong>, en concordancia con el Decreto Reglamentario Municipal <strong>1539/18, Artículo 1º, Inciso c</strong>. Las sanciones correctivas menores de llamado de atención, apercibimiento y suspensión de hasta 5 días pueden ser aplicadas de forma directa por el superior jerárquico inmediato con rango de Jefe de Departamento, previa sustanciación del descargo del agente, sin necesidad de sumario previo (el cual es obligatorio a partir de 6 o más días de suspensión).
+<em>(📋 Verificar en texto oficial de Ley 14656 y Decreto MGP 1539/18)</em></li>
+</ul>
+<h3>9. Respuesta Correcta: <strong>c</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley 14656 y Decreto Reglamentario MGP <strong>121/18, Artículo 4º</strong> (Control Horario). Las llegadas tarde que no superen los 15 minutos se consideran tolerancias naturales. Un agente tiene permitidas hasta 3 llegadas tarde de hasta 15 minutos en el mes sin que configure falta pasible de apercibimiento directo, registrándose la misma y procediendo al descuento del tiempo no trabajado si no fuera compensado o justificado debidamente.
+<em>(📋 Verificar en texto oficial de Decreto MGP 121/18)</em></li>
+</ul>
+<h3>10. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>121/18, Artículo 3º</strong>: <em>&quot;El agente que registre su ingreso superando la tolerancia de quince (15) minutos no podrá quedarse a prestar servicios, computándosele inasistencia injustificada, salvo que se configure caso de fuerza mayor debidamente acreditado y resuelto favorablemente por el superior jerárquico...&quot;</em>.
+<em>(📋 Verificar en texto oficial de Decreto MGP 121/18)</em></li>
+</ul>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 2: Caso Higiene, Seguridad y ART</b></summary><h3>1. Configuración de Accidente de Trabajo:</h3>
+<p><strong>Sí, configura un accidente de trabajo.</strong> </p>
+<ul>
+<li><strong>Fundamento Jurídico:</strong> De acuerdo con la <strong>Ley Nacional de Riesgos del Trabajo Nº 24557, Artículo 6º, Inciso 1</strong>: <em>&quot;Se considera accidente de trabajo a todo acontecimiento súbito y violento ocurrido por el hecho o en ocasión del trabajo...&quot;</em>. En este escenario, el resbalón ocurrió <em>en ocasión del trabajo</em>, ya que el agente se encontraba realizando tareas laborales encomendadas (trasladarse a reparar una PC) dentro del establecimiento de la Municipalidad (lugar de trabajo) y durante el horario laboral.</li>
+</ul>
+<h3>2. Responsabilidad de Cobertura Médica:</h3>
+<p>El responsable legal de brindar las prestaciones médicas, asistenciales y farmacéuticas de forma integral es la <strong>Aseguradora de Riesgos del Trabajo (ART)</strong> contratada por la Municipalidad de General Pueyrredón.</p>
+<ul>
+<li><strong>Norma Aplicable:</strong> <strong>Ley 24557, Artículo 20º</strong> (Prestaciones en especie). La ART debe proveer asistencia médica y farmacéutica, prótesis y ortopedia, rehabilitación, recalificación profesional y servicio funerario en caso de fallecimiento, cubriendo al 100% el tratamiento sin costo para el agente municipal.</li>
+</ul>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 3: Caso Práctico Disciplinario y Acto Administrativo</b></summary><h3>1. Procedimiento Disciplinario y Plazos (Debido Proceso)</h3>
+<p>De acuerdo a la <strong>Ley 14656 (Artículos 105, 106 y concordantes)</strong> y el procedimiento administrativo municipal (Ordenanza General 26348):</p>
+<ol>
+<li><strong>Constatación y Reporte:</strong> El Jefe de Departamento debe redactar un informe detallado indicando fecha, hora y circunstancias de la ausencia del agente M.A. y adjuntar la prueba (planilla de reloj biométrico sin salida, actas de constatación de ausencia firmadas).</li>
+<li><strong>Traslado para Descargo:</strong> Se debe notificar al agente de la falta imputada dándole <strong>vista de las actuaciones por un plazo de cinco (5) días hábiles</strong> (o el plazo reglamentario menor que disponga el municipio para sanciones menores, que no puede ser inferior a 48 horas bajo la Ordenanza 26348 para asegurar defensa) para que presente su descargo por escrito y ofrezca la prueba que haga a su derecho.</li>
+<li><strong>Evaluación de Pruebas:</strong> Presentado el descargo o vencido el plazo sin presentación del mismo, el superior jerárquico evalúa los argumentos.</li>
+<li><strong>Emisión de Acto Administrativo:</strong> Si el descargo no justifica la falta, el Jefe de Departamento procede a dictar la <strong>Disposición</strong> aplicando la sanción máxima de su competencia: <strong>5 días de suspensión sin goce de haberes</strong> (Art. 106 de la Ley 14656 y delegación de decretos locales).</li>
+<li><strong>Notificación y Recurso:</strong> Se notifica fehacientemente al agente. Este tiene 10 días para interponer recurso de revocatoria/jerárquico.</li>
+</ol>
+<hr>
+<h3>2. Redacción del Acto Administrativo (Disposición)</h3>
+<p><strong>MAR DEL PLATA,</strong> [Insertar Fecha]</p>
+<p><strong>VISTO</strong> la ausencia injustificada del Agente M.A., Legajo Nº 99.999, Categoría Técnico II, constatada el día [Insertar fecha del hecho] por la Jefatura del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software; y</p>
+<p><strong>CONSIDERANDO:</strong></p>
+<p>Que con fecha [Fecha del hecho], a las [Hora], se constató la ausencia física del citado agente de su puesto habitual de tareas en este Departamento, sin que conste en el sistema biométrico de control horario registro de egreso alguno ni autorización escrita de salida extendida por esta Jefatura.</p>
+<p>Que al realizarse la verificación de las causales de la ausencia, se constató mediante acta e informes complementarios que el agente M.A. se encontraba desempeñando funciones docentes aranceladas en el instituto universitario privado [Nombre del Instituto] durante la jornada laboral municipal.</p>
+<p>Que esta conducta configura una grave transgresión a las obligaciones previstas en la Ley Nº 14656, en particular su Artículo 107º, Inciso 1 (prestar servicio con eficiencia, capacidad y diligencia en el lugar y horario asignados) y el régimen de incompatibilidades horarias.</p>
+<p>Que para garantizar la garantía constitucional del Debido Proceso y de la Defensa en Juicio (Artículo 15 de la Constitución de la Provincia de Buenos Aires y Ordenanza 26348), se corrió traslado de los hechos imputados al agente para que efectúe su correspondiente descargo por el término reglamentario.</p>
+<p>Que el agente M.A. presentó su descargo dentro del plazo estipulado, sin aportar elementos de prueba ni argumentos válidos de fuerza mayor que justifiquen su ausencia durante el horario de labor asignado, argumentando únicamente compromisos de índole privada.</p>
+<p>Que al no poseer el agente antecedentes disciplinarios desfavorables registrados en su legajo y valorando la gravedad del hecho en función de la incompatibilidad de tareas, se estima pertinente aplicar la sanción de suspensión de cinco (5) días corridos sin goce de sueldo, siendo esta la máxima medida correctiva que se encuentra delegada en las Jefaturas de Departamento bajo el Decreto local de atribuciones disciplinarias.</p>
+<p>Por ello, en uso de las atribuciones delegadas mediante el Decreto Nº 916/20 y Decreto Nº 1539/18,</p>
+<p><strong>EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE</strong></p>
+<p><strong>D I S P O N E:</strong></p>
+<p><strong>ARTÍCULO 1º.-</strong> Aplicar al Agente <strong>M.A.</strong>, Legajo Nº <strong>99.999</strong>, Categoría <strong>Técnico II</strong> del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, la sanción disciplinaria de <strong>cinco (5) días de suspensión sin goce de haberes</strong>, por haber infringido los deberes contenidos en el Artículo 107º, Inciso 1 de la Ley 14656 y el régimen de incompatibilidad horaria el día [Fecha del hecho].</p>
+<p><strong>ARTÍCULO 2º.-</strong> Disponer que la sanción aplicada en el artículo precedente se hará efectiva una vez transcurridos diez (10) días hábiles desde su notificación formal, a efectos de permitir el ejercicio de las vías recursivas correspondientes previstas en la Ordenanza General 26348.</p>
+<p><strong>ARTÍCULO 3º.-</strong> Registrar en el Legajo de Personal del Agente, notificar al interesado con copia de la presente de acuerdo con el Artículo 62º de la Ordenanza General 26348, girar a la Dirección de Personal de la Municipalidad para su toma de razón y archivar.</p>
+<p><strong>DISPOSICIÓN Nº</strong> [Dejar espacio para número]</p>
+<p><em>Firma y Sello del Jefe de Departamento</em></p>
+<hr>
+<h4><strong>Información sobre Dictamen Legal Previo:</strong></h4>
+<p><strong>No se requiere de manera obligatoria un dictamen jurídico previo</strong> de la Dirección de Asuntos Jurídicos o Procuración Municipal para sanciones directas correctivas de hasta 5 días de suspensión (sanciones menores). El dictamen jurídico previo es un requisito formal insoslayable únicamente para la aplicación de sanciones expulsivas (cesantía o exoneración) o sanciones que excedan los 10 días de suspensión que impliquen la sustanciación obligatoria de un sumario administrativo formal (Art. 108 de la Ley 14656).</p>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Protocolo MGP</b></summary><h3>1. Implicancia de la capacitación en género:</h3>
+<ul>
+<li><strong>Implicancia:</strong> La formación y capacitación en género tiene carácter <strong>obligatorio y permanente</strong>. Su principal implicancia en la carrera administrativa es que <strong>es un requisito obligatorio para la promoción a niveles superiores por concurso o para la progresión de categorías</strong>. Ningún agente que deba ascender o concursar un cargo jerárquico (como el de Jefe de Departamento) podrá hacerlo sin acreditar haber cumplimentado esta capacitación.</li>
+<li><strong>Normativa:</strong> <strong>Ley Provincial 15134 (Adhesión a Ley Micaela), Artículo 3º</strong> y <strong>Ley Nacional 27499, Artículo 1º</strong>.</li>
+</ul>
+<h3>2. Sanción ante la negativa a capacitarse:</h3>
+<ul>
+<li><strong>Afirmación: VERDADERA.</strong></li>
+<li><strong>Fundamento Normativo:</strong> <strong>Ley 27499 (Ley Micaela), Artículo 8º</strong>: Las personas que se negaren sin causa justa a realizar las capacitaciones previstas serán intimadas en forma fehaciente por la autoridad de aplicación. <em>&quot;El incumplimiento de dicha intimación sin causa justa dará lugar a la sanción disciplinaria pertinente y a hacer pública la negativa en la página web...&quot;</em>. Al considerarse la capacitación un deber y carga pública del empleo estatal, la negativa reiterada es un incumplimiento de los deberes de agente público.</li>
+</ul>
+<h3>3. Diligencias del Superior Jerárquico ante Denuncia de Violencia de Género (Ordenanza 24271):</h3>
+<p>Al recibir una denuncia de violencia laboral o acoso por razones de género, el Jefe de Departamento debe actuar conforme al Protocolo Municipal (Ord. 24271):</p>
+<ul>
+<li><strong>Principios de Abordaje:</strong><ol>
+<li><strong>Confidencialidad:</strong> Garantizar absoluta reserva del trámite y de la identidad de las personas para proteger la integridad psicofísica y laboral de la denunciante.</li>
+<li><strong>No Revictimización:</strong> Evitar que la persona afectada deba reiterar su relato ante distintas dependencias o personas si no es estrictamente indispensable.</li>
+<li><strong>Respeto y Escucha Activa:</strong> Creer en el relato de la denunciante y brindar contención sin emitir juicios de valor.</li>
+</ol>
+</li>
+<li><strong>Diligencias Inmediatas:</strong><ol>
+<li><strong>Recepción:</strong> Registrar la denuncia de forma verbal o escrita preservando las actas bajo sobre cerrado o trámite reservado en GDE.</li>
+<li><strong>Derivación Urgente:</strong> Girar las actuaciones en un plazo no mayor a 24/48 horas a la <strong>Dirección de Políticas de Género</strong> municipal o al equipo interdisciplinario especializado para su abordaje profesional.</li>
+<li><strong>Medidas de Protección Preventivas:</strong> Evaluar y proponer medidas cautelares organizativas provisionales (por ejemplo, cambios de turno, reubicación física de escritorios o dependencias del denunciado, o de la denunciante si esta lo solicita expresamente), garantizando que no se alteren desfavorablemente las condiciones laborales de la víctima (mantener jerarquía, tareas y salario).</li>
+</ol>
+</li>
+</ul>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación Técnica (Kendall & Kendall y Scrum)</b></summary><h3>1. SDLC tradicional vs Enfoque Ágil/XP (Kendall &amp; Kendall)</h3>
+<ul>
+<li><strong>Ciclo de Vida de Desarrollo de Sistemas (SDLC) tradicional:</strong> Es un enfoque sistemático y secuencial en fases estructuradas: 1) Identificación de problemas, 2) Determinación de requerimientos humanos de información, 3) Análisis de necesidades del sistema, 4) Diseño del sistema recomendado, 5) Desarrollo y documentación del software, 6) Pruebas y mantenimiento, 7) Implantación y evaluación. Es altamente rígido: cada fase debe cerrarse antes de pasar a la siguiente (Cascada).</li>
+<li><strong>Enfoque Ágil/XP (Programación Extrema):</strong> Se basa en valores como comunicación, simplicidad, retroalimentación y valor. Las fases son iterativas y superpuestas. Los ciclos de desarrollo son muy cortos (entregas en semanas).</li>
+<li><strong>Diferencias Clave:</strong><ul>
+<li><strong>Respuesta al cambio:</strong> El SDLC tradicional asume que los requerimientos se congelan al inicio y cambiar el diseño más tarde es muy costoso. El enfoque Ágil/XP abraza el cambio y asume que los requerimientos evolucionan conforme avanza el proyecto.</li>
+<li><strong>Involucramiento del cliente:</strong> En el SDLC el cliente participa activamente al principio (requerimientos) y al final (entrega). En Ágil/XP, el cliente (u &quot;On-site customer&quot;) forma parte activa y cotidiana del equipo de desarrollo, proporcionando retroalimentación continua en cada iteración.</li>
+</ul>
+</li>
+</ul>
+<p><em>(📖 Kendall &amp; Kendall, Cap. 1, págs. 8-11 — SDLC Cascada; Cap. 2, págs. 55-75 — Programación Extrema/XP)</em></p>
+<hr>
+<h3>2. Roles en Scrum (Scrum Manager v2.6)</h3>
+<ul>
+<li><strong>Product Owner (Dueño de Producto):</strong> Es el responsable de maximizar el valor del producto resultante del trabajo del Scrum Team. Administra el <em>Product Backlog</em>: escribe las historias de usuario, las prioriza, decide el orden de implementación y es el único autorizado para aceptar o rechazar los incrementos desarrollados basándose en los criterios de aceptación. Representa a los stakeholders y clientes.</li>
+<li><strong>Scrum Master (Facilitador/Líder de Servicio):</strong> Es el responsable de asegurar que Scrum se entienda y se adopte correctamente. Actúa como un facilitador y coach del equipo. Su rol principal es <strong>eliminar impedimentos</strong> que obstaculicen el progreso de los desarrolladores, proteger al equipo de interferencias externas y fomentar la autorganización.</li>
+<li><strong>Equipo de Desarrollo (Developers / Célula de Desarrollo):</strong> Es el grupo de profesionales multidisciplinarios y autorganizados responsables de realizar el trabajo técnico necesario para entregar un &quot;Incremento&quot; de software potencialmente desplegable y terminado al final de cada Sprint. Tienen la autonomía de decidir <em>cómo</em> transformar los elementos del Product Backlog en incrementos de valor.</li>
+</ul>
+<p><em>(📖 Scrum Manager v2.6, Parte I, págs. 32-33 — Product Owner, Scrum Master y Developers)</em></p>
+<hr>
+<h3>3. Diagrama de Casos de Uso en UML (Kendall &amp; Kendall)</h3>
+<ul>
+<li><strong>Propósito:</strong> Modelar los requerimientos funcionales del sistema desde el punto de vista del usuario final (actores), describiendo <em>qué</em> hace el sistema sin detallar <em>cómo</em> lo hace.</li>
+<li><strong>Componentes Principales:</strong><ul>
+<li><strong>Actor:</strong> Rol externo que interactúa con el sistema (representado por un monigote).</li>
+<li><strong>Caso de Uso:</strong> Unidad de funcionalidad del sistema que proporciona un resultado observable y de valor para un actor (representado por una elipse).</li>
+<li><strong>Relación de Asociación:</strong> Línea que conecta un actor con un caso de uso indicando interacción.</li>
+<li><strong>Relación <code>&lt;&lt;include&gt;&gt;</code> (Inclusión):</strong> Relación jerárquica obligatoria donde un caso de uso origen incorpora explícitamente el comportamiento de otro caso de uso destino.</li>
+<li><strong>Relación <code>&lt;&lt;extend&gt;&gt;</code> o <code>&lt;&lt;exclude&gt;&gt;</code> (Extensión):</strong> Relación condicional donde un caso de uso origen puede extender su comportamiento con otro caso de uso secundario solo si se cumple una condición específica.</li>
+</ul>
+</li>
+<li><strong>Ejemplo Práctico de Casos de Uso (Texto):</strong><ul>
+<li><strong>Actor:</strong> Agente Municipal de Soporte (Mesa de Entradas) / Contribuyente.</li>
+<li><strong>Casos de Uso principales:</strong><ul>
+<li><code>Caso de Uso 1: Crear Ticket de Soporte</code></li>
+<li><code>Caso de Uso 2: Validar Identidad de Usuario</code></li>
+<li><code>Caso de Uso 3: Adjuntar Captura de Pantalla (Opcional)</code></li>
+</ul>
+</li>
+<li><strong>Relaciones:</strong><ul>
+<li>El <code>Agente de Soporte</code> está asociado a <code>Crear Ticket de Soporte</code>.</li>
+<li><code>Crear Ticket de Soporte</code> tiene una relación <code>&lt;&lt;include&gt;&gt;</code> con <code>Validar Identidad de Usuario</code> (siempre se debe validar al usuario al crear el ticket).</li>
+<li><code>Crear Ticket de Soporte</code> tiene una relación <code>&lt;&lt;extend&gt;&gt;</code> con <code>Adjuntar Captura de Pantalla</code> (solo ocurre si el usuario desea agregar una imagen del error de forma opcional).</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><em>(📖 Kendall &amp; Kendall, Cap. 2, págs. 35-42 — Actores, Casos de Uso, relaciones include/extend)</em></p>
+<hr>
+<h3>4. Ceremonias del Sprint (Scrum Manager)</h3>
+<ul>
+<li><strong>Sprint Planning (Planificación del Sprint):</strong><ul>
+<li><strong>Propósito:</strong> Definir qué trabajo se va a realizar durante el Sprint (Sprint Goal) y detallar cómo se llevará a cabo dicho trabajo en tareas específicas (Sprint Backlog).</li>
+<li><strong>Duración típica:</strong> Máximo 8 horas para Sprints de 1 mes (proporcionalmente menor para sprints más cortos, ej. 4 horas para un sprint de 2 semanas).</li>
+<li><strong>Participantes:</strong> Todo el Scrum Team (Product Owner presenta prioridades, Developers estiman y seleccionan ítems, Scrum Master facilita).</li>
+</ul>
+</li>
+<li><strong>Daily Scrum (Reunión Diaria):</strong><ul>
+<li><strong>Propósito:</strong> Inspeccionar el progreso hacia el objetivo del Sprint (<em>Sprint Goal</em>) y adaptar el plan de trabajo diario para las próximas 24 horas. Los desarrolladores coordinan sus tareas diarias y exponen impedimentos.</li>
+<li><strong>Duración típica:</strong> Estrictamente <strong>15 minutos</strong> diarios (reunión de pie / time-boxed).</li>
+<li><strong>Participantes:</strong> Obligatoriamente los <strong>Developers</strong>. El Scrum Master facilita que se realice y respete el tiempo pero no interviene obligatoriamente, al igual que el Product Owner, a menos que realicen tareas de desarrollo activas en ese Sprint.</li>
+</ul>
+</li>
+</ul>
+<p><em>(📖 Scrum Manager v2.6, Parte I, págs. 27-28 — Sprint Planning; pág. 29 — Daily Scrum)</em></p>
+<hr>
+<h3>5. Resolución de Cálculo Práctico de Planificación Ágil</h3>
+<h4><strong>a) Cálculo de Sprints y Tiempo Estimado:</strong></h4>
+<ul>
+<li>Backlog Total = $180 \text{ Puntos de Historia (SP)}$</li>
+<li>Velocidad Promedio = $24 \text{ SP/Sprint}$</li>
+<li>Duración del Sprint = $2 \text{ semanas}$</li>
+</ul>
+<p>$$\text{Cantidad de Sprints} = \frac{\text{Backlog Total}}{\text{Velocidad}} = \frac{180 \text{ SP}}{24 \text{ SP/Sprint}} = 7.5 \text{ Sprints}$$</p>
+<p>Dado que no se pueden realizar fracciones de Sprint para completar el trabajo, el resultado se redondea hacia arriba:</p>
+<ul>
+<li><strong>Sprints Necesarios:</strong> <strong>8 Sprints</strong> (el Sprint 8 será un Sprint parcial donde se completarán los 12 puntos de historia restantes).</li>
+<li><strong>Tiempo Estimado:</strong> $8 \text{ Sprints} \times 2 \text{ semanas/Sprint} =$ <strong>16 Semanas</strong> de trabajo total.</li>
+</ul>
+<h4><strong>b) Recálculo por baja de capacidad en Sprint 3:</strong></h4>
+<p>Analizamos el progreso sprint a sprint:</p>
+<ul>
+<li><p><strong>Sprint 1:</strong> Trabaja a velocidad normal. Completa $24 \text{ SP}$. Backlog restante = $180 - 24 = 156 \text{ SP}$.</p>
+</li>
+<li><p><strong>Sprint 2:</strong> Trabaja a velocidad normal. Completa $24 \text{ SP}$. Backlog restante = $156 - 24 = 132 \text{ SP}$.</p>
+</li>
+<li><p><strong>Sprint 3 (Capacidad reducida):</strong> El equipo completa únicamente <strong>12 SP</strong>. Backlog restante = $132 - 12 = 120 \text{ SP}$.</p>
+</li>
+<li><p><strong>Sprints posteriores (Sprints normales recuperados):</strong>
+$$\text{Sprints normales restantes} = \frac{\text{Backlog Restante}}{\text{Velocidad Normal}} = \frac{120 \text{ SP}}{24 \text{ SP/Sprint}} = 5 \text{ Sprints}$$</p>
+</li>
+<li><p><strong>Total de Sprints finales necesarios:</strong>
+$$\text{Total Sprints} = 2 \text{ (normales)} + 1 \text{ (reducido)} + 5 \text{ (normales restantes)} = \mathbf{8 \text{ Sprints}}$$</p>
+</li>
+<li><p><strong>Conclusión de Impacto Temporal:</strong> El total de sprints necesarios sigue siendo <strong>8 Sprints</strong> (16 semanas de trabajo). </p>
+<ul>
+<li><strong>Impacto de retraso:</strong> <strong>0 semanas</strong>. </li>
+<li><strong>Explicación analítica:</strong> En el plan original (7.5 sprints redondeados a 8), el Sprint 8 solo tenía planificado cubrir $12 \text{ SP}$ de trabajo. La caída de velocidad del Sprint 3 de $24 \text{ SP}$ a $12 \text{ SP}$ redujo exactamente el &quot;colchón&quot; o excedente de capacidad del equipo. Por lo tanto, el Sprint 8 ahora se ejecutará a capacidad completa ($24 \text{ SP}$ en lugar de $12 \text{ SP}$), absorbiendo el retraso sin necesidad de agregar un noveno Sprint.</li>
+</ul>
+</li>
+</ul>
+<p><em>(📖 Scrum Manager v2.6, Parte I, págs. 37-46 — Velocidad y Estimación Ágil)</em></p>
+</details>
+
+            
+            <div class="score-calculator">
+                <h3>Calculadora de Puntaje (Autoevaluación)</h3>
+                <p>Ingresa los puntos obtenidos en cada sección para calcular tu nota final (Puntaje de aprobación: 25 puntos / 70%):</p>
+                <div class="score-row">
+                    <span>Cuestión 1 (Normativa - Máx 10 pts):</span>
+                    <input type="number" min="0" max="10" step="0.5" class="score-input" id="q1" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 2 (Higiene y ART - Máx 1.5 pts):</span>
+                    <input type="number" min="0" max="1.5" step="0.25" class="score-input" id="q2" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 3 (Caso Disciplinario - Máx 4 pts):</span>
+                    <input type="number" min="0" max="4" step="0.5" class="score-input" id="q3" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 4 (Perspectiva de Género - Máx 4.5 pts):</span>
+                    <input type="number" min="0" max="4.5" step="0.25" class="score-input" id="q4" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 5 (Evaluación Técnica - Máx 15 pts):</span>
+                    <input type="number" min="0" max="15" step="0.5" class="score-input" id="q5" oninput="calcScore()">
+                </div>
+                <div class="score-total">
+                    <span>Puntaje Total (Máximo 35):</span>
+                    <span id="total-score">0.0 / 35.0 (<span id="result-status" style="font-weight: bold; color: var(--text-muted);">Sin evaluar</span>)</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleAnswers(show) {
+            const details = document.querySelectorAll('details');
+            details.forEach(d => {
+                d.open = show;
+            });
+        }
+
+        function calcScore() {
+            const q1 = parseFloat(document.getElementById('q1').value) || 0;
+            const q2 = parseFloat(document.getElementById('q2').value) || 0;
+            const q3 = parseFloat(document.getElementById('q3').value) || 0;
+            const q4 = parseFloat(document.getElementById('q4').value) || 0;
+            const q5 = parseFloat(document.getElementById('q5').value) || 0;
+            
+            const total = q1 + q2 + q3 + q4 + q5;
+            const totalFixed = Math.min(35, total).toFixed(2);
+            
+            const statusSpan = document.getElementById('result-status');
+            if (total >= 25) {
+                statusSpan.innerHTML = "APROBADO";
+                statusSpan.style.color = "var(--success)";
+            } else {
+                statusSpan.innerHTML = "DESAPROBADO";
+                statusSpan.style.color = "red";
+            }
+            
+            document.getElementById('total-score').innerHTML = totalFixed + " / 35.0 (" + statusSpan.outerHTML + ")";
+        }
+    </script>
+</body>
+</html>
