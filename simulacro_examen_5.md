@@ -250,7 +250,7 @@ Que con el objeto de preservar las garantías de Debido Proceso y de la Defensa 
 
 Que valorando la gravedad del hecho al obstaculizar el restablecimiento de los servicios de atención directa a los contribuyentes, y considerando que el agente no cuenta con antecedentes desfavorables en su legajo personal, resulta proporcional aplicar una sanción correctiva de un (1) día de suspensión de haberes.
 
-Por ello, en ejercicio de las facultades disciplinarias delegadas mediante el Decreto Nº 916/20 y Decreto Nº 1539/18,
+Por ello, en ejercicio de las facultades disciplinarias delegadas mediante el Decreto Nº 1539/18,
 
 **EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE**
 

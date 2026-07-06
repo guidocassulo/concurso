@@ -256,7 +256,7 @@ Que el agente M.A. presentó su descargo dentro del plazo estipulado, sin aporta
 
 Que al no poseer el agente antecedentes disciplinarios desfavorables registrados en su legajo y valorando la gravedad del hecho en función de la incompatibilidad de tareas, se estima pertinente aplicar la sanción de suspensión de cinco (5) días corridos sin goce de sueldo, siendo esta la máxima medida correctiva que se encuentra delegada en las Jefaturas de Departamento bajo el Decreto local de atribuciones disciplinarias.
 
-Por ello, en uso de las atribuciones delegadas mediante el Decreto Nº 916/20 y Decreto Nº 1539/18,
+Por ello, en uso de las atribuciones delegadas mediante el Decreto Nº 1539/18,
 
 **EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE**
 

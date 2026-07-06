@@ -260,7 +260,7 @@ Que el agente J.P. formuló descargo por escrito dentro del plazo legal estipula
 
 Que considerando la gravedad del hecho al afectar el trato directo a la ciudadanía y el ambiente laboral, y teniendo en cuenta que el agente no registra antecedentes disciplinarios previos en su legajo personal, corresponde aplicar una sanción correctiva proporcional de tres (3) días de suspensión sin goce de haberes, de conformidad con las competencias disciplinarias delegadas.
 
-Por ello, en uso de las atribuciones delegadas mediante el Decreto Nº 916/20 y Decreto Nº 1539/18,
+Por ello, en uso de las atribuciones delegadas mediante el Decreto Nº 1539/18,
 
 **EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE**
 
