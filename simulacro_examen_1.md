@@ -201,11 +201,11 @@
 *(📋 Verificar en texto oficial de Ley 14656 y Decreto MGP 1539/18)*
 
 ### 9. Respuesta Correcta: **c**
-*   **Fundamento Normativo:** Ley 14656 y Decreto Reglamentario MGP **121/18, Artículo 4º** (Control Horario). Las llegadas tarde que no superen los 15 minutos se consideran tolerancias naturales. Un agente tiene permitidas hasta 3 llegadas tarde de hasta 15 minutos en el mes sin que configure falta pasible de apercibimiento directo, registrándose la misma y procediendo al descuento del tiempo no trabajado si no fuera compensado o justificado debidamente.
+*   **Fundamento Normativo:** Ley 14656 y Decreto Reglamentario MGP **121/18, Artículo 4º** (Control Horario). El decreto autoriza a la Dirección de Personal a justificar a los agentes hasta un máximo de veinte (20) minutos acumulados de llegada tarde por mes (con un tope de 120 minutos por año calendario). Al tratarse de una primera llegada tarde de 12 minutos, está dentro de este rango y no corresponde la aplicación de una sanción disciplinaria directa (llamado de atención/apercibimiento, regulados en el Art. 5º), aunque sí se computa para el control de horas.
 *(📋 Verificar en texto oficial de Decreto MGP 121/18)*
 
 ### 10. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto MGP **121/18, Artículo 3º**: *"El agente que registre su ingreso superando la tolerancia de quince (15) minutos no podrá quedarse a prestar servicios, computándosele inasistencia injustificada, salvo que se configure caso de fuerza mayor debidamente acreditado y resuelto favorablemente por el superior jerárquico..."*.
+*   **Fundamento Normativo:** Decreto MGP **121/18, Artículo 3º**. El decreto establece que se considera llegada tarde al ingreso que se verifique hasta los treinta (30) minutos posteriores al horario fijado de entrada. Pasado dicho lapso (los 30 minutos), el agente no podrá prestar servicios, computándosele inasistencia injustificada, salvo que se configure un caso de fuerza mayor debidamente justificado por escrito ante el superior jerárquico.
 *(📋 Verificar en texto oficial de Decreto MGP 121/18)*
 
 </details>

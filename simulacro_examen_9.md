@@ -71,7 +71,7 @@
 
 ### 7. Según el reglamento de control horario y presentismo de la MGP (Decreto Nº 121/18 y modificatorios), un agente que llega tarde a tomar servicio dentro de los primeros quince (15) minutos del horario fijado para el inicio de su jornada laboral:
 *   a) Es pasible de un apercibimiento automático y directo del Jefe de Departamento desde la primera ocurrencia.
-*   b) Goza de una tolerancia mensual de hasta tres (3) llegadas tarde de hasta 15 minutos sin que constituyan falta pasible de sanción directa, registrándose las mismas y procediendo al descuento del tiempo no trabajado.
+*   b) Goza de una tolerancia mensual justificable de hasta veinte (20) minutos acumulados en el mes (con un límite de 120 minutos anuales) sin que constituyan falta pasible de sanción directa, procediendo al descuento del tiempo no trabajado.
 *   c) Debe retirarse de la dependencia y se le computa inasistencia injustificada para todo el día laboral.
 *   d) Ninguna de las anteriores.
 
@@ -137,7 +137,7 @@
 *(📋 Verificar en texto oficial de Decreto MGP 1539/18)*
 
 ### 7. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto de Control Asistencial MGP (Decreto Nº **121/18, Artículo 4º**). Establece una tolerancia de tres (3) franquicias o tolerancias de impuntualidad mensual de hasta 15 minutos en el mes. Superadas las tres franquicias, o al llegar tarde más de 15 minutos, se computa la tardanza y se descuenta el tiempo correspondiente, siendo pasible de apercibimiento en caso de reiteraciones injustificadas.
+*   **Fundamento Normativo:** Decreto de Control Asistencial MGP (Decreto Nº **121/18, Artículo 4º**). El decreto autoriza a la Dirección de Personal a justificar hasta veinte (20) minutos de llegada tarde por mes (acumulativo), con un tope anual de ciento veinte (120) minutos, sin que esto configure una falta pasible de sanciones correctivas directas (llamado de atención/apercibimiento).
 *(📋 Verificar en texto oficial de Decreto MGP 121/18)*
 
 ### 8. Respuesta Correcta: **c**
