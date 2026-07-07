@@ -305,7 +305,7 @@ La normalización es el proceso de organizar las tablas y relaciones de una base
     3.  **Tabla LIQUIDACIONES (PK compuesta: CUIT_Contribuyente, ID_Tasa):**
         `[CUIT_Contribuyente (FK), ID_Tasa (FK), Categoria_Mesa]` (Registra la relación sin dependencias parciales ni transitivas).
 
-*(📖 Kendall & Kendall, Cap. 12, págs. 413-426)*
+*(📖 Kendall & Kendall, Cap. 13, págs. 413-426)*
 
 ---
 

@@ -313,7 +313,7 @@ Al recibir una denuncia de violencia laboral o acoso por razones de género, el 
     *   **Respuesta al cambio:** El SDLC tradicional asume que los requerimientos se congelan al inicio y cambiar el diseño más tarde es muy costoso. El enfoque Ágil/XP abraza el cambio y asume que los requerimientos evolucionan conforme avanza el proyecto.
     *   **Involucramiento del cliente:** En el SDLC el cliente participa activamente al principio (requerimientos) y al final (entrega). En Ágil/XP, el cliente (u "On-site customer") forma parte activa y cotidiana del equipo de desarrollo, proporcionando retroalimentación continua en cada iteración.
 
-*(📖 Kendall & Kendall, Cap. 1, págs. 8-11 — SDLC Cascada; Cap. 2, págs. 55-75 — Programación Extrema/XP)*
+*(📖 Kendall & Kendall, Cap. 1, págs. 8-11 — SDLC Cascada; Cap. 6, págs. 143-160 — Programación Extrema/XP)*
 
 ---
 

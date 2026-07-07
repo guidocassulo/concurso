@@ -145,9 +145,9 @@
 ## CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)
 *Consigna: Responda las siguientes preguntas basadas en la bibliografía oficial del concurso (Kendall & Kendall 8va Edición y Scrum Manager v2.6).*
 
-1.  **Arquitectura de Software (Kendall & Kendall):** Explique detalladamente el patrón arquitectónico Modelo-Vista-Controlador (MVC). Describa la función específica de cada uno de sus tres componentes y detalle el flujo de comunicación que ocurre cuando un usuario solicita ver sus datos en una aplicación web municipal.
+1.  **Interacción Humano-Computadora y Usabilidad (Kendall & Kendall):** Defina conceptualmente qué es la **Interacción Humano-Computadora (HCI)** y explique detalladamente tres lineamientos o pautas recomendadas por Kendall & Kendall para el diseño de la interfaz de usuario en sitios web públicos (tales como portales de trámites municipales) para asegurar la claridad, legibilidad y usabilidad.
 2.  **Marco Scrum (Scrum Manager):** Explique las ceremonias de cierre del Sprint: *Sprint Review* (Revisión) y *Sprint Retrospective* (Retrospectiva). Detalle las diferencias fundamentales entre ambas en cuanto a su propósito, resultados esperados y quiénes participan.
-3.  **Análisis de Requerimientos (Kendall & Kendall):** Diferencie entre requerimientos funcionales y requerimientos no funcionales (de rendimiento, seguridad, confiabilidad) de un sistema de software. Mencione y describa brevemente tres técnicas utilizadas por el analista para recopilar información de requerimientos de los usuarios.
+3.  **Análisis de Requerimientos de Información (Kendall & Kendall):** A la hora de recopilar los requerimientos de información de una dependencia municipal para el desarrollo de un nuevo sistema, detalle conceptualmente en qué consisten y cómo se aplican las siguientes tres técnicas de recopilación según la bibliografía oficial: las **Entrevistas**, los **Cuestionarios** y el diseño conjunto **JAD (Joint Application Design)**.
 4.  **Calidad en Scrum (Scrum Manager):** Defina qué es la "Definición de Terminado" (Definition of Done - DoD) en Scrum y en qué se diferencia conceptualmente de los "Criterios de Aceptación" de una Historia de Usuario específica. ¿Por qué es crítico que todo el Scrum Team comparta y respete la DoD?
 5.  **Cálculo Práctico de Velocidad y Estimación:**
     > Un equipo de desarrollo a su cargo se encuentra digitalizando el flujo de habilitación de comercios. A lo largo de los últimos cuatro Sprints de 2 semanas de duración cada uno, el equipo entregó las siguientes cantidades de Puntos de Historia (Story Points - SP):
@@ -295,21 +295,16 @@ Constituye violencia laboral por razones de género toda conducta, acción, omis
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (MVC, Scrum y Kendall)</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (HCI, Scrum y Kendall)</b></summary>
 
-### 1. Patrón Modelo-Vista-Controlador (MVC) y Flujo de Comunicación
-El patrón MVC separa los componentes de una aplicación de software en tres capas lógicas para facilitar el mantenimiento, la modularidad y el desarrollo colaborativo:
-*   **Modelo (Model):** Representa los datos de la aplicación y las reglas de negocio que los rigen. Interactúa directamente con la base de datos municipal para crear, consultar, actualizar o borrar información. No sabe nada de la interfaz gráfica.
-*   **Vista (View):** Es la interfaz gráfica que visualiza el usuario final. Representa los datos contenidos en el modelo en formatos web legibles (HTML, CSS, JSON) y captura las acciones de interacción del usuario (botones, formularios).
-*   **Controlador (Controller):** Actúa como intermediario entre la Vista y el Modelo. Recibe las solicitudes HTTP del usuario enviadas por la Vista, procesa la entrada, realiza llamadas a los servicios del Modelo para alterar o traer datos, y finalmente decide qué Vista de respuesta renderizar y devolver al usuario.
-*   **Flujo Típico de Comunicación (Consulta de datos):**
-    1.  El usuario hace clic en el botón "Ver mis tasas" de la **Vista** del navegador, enviando una petición HTTP GET al servidor.
-    2.  El **Controlador** recibe la petición en la URL correspondiente, extrae los parámetros (ej. ID de contribuyente) y llama al **Modelo** solicitando los datos del contribuyente.
-    3.  El **Modelo** consulta los registros de la base de datos, aplica las reglas fiscales y devuelve los datos limpios al **Controlador**.
-    4.  El **Controlador** toma estos datos y selecciona la **Vista** correspondiente, inyectando los datos del contribuyente dentro del HTML.
-    5.  La **Vista** renderizada se envía al navegador del usuario, quien la visualiza en pantalla.
+### 1. Interacción Humano-Computadora y Usabilidad (Kendall & Kendall)
+*   **Concepto de HCI (Interacción Humano-Computadora):** Es el estudio y diseño de la forma en que los seres humanos interactúan con las computadoras y sistemas informáticos, buscando optimizar la eficiencia, seguridad y satisfacción del usuario final.
+*   **Pautas de Usabilidad para Sitios Web Públicos (3 lineamientos de Kendall & Kendall):**
+    1.  **Ofrecer retroalimentación constante:** La interfaz debe informar al usuario sobre el estado de sus solicitudes (ej. mostrando barras de progreso o mensajes de confirmación claros cuando envía un trámite o formulario municipal).
+    2.  **Mantener la consistencia visual y de comportamiento:** Utilizar fuentes tipográficas coherentes, terminología estandarizada y botones situados en las mismas posiciones a lo largo de todas las pantallas del portal.
+    3.  **Diseño intuitivo y navegación clara:** Organizar la información de manera jerárquica con menús de navegación sencillos y enlaces que indiquen claramente su destino (ej. "Descargar tasa" en lugar de un enlace ambiguo), reduciendo la carga cognitiva del usuario.
 
-*(📖 Kendall & Kendall, Cap. 17, págs. 465-470 — Patrón Modelo-Vista-Controlador)*
+*(📖 Kendall & Kendall, Cap. 14, págs. 445-455)*
 
 ---
 
@@ -327,15 +322,12 @@ El patrón MVC separa los componentes de una aplicación de software en tres cap
 
 ---
 
-### 3. Requerimientos Funcionales vs No Funcionales y Técnicas de Recopilación (Kendall & Kendall)
-*   **Requerimientos Funcionales:** Describen *qué* debe hacer el sistema. Definen los servicios y funciones que el software debe proveer (ej. "El sistema debe permitir liquidar la tasa por alumbrado", "El sistema debe emitir un archivo PDF al finalizar el trámite").
-*   **Requerimientos No Funcionales:** Describen restricciones de calidad, rendimiento o comportamiento del sistema. Definen *cómo* debe funcionar el sistema (ej. "El sistema debe responder en menos de 2 segundos", "La aplicación debe encriptar las contraseñas usando algoritmos AES-256", "El sistema debe soportar 500 conexiones simultáneas sin caídas").
-*   **Técnicas de Recolección de Información (3 técnicas):**
-    1.  **Entrevistas:** Reuniones guiadas con los usuarios o jefes de área para comprender en profundidad sus necesidades, objetivos y problemas cotidianos.
-    2.  **Cuestionarios:** Formularios escritos enviados a grandes grupos de usuarios para recolectar datos estadísticos o preferencias generales del sistema.
-    3.  **Observación (JAD o presencial):** El analista observa directamente el comportamiento y las tareas cotidianas del usuario en su puesto de trabajo para comprender los flujos de tareas reales sin sesgos de relato.
+### 3. Técnicas de Recopilación de Requerimientos de Información (Kendall & Kendall)
+*   **Entrevistas:** Conversaciones estructuradas o semiestructuradas cara a cara con usuarios y funcionarios clave. Permiten explorar opiniones, sentimientos, metas y problemáticas del sistema de forma profunda, aunque consumen mucho tiempo.
+*   **Cuestionarios:** Formularios escritos estandarizados distribuidos a un gran grupo de personas. Permiten obtener datos cuantitativos y tendencias sobre el uso del sistema, pero carecen de la flexibilidad para profundizar que tiene la entrevista.
+*   **JAD (Joint Application Design):** Sesiones grupales de diseño interactivo que reúnen a analistas, desarrolladores y usuarios finales en un espacio de trabajo intensivo para definir de forma colaborativa y consensuada los requerimientos del sistema en menor tiempo.
 
-*(📖 Kendall & Kendall, Parte II, pág. 103+ — Requerimientos de Información y Análisis)*
+*(📖 Kendall & Kendall, Cap. 4, págs. 103-118 y Cap. 5, págs. 120-135)*
 
 ---
 

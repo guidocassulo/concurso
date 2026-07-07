@@ -317,7 +317,7 @@ Usted como Jefe de Departamento tiene la obligación de garantizar un ambiente d
 *   **Definición de Terminado (DoD - Definition of Done):** Es una lista de control compartida y objetiva de criterios de calidad que un incremento de software debe cumplir al 100% para considerarse formalmente completado y apto para ser desplegado en producción (ej. código revisado por pares, pruebas unitarias aprobadas, cobertura de tests superior al 80%, documentación técnica en wiki actualizada y paso de revisión de seguridad).
 *   **Relación con la Deuda Técnica en Sistemas Municipales:**
     *   Si el equipo Scrum del municipio relaja su DoD para "apurar" la entrega de módulos web (ej. no realizando pruebas de integración, omitiendo el refactoring o no documentando las APIs), se genera **Deuda Técnica**.
-    *   *Consecuencias operativas:* A mediano y largo plazo, el código se vuelve inestable, difícil de mantener y propenso a fallos graves. Los desarrolladores pasarán más tiempo arreglando bugs (soporte correctivo) que desarrollando nuevas funcionalidades de innovación (Circular 902). Esto incrementa exponencialmente los costos de mantenimiento y paraliza la evolución tecnológica de los sistemas municipales.
+    *   *Consecuencias operativas:* A mediano y largo plazo, el código se vuelve inestable, difícil de mantener y propenso a fallos graves. Los desarrolladores pasarán más tiempo arreglando bugs (soporte correctivo) que desarrollando nuevas funcionalidades de innovación. Esto incrementa exponencialmente los costos de mantenimiento y paraliza la evolución tecnológica de los sistemas municipales.
 
 *(📖 Scrum Manager v2.6, págs. 23-34)*
 

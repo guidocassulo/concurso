@@ -294,7 +294,7 @@ Como Jefe de Departamento de Sistemas de Software, debes **dar curso inmediato, 
     *   *Ventaja:* Riesgo técnico mínimo. Si el nuevo sistema falla, la operación continúa normalmente en el antiguo. Permite realizar auditorías cruzadas de datos para verificar la exactitud del nuevo software.
     *   *Desventaja:* Alto costo y sobrecarga del personal administrativo municipal, que debe registrar e introducir dos veces cada trámite y expediente, afectando la agilidad de la oficina.
 
-*(📖 Kendall & Kendall, Cap. 18, págs. 535-540)*
+*(📖 Kendall & Kendall, Cap. 16, págs. 539-540)*
 
 ---
 

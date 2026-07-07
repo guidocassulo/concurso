@@ -49,152 +49,16 @@
 
 ---
 
-### 5. De conformidad con las sanciones disciplinarias expulsivas previstas en la Ley 14656, la aplicación de la sanción de exoneración de un agente público municipal implica de pleno derecho:
-*   a) Una suspensión sin goce de haberes por un término máximo de noventa (90) días con posterior reincorporación.
-*   b) La desvinculación definitiva de la administración municipal con inhabilitación absoluta permanente para volver a ingresar al empleo público de la provincia y municipios.
-*   c) El traslado disciplinario del agente a otra secretaría con reducción del 30% del sueldo básico.
-*   d) Ninguna de las anteriores.
+### 5. Ajuste del Flujo y Desperdicios en Lean/Kanban (Scrum Manager)
+*   **Muda (Desperdicio):** Cualquier actividad, proceso o recurso que consume tiempo o dinero pero no aporta valor directo al producto final ni al cliente.
+*   **Mura (Variabilidad / Discrepancia):** Irregularidad o falta de uniformidad en el volumen y ritmo de trabajo, que provoca alternancia entre picos de saturación y periodos de inactividad (tiempos muertos).
+*   **Muri (Sobrecarga / Cuello de Botella):** Exigir al sistema, a los procesos o a las personas un rendimiento superior a sus capacidades nominales, lo que genera bloqueos, cansancio y fallos de calidad.
+*   **Ejemplos prácticos de "Muda" (Desperdicios) en desarrollo de software municipal:**
+    1.  **Código o funcionalidades no utilizadas:** Desarrollar módulos complejos (ej. un generador de reportes con múltiples filtros) que los contribuyentes o agentes municipales nunca llegan a utilizar en la práctica.
+    2.  **Esperas y demoras administrativas:** Retrasar el avance del desarrollo debido a la espera prolongada de firmas jerárquicas o autorizaciones de infraestructura para desplegar un servidor de pruebas.
+    3.  **Procesamiento extra:** Realizar reuniones de trabajo excesivamente largas o innecesarias, u obligar a documentar en exceso detalles obvios de código en lugar de enfocarse en entregar software funcional.
 
-**Fundamento Normativo:** __________________________________________________________________
-
----
-
-### 6. Según la RAFAM (Decreto 2980/00) y la L.O.M., si un funcionario municipal autoriza o liquida un gasto sin que exista crédito presupuestario aprobado en la partida correspondiente:
-*   a) El gasto se anula automáticamente y la empresa proveedora pierde el derecho al cobro sin reclamo alguno.
-*   b) El funcionario que autorizó el gasto es personal, civil y pecuniariamente responsable de las obligaciones contraídas.
-*   c) La Contaduría Municipal debe reasignar fondos de otras áreas de forma directa para subsanar el error del funcionario.
-*   d) Ninguna de las anteriores.
-
-**Fundamento Normativo:** __________________________________________________________________
-
----
-
-### 7. Conforme a las vías recursivas reguladas en la Ordenanza General 26348, el Recurso Jerárquico en subsidio contra el rechazo del Recurso de Revocatoria dictado por una Jefatura de Departamento es resuelto de forma definitiva por:
-*   a) El propio Jefe de Departamento que dictó la sanción original.
-*   b) El Honorable Concejo Deliberante (H.C.D.).
-*   c) El Intendente Municipal en su carácter de máxima autoridad del Departamento Ejecutivo.
-*   d) La Dirección General de Personal.
-
-**Fundamento Normativo:** __________________________________________________________________
-
----
-
-### 8. De acuerdo con el régimen municipal vigente, los pliegos de bases y condiciones generales de compras para el llamado a Licitación Pública del área técnica deben ser aprobados previamente por:
-*   a) El Director de Sistemas de Software de forma independiente.
-*   b) El Honorable Concejo Deliberante mediante ordenanza o decreto de autorización de pliegos.
-*   c) Únicamente la oficina del Contador municipal sin intervención política.
-*   d) Ninguna de las anteriores.
-
-**Fundamento Normativo:** __________________________________________________________________
-
----
-
-### 9. Según el Manual de Redacción de la Municipalidad de General Pueyrredón (Decreto 966/19), el documento formal e institucional firmado por el funcionario municipal competente que se utiliza para comunicaciones escritas dirigidas a personas físicas o jurídicas ajenas a la administración (como contribuyentes o empresas) se denomina:
-*   a) Circular Interna.
-*   b) Nota Oficial.
-*   c) Providencia de Trámite.
-*   d) Memorándum Oficial.
-
-**Fundamento Normativo:** __________________________________________________________________
-
----
-
-### 10. De acuerdo con la Ley Nacional de Higiene y Seguridad en el Trabajo Nº 19587, es una obligación legal indelegable del empleador (en este caso la Municipalidad) realizar a todo el personal de planta:
-*   a) El descuento automático para la obra social de salud.
-*   b) Los exámenes médicos periódicos preventivos (de salud laboral) de acuerdo a los riesgos específicos de su actividad.
-*   c) Pruebas de polígrafo anuales para auditar la seguridad informática.
-*   d) Ninguna de las anteriores.
-
-**Fundamento Normativo:** __________________________________________________________________
-
----
-
-## CUESTION Nº 2: HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)
-*Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.*
-
-> Un agente del área de soporte técnico de su departamento recibe la instrucción de trasladar un chasis de rack de servidores de 50 kg desde la oficina de desarrollo hacia el depósito de hardware en el subsuelo. Al levantarlo de forma manual sin ayuda de otros agentes ni elementos mecánicos, sufre un dolor lumbar agudo invalidante. El diagnóstico médico determina una hernia de disco lumbar extruida que requiere tratamiento de kinesiología y reposo prolongado de 60 días.
-> 
-> Se solicita:
-> 1. Indique si el siniestro configura un accidente laboral cubierto por la Ley 24557 y fundamente su respuesta.
-> 2. Determine qué normas específicas de ergonomía en la manipulación manual de cargas (Resolución SRT 295/03 de la Ley 19587) se infringieron en el ámbito laboral y qué herramientas debió proveer el Municipio para evitar el siniestro.
-
----
-
-## CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)
-*Consigna: Resuelva el caso disciplinario planteado y redacte el acto administrativo correspondiente.*
-
-> A través del análisis de logs de base de datos del sistema de control de asistencia de la municipalidad, se descubre que el agente de soporte técnico A.T. (Legajo Nº 44.444, Categoría Técnico I) utilizó indebidamente las credenciales de acceso de administrador de red de su supervisor (las cuales obtuvo mediante técnicas no autorizadas) para ingresar al servidor de bases de datos biométricas y alterar de forma fraudulenta los registros de llegadas tarde propios y de otros dos agentes de su oficina. Tras sustanciarse la imputación, el agente A.T. no justifica la acción y confiesa el hecho.
-> 
-> Al tratarse de una falta de extrema gravedad y falta ética que atenta contra la buena fe laboral y la seguridad de los sistemas de información municipal (Art. 107 inc 5 Ley 14656), usted como Jefe de Departamento eleva el informe para iniciar el sumario correspondiente y aplicar la sanción de cesantía/exoneración.
-> 
-> Se solicita:
-> 1. Explique fundadamente qué procedimiento formal se debe tramitar para aplicar una sanción expulsiva al agente y qué medida preventiva inmediata debe adoptar el Jefe de Sistemas de Software respecto a los permisos del agente. (1.5 Puntos)
-> 2. Redacte la parte dispositiva y de fundamentación (`VISTO`, `CONSIDERANDO` y `DISPONE` o `ELEVA`) de la Disposición mediante la cual usted, como Jefe de Departamento, informa el caso, promueve las actuaciones sumariales y ordena el bloqueo preventivo del agente. (2.5 Puntos)
-
----
-
-## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
-*Consigna: Responda las siguientes preguntas sobre la Ley Micaela (Ley 27499 / Ley 15134) en el ámbito municipal.*
-
-1.  Explique cuál es la responsabilidad jerárquica que le compete a usted como Jefe de Departamento para garantizar el cumplimiento de la capacitación obligatoria en género de la Ley Micaela por parte del personal técnico y administrativo a su cargo. (1.5 Puntos)
-2.  Describa qué medidas de organización del trabajo y facilidades de horario debe arbitrar para posibilitar el acceso a estas capacitaciones obligatorias sin resentir la prestación del servicio crítico de sistemas. (1.5 Puntos)
-3.  ¿Qué sanción de carrera administrativa recae sobre el propio Jefe de Departamento si al momento de su evaluación o concurso para confirmación del cargo no acredita haber cumplido con la capacitación obligatoria establecida por la Ley Micaela? (1.5 Puntos)
-
----
-
-## CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)
-*Consigna: Responda las siguientes preguntas basadas en la bibliografía oficial del cargo (Kendall & Kendall 8va Edición y Scrum Manager v2.6).*
-
-1.  **Usabilidad de Interfaces UX/UI (Kendall & Kendall):** Explique el concepto de usabilidad en sistemas web de administración municipal. Defina brevemente tres (3) de las heurísticas de usabilidad de Nielsen aplicadas al diseño de portales tributarios municipales y explique el concepto de accesibilidad web (WCAG 2.1).
-2.  **Estimación de Software (Scrum Manager):** Explique la diferencia de concepto y alcance entre realizar estimaciones utilizando **Puntos de Historia (Story Points)** y realizar estimaciones utilizando **Puntos de Función (Function Points)**. ¿Cuándo resulta conveniente utilizar cada una de estas métricas en el área de sistemas?
-3.  **UML y Requerimientos (Kendall & Kendall):** Diferencie conceptualmente entre un **Caso de Uso de Negocio** y un **Caso de Uso de Sistema** en el proceso de análisis y especificación de requerimientos de software. Dé un ejemplo práctico de cada uno aplicado al trámite municipal de habilitación de comercios.
-4.  **Seguridad en Aplicaciones Web:** Explique conceptualmente en qué consiste una vulnerabilidad de **Inyección SQL (SQLi)** en un sistema web municipal de autogestión de tasas. Detalle el mecanismo de ataque y explique qué estrategias técnicas de diseño de software debe adoptar el área de desarrollo para prevenir esta vulnerabilidad.
-5.  **Cálculo de Eficiencia del Flujo en Kanban (Scrum Manager):**
-    > Un equipo de soporte del área de TIC utiliza un tablero Kanban para resolver incidencias de usuarios de los sistemas de facturación. Al auditar las métricas del tablero durante el último mes, se obtuvieron los siguientes tiempos promedio de ciclo de vida de los tickets:
-    > *   Tiempo promedio de procesamiento y desarrollo activo de código/reparación (*Touch Time* o *Active Processing Time*): **12 horas** por ticket.
-    > *   Tiempo promedio de espera acumulado en columnas bloqueadas o colas de espera (*Queue/Waiting Time*): **36 horas** por ticket.
-    > 
-    > Resuelva los siguientes puntos:
-    > a) Calcule el *Lead Time* promedio de los tickets y calcule la **Eficiencia del Flujo de Trabajo (Flow Efficiency)** del equipo de soporte expresada en porcentaje (%). Detalle la fórmula utilizada y los pasos de resolución matemática.  
-    > b) Realice una interpretación ágil del porcentaje obtenido. Explique qué medidas de gestión de flujo debe adoptar el Jefe de Sistemas de Software para optimizar la entrega de valor en base a dicho resultado.
-
----
----
-
-## GUÍA DE RESPUESTAS Y SOLUCIONES EXPLICADAS (INFORMACIÓN OCULTA PARA AUTOEVALUACIÓN)
-
-<details>
-<summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary>
-
-### 1. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley de Compras Públicas en el marco de la LOM y la RAFAM. En la redacción de especificaciones técnicas para pliegos de bases y condiciones particulares, rige el principio de **neutralidad tecnológica**. Queda prohibido consignar marcas comerciales específicas o referencias directivas que restrinjan la concurrencia de oferentes, salvo que se fundamente técnicamente que existe una necesidad de compatibilidad física o lógica insalvable con sistemas o equipos preexistentes en el municipio. *(📋 Verificar en texto oficial de LOM y RAFAM)*
-
-### 2. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley 14656, **Artículo 94º, inciso a** (y reglamentaciones locales MGP). Para la preparación y rendición de exámenes correspondientes a carreras de nivel terciario o universitario con reconocimiento oficial, el agente goza de licencia con goce de haberes por hasta un máximo de quince (15) días hábiles por año, acordada en fracciones de hasta cinco (5) días por examen, más el día de examen. *(📋 Verificar en texto oficial de Ley 14656 - Art. 94º)*
-
-### 3. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto MGP **121/18, Artículo 8º** (Compensaciones Horarias). El personal de sistemas que realice guardias técnicas extraordinarias los fines de semana genera el derecho a usufructuar días francos compensatorios equivalentes al tiempo trabajado. Estos deben ser solicitados de forma previa por escrito por el agente y autorizados expresamente por el Jefe de Departamento dentro de la ventana de plazos que establece la ordenanza o el convenio colectivo para evitar su caducidad. *(📋 Verificar en texto oficial de Decreto MGP 121/18 - Art. 8º)*
-
-### 4. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 156º, Inciso 4** (excepciones de compra directa): La adquisición directa es legalmente factible cuando la prestación del servicio técnico de mantenimiento de hardware posee exclusividad de patente o representación de marca oficial certificada por el fabricante extranjero sin existir proveedores alternativos homologados en el mercado. *(📋 Verificar en texto oficial de LOM - Art. 156º inc. 4)*
-
-### 5. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley 14656, **Artículo 109º** (Exoneración): La exoneración del agente municipal implica *"la separación definitiva de la administración municipal con inhabilitación permanente para el reingreso... y la pérdida de los derechos a jubilación y pensión que deriven exclusivamente del cargo..."*. Es la sanción expulsiva más grave contemplada en el estatuto público. *(📋 Verificar en texto oficial de Ley 14656 - Art. 109º)*
-
-### 6. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** RAFAM (Decreto 2980/00), **Artículos 10º, 11º** y Ley Orgánica de las Municipalidades, **Artículo 191º**: Todo funcionario municipal (incluyendo directores y jefes de departamento que tengan firmas delegadas) que autorice la afectación de un gasto o la ejecución de una orden de pago sin contar con crédito presupuestario suficiente en la partida respectiva responderá personalmente con su patrimonio ante el Honorable Tribunal de Cuentas por las sumas indebidamente comprometidas. *(📋 Verificar en texto oficial de RAFAM Decreto 2980/00 y LOM Art. 191º)*
-
-### 7. Respuesta Correcta: **c**
-*   **Fundamento Normativo:** Ordenanza General 26348 (Procedimiento Administrativo Municipal), **Artículo 89º y 90º**: El Recurso Jerárquico en subsidio es elevado por la Jefatura ante la máxima autoridad ejecutiva local, el **Intendente Municipal**, quien resuelve de manera definitiva la instancia administrativa, agotando la vía y habilitando al interesado la vía contencioso-administrativa ante los tribunales provinciales. *(📋 Verificar en texto oficial de Ordenanza General 26348 - Arts. 89º y 90º)*
-
-### 8. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 56º y 151º**. Los pliegos generales de bases y condiciones para llamados a licitaciones públicas de envergadura comercial o concesión de uso de servicios de sistemas deben ser autorizados previamente por ordenanza sancionada por el Honorable Concejo Deliberante (HCD) para la validez de la adjudicación. *(📋 Verificar en texto oficial de LOM - Arts. 56º y 151º)*
-
-### 9. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto MGP 966/19 (Manual de Redacción), **Anexo I, Capítulo III, Sección Notas**: *"La Nota Oficial es el instrumento de comunicación formal por excelencia utilizado por los funcionarios municipales competentes para dirigirse a contribuyentes, empresas particulares, entidades civiles o autoridades de otros poderes y niveles del Estado..."*. *(📋 Verificar en texto oficial de Decreto MGP 966/19)*
-
-### 10. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Nacional de Higiene y Seguridad en el Trabajo Nº 19587, **Artículo 9º, Inciso a**: Es obligación del empleador organizar y realizar los exámenes médicos preventivos preocupacionales y periódicos a su personal expuesto a riesgos laborales específicos (por ejemplo, evaluaciones oftalmológicas periódicas para operadores de pantallas de visualización de datos). *(📋 Verificar en texto oficial de Ley 19587 - Art. 9º inc. a)*
+*(📖 Scrum Manager v2.6, Parte II, págs. 71-72)*
 
 </details>
 
@@ -278,7 +142,7 @@ Para posibilitar la realización de la capacitación obligatoria sin afectar el 
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (UX, Estimaciones, UML y Kanban)</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (UX, Estimaciones, UML y Desperdicios Lean)</b></summary>
 
 ### 1. Usabilidad UX/UI y Accesibilidad Web (Kendall & Kendall)
 *   **Usabilidad:** Es el atributo de calidad que mide qué tan fácil de usar, interactivo, intuitivo y eficiente resulta un sistema de software para los usuarios reales que lo operan (ej. los ciudadanos que pagan tasas en el portal).
@@ -288,7 +152,7 @@ Para posibilitar la realización de la capacitación obligatoria sin afectar el 
     3.  **Prevención de Errores:** Es mejor un diseño que prevenga que ocurra un error antes que emitir buenos mensajes de error (ej. deshabilitar el botón "Pagar" si los datos de la tarjeta están incompletos).
 *   **Accesibilidad Web (WCAG 2.1):** Es el principio de diseño de interfaces que garantiza que los sitios web puedan ser percibidos, operados y comprendidos por todas las personas en igualdad de condiciones, incluyendo aquellas con discapacidades permanentes o transitorias (visuales, motrices, auditivas o cognitivas). Exige el uso de textos alternativos en imágenes, contraste adecuado de colores, compatibilidad con lectores de pantalla y navegación completa mediante teclado.
 
-*(📖 Kendall & Kendall, Cap. 17, pág. 451+)*
+*(📖 Kendall & Kendall, Cap. 14, págs. 445-455)*
 
 ---
 
@@ -320,7 +184,7 @@ Para posibilitar la realización de la capacitación obligatoria sin afectar el 
     1.  **Sentencias Preparadas (Prepared Statements con Consultas Parametrizadas):** Es la medida principal. Fuerza al motor de base de datos a tratar la entrada del usuario estrictamente como un parámetro de datos y nunca como código ejecutable.
     2.  **Validación y Saneamiento de Datos de Entrada (Sanitization):** Aplicar listas blancas de caracteres válidos y rechazar entradas que contengan caracteres especiales del motor SQL (comillas, guiones).
 
-*(📖 Kendall & Kendall, Cap. 17, pág. 451+)*
+*(📖 Kendall & Kendall, Cap. 16, págs. 518-522)*
 
 ---
 

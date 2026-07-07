@@ -19,23 +19,23 @@
 
 ---
 
-### 2. Según el Decreto Provincial Nº 2.980/00 (Reglamento de la RAFAM), si la Dirección de Software desarrolla internamente un sistema informático propio de recaudación de tasas (activo intangible) con recursos humanos de la planta municipal:
-*   a) Los costos de desarrollo del software propio deben registrarse y capitalizarse contablemente como un Activo Intangible del patrimonio municipal, siempre que cumpla con los requisitos de identificación, control y generación de beneficios o servicios futuros.
-*   b) Debe imputarse contablemente en su totalidad como "Gastos de Funcionamiento" corrientes del ejercicio, sin posibilidad de capitalización patrimonial.
-*   c) El software se registra contablemente con valor cero por haber sido desarrollado internamente por agentes públicos del municipio.
-*   d) Ninguna de las anteriores.
+### 2. Desarrollo de Prototipos e Ingeniería de Requisitos (Kendall & Kendall)
+*   **Prototipo no operacional (modelo a escala no funcional):** Consiste en un diseño o maqueta estática del sistema (por ejemplo, pantallas dibujadas o mockups interactivos de la interfaz de usuario) que permite validar la disposición estética, el flujo de navegación y las entradas/salidas de datos con el usuario, pero sin realizar procesamiento real de datos en el servidor, lógica de negocio ni persistencia en bases de datos.
+*   **Diferencia con el Prototipo Operacional:** El prototipo operacional es un subconjunto del sistema real totalmente funcional, con codificación activa en backend y bases de datos reales, pero a menor escala (ej. procesa cobros reales pero solo para un canal de pago).
+*   **Condiciones para su utilización:** Es recomendable utilizar prototipos no operacionales en etapas muy tempranas del proyecto para alinear expectativas de diseño visual rápido con usuarios poco experimentados, o cuando el procesamiento de backend es extremadamente complejo o costoso de implementar antes de definir la estructura básica de la interfaz.
 
-**Fundamento Normativo:** __________________________________________________________________
+*(📖 Kendall & Kendall, Cap. 6, págs. 143-160)*
 
 ---
 
-### 3. Conforme al régimen disciplinario estatutario (Ley Provincial Nº 14656, Art. 26), las faltas administrativas cometidas por un agente municipal que den lugar a la aplicación de las sanciones expulsivas de cesantía prescriben en el siguiente plazo de inacción:
-*   a) A los seis (6) meses de cometida la falta.
-*   b) A los doce (12) meses (1 año) de cometida la falta (o de conocida por la autoridad de aplicación).
-*   c) A los dos (2) años de cometida la falta.
-*   d) Ninguna de las anteriores.
+### 3. Límites de Trabajo en Progreso (WIP Limits) y Cuellos de Botella (Scrum Manager)
+*   **Ajustar el WIP (Work in Process):** Es la práctica de establecer un número máximo o límite de tareas simultáneas permitidas en una fase o columna específica del tablero Kanban (ej. "En Desarrollo" o "En Testing"). Su propósito es regular el flujo de trabajo, forzar la finalización de tareas abiertas antes de iniciar nuevas, y visibilizar de forma inmediata impedimentos o cuellos de botella.
+*   **Significado de "WIP de 3" en Testing:** Significa que en la columna de pruebas del tablero no pueden acumularse más de tres tareas simultáneamente. Si ingresa una cuarta tarea, el flujo de desarrollo aguas arriba se detiene y el equipo no puede arrastrar más trabajo a esa columna hasta liberar espacio.
+*   **Acciones para solucionar cuellos de botella en la columna de testing:**
+    1.  **Reasignación de esfuerzo (colaboración cruzada):** Los desarrolladores detienen la codificación de nuevas historias y colaboran temporalmente en la ejecución de pruebas manuales y reporte de errores para dar salida a las tareas acumuladas.
+    2.  **Optimización y automatización del proceso:** Incorporar herramientas de automatización de pruebas (unitarias y de regresión) para acelerar la velocidad del ciclo de testing.
 
-**Fundamento Normativo:** __________________________________________________________________
+*(📖 Scrum Manager v2.6, Parte II, págs. 65-66)*
 
 ---
 
@@ -49,162 +49,25 @@
 
 ---
 
-### 5. De acuerdo con la Ordenanza Complementaria de Presupuesto Nº 26.580 y la L.O.M., si la Jefatura de Departamento requiere reasignar fondos presupuestarios de la partida de "Bienes de Consumo de Sistemas" hacia la partida de "Servicios de Consultoría de Software Externa":
-*   a) El Jefe de Departamento puede realizar la transferencia de partidas de forma autónoma mediante una simple providencia de trámite en GDE.
-*   b) La transferencia o reasignación de partidas presupuestarias entre diferentes conceptos principales del presupuesto de gastos debe ser autorizada por el Intendente Municipal, dentro de los límites y facultades delegadas por la Ordenanza Complementaria de Presupuesto aprobada por el H.C.D.
-*   c) Se prohíbe de forma absoluta la reasignación de fondos presupuestarios informáticos una vez aprobado el presupuesto anual de la MGP.
-*   d) Ninguna de las anteriores.
+### 5. Cálculo de Velocidad y Capacidad Ágil (Scrum Manager)
+*   **Concepto de Tiempo Real vs. Tiempo Ideal:** El tiempo real es la jornada laboral física del personal, mientras que el tiempo ideal es el esfuerzo neto necesario para completar una tarea bajo condiciones óptimas sin interrupciones ni tiempos muertos.
 
-**Fundamento Normativo:** __________________________________________________________________
+#### **a) Cálculo del Tiempo Real Disponible (en horas reales):**
+*   Equipo: 5 personas.
+*   Sprint: 2 semanas (10 días laborables totales).
+*   Jornada: 6 horas diarias.
+*   **Tiempo Real Disponible:**
+    $\text{Tiempo Real} = 5 \text{ personas} \times 6 \text{ horas/día} \times 10 \text{ días} = \mathbf{300 \text{ horas reales}}$
 
----
+#### **b) Cálculo de Capacidad Efectiva (Tiempo Ideal) y Validación del Backlog:**
+*   La capacidad efectiva en tiempo ideal representa el 60% del tiempo real total:
+    $\text{Capacidad Efectiva (Ideal)} = 300 \text{ horas reales} \times 0.60 = \mathbf{180 \text{ horas ideales}}$
+*   Suma de esfuerzo estimado del backlog del sprint:
+    $\text{Esfuerzo Total Backlog} = 35 \text{ (HU A)} + 42 \text{ (HU B)} + 28 \text{ (HU C)} + 15 \text{ (HU D)} = \mathbf{120 \text{ horas ideales}}$
+*   **Validación de Capacidad:** Como el esfuerzo total del backlog ($120 \text{ horas ideales}$) es **menor** que la capacidad efectiva del equipo ($180 \text{ horas ideales}$), el equipo tiene capacidad suficiente para comprometerse a realizar las 4 historias de usuario propuestas durante el sprint, restando un margen de 60 horas ideales para contingencias o tareas no planificadas de soporte.
+*   *Nota del Jefe de Sistemas:* En caso de que el esfuerzo hubiera superado la capacidad de 180 horas ideales, el Jefe de Sistemas debería coordinar con el Product Owner para retirar historias de menor prioridad del backlog del sprint antes del cierre de la reunión de planificación.
 
-### 6. En virtud de la Ley Nacional de Identidad de Género Nº 26.743 y normativas de género locales, es obligación del Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software garantizar que las bases de datos y sistemas informáticos municipales:
-*   a) Mantengan inalterables y sin posibilidad de cambio los registros del nombre de nacimiento original hasta tanto se dicte sentencia judicial en firme en la jurisdicción civil de Mar del Plata.
-*   b) Permitan y registren de forma obligatoria la rectificación de la identidad de género y el nombre de pila autopercibido de los contribuyentes o agentes a su solo requerimiento, adecuando de forma inmediata los padrones, credenciales y sistemas informáticos del municipio.
-*   c) No registren ninguna distinción de género, eliminando por completo esos datos de todas las bases de datos municipales por razones de privacidad.
-*   d) Ninguna de las anteriores.
-
-**Fundamento Normativo:** __________________________________________________________________
-
----
-
-### 7. Según el Decreto de Domicilio Electrónico y Plataforma MDQ Digital (DECFC-2024-2050-E), en caso de que un contribuyente constituya su domicilio electrónico y la Municipalidad le remita un acto administrativo digitalizado a su bandeja virtual, si el usuario no accede a leer el documento:
-*   a) La notificación se tiene por no realizada y caducan de pleno derecho los plazos de reclamo del municipio.
-*   b) La notificación electrónica se considera formalmente perfeccionada de forma automática por el mero transcurso de diez (10) días hábiles (o el plazo que fije la reglamentación local) desde que el documento fue puesto a disposición en su buzón electrónico de la plataforma MDQ Digital.
-*   c) El municipio debe notificar al contribuyente mediante un llamado telefónico grabado para que la notificación adquiera validez.
-*   d) Ninguna de las anteriores.
-
-**Fundamento Normativo:** __________________________________________________________________
-
----
-
-### 8. De acuerdo con el régimen de Premio por Presentismo en la MGP (Decreto Nº 397/01 y sus modificatorios), ¿cuál de las siguientes situaciones de inasistencia o licencia del agente de sistemas NO interrumpe ni anula el derecho a gozar del Premio por Presentismo (licencia con goce de haberes)?
-*   a) Licencia ordinaria por vacaciones anuales y licencias extraordinarias por maternidad, paternidad y adopción.
-*   b) Licencia por enfermedad de corto tratamiento (médica común) o por razones de fuerza mayor no contempladas expresamente.
-*   c) Salidas por hora para trámites particulares no recuperadas ni compensadas.
-*   d) Ninguna de las anteriores.
-
-**Fundamento Normativo:** __________________________________________________________________
-
----
-
-### 9. Conforme al Decreto Nº 2.250/13 de la MGP que aprueba el régimen del Grupo Ocupacional Computación, los agentes que cumplan tareas técnicas y de jefatura en el área informática municipal:
-*   a) Están exentos de incompatibilidades, pudiendo ejercer la profesión y brindar servicios de sistemas a cualquier empresa privada que sea proveedora o contratista de la Municipalidad de General Pueyrredón.
-*   b) Poseen incompatibilidad absoluta para prestar servicios profesionales de informática a firmas contratistas o proveedoras de software/hardware de la MGP, o intervenir en asuntos privados contra los intereses municipales.
-*   c) Tienen la obligación de realizar guardias técnicas no remuneradas de 24 horas continuas los fines de semana de forma obligatoria.
-*   d) Ninguna de las anteriores.
-
-**Fundamento Normativo:** __________________________________________________________________
-
----
-
-### 10. De acuerdo con la Ley Orgánica de las Municipalidades (Artículos 241º a 244º), la responsabilidad civil y pecuniaria de los funcionarios jerárquicos (Jefes de Departamento, Directores) respecto a los bienes y equipamiento informático (servidores, redes) del municipio a su cargo:
-*   a) Se limita exclusivamente a los casos de dolo penal sentenciado por tribunal de justicia de la Provincia de Buenos Aires.
-*   b) Se extiende a todo daño material o pérdida patrimonial que sufran los bienes municipales debido a la negligencia grave, descuido o falta de debida supervisión del funcionario en el ejercicio de sus funciones jerárquicas de control.
-*   c) Es inexistente, ya que la responsabilidad por el patrimonio recae únicamente sobre el Intendente Municipal de forma indelegable.
-*   d) Ninguna de las anteriores.
-
-**Fundamento Normativo:** __________________________________________________________________
-
----
-
-## CUESTION Nº 2: HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)
-*Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.*
-
-> Un agente del área de soporte técnico de redes que trabaja en su departamento de desarrollo se encuentra realizando tareas de cableado estructurado en el cielorraso técnico del palacio municipal. Al manipular una caja de conexión de red adyacente a una línea de tensión eléctrica de 220V expuesta y sin aislamiento, sufre una descarga eléctrica moderada y una caída desde una altura de 2.5 metros. Como consecuencia del hecho, padece quemaduras de primer grado en la mano derecha y una fractura de clavícula que requiere inmovilización y reposo médico estimado en 45 días. 
-> 
-> Al auditarse el incidente, se constató que la tarea se realizó sin desconectar preventivamente la energía eléctrica del área, el agente no utilizaba guantes dieléctricos, casco ni arnés de seguridad para trabajos en altura, y no se había realizado un análisis de riesgo de trabajo previo.
-> 
-> Se solicita:
-> 1. Indique si el siniestro configura un accidente laboral cubierto por la Ley 24557 y fundamente jurídicamente.
-> 2. Determine qué normas específicas de Higiene y Seguridad (Ley 19587 y su Decreto Reglamentario 351/79 sobre riesgo eléctrico y trabajos en altura) fueron infringidas en este caso en el ámbito municipal y qué medidas correctivas y elementos de protección personal (EPP) debió proveer y exigir el Municipio.
-
----
-
-## CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)
-*Consigna: Resuelva el caso disciplinario planteado y redacte el acto administrativo correspondiente.*
-
-> A través del registro de control horario del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, se constata que el agente informático J.M. (Legajo Nº 55.555, Categoría Programador III) ha acumulado un total de once (111) inasistencias injustificadas consecutivas a su puesto de trabajo (sin mediar justificación médica, aviso jerárquico ni solicitud de licencia extraordinaria alguna), configurándose de forma objetiva la causal de "abandono de servicio".
-> 
-> Tras intimarse formalmente al agente a reintegrarse a sus tareas en el domicilio real registrado en su legajo mediante carta documento certificada de la Dirección de Recursos Humanos, el agente J.M. no se presentó a laborar ni formuló justificación alguna en el plazo de 48 horas de notificado.
-> 
-> Al tratarse de una falta que atenta contra la continuidad de los servicios públicos municipales y configura abandono de servicio (causal de cesantía prevista en el Art. 109 inc 1 de la Ley 14656), usted como Jefe de Departamento debe tramitar la elevación del informe solicitando el inicio de las actuaciones sumariales y el cese de los haberes lógicos y del cargo del agente de inmediato.
-> 
-> Se solicita:
-> 1. Explique fundadamente qué procedimiento formal exige la Ley 14656 para declarar la cesantía por abandono de servicio y qué medida cautelar respecto al cese de haberes y bloqueo de accesos lógicos del agente corresponde adoptar. (1.5 Puntos)
-> 2. Redacte la parte dispositiva y de fundamentación (`VISTO`, `CONSIDERANDO` y `DISPONE` o `ELEVA`) de la Disposición formal mediante la cual usted, como Jefe de Departamento, informa la situación de inasistencias, promueve las actuaciones para declarar la cesantía por abandono de servicio y ordena el cese de sus accesos lógicos. (2.5 Puntos)
-
----
-
-## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
-*Consigna: Responda las siguientes preguntas en base al protocolo de violencia laboral de género de la MGP (Ordenanza 24271) y la Ley Micaela (Ley 27499).*
-
-> Una agente con funciones administrativas en el área de sistemas del departamento sufre acoso verbal recurrente, comentarios burlones continuos y gestos obscenos por parte de un colega técnico del mismo departamento. Refiere que esta situación la ha sumido en un cuadro de ansiedad aguda, provocándole ataques de pánico que la obligaron a tomar licencias psiquiátricas cortas en reiteradas oportunidades. Ella teme denunciarlo formalmente por miedo a represalias de sus compañeros o al traslado de oficina fuera del área de sistemas.
-> 
-> Se solicita:
-> 1. Explique cómo define y encuadra la Ordenanza 24.271 el concepto de hostigamiento y acoso en el entorno de trabajo y si la situación narrada constituye violencia laboral de género. (1.5 Puntos)
-> 2. Indique cuáles son las obligaciones del Jefe de Departamento para brindar acompañamiento a la agente afectada y resguardar su integridad psíquica de forma confidencial, garantizando la no victimización secundaria. (1.5 Puntos)
-> 3. Detalle las vías jerárquicas y los organismos específicos de la MGP (Dirección de Políticas de Género, Medicina del Trabajo) que deben intervenir de forma coordinada con la Jefatura para abordar y acompañar el caso. (1.5 Puntos)
-
----
-
-## CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)
-*Consigna: Responda las siguientes preguntas basadas en la bibliografía oficial del cargo (Kendall & Kendall 8va Edición y Scrum Manager v2.6).*
-
-1.  **Diseño Relacional y Normalización de Bases de Datos (Kendall & Kendall):** Explique conceptualmente qué es la **Integridad Referencial** en una base de datos relacional y describa la diferencia y función de las **Llaves Primarias (Primary Keys)**, **Llaves Foráneas (Foreign Keys)** y **Llaves Candidatas (Candidate Keys)**. Proponga un esquema relacional básico (indicando llaves y campos) para el módulo municipal de registro de Actas de Infracciones de Tránsito del municipio.
-2.  **Arquitectura de Software y Usabilidad (Kendall & Kendall):** Compare detalladamente una arquitectura de software municipal de tipo **Monolítica** frente a una basada en **Microservicios**. Detalle las ventajas y desventajas de cada enfoque respecto a la escalabilidad, la velocidad de despliegue, el mantenimiento de sistemas (DoD) y el cumplimiento de las funciones encomendadas en la circular 902.
-3.  **Métricas Ágiles - Diagrama de Flujo Acumulado (CFD - Cumulative Flow Diagram) (Scrum Manager):** Explique conceptualmente qué es un CFD y detalle cómo se interpretan los ejes y las diferentes bandas de colores correspondientes a las columnas del tablero Kanban. ¿Qué problema organizativo del flujo de trabajo se detecta si la banda que representa las tareas "En Pruebas (QA/Testing)" experimenta un ensanchamiento progresivo y qué acciones debe adoptar el Jefe de Sistemas?
-4.  **Aseguramiento de Calidad y Pruebas de Integración (DoD):** Defina en qué consisten las **Pruebas de Integración (Integration Testing)** y diferéncielas de las **Pruebas Unitarias (Unit Testing)**. Explique de qué manera la Jefatura de Departamento debe incluir estos dos tipos de pruebas en la Definición de Terminado (DoD) de un equipo de desarrollo ágil municipal que debe integrar sus módulos al sistema nacional de GDE.
-5.  **Cálculo de Lead Time, Cycle Time y Eficiencia en Lean/Kanban (Scrum Manager):**
-    > Un equipo ágil de desarrollo de sistemas de software utiliza un tablero Kanban para procesar los requerimientos de mejoras en los sistemas de facturación de tasas municipales. Durante el último mes se registraron las siguientes métricas exactas (expresadas en días) para 5 requerimientos de software finalizados por el equipo:
-    > *   **Requerimiento 1:** Lead Time = 10 días, Cycle Time = 4 días, Touch Time = 1 día.
-    > *   **Requerimiento 2:** Lead Time = 15 días, Cycle Time = 6 días, Touch Time = 2 días.
-    > *   **Requerimiento 3:** Lead Time = 8 días, Cycle Time = 3 días, Touch Time = 1 día.
-    > *   **Requerimiento 4:** Lead Time = 18 días, Cycle Time = 7 días, Touch Time = 2.5 días.
-    > *   **Requerimiento 5:** Lead Time = 9 días, Cycle Time = 5 días, Touch Time = 1.5 días.
-    > 
-    > Resuelva los siguientes puntos:
-    > a) Calcule el valor promedio de **Lead Time**, **Cycle Time** y **Touch Time** para estas 5 tareas finalizadas. Detalle los pasos y cálculos matemáticos.  
-    > b) Calcule la **Eficiencia del Flujo de Trabajo (Flow Efficiency)** del equipo en relación al Cycle Time y al Lead Time de forma independiente (fórmulas expresadas en %). Explique la diferencia conceptual entre ambas métricas y qué tipo de cuellos de botella revela la comparación de ambos resultados.
-
----
----
-
-## GUÍA DE RESPUESTAS Y SOLUCIONES EXPLICADAS (INFORMACIÓN OCULTA PARA AUTOEVALUACIÓN)
-
-<details>
-<summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary>
-
-### 1. Respuesta Correcta: **a**
-*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículos 151º a 156º** (Régimen de contrataciones). Las compras y contrataciones municipales de bienes y servicios (como equipamiento de servidores) que superen los límites económicos fijados anualmente por la Ley de Presupuesto de la Provincia de Buenos Aires para Licitaciones Privadas deben encuadrarse obligatoriamente en un llamado a **Licitación Pública**. El fraccionamiento del gasto para eludir este procedimiento constituye una falta grave pasible de sanción por el Honorable Tribunal de Cuentas. *(📋 LOM - Art. 151º)*
-
-### 2. Respuesta Correcta: **a**
-*   **Fundamento Normativo:** RAFAM (Decreto Provincial 2980/00), **Anexo contable de activos no corrientes**. Las normas contables públicas determinan que el desarrollo interno de programas y sistemas informáticos (activos intangibles) de uso institucional o de recaudación propia puede capitalizarse patrimonialmente como activo intangible siempre que se cumpla con la trazabilidad y cuantificación de costos de desarrollo (horas hombre dedicadas, licencias externas de desarrollo y consultoría afectada directamente al proyecto). Esto mejora el balance patrimonial de la comuna, no considerándose gasto corriente de consumo. *(📋 RAFAM)*
-
-### 3. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Provincial 14656, **Artículo 26º** (Extinción del poder disciplinario). El poder disciplinario de la administración municipal se extingue por prescripción en los siguientes plazos: seis (6) meses para las faltas que dan lugar a sanciones correctivas y doce (12) meses (1 año) para las faltas que correspondan a sanciones expulsivas (cesantía). *(📋 Ley 14656)*
-
-### 4. Respuesta Correcta: **c**
-*   **Fundamento Normativo:** Decreto MGP **2.940/22 (Reglamento de GDE)**. La implementación del Expediente Electrónico (EE) municipal establece la obligatoriedad de que toda pieza documental (providencia, dictamen, nota, disposición) que se incorpore al trámite se genere a través de los módulos oficiales de GDE (GEDO, CCOO, etc.), firmándose digitalmente para asegurar su inalterabilidad, unicidad, integridad y no redundancia de documentos, prohibiéndose el uso de expedientes o folios paralelos en papel de forma simultánea. *(📋 Decreto MGP 2.940/22)*
-
-### 5. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículos 119º y 120º** y Ordenanza Complementaria de Presupuesto de la MGP **26.580**. Las reasignaciones presupuestarias que implican transferir crédito de gastos corrientes (bienes) a gastos de servicios no personales (consultoría técnica) corresponden formalmente a atribuciones presupuestarias del Intendente Municipal, de conformidad con lo reglamentado en la Ordenanza Complementaria de Presupuesto aprobada anualmente por el Honorable Concejo Deliberante (HCD). *(📋 LOM y Ord. 26.580)*
-
-### 6. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Nacional de Identidad de Género Nº 26.743, **Artículo 12º** (Trato digno). Rige el derecho de toda persona a ser identificada por su nombre de pila autopercibido e identidad de género en todos los registros administrativos. El área de desarrollo de sistemas de software debe diseñar las bases de datos y la interfaz de usuario de modo tal que, a solo requerimiento del interesado, se rectifiquen y registren de forma inmediata y automática sus datos identificatorios respetando su nombre de pila autopercibido, aun si este no ha realizado el cambio en el documento nacional de identidad (DNI). *(📋 Ley 26.743 - Art. 12º)*
-
-### 7. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto regulador de la Plataforma MDQ Digital (**DECFC-2024-2050-E**). El Domicilio Electrónico Constituido es jurídicamente equivalente al domicilio físico especial constituido. La notificación se considera perfeccionada legalmente transcurrido el plazo automático fijado por el decreto (generalmente 10 días hábiles) desde el depósito del acto en la bandeja de notificaciones del portal web, aun si el contribuyente no ingresó al sistema o no abrió el documento enviado. Esto evita la paralización de los plazos administrativos por inacción del usuario. *(📋 DECFC-2024-2050-E)*
-
-### 8. Respuesta Correcta: **a**
-*   **Fundamento Normativo:** Decretos MGP **397/01 y 3080/01** (Reglamento del Premio por Presentismo). El premio presentismo (licencia con goce de haberes) no se pierde por inasistencias derivadas de la licencia anual ordinaria (vacaciones) ni por licencias extraordinarias por maternidad, paternidad, adopción, duelo familiar o accidente de trabajo. En cambio, cualquier inasistencia por enfermedad común (corto tratamiento), inasistencias injustificadas, o sanciones disciplinarias por impuntualidad, interrumpen y anulan el beneficio del cuatrimestre correspondiente. *(📋 Decretos MGP 397/01 y 3080/01)*
-
-### 9. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto MGP **2.250/13 (Régimen de Computación)**. El personal informático municipal del grupo computación posee incompatibilidad absoluta para asesorar, representar, programar o prestar cualquier tipo de servicio profesional de carácter remunerado a empresas de software, consultoras de tecnología o proveedores de hardware que contraten con la Municipalidad de General Pueyrredón o mantengan litigios administrativos o judiciales con el fisco municipal. *(📋 Decreto MGP 2.250/13)*
-
-### 10. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículos 241º y 242º**. Todo agente municipal de nivel jerárquico que tenga a su cargo la custodia, administración o supervisión directa de bienes municipales (como servidores o redes) responderá patrimonial y pecuniariamente con su propio sueldo y patrimonio ante el Tribunal de Cuentas por el deterioro, robo o pérdida del equipamiento si el suceso fue producto de su negligencia grave, omisión de controles elementales o incumplimiento de sus deberes jerárquicos de supervisión. *(📋 LOM - Arts. 241º y 242º)*
+*(📖 Scrum Manager v2.6, Parte I, págs. 37-41)*
 
 </details>
 
@@ -285,7 +148,7 @@ El Jefe de Departamento debe actuar de inmediato de forma estrictamente confiden
 </details>
 
 <details>
-<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (Bases de Datos, Arquitectura, CFD y Tiempos Lean)</b></summary>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (Bases de Datos, Prototipos, Kanban y Capacidad)</b></summary>
 
 ### 1. Integridad Referencial y Esquema Relacional de Multas (Kendall & Kendall)
 *   **Integridad Referencial:** Es una regla de diseño de bases de datos relacionales que asegura que las relaciones entre tablas permanezcan consistentes. Establece que un valor de una llave foránea en una tabla hija debe corresponder exactamente con un valor existente de la llave primaria de la tabla padre, o bien ser nulo. Esto evita la existencia de registros huérfanos.

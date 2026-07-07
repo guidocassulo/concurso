@@ -232,6 +232,9 @@ blockquote {
     header, .actions, .score-calculator, summary::-webkit-details-marker, details summary {
         display: none !important;
     }
+    .card-bg {
+        background-color: white !important;
+    }
     .exam-card {
         box-shadow: none !important;
         border: none !important;
@@ -402,9 +405,9 @@ blockquote {
 <h2>CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)</h2>
 <p><em>Consigna: Responda las siguientes preguntas basadas en la bibliografía oficial del concurso (Kendall &amp; Kendall 8va Edición y Scrum Manager v2.6).</em></p>
 <ol>
-<li><strong>Arquitectura de Software (Kendall &amp; Kendall):</strong> Explique detalladamente el patrón arquitectónico Modelo-Vista-Controlador (MVC). Describa la función específica de cada uno de sus tres componentes y detalle el flujo de comunicación que ocurre cuando un usuario solicita ver sus datos en una aplicación web municipal.</li>
+<li><strong>Interacción Humano-Computadora y Usabilidad (Kendall &amp; Kendall):</strong> Defina conceptualmente qué es la <strong>Interacción Humano-Computadora (HCI)</strong> y explique detalladamente tres lineamientos o pautas recomendadas por Kendall &amp; Kendall para el diseño de la interfaz de usuario en sitios web públicos (tales como portales de trámites municipales) para asegurar la claridad, legibilidad y usabilidad.</li>
 <li><strong>Marco Scrum (Scrum Manager):</strong> Explique las ceremonias de cierre del Sprint: <em>Sprint Review</em> (Revisión) y <em>Sprint Retrospective</em> (Retrospectiva). Detalle las diferencias fundamentales entre ambas en cuanto a su propósito, resultados esperados y quiénes participan.</li>
-<li><strong>Análisis de Requerimientos (Kendall &amp; Kendall):</strong> Diferencie entre requerimientos funcionales y requerimientos no funcionales (de rendimiento, seguridad, confiabilidad) de un sistema de software. Mencione y describa brevemente tres técnicas utilizadas por el analista para recopilar información de requerimientos de los usuarios.</li>
+<li><strong>Análisis de Requerimientos de Información (Kendall &amp; Kendall):</strong> A la hora de recopilar los requerimientos de información de una dependencia municipal para el desarrollo de un nuevo sistema, detalle conceptualmente en qué consisten y cómo se aplican las siguientes tres técnicas de recopilación según la bibliografía oficial: las <strong>Entrevistas</strong>, los <strong>Cuestionarios</strong> y el diseño conjunto <strong>JAD (Joint Application Design)</strong>.</li>
 <li><strong>Calidad en Scrum (Scrum Manager):</strong> Defina qué es la &quot;Definición de Terminado&quot; (Definition of Done - DoD) en Scrum y en qué se diferencia conceptualmente de los &quot;Criterios de Aceptación&quot; de una Historia de Usuario específica. ¿Por qué es crítico que todo el Scrum Team comparta y respete la DoD?</li>
 <li><strong>Cálculo Práctico de Velocidad y Estimación:</strong><blockquote>
 <p>Un equipo de desarrollo a su cargo se encuentra digitalizando el flujo de habilitación de comercios. A lo largo de los últimos cuatro Sprints de 2 semanas de duración cada uno, el equipo entregó las siguientes cantidades de Puntos de Historia (Story Points - SP):</p>
@@ -537,22 +540,17 @@ a) Calcule la velocidad promedio del equipo y estime la cantidad de Sprints (y s
 <li><strong>Fundamento:</strong> De acuerdo al <strong>Protocolo de la Ordenanza Municipal MGP 24271 y Leyes de Protección Integral</strong>, la reubicación física de oficina o cambio de tareas de la denunciante <strong>solo puede realizarse a su solicitud expresa y con su conformidad formal</strong>. La reubicación forzada o impuesta sin su consentimiento constituye una sanción encubierta que lesiona sus derechos y puede ser considerada violencia institucional, ya que altera unilateralmente sus condiciones laborales. Las medidas preventivas obligatorias o traslados forzosos de protección deben aplicarse primordialmente sobre el agente denunciado, nunca sobre la víctima de manera unilateral.</li>
 </ul>
 </details><details>
-<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (MVC, Scrum y Kendall)</b></summary><h3>1. Patrón Modelo-Vista-Controlador (MVC) y Flujo de Comunicación</h3>
-<p>El patrón MVC separa los componentes de una aplicación de software en tres capas lógicas para facilitar el mantenimiento, la modularidad y el desarrollo colaborativo:</p>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (HCI, Scrum y Kendall)</b></summary><h3>1. Interacción Humano-Computadora y Usabilidad (Kendall &amp; Kendall)</h3>
 <ul>
-<li><strong>Modelo (Model):</strong> Representa los datos de la aplicación y las reglas de negocio que los rigen. Interactúa directamente con la base de datos municipal para crear, consultar, actualizar o borrar información. No sabe nada de la interfaz gráfica.</li>
-<li><strong>Vista (View):</strong> Es la interfaz gráfica que visualiza el usuario final. Representa los datos contenidos en el modelo en formatos web legibles (HTML, CSS, JSON) y captura las acciones de interacción del usuario (botones, formularios).</li>
-<li><strong>Controlador (Controller):</strong> Actúa como intermediario entre la Vista y el Modelo. Recibe las solicitudes HTTP del usuario enviadas por la Vista, procesa la entrada, realiza llamadas a los servicios del Modelo para alterar o traer datos, y finalmente decide qué Vista de respuesta renderizar y devolver al usuario.</li>
-<li><strong>Flujo Típico de Comunicación (Consulta de datos):</strong><ol>
-<li>El usuario hace clic en el botón &quot;Ver mis tasas&quot; de la <strong>Vista</strong> del navegador, enviando una petición HTTP GET al servidor.</li>
-<li>El <strong>Controlador</strong> recibe la petición en la URL correspondiente, extrae los parámetros (ej. ID de contribuyente) y llama al <strong>Modelo</strong> solicitando los datos del contribuyente.</li>
-<li>El <strong>Modelo</strong> consulta los registros de la base de datos, aplica las reglas fiscales y devuelve los datos limpios al <strong>Controlador</strong>.</li>
-<li>El <strong>Controlador</strong> toma estos datos y selecciona la <strong>Vista</strong> correspondiente, inyectando los datos del contribuyente dentro del HTML.</li>
-<li>La <strong>Vista</strong> renderizada se envía al navegador del usuario, quien la visualiza en pantalla.</li>
+<li><strong>Concepto de HCI (Interacción Humano-Computadora):</strong> Es el estudio y diseño de la forma en que los seres humanos interactúan con las computadoras y sistemas informáticos, buscando optimizar la eficiencia, seguridad y satisfacción del usuario final.</li>
+<li><strong>Pautas de Usabilidad para Sitios Web Públicos (3 lineamientos de Kendall &amp; Kendall):</strong><ol>
+<li><strong>Ofrecer retroalimentación constante:</strong> La interfaz debe informar al usuario sobre el estado de sus solicitudes (ej. mostrando barras de progreso o mensajes de confirmación claros cuando envía un trámite o formulario municipal).</li>
+<li><strong>Mantener la consistencia visual y de comportamiento:</strong> Utilizar fuentes tipográficas coherentes, terminología estandarizada y botones situados en las mismas posiciones a lo largo de todas las pantallas del portal.</li>
+<li><strong>Diseño intuitivo y navegación clara:</strong> Organizar la información de manera jerárquica con menús de navegación sencillos y enlaces que indiquen claramente su destino (ej. &quot;Descargar tasa&quot; en lugar de un enlace ambiguo), reduciendo la carga cognitiva del usuario.</li>
 </ol>
 </li>
 </ul>
-<p><em>(📖 Kendall &amp; Kendall, Cap. 17, págs. 465-470 — Patrón Modelo-Vista-Controlador)</em></p>
+<p><em>(📖 Kendall &amp; Kendall, Cap. 14, págs. 445-455)</em></p>
 <hr>
 <h3>2. Sprint Review vs Sprint Retrospective (Scrum Manager v2.6)</h3>
 <ul>
@@ -571,18 +569,13 @@ a) Calcule la velocidad promedio del equipo y estime la cantidad de Sprints (y s
 </ul>
 <p><em>(📖 Scrum Manager v2.6, Parte I, pág. 30 — Sprint Review; pág. 31 — Retrospectiva del Sprint)</em></p>
 <hr>
-<h3>3. Requerimientos Funcionales vs No Funcionales y Técnicas de Recopilación (Kendall &amp; Kendall)</h3>
+<h3>3. Técnicas de Recopilación de Requerimientos de Información (Kendall &amp; Kendall)</h3>
 <ul>
-<li><strong>Requerimientos Funcionales:</strong> Describen <em>qué</em> debe hacer el sistema. Definen los servicios y funciones que el software debe proveer (ej. &quot;El sistema debe permitir liquidar la tasa por alumbrado&quot;, &quot;El sistema debe emitir un archivo PDF al finalizar el trámite&quot;).</li>
-<li><strong>Requerimientos No Funcionales:</strong> Describen restricciones de calidad, rendimiento o comportamiento del sistema. Definen <em>cómo</em> debe funcionar el sistema (ej. &quot;El sistema debe responder en menos de 2 segundos&quot;, &quot;La aplicación debe encriptar las contraseñas usando algoritmos AES-256&quot;, &quot;El sistema debe soportar 500 conexiones simultáneas sin caídas&quot;).</li>
-<li><strong>Técnicas de Recolección de Información (3 técnicas):</strong><ol>
-<li><strong>Entrevistas:</strong> Reuniones guiadas con los usuarios o jefes de área para comprender en profundidad sus necesidades, objetivos y problemas cotidianos.</li>
-<li><strong>Cuestionarios:</strong> Formularios escritos enviados a grandes grupos de usuarios para recolectar datos estadísticos o preferencias generales del sistema.</li>
-<li><strong>Observación (JAD o presencial):</strong> El analista observa directamente el comportamiento y las tareas cotidianas del usuario en su puesto de trabajo para comprender los flujos de tareas reales sin sesgos de relato.</li>
-</ol>
-</li>
+<li><strong>Entrevistas:</strong> Conversaciones estructuradas o semiestructuradas cara a cara con usuarios y funcionarios clave. Permiten explorar opiniones, sentimientos, metas y problemáticas del sistema de forma profunda, aunque consumen mucho tiempo.</li>
+<li><strong>Cuestionarios:</strong> Formularios escritos estandarizados distribuidos a un gran grupo de personas. Permiten obtener datos cuantitativos y tendencias sobre el uso del sistema, pero carecen de la flexibilidad para profundizar que tiene la entrevista.</li>
+<li><strong>JAD (Joint Application Design):</strong> Sesiones grupales de diseño interactivo que reúnen a analistas, desarrolladores y usuarios finales en un espacio de trabajo intensivo para definir de forma colaborativa y consensuada los requerimientos del sistema en menor tiempo.</li>
 </ul>
-<p><em>(📖 Kendall &amp; Kendall, Parte II, pág. 103+ — Requerimientos de Información y Análisis)</em></p>
+<p><em>(📖 Kendall &amp; Kendall, Cap. 4, págs. 103-118 y Cap. 5, págs. 120-135)</em></p>
 <hr>
 <h3>4. Definición de Terminado (DoD) vs Criterios de Aceptación (Scrum Manager)</h3>
 <ul>

@@ -49,108 +49,23 @@
 
 ---
 
-### 5. En el entorno informático de la MGP, cuando un Jefe de Departamento debe tramitar el pase formal de un expediente digital y remitirlo a otra dependencia (por ejemplo, a la Dirección de Personal), ¿qué tipo de documento debe generar en el módulo GEDO del sistema GDE (Decreto Nº 2940/22)?
-*   a) Una Nota (NO).
-*   b) Una Providencia (PV).
-*   c) Un Memorándum (ME).
-*   d) Ninguna de las anteriores.
+### 5. Planificación de Sprint y Capacidad Horaria del Equipo (Scrum Manager)
+*   **Tiempo Real vs. Tiempo Ideal:** El tiempo real representa las horas físicas de presencia del agente en la oficina, mientras que el tiempo ideal es el esfuerzo neto efectivo de desarrollo libre de reuniones administrativas, tiempos muertos o soporte técnico ajeno al sprint.
 
-**Fundamento Normativo:** __________________________________________________________________
+#### **a) Cálculo de Tiempo Real Disponible (horas reales):**
+*   Equipo: 4 programadores.
+*   Sprint: 2 semanas (10 días laborables).
+*   Jornada: 6 horas diarias.
+*   **Tiempo Real Disponible:**
+    $\text{Tiempo Real} = 4 \text{ personas} \times 6 \text{ horas/día} \times 10 \text{ días} = \mathbf{240 \text{ horas reales}}$
 
----
+#### **b) Cálculo de Capacidad Efectiva (tiempo ideal) y Utilidad:**
+*   Factor de enfoque: 70%.
+*   **Capacidad Efectiva (Tiempo Ideal):**
+    $\text{Capacidad Efectiva} = 240 \text{ horas reales} \times 0.70 = \mathbf{168 \text{ horas ideales}}$
+*   **Utilidad en la Planificación:** El equipo utiliza estas 168 horas ideales como el límite máximo para la suma de las estimaciones detalladas de las tareas que componen el *Sprint Backlog*. Si al desglosar las historias prioritarias en tareas de desarrollo técnico la suma acumulada supera las 168 horas ideales, el equipo cuenta con una alerta cuantitativa objetiva para no comprometerse a realizar más trabajo del físicamente realizable en el sprint.
 
-### 6. De acuerdo con la Ley Provincial Nº 14656 (Régimen Disciplinario) y el Decreto Municipal Nº 1539/18, ¿cuál es el límite máximo de sanción correctiva de suspensión sin goce de haberes que puede aplicar un Secretario del Departamento Ejecutivo de forma directa sin requerir un Sumario Administrativo formal previo?
-*   a) Hasta cinco (5) días de suspensión.
-*   b) Hasta diez (10) días de suspensión.
-*   c) Hasta treinta (30) días de suspensión.
-*   d) Ninguna de las anteriores.
-
-**Fundamento Normativo:** __________________________________________________________________
-
----
-
-### 7. Según el reglamento de control horario y presentismo de la MGP (Decreto Nº 121/18 y modificatorios), un agente que llega tarde a tomar servicio dentro de los primeros quince (15) minutos del horario fijado para el inicio de su jornada laboral:
-*   a) Es pasible de un apercibimiento automático y directo del Jefe de Departamento desde la primera ocurrencia.
-*   b) Goza de una tolerancia mensual justificable de hasta veinte (20) minutos acumulados en el mes (con un límite de 120 minutos anuales) sin que constituyan falta pasible de sanción directa, procediendo al descuento del tiempo no trabajado.
-*   c) Debe retirarse de la dependencia y se le computa inasistencia injustificada para todo el día laboral.
-*   d) Ninguna de las anteriores.
-
-**Fundamento Normativo:** __________________________________________________________________
-
----
-
-### 8. En base al Protocolo de Abordaje para la Prevención e Intervención ante situaciones de Violencia Laboral de la MGP (Ordenanza Nº 24271), el principio que garantiza que la persona afectada no sea expuesta a interrogatorios reiterados, reconstrucciones innecesarias de los hechos o confrontaciones directas con el presunto agresor se denomina:
-*   a) Principio de Confidencialidad Absoluta.
-*   b) Principio de Celeridad y Agilidad Procesal.
-*   c) Principio de No Revictimización (Evitar la victimización secundaria).
-*   d) Ninguna de las anteriores.
-
-**Fundamento Normativo:** __________________________________________________________________
-
----
-
-### 9. De acuerdo con la Ley Nº 24557 (Riesgos del Trabajo), si un programador de sistemas sufre un esguince de tobillo grave jugando al fútbol en un torneo interdepartamental organizado, patrocinado y financiado oficialmente por el Municipio para el personal municipal durante el fin de semana:
-*   a) El siniestro se encuentra excluido de la cobertura de la ART por haber ocurrido fuera del horario y del establecimiento laboral habitual.
-*   b) Configura un accidente "en ocasión del trabajo" y por ende goza de plena cobertura por parte de la Aseguradora de Riesgos del Trabajo (ART) contratada por el municipio.
-*   c) Es una enfermedad inculpable regida exclusivamente por la Ley 14656 que no involucra a la ART.
-*   d) Ninguna de las anteriores.
-
-**Fundamento Normativo:** __________________________________________________________________
-
----
-
-### 10. Conforme a las facultades de control recíproco establecidas en la L.O.M. (Decreto-Ley 6769/58), cuando el Honorable Concejo Deliberante (HCD) solicita informes escritos al Departamento Ejecutivo sobre el estado de desarrollo de un sistema informático municipal:
-*   a) El Intendente puede omitir responder por tratarse de un área reservada a la gestión técnica del ejecutivo.
-*   b) El Departamento Ejecutivo tiene la obligación legal de contestar los informes solicitados por el Concejo Deliberante dentro del plazo establecido por la ley, que es de treinta (30) días (Artículo 108º, Inciso 7).
-*   c) Las respuestas del ejecutivo a los pedidos de informe deben ser refrendadas y validadas previamente por el Tribunal de Cuentas Provincial.
-*   d) Ninguna de las anteriores.
-
-**Fundamento Normativo:** __________________________________________________________________
-
----
-
-<details>
-<summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary>
-
-### 1. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 109º** (y Artículo 35º del Reglamento Contable de la RAFAM). El Intendente Municipal debe elevar el proyecto de presupuesto para el ejercicio siguiente al Concejo Deliberante antes del 31 de octubre de cada año. El HCD tiene la facultad de solicitar prórrogas si fuera necesario.
-*(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades)*
-
-### 2. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley 14656, **Artículo 92º** (Licencia por Paternidad / Nacimiento de Hijo para progenitor no gestante). La ley marco provincial fija una licencia con goce de haberes de 5 días hábiles, pero remite a las normas locales y de negociación colectiva. En la MGP, las ordenanzas complementarias y el Convenio Colectivo de Trabajo (CCT) elevan el plazo a 15 días corridos.
-*(📋 Verificar en texto oficial de Ley 14656)*
-
-### 3. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto Municipal **2250/13, Anexo II** (Requisitos mínimos para cargos del Grupo Computación). El nomenclador exige de manera excluyente el título universitario afín a sistemas de información o computación, o bien contar con la Matrícula Profesional activa habilitada por el Consejo Profesional de Ciencias Informáticas de la Provincia de Buenos Aires (Ley 13016).
-*(📋 Verificar en texto oficial de Decreto MGP 2250/13)*
-
-### 4. Respuesta Correcta: **c**
-*   **Fundamento Normativo:** Manual de Redacción de la MGP (Decreto Nº 966/19, Anexo I, Capítulo I). Las directivas permanentes, las normas de procedimiento interno y las reglamentaciones generales del área de competencia deben instrumentarse en una **Disposición** de la Jefatura (o Circular si es meramente informativa), mientras que las Notas se utilizan para comunicaciones formales externas y los Memorándums para comunicaciones internas rápidas no permanentes.
-*(📋 Verificar en texto oficial de Decreto MGP 966/19)*
-
-### 5. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto Reglamentario de GDE en la MGP (Decreto Nº 2940/22 y manuales operativos de uso del sistema). Las **Providencias (PV)** son los documentos formales obligatorios en GDE que sirven para el impulso procesal de los expedientes, la derivación y el pase de las actuaciones de un área a otra. Las notas (NO) se reservan para comunicaciones externas o notas de elevación formales.
-*(📋 Verificar en texto oficial de Decreto MGP 2940/22)*
-
-### 6. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley 14656, **Artículos 105º y 106º**, en concordancia con el Decreto Reglamentario Municipal **1539/18, Artículo 1º, Inciso a**. La delegación de facultades disciplinarias asigna a los Secretarios del Departamento Ejecutivo la competencia para aplicar sanciones correctivas de llamado de atención, apercibimiento y suspensiones de hasta diez (10) días de suspensión sin sumario previo (a partir del día 11 es obligatorio el sumario).
-*(📋 Verificar en texto oficial de Decreto MGP 1539/18)*
-
-### 7. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto de Control Asistencial MGP (Decreto Nº **121/18, Artículo 4º**). El decreto autoriza a la Dirección de Personal a justificar hasta veinte (20) minutos de llegada tarde por mes (acumulativo), con un tope anual de ciento veinte (120) minutos, sin que esto configure una falta pasible de sanciones correctivas directas (llamado de atención/apercibimiento).
-*(📋 Verificar en texto oficial de Decreto MGP 121/18)*
-
-### 8. Respuesta Correcta: **c**
-*   **Fundamento Normativo:** Ordenanza Municipal **24271, Anexo I, Artículo 4º** (Principios de abordaje en situaciones de violencia laboral). El principio de **No Revictimización** o evitación de la victimización secundaria prohíbe someter a la víctima a declaraciones reiteradas de los mismos hechos que puedan generarle mayor sufrimiento psicológico, y prohíbe obligarla a careos o confrontaciones directas con el denunciado.
-*(📋 Verificar en texto oficial de Ordenanza MGP 24271)*
-
-### 9. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley de Riesgos del Trabajo Nº 24557, **Artículo 6º, Inciso 1**. El accidente se produce en ocasión del trabajo, ya que las actividades recreativas, deportivas o sociales organizadas, financiadas o patrocinadas de forma oficial por el empleador (el Municipio) se consideran una extensión del vínculo de empleo y de sus objetivos, estando plenamente cubiertas por la ART.
-*(📋 Verificar en texto oficial de Ley 24557)*
-
-### 10. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 108º, Inciso 7** (Deberes del Departamento Ejecutivo). Es atribución y deber del Intendente: *"Suministrar verbalmente o por escrito los informes que le solicite el Concejo Deliberante..."*. El artículo establece un plazo de treinta (30) días para la contestación formal de dichos pedidos de informes legislativos.
-*(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades)*
+*(📖 Scrum Manager v2.6, Parte I, págs. 37-41)*
 
 </details>
 
@@ -289,8 +204,8 @@ ARTÍCULO 3º.- Registrar en el Legajo de Personal del Agente, notificar al inte
 ## CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)
 *Consigna: Responda las siguientes preguntas basadas en la bibliografía oficial del cargo (Kendall & Kendall 8va Edición y Scrum Manager v2.6).*
 
-### 1. Patrones de Diseño - Patrón Observer (Kendall & Kendall / Ingeniería de Software):
-Explique detalladamente el propósito y la estructura del patrón de diseño **Observer (Observador)**. Defina los roles de los objetos **Sujeto (Subject)** y **Observadores (Observers)**. Proponga un ejemplo de aplicación práctica de este patrón en un sistema de software municipal de liquidación de tasas cuando el estado de una factura cambia a "Pagada".
+### 1. Modelado UML en el Diseño de Sistemas Orientados a Objetos (Kendall & Kendall):
+Explique conceptualmente el propósito y la diferencia en el modelado entre un **Diagrama de Clases** y un **Diagrama de Secuencia** en UML según Kendall & Kendall. Detalle qué elementos se representan en un diagrama de secuencia y cómo interactúan las clases de interfaz, de control y de entidad.
 
 ### 2. Ingeniería de Software - Pruebas de Caja Blanca vs. Caja Negra (Kendall & Kendall):
 Diferencie de forma conceptual y metodológica las **Pruebas de Caja Blanca (White-Box Testing)** frente a las **Pruebas de Caja Negra (Black-Box Testing)**. Detalle:
@@ -298,10 +213,8 @@ Diferencie de forma conceptual y metodológica las **Pruebas de Caja Blanca (Whi
 2. Cuál es el perfil técnico de quien suele ejecutarlas.
 3. En qué fases del ciclo de vida del desarrollo de sistemas (SDLC) se aplican prioritariamente.
 
-### 3. Métricas y Planificación Ágil - Velocidad vs. Rendimiento (Throughput) (Scrum Manager):
-Compare los conceptos de **Velocidad (Velocity)** en Scrum y **Rendimiento (Throughput)** en Kanban de acuerdo a Scrum Manager. Explique:
-1. Cómo se calcula cada métrica.
-2. De qué forma el Jefe de Sistemas puede utilizar el Rendimiento (*Throughput*) para realizar proyecciones temporales en un equipo de desarrollo ágil que tiene un backlog de historias de usuario estimadas en Story Points pero procesadas en flujo continuo.
+### 3. Estimación Ágil y Dinámica de Planning Poker (Scrum Manager):
+Explique en qué consiste la técnica de estimación de **Póquer de Estimación (Planning Poker)** descrita en Scrum Manager. Detalle cómo se utiliza la escala de números basados en la serie de **Fibonacci** y de qué manera esta dinámica colaborativa ayuda a evitar el sesgo de influencia (anclaje) entre los programadores del equipo.
 
 ### 4. Diseño de Base de Datos - Diagramas de Entidad-Relación y Diccionario de Datos (Kendall & Kendall):
 Explique de qué manera el **Diagrama de Entidad-Relación (DER / ERD)** y el **Diccionario de Datos** se complementan recíprocamente durante la fase de análisis y diseño de una base de datos relacional municipal. Describa qué tipos de metadatos del modelo lógico deben quedar documentados obligatoriamente en el Diccionario de Datos para una entidad denominada `CONTRIBUYENTE`.
@@ -321,19 +234,17 @@ Se solicita:
 <details>
 <summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos</b></summary>
 
-### 1. Patrón de Diseño Observer (Observador)
-*   **Propósito:** Es un patrón de diseño de comportamiento que define una dependencia de uno-a-muchos entre objetos, de manera que cuando un objeto (el Sujeto) cambia su estado, todos sus dependientes (los Observadores) son notificados y actualizados de forma automática. Permite un acoplamiento débil entre el emisor y los receptores.
-*   **Roles y Estructura:**
-    *   **Sujeto (Subject / Observable):** Mantiene una lista de sus observadores y provee métodos para suscribir (`attach`) y desuscribir (`detach`) objetos observadores. Expone un método de notificación (`notifyObservers`) que recorre la lista y llama al método `update()` de cada observador.
-    *   **Observador (Observer):** Interfaz que define el método abstracto `update()`, el cual es invocado por el Sujeto ante cambios de estado.
-    *   **Observadores Concretos:** Implementan la interfaz observador y reaccionan de manera específica cuando se invoca su método `update()`.
-*   **Ejemplo Municipal (Factura "Pagada"):**
-    *   *Sujeto:* Objeto `Factura`. Cuando su estado cambia a `PAGADA`:
-    *   *Observadores Suscriptos:*
-        1.  `ModuloContabilidad`: Actualiza el libro diario de ingresos municipales registrando el cobro.
-        2.  `ModuloNotificaciones`: Envía un email automático al contribuyente adjuntando el recibo digital oficial en PDF.
-        3.  `ModuloCatastro / ModuloHabilitaciones`: Si la tasa correspondía a una habilitación de comercio, notifica al sistema para que actualice la vigencia del trámite habilitador.
-    *(📖 Kendall & Kendall, Cap. 16, pág. 451+ / Patrones de Diseño)*
+### 1. Modelado UML en el Diseño de Sistemas Orientados a Objetos (Kendall & Kendall)
+*   **Diagrama de Clases:** Es un diagrama estático que muestra la estructura del sistema representando sus clases, sus atributos, métodos (operaciones) y las relaciones de asociación, herencia o dependencia entre ellas.
+*   **Diagrama de Secuencia:** Es un diagrama dinámico que describe el comportamiento del sistema a lo largo del tiempo, representando la interacción física y secuencia temporal de mensajes intercambiados entre los objetos para cumplir un caso de uso.
+*   **Elementos y Clases en un Diagrama de Secuencia:**
+    *   **Líneas de vida (objetos):** Representan las instancias de las clases participando en la secuencia.
+    *   **Clases de Interfaz (Boundary):** Permiten la interacción del usuario final con el sistema (ej. pantallas de carga de formularios).
+    *   **Clases de Control (Control):** Coordinan la lógica de negocio y el flujo de ejecución (controladores que reciben peticiones y delegan tareas).
+    *   **Clases de Entidad (Entity):** Almacenan y representan los datos del sistema de forma persistente (ej. tablas de base de datos contribuyentes).
+    *   *Flujo de interacción:* El usuario interactúa con la clase de interfaz, esta envía mensajes a la clase de control para validar o procesar datos, y la clase de control a su vez se comunica con las clases de entidad para buscar o guardar la información pertinente.
+
+*(📖 Kendall & Kendall, Cap. 10, págs. 287-320)*
 
 ### 2. Pruebas de Caja Blanca vs. Caja Negra
 *   **Pruebas de Caja Blanca (White-Box Testing / Estructurales):**
@@ -344,18 +255,15 @@ Se solicita:
     1.  *Qué evalúan:* Evalúan el comportamiento funcional del sistema desde la interfaz de usuario, sin acceso ni conocimiento de la estructura lógica interna del código fuente. Verifican que ante una entrada (input) específica, el sistema devuelva la salida (output) esperada según los requerimientos especificados.
     2.  *Perfil Técnico:* Analistas funcionales, especialistas en aseguramiento de calidad (QA Testing) y los propios usuarios finales.
     3.  *Fase del SDLC:* Se ejecutan en fases más avanzadas del desarrollo (Pruebas del Sistema, Pruebas de Integración y Pruebas de Aceptación del Usuario - UAT).
-    *(📖 Kendall & Kendall, Cap. 18, pág. 526+)*
 
-### 3. Velocidad vs. Rendimiento (Throughput)
-*   **Velocidad (Velocity) en Scrum:**
-    *   *Definición:* Mide la cantidad de esfuerzo completado por el equipo Scrum durante un Sprint. Se calcula sumando los Story Points (SP) de todos los Product Backlog Items (PBI) que cumplen con la Definición de Terminado (DoD) al finalizar el sprint.
-    *   *Fórmula:* $\text{Velocidad} = \sum \text{Story Points terminados en el Sprint}$.
-*   **Rendimiento (Throughput) en Kanban:**
-    *   *Definición:* Mide la cantidad de unidades de trabajo (tareas, tickets, historias de usuario) que cruzan la columna de finalizado (`Done`) por unidad de tiempo fija (días, semanas, mes), independientemente de su tamaño estimado en puntos de historia.
-    *   *Fórmula:* $\text{Throughput} = \frac{\text{Cantidad de tareas finalizadas}}{\text{Período de tiempo}}$.
-*   **Uso del Rendimiento para Proyecciones por el Jefe de Sistemas:**
-    *   Si el backlog está compuesto por tareas de tamaño homogéneo (suele ser el objetivo de Kanban), el Throughput permite calcular proyecciones temporales sin necesidad de estimar cada ticket en Story Points. Por ejemplo, dividiendo la cantidad total de tareas del backlog por el Throughput promedio semanal del equipo se obtiene de forma directa la cantidad de semanas necesarias para el despliegue del proyecto.
-    *(📖 Scrum Manager v2.6, págs. 35-48, 60-70)*
+*(📖 Kendall & Kendall, Cap. 16, págs. 526-528)*
+
+### 3. Estimación Ágil y Dinámica de Planning Poker (Scrum Manager)
+*   **Planning Poker (Póquer de Estimación):** Es una dinámica de estimación colaborativa y consensual basada en el conocimiento colectivo del equipo. Cada miembro cuenta con un mazo de cartas con valores de estimación y, tras debatir el alcance de una Historia de Usuario, todos muestran su carta simultáneamente para estimar su esfuerzo relativo.
+*   **Escala Fibonacci (modificada):** Se utiliza la serie de Fibonacci (ej. 1, 2, 3, 5, 8, 13, 20...) para reflejar de forma realista que a mayor tamaño de la tarea, mayor es la incertidumbre y complejidad asociada (es más fácil diferenciar entre un esfuerzo de 3 y 5, que entre 13 y 14).
+*   **Evitar el sesgo de influencia (anclaje):** Mostrar las cartas al mismo tiempo evita el sesgo de que los programadores de menor experiencia o jerarquía se dejen influenciar o "anclar" por el valor propuesto por el desarrollador líder o más experimentado si este declarara su estimación a viva voz en primer lugar.
+
+*(📖 Scrum Manager v2.6, Parte I, págs. 47-48)*
 
 ### 4. Diagrama Entidad-Relación y Diccionario de Datos
 *   **Complementariedad:** El **Diagrama de Entidad-Relación (DER)** proporciona una representación visual y conceptual macro de la base de datos (entidades, relaciones y cardinalidad). Sin embargo, carece de detalles técnicos de implementación. El **Diccionario de Datos** actúa como la documentación detallada a nivel de metadatos de todos los elementos representados en el DER: define la estructura precisa de los campos, tipos de datos, restricciones y reglas de validación de cada entidad y relación.
@@ -367,7 +275,8 @@ Se solicita:
     *   *Reglas de Validación / Formato:* Expresión regular para verificar CUIT válido (formato XX-XXXXXXXX-X).
     *   *Descripción:* Número identificador único de la persona física o jurídica contribuyente ante el Municipio.
     *   *Campos adicionales:* Apellido y Nombre (VARCHAR), Domicilio Postal (VARCHAR), Domicilio Electrónico Constitucional (VARCHAR).
-    *(📖 Kendall & Kendall, Cap. 7 & Cap. 12)*
+
+*(📖 Kendall & Kendall, Cap. 7, págs. 195-202 y Cap. 8, págs. 220-230)*
 
 ### 5. Ley de Little y Proyecciones en Kanban
 

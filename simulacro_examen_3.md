@@ -293,7 +293,7 @@ En caso de coexistencia de la denunciante y el denunciado en la misma oficina de
     *   **Alta Cohesión:** Asegura que las clases sean simples, fáciles de entender, mantener y reutilizar. Si ocurre un cambio en una regla de negocio, solo se modificará la clase directamente responsable.
     *   **Bajo Acoplamiento:** Asegura que los cambios realizados dentro del código de una clase no generen un "efecto dominó" de errores y fallos inesperados en otras clases del sistema. Reduce las dependencias del sistema facilitando el desarrollo en paralelo de los programadores y el testeo unitario independiente.
 
-*(📖 Kendall & Kendall, Cap. 17, págs. 480-490)*
+*(📖 Kendall & Kendall, Cap. 16, págs. 518-522)*
 
 ---
 
