@@ -230,41 +230,26 @@ El Municipio está obligado a cumplir con el **Anexo IV (Iluminación)** del Dec
 
 ---
 
-### 2. Redacción de la Disposición (Estructura Formal)
+### 2. Redacción de la Disposición (Estructura Base)
 
-**MAR DEL PLATA,** [Insertar Fecha]
+[Fecha del día]
 
-**VISTO** las actuaciones administrativas iniciadas por el incidente de insubordinación registrado el día [Fecha del hecho] en este Departamento de Sistemas de Software, que involucra al Agente J.L., Legajo Nº 55.555, Categoría Técnico II; y
+VISTO: las actuaciones iniciadas por el incidente de insubordinación registrado el día [Fecha del hecho] que involucra al Agente J.L., Legajo Nº 55.555, Categoría Técnico II; y
 
-**CONSIDERANDO:**
-
-Que con fecha [Fecha del hecho], ante una interrupción crítica del sistema de atención al público en la Mesa de Entradas municipal por falla física del hardware de red, esta Jefatura ordenó formal y directamente al citado agente proceder al reemplazo de la placa de red de la PC de dicho sector.
-
-Que el agente J.L. se negó formal y taxativamente a cumplir con la orden impartida, aduciendo que dicha tarea de soporte físico de hardware no se correspondía con sus tareas de programación de software.
-
-Que esta conducta infringe de forma directa los deberes establecidos en la Ley Nº 14656, en particular su **Artículo 107º, Inciso 1** (prestar el servicio con eficiencia, capacidad y diligencia) e **Inciso 2** (obedecer las órdenes emanadas de los superiores jerárquicos competentes destinadas al servicio).
-
-Que el agrupamiento de personal del Decreto 2250/13, Artículo 1º y Anexo I contempla dentro de la polivalencia de tareas de la planta técnica del sector informático el auxilio y mantenimiento de las terminales de operación ante contingencias urgentes del servicio.
-
-Que con el objeto de preservar las garantías de Debido Proceso y de la Defensa en Juicio, se confirió el correspondiente traslado para descargo al agente J.P., habiendo presentado su descargo por escrito dentro del término legal sin fundamentar razones de fuerza mayor o ilegalidad de la orden recibida que justifiquen su negativa.
-
-Que valorando la gravedad del hecho al obstaculizar el restablecimiento de los servicios de atención directa a los contribuyentes, y considerando que el agente no cuenta con antecedentes desfavorables en su legajo personal, resulta proporcional aplicar una sanción correctiva de un (1) día de suspensión de haberes.
-
-Por ello, en ejercicio de las facultades disciplinarias delegadas mediante el Decreto Nº 1539/18,
+CONSIDERANDO:
+* Que con fecha [Fecha del hecho], ante una interrupción crítica del sistema de atención en la Mesa de Entradas municipal, el agente se negó formal y taxativamente a cumplir con la orden presencial y directa de reemplazar la placa de red de la PC de dicho sector.
+* Que el agente adujo que dicha tarea de hardware no se correspondía con su cargo de programador de software, lo cual infringe los deberes de obediencia y el reencasillamiento previsto en el Decreto 2250/13, Artículo 1º y Anexo I.
+* Que se garantizó el derecho de defensa corriendo traslado para descargo, habiéndose presentado el mismo en término sin aportar elementos que justifiquen su negativa.
+* Por todo lo expuesto, de acuerdo a las atribuciones establecidas por los artículos 105 y 106 de la Ley 14656 y el Decreto Municipal Nº 1539/18 Art. 1º, Inciso c),
 
 **EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE**
 
-**D I S P O N E:**
+**DISPONE:**
 
-**ARTÍCULO 1º.-** Aplicar al Agente **J.L.**, Legajo Nº **55.555**, Categoría **Técnico II** del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, la sanción disciplinaria de **un (1) día de suspensión sin goce de haberes**, por infracción a los deberes de servicio y obediencia jerárquica previstos en el Artículo 107º, Incisos 1 y 2 de la Ley Nº 14656 el día [Fecha del hecho].
-
-**ARTÍCULO 2º.-** Establecer que la suspensión de tareas dispuesta en el Artículo 1º se hará efectiva una vez transcurridos diez (10) días hábiles administrativos a partir de su notificación formal, de conformidad con los plazos recursivos de la Ordenanza General 26348.
-
-**ARTÍCULO 3º.-** Registrar en el Legajo de Personal del Agente, notificar con copia al interesado de acuerdo al Artículo 62º de la Ordenanza General 26348, girar a la Dirección de Personal y archivar.
-
-**DISPOSICIÓN Nº** [Dejar espacio para número]
-
-*Firma y Sello del Jefe de Departamento*
+**Artículo 1º.-** Aplicar la sanción de 1 (un) día de suspensión sin goce de haberes al agente J.L., Legajo Nº 55.555, por encontrarse incurso de los supuestos del artículo 107, Inciso 1 y 2 de la Ley Nº 14656.
+**Artículo 2º.-** Hacer efectiva la sanción después de 10 días notificada esta.
+**Artículo 3º.-** Notifíquese en los términos que establece el Artículo 62º de la Ordenanza 26348 y archivar en el legajo personal de agentes.
+**Artículo 4º.-** Regístrese, comuníquese y archívese.
 
 </details>
 

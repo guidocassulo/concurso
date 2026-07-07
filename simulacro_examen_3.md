@@ -222,46 +222,26 @@ Si la ART rechaza formalmente la enfermedad profesional alegando que la causa es
 
 ---
 
-### 2. Redacción de la Disposición de Elevación (Estructura Formal)
+### 2. Redacción de la Disposición de Elevación (Estructura Base)
 
-**MAR DEL PLATA,** [Insertar Fecha]
+[Fecha del día]
 
-**VISTO** las irregularidades detectadas en las auditorías informáticas automatizadas de accesos del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software con fecha [Fecha del hecho], referentes al uso de datos de carácter confidencial; y
+VISTO: las actuaciones referentes a las irregularidades detectadas en las auditorías de accesos del Departamento de Sistemas de Software de la municipalidad; y
 
-**CONSIDERANDO:**
-
-Que las auditorías y logs de accesos del sistema arrojaron que las credenciales personales del Agente R.D., Legajo Nº 77.777, Categoría Técnico I, fueron utilizadas para la exportación masiva y no autorizada de un listado detallado de contribuyentes y deudas fiscales de la base de datos municipal de Catastro y Tasas.
-
-Que se constató fehacientemente la entrega de dicha información confidencial a una entidad inmobiliaria privada, hecho admitido formalmente por el agente R.D. en su descargo preliminar ante esta Jefatura.
-
-Que este accionar configura una infracción gravísima al deber de reserva consagrado en el **Artículo 107º, Inciso 5** de la Ley Nº 14656, que prohíbe revelar asuntos secretos o reservados de la administración, así como una falta de decoro y ética en el desempeño del cargo municipal.
-
-Que dada la extrema gravedad del hecho y la naturaleza expulsiva de la eventual sanción correspondiente (Artículo 108º de la Ley 14656), resulta de carácter obligatorio promover la sustanciación de un Sumario Administrativo previo que determine las responsabilidades definitivas del agente.
-
-Que por estrictas razones de seguridad informática y a fin de salvaguardar las bases de datos de datos personales de la comuna, resulta imperativo solicitar la suspensión preventiva o el traslado del agente a tareas sin acceso a sistemas o bases de datos de información municipal en tanto dure el proceso de investigación.
-
-Que al no poseer esta Jefatura facultades para dictar de manera autónoma el inicio de sumarios administrativos ni la suspensión del agente que exceda los cinco días, corresponde elevar el informe y promover las actuaciones ante la superioridad.
-
-Por ello, en uso de sus facultades de gestión y control de la dependencia,
+CONSIDERANDO:
+* Que se verificó la exportación masiva y no autorizada de la base de datos de contribuyentes y deudas fiscales utilizando las credenciales del Agente R.D.
+* Que se constató la entrega de dicha información confidencial a una entidad privada, configurando una infracción gravísima al deber de reserva.
+* Que dada la naturaleza de la sanción expulsiva (cesantía) que pudiere corresponder, resulta obligatorio promover la sustanciación de un sumario administrativo previo.
+* Por todo lo expuesto, de acuerdo a las atribuciones de control y supervisión y conforme al artículo 108 de la Ley 14656,
 
 **EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE**
 
-**D I S P O N E:**
+**DISPONE:**
 
-**ARTÍCULO 1º.-** Elevar formalmente el informe circunstanciado del hecho y las pruebas de auditoría a la Dirección General de TIC y a la Dirección de Personal, a efectos de promover la sustanciación del **Sumario Administrativo previo** al Agente **R.D.**, Legajo Nº **77.777**, Categoría **Técnico I**, de conformidad con el Artículo 108º de la Ley Nº 14656.
-
-**ARTÍCULO 2º.-** Proponer con carácter preventivo y urgente la **suspensión preventiva** o, en su defecto, el **traslado preventivo** del agente R.D. a tareas administrativas que carezcan de acceso directo o indirecto a las bases de datos de información municipal, mientras se sustancie el correspondiente proceso sumarial.
-
-**ARTÍCULO 3º.-** Registrar en el Departamento, notificar a los organismos de supervisión competentes y archivar copia.
-
-**DISPOSICIÓN Nº** [Dejar espacio para número]
-
-*Firma y Sello del Jefe de Departamento*
-
----
-
-#### **Información sobre Dictamen Legal Previo:**
-**Sí, se requiere obligatoriamente un dictamen jurídico previo** emitido por la Dirección de Asuntos Jurídicos o Procuración Municipal antes del dictado del Decreto del Intendente Municipal que disponga formalmente la apertura del sumario administrativo y la aplicación de la medida de suspensión preventiva del agente (Artículo 108º de la Ley 14656). La disposición del Jefe de Departamento es de carácter técnico-administrativo e inicia la elevación del caso, requiriendo el dictamen antes de que el Departamento Ejecutivo emita la Resolución/Decreto definitivo.
+**Artículo 1º.-** Elevar formalmente el informe circunstanciado del hecho y las pruebas de auditoría a la Dirección General de TIC y a la Dirección de Personal, a efectos de promover la sustanciación del Sumario Administrativo previo al Agente R.D., Legajo Nº 77.777, de conformidad con la Ley Nº 14656.
+**Artículo 2º.-** Proponer con carácter preventivo y urgente la suspensión preventiva o el traslado preventivo del agente R.D. a tareas sin acceso a sistemas o bases de datos de información municipal, de conformidad con el artículo 112 de la Ley 14656.
+**Artículo 3º.-** Notifíquese en los términos que establece el Artículo 62º de la Ordenanza 26348 y archivar en el legajo personal de agentes.
+**Artículo 4º.-** Regístrese, comuníquese y archívese.
 
 </details>
 

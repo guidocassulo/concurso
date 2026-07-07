@@ -126,41 +126,25 @@
 
 ### 2. Redacción de la Disposición
 
-```text
-MAR DEL PLATA, [Fecha del día]
+[Fecha del día]
 
-VISTO el incidente disciplinario ocurrido el día [Fecha del hecho] en el ámbito del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, que involucra al agente de sistemas R.D., Legajo Nº 44.444, y
+VISTO: el incidente disciplinario ocurrido el día [Fecha del hecho] en este Departamento de Sistemas de Software, que involucra al agente de sistemas R.D., Legajo Nº 44.444; y
 
 CONSIDERANDO:
+* Que el citado agente ha incurrido en un incumplimiento reiterado y deliberado de las directivas de trabajo vigentes, específicamente la obligación de utilizar el repositorio Git establecida por Disposición Interna Nº 02/26.
+* Que el uso no autorizado de FTP provocó la pérdida de una semana de trabajo del equipo.
+* Que al llamarle la atención de forma verbal, el agente reaccionó profiriendo insultos y agresiones verbales hacia la Jefatura.
+* Que a los fines de salvaguardar el debido proceso se corrió traslado de las actuaciones, habiéndose presentado su descargo sin aportar elementos que justifiquen su accionar.
+* Por todo lo expuesto, de acuerdo a las atribuciones establecidas por los artículos 105 y 106 de la Ley 14656 y el Decreto Municipal Nº 1539/18 Art. 1º, Inciso c),
 
-Que el citado agente ha incurrido en un incumplimiento reiterado y deliberado de las directivas operativas de trabajo vigentes en este Departamento, específicamente la obligación de utilizar el repositorio Git del Municipio para el control de versiones de código establecida por Disposición Interna Nº 02/26.
+**EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE**
 
-Que la omisión de dicha directiva y el uso no autorizado de accesos FTP directos en caliente provocó la sobreescritura de archivos en el servidor de staging, ocasionando la pérdida de una semana de trabajo del equipo y graves retrasos en el proyecto de facturación de tasas.
+**DISPONE:**
 
-Que al proceder el superior jerárquico inmediato a llamarle la atención de forma verbal y en privado sobre su conducta, el agente R.D. reaccionó de forma descomedida, profiriendo insultos y agresiones verbales hacia la Jefatura delante de otros agentes del sector, manifestando explícitamente su negativa a acatar las directivas de trabajo de esta dependencia.
-
-Que dicha inconducta quedó debidamente acreditada mediante Acta de Incidente labrada el día del hecho, suscripta por el Jefe de Departamento y tres (3) agentes del sector que actuaron en calidad de testigos presenciales.
-
-Que a los fines de salvaguardar las garantías del debido proceso y derecho de defensa, se corrió formal traslado de las actuaciones al agente para que formule su descargo, habiéndose presentado el mismo en término sin aportar elementos de prueba ni justificaciones de fuerza mayor que desvirtúen los hechos constatados.
-
-Que el comportamiento del agente configura una grave transgresión a las obligaciones del personal municipal consagradas en la Ley Nº 14656, en particular su Artículo 107º, Inciso 1 (prestar el servicio con eficiencia, capacidad y diligencia) e Inciso 2 (obedecer las órdenes emanadas de los superiores jerárquicos competentes destinadas al servicio).
-
-Que la falta cometida resulta pasible de sanción correctiva, y al no registrar el agente antecedentes disciplinarios previos desfavorables en su legajo de personal, se estima proporcional y justo aplicar una sanción de cuatro (4) días de suspensión sin goce de sueldo.
-
-Que el suscripto cuenta con las facultades disciplinarias delegadas para aplicar suspensiones de hasta cinco (5) días de conformidad con el Artículo 1º, Inciso c) del Decreto Municipal Nº 1539/18.
-
-Por ello,
-
-EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE
-
-D I S P O N E:
-
-ARTÍCULO 1º.- Aplicar al Agente R.D., Legajo Nº 44.444, Categoría Programador II de la planta de personal de este Departamento, la sanción disciplinaria de cuatro (4) días de suspensión sin goce de haberes, por las razones expuestas en los considerandos de la presente, configurando una transgresión a las obligaciones previstas en el Artículo 107º Incisos 1 y 2 de la Ley Nº 14656.
-
-ARTÍCULO 2º.- Disponer que la sanción aplicada en el Artículo 1º se hará efectiva una vez transcurridos diez (10) días hábiles administrativos desde su notificación formal, a efectos de permitir el ejercicio de las vías recursivas ordinarias previstas por la Ordenanza General 26348.
-
-ARTÍCULO 3º.- Registrar en el Legajo de Personal del Agente, notificar al interesado con entrega de copia del presente acto administrativo de conformidad con el Artículo 62º de la Ordenanza General 26348, girar a la Dirección de Personal de la Municipalidad para su toma de razón y archivar.
-```
+**Artículo 1º.-** Aplicar la sanción de 4 (cuatro) días de suspensión sin goce de haberes al agente R.D., Legajo Nº 44.444, por encontrarse incurso de los supuestos del artículo 107, Inciso 1 y 2 de la Ley 14656.
+**Artículo 2º.-** Hacer efectiva la sanción después de 10 días notificada esta.
+**Artículo 3º.-** Notifíquese en los términos que establece el Artículo 62º de la Ordenanza 26348 y archivar en el legajo personal de agentes.
+**Artículo 4º.-** Regístrese, comuníquese y archívese.
 
 </details>
 

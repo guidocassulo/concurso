@@ -242,47 +242,26 @@
 
 ---
 
-### 2. Redacción de la Disposición (Estructura Formal)
+### 2. Redacción de la Disposición (Estructura Base)
 
-**MAR DEL PLATA,** [Insertar Fecha]
+[Fecha del día]
 
-**VISTO** las actuaciones administrativas referentes a la falta disciplinaria cometida por el Agente J.P., Legajo Nº 88.888, Categoría Técnico I, Programador de este Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software; y
+VISTO: las actuaciones referentes al incidente de inconducta cometido por el Agente J.P., Legajo Nº 88.888, Categoría Técnico I, de este Departamento; y
 
-**CONSIDERANDO:**
-
-Que con fecha [Fecha del hecho], el agente de mención incurrió en agresiones verbales e insultos manifiestamente ofensivos contra un contribuyente que acudió de forma presencial a realizar un trámite en la Mesa de Ayuda del sector, agrediendo posteriormente de igual forma a un agente municipal del área que intervino para mediar.
-
-Que el hecho descripto vulnera directamente los deberes consagrados en la Ley Nº 14656, **Artículo 107º, Inciso 3**, que impone a los agentes la obligación de comportarse con decoro, cortesía y respeto en sus relaciones con el público y con el resto del personal municipal.
-
-Que a los efectos de garantizar el Derecho de Defensa garantizado por el Artículo 15 de la Constitución Provincial y las prescripciones de la Ordenanza General 26348, se dio formal traslado del informe de inconducta al agente J.P. para la formulación de su correspondiente descargo.
-
-Que el agente J.P. formuló descargo por escrito dentro del plazo legal estipulado, no logrando justificar ni desvirtuar el hecho acreditado por los testigos presenciales del incidente, constituyendo su descargo una admisión de los exabruptos cometidos.
-
-Que considerando la gravedad del hecho al afectar el trato directo a la ciudadanía y el ambiente laboral, y teniendo en cuenta que el agente no registra antecedentes disciplinarios previos en su legajo personal, corresponde aplicar una sanción correctiva proporcional de tres (3) días de suspensión sin goce de haberes, de conformidad con las competencias disciplinarias delegadas.
-
-Por ello, en uso de las atribuciones delegadas mediante el Decreto Nº 1539/18,
+CONSIDERANDO:
+* Que con fecha [Fecha del hecho], el agente de mención incurrió en agresiones verbales e insultos manifiestamente ofensivos contra un contribuyente en la Mesa de Ayuda y contra otro agente municipal que intervino para mediar.
+* Que dicho comportamiento vulnera directamente los deberes de trato cortés, respetuoso y decoroso.
+* Que a los efectos de garantizar el derecho de defensa, se dio formal traslado para descargo al agente, habiéndose presentado el mismo sin aportar justificaciones válidas que desvirtúen los hechos acreditados por los testigos.
+* Por todo lo expuesto, de acuerdo a las atribuciones establecidas por los artículos 105 y 106 de la Ley 14656 y el Decreto Municipal Nº 1539/18 Art. 1º, Inciso c),
 
 **EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE**
 
-**D I S P O N E:**
+**DISPONE:**
 
-**ARTÍCULO 1º.-** Aplicar al Agente **J.P.**, Legajo Nº **88.888**, Categoría **Técnico I** del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, la sanción disciplinaria de **tres (3) días de suspensión sin goce de haberes**, por infracción a las obligaciones de trato cortés, respetuoso y decoroso contenidas en el Artículo 107º, Inciso 3 de la Ley Nº 14656 el día [Fecha del hecho].
-
-**ARTÍCULO 2º.-** Establecer que la suspensión dispuesta en el Artículo 1º se hará efectiva una vez vencido el plazo legal para la interposición de recursos ordinarios previsto en la Ordenanza General 26348.
-
-**ARTÍCULO 3º.-** Registrar en el Legajo de Personal del Agente, notificar al interesado con copia de la presente Disposición, remitir a la Dirección de Personal y archivar.
-
-**DISPOSICIÓN Nº** [Dejar espacio para número]
-
-*Firma y Sello del Jefe de Departamento*
-
-</details>
-
-<details>
-<summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</b></summary>
-
-### 1. Definición de Violencia Laboral por Razones de Género:
-Constituye violencia laboral por razones de género toda conducta, acción, omisión, hostigamiento, maltrato físico o psicológico o discriminación ejercida en el ámbito laboral municipal hacia una persona basada en su género, identidad de género o su orientación sexual, que atente contra su dignidad, integridad física, psicológica, sexual, su desempeño laboral o su estabilidad en el empleo. Incluye acoso sexual, desigualdad salarial injustificada o limitaciones arbitrarias en el desarrollo de la carrera.
+**Artículo 1º.-** Aplicar la sanción de 3 (tres) días de suspensión sin goce de haberes al agente J.P., Legajo Nº 88.888, por encontrarse incurso de los supuestos del artículo 107, Inciso 3 de la Ley Nº 14656.
+**Artículo 2º.-** Hacer efectiva la sanción después de 10 días notificada esta.
+**Artículo 3º.-** Notifíquese en los términos que establece el Artículo 62º de la Ordenanza 26348 y archivar en el legajo personal de agentes.
+**Artículo 4º.-** Regístrese, comuníquese y archívese.
 
 ### 2. Operatividad de No Revictimización y Confidencialidad (Ordenanza 24271):
 *   **Confidencialidad:** Las actuaciones disciplinarias o informativas se tramitan bajo estricta **reserva de sumario** y en expedientes GDE de carácter confidencial o reservado. Solo tienen acceso las partes autorizadas y los equipos interdisciplinarios, quedando prohibido divulgar actas, testimonios o datos de identidad.

@@ -242,26 +242,25 @@ Se omitieron las directivas de ergonomía para puestos de trabajo con pantallas 
 
 ### 2. Redacción de la Disposición de Elevación y Medida Preventiva
 
-**MAR DEL PLATA,** [Fecha]
+[Fecha del día]
 
-**VISTO** la auditoría de seguridad que constata la publicación no autorizada de código fuente del Portal Tributario en GitHub por parte del agente R.G., Legajo Nº 33.333, y;
+VISTO: la auditoría de seguridad que constata la publicación no autorizada de código fuente del Portal Tributario en GitHub por parte del agente R.G., Legajo Nº 33.333; y
 
-**CONSIDERANDO:**
+CONSIDERANDO:
 * Que se verificó la exposición pública de credenciales críticas de administrador de bases de datos y APIs en el repositorio personal del agente.
 * Que esto configura una falta grave a los deberes de reserva e integridad técnica (Art. 107 incs. 2 y 5 de la Ley 14656, Artículo 107º, Inciso 5).
-* Que por razones de seguridad de la red y bases de datos resulta urgente bloquear los accesos informáticos del agente y solicitar sumario.
-
-Por ello, en uso de las atribuciones delegadas:
+* Que por razones de seguridad de la red y bases de datos resulta de carácter urgente bloquear los accesos informáticos del agente y promover las actuaciones sumariales.
+* Por todo lo expuesto, de acuerdo a las atribuciones de control y supervisión y conforme al artículo 108 de la Ley 14656,
 
 **EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE**
 
-**D I S P O N E:**
+**DISPONE:**
 
-**ARTÍCULO 1º.-** Elevar las actuaciones a la Dirección General de Recursos Humanos solicitando el inicio de **Sumario Administrativo previo** al agente **R.G.**, Legajo Nº **33.333**, de conformidad con la Ley Nº 14.656.
-**ARTÍCULO 2º.-** Disponer el **bloqueo preventivo inmediato de los accesos físicos y lógicos (VPN, Active Directory, repositorios)** del agente a la infraestructura municipal.
-**ARTÍCULO 3º.-** Registrar, notificar según el Art. 62º de la Ordenanza 26348, elevar copias para el legajo y archivar.
+**Artículo 1º.-** Elevar las actuaciones a la Dirección General de Recursos Humanos solicitando el inicio de Sumario Administrativo previo al agente R.G., Legajo Nº 33.333, de conformidad con la Ley Nº 14.656.
+**Artículo 2º.-** Disponer el bloqueo preventivo inmediato de los accesos físicos y lógicos (VPN, Active Directory, repositorios) del agente a la infraestructura municipal de conformidad con el artículo 112 de la Ley 14656.
+**Artículo 3º.-** Notifíquese en los términos que establece el Artículo 62º de la Ordenanza 26348 y archivar en el legajo personal de agentes.
+**Artículo 4º.-** Regístrese, comuníquese y archívese.
 
-[Firma Jefe de Departamento]
 </details>
 
 <details>

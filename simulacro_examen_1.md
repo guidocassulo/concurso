@@ -238,39 +238,24 @@ De acuerdo a la **Ley 14656 (Artículos 105, 106 y concordantes)** y el procedim
 
 ### 2. Redacción del Acto Administrativo (Disposición)
 
-**MAR DEL PLATA,** [Insertar Fecha]
+[Fecha del día]
 
-**VISTO** la ausencia injustificada del Agente M.A., Legajo Nº 99.999, Categoría Técnico II, constatada el día [Insertar fecha del hecho] por la Jefatura del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software; y
+VISTO: la ausencia injustificada del Agente M.A., Legajo Nº 99.999, Categoría Técnico II, constatada el día [Fecha del hecho] por la Jefatura del Departamento; y
 
-**CONSIDERANDO:**
-
-Que con fecha [Fecha del hecho], a las [Hora], se constató la ausencia física del citado agente de su puesto habitual de tareas en este Departamento, sin que conste en el sistema biométrico de control horario registro de egreso alguno ni autorización escrita de salida extendida por esta Jefatura.
-
-Que al realizarse la verificación de las causales de la ausencia, se constató mediante acta e informes complementarios que el agente M.A. se encontraba desempeñando funciones docentes aranceladas en el instituto universitario privado [Nombre del Instituto] durante la jornada laboral municipal.
-
-Que esta conducta configura una grave transgresión a las obligaciones previstas en la Ley Nº 14656, en particular su Artículo 107º, Inciso 1 (prestar servicio con eficiencia, capacidad y diligencia en el lugar y horario asignados) y el régimen de incompatibilidades horarias.
-
-Que para garantizar la garantía constitucional del Debido Proceso y de la Defensa en Juicio (Artículo 15 de la Constitución de la Provincia de Buenos Aires y Ordenanza 26348), se corrió traslado de los hechos imputados al agente para que efectúe su correspondiente descargo por el término reglamentario.
-
-Que el agente M.A. presentó su descargo dentro del plazo estipulado, sin aportar elementos de prueba ni argumentos válidos de fuerza mayor que justifiquen su ausencia durante el horario de labor asignado, argumentando únicamente compromisos de índole privada.
-
-Que al no poseer el agente antecedentes disciplinarios desfavorables registrados en su legajo y valorando la gravedad del hecho en función de la incompatibilidad de tareas, se estima pertinente aplicar la sanción de suspensión de cinco (5) días corridos sin goce de sueldo, siendo esta la máxima medida correctiva que se encuentra delegada en las Jefaturas de Departamento bajo el Decreto local de atribuciones disciplinarias.
-
-Por ello, en uso de las atribuciones delegadas mediante el Decreto Nº 1539/18,
+CONSIDERANDO:
+* Que se constató la inasistencia física del citado agente de su puesto habitual de tareas en este Departamento, sin que conste en el sistema biométrico de control horario registro de egreso alguno ni autorización escrita de salida.
+* Que al realizarse la verificación de las causales de la ausencia, se constató mediante acta e informes que el agente M.A. se encontraba desempeñando funciones docentes aranceladas en un instituto universitario privado durante dicho horario de labor municipal.
+* Que para garantizar el debido proceso se corrió formal traslado de las actuaciones para su descargo, habiéndose presentado el mismo en término sin aportar elementos que justifiquen su inasistencia.
+* Por todo lo expuesto, de acuerdo a las atribuciones establecidas por los artículos 105 y 106 de la Ley 14656 y el Decreto Municipal Nº 1539/18 Art. 1º, Inciso c),
 
 **EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE**
 
-**D I S P O N E:**
+**DISPONE:**
 
-**ARTÍCULO 1º.-** Aplicar al Agente **M.A.**, Legajo Nº **99.999**, Categoría **Técnico II** del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, la sanción disciplinaria de **cinco (5) días de suspensión sin goce de haberes**, por haber infringido los deberes contenidos en el Artículo 107º, Inciso 1 de la Ley 14656 y el régimen de incompatibilidad horaria el día [Fecha del hecho].
-
-**ARTÍCULO 2º.-** Disponer que la sanción aplicada en el artículo precedente se hará efectiva una vez transcurridos diez (10) días hábiles desde su notificación formal, a efectos de permitir el ejercicio de las vías recursivas correspondientes previstas en la Ordenanza General 26348.
-
-**ARTÍCULO 3º.-** Registrar en el Legajo de Personal del Agente, notificar al interesado con copia de la presente de acuerdo con el Artículo 62º de la Ordenanza General 26348, girar a la Dirección de Personal de la Municipalidad para su toma de razón y archivar.
-
-**DISPOSICIÓN Nº** [Dejar espacio para número]
-
-*Firma y Sello del Jefe de Departamento*
+**Artículo 1º.-** Aplicar la sanción de 5 (cinco) días de suspensión sin goce de haberes al agente M.A., Legajo Nº 99.999, por encontrarse incurso de los supuestos del artículo 107, Inciso 1 de la Ley 14656 y el régimen de incompatibilidad horaria.
+**Artículo 2º.-** Hacer efectiva la sanción después de 10 días notificada esta.
+**Artículo 3º.-** Notifíquese en los términos que establece el Artículo 62º de la Ordenanza 26348 y archivar en el legajo personal de agentes.
+**Artículo 4º.-** Regístrese, comuníquese y archívese.
 
 ---
 

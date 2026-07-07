@@ -231,39 +231,26 @@
 
 ### 2. Redacción de la Disposición de Elevación
 
-**MAR DEL PLATA,** [Insertar Fecha]
+[Fecha del día]
 
-**VISTO** el informe de auditoría de red elaborado por la Dirección General de TIC referente al uso no autorizado de la infraestructura virtual y servidores municipales por parte del agente F.M., Legajo Nº 66.666; y
+VISTO: el informe de auditoría de red elaborado por la Dirección General de TIC referente al uso no autorizado de la infraestructura virtual y servidores municipales por parte del agente F.M., Legajo Nº 66.666; y
 
-**CONSIDERANDO:**
-
-Que las auditorías técnicas de consumo de recursos y logs de acceso a servidores virtuales del portal municipal demostraron que el agente F.M., Categoría Técnico II, instaló y ejecutó de manera sistemática código de minería de criptomonedas en beneficio económico privado.
-
-Que este accionar alteró significativamente el rendimiento de las plataformas de trámites municipales orientadas a la ciudadanía y afectó el ancho de banda de la red corporativa de la comuna.
-
-Que el agente F.M. admitió por escrito el desempeño de la conducta descripta, manifestando que realizaba las tareas de minería en horarios de servicio.
-
-Que esta conducta representa una grave infracción a las obligaciones contenidas en la Ley Nº 14656, en especial su **Artículo 107º, Inciso 1** (prestar el servicio con eficiencia y capacidad) e **Inciso 5** (guardar reserva y no utilizar recursos del Estado para fines ajenos al servicio público).
-
-Que dada la gravedad de la falta y la naturaleza expulsiva de la eventual sanción definitiva (cesantía o exoneración), corresponde elevar formalmente los obrados para la instrucción obligatoria de un Sumario Administrativo previo de conformidad con el Artículo 108º de la Ley 14656.
-
-Que por estrictas medidas de seguridad informática del Data Center municipal y para resguardar la integridad lógica de las aplicaciones y datos públicos, resulta indispensable proceder al bloqueo inmediato de accesos informáticos del agente y disponer su suspensión preventiva de tareas en tanto dure la tramitación de las actuaciones.
-
-Por ello, en uso de las competencias de supervisión disciplinaria delegadas,
+CONSIDERANDO:
+* Que las auditorías técnicas demostraron que el agente F.M. instaló y ejecutó de manera sistemática código de minería de criptomonedas en beneficio económico privado.
+* Que este accionar alteró el rendimiento de las plataformas de trámites municipales y afectó el ancho de banda de la red de la comuna.
+* Que el agente F.M. admitió por escrito el desempeño de la conducta descripta.
+* Que esto configura una infracción grave a las obligaciones de prestar el servicio con eficiencia y no utilizar bienes del Estado para fines privados.
+* Que dada la gravedad de la falta y la naturaleza de la sanción expulsiva (cesantía) que pudiere corresponder, resulta obligatorio promover la sustanciación de un sumario administrativo previo.
+* Por todo lo expuesto, de acuerdo a las atribuciones de control y supervisión y conforme al artículo 108 de la Ley 14656,
 
 **EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE**
 
-**D I S P O N E:**
+**DISPONE:**
 
-**ARTÍCULO 1º.-** Elevar formalmente el informe de auditoría informática y el reconocimiento de hechos ante la Dirección de Personal y la Dirección de Asuntos Jurídicos, solicitando la instrucción del **Sumario Administrativo previo** al Agente **F.M.**, Legajo Nº **66.666**, Categoría **Técnico II**, bajo los supuestos del Artículo 108º de la Ley Nº 14656.
-
-**ARTÍCULO 2º.-** Disponer el **bloqueo inmediato y preventivo de todos los perfiles de acceso lógico (VPN, usuarios, contraseñas, accesos de red) e ingreso físico** del agente F.M. a la infraestructura de servidores municipales, y proponer su suspensión preventiva del cargo sin goce de haberes por el período sumarial reglamentario.
-
-**ARTÍCULO 3º.-** Registrar en el Departamento, notificar a los organismos de supervisión técnica y archivar.
-
-**DISPOSICIÓN Nº** [Dejar espacio para número]
-
-*Firma y Sello del Jefe de Departamento*
+**Artículo 1º.-** Elevar formalmente el informe de auditoría informática y el reconocimiento de hechos ante la Dirección de Personal, solicitando la instrucción del Sumario Administrativo previo al Agente F.M., Legajo Nº 66.666, de conformidad con la Ley Nº 14656.
+**Artículo 2º.-** Disponer el bloqueo inmediato y preventivo de todos los perfiles de acceso lógico e ingreso físico del agente F.M. a la infraestructura de servidores municipales, y proponer su suspensión preventiva de conformidad con el artículo 112 de la Ley 14656.
+**Artículo 3º.-** Notifíquese en los términos que establece el Artículo 62º de la Ordenanza 26348 y archivar en el legajo personal de agentes.
+**Artículo 4º.-** Regístrese, comuníquese y archívese.
 
 </details>
 
