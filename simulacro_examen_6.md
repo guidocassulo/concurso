@@ -99,7 +99,7 @@
 
 Que las auditorías y trazabilidad de logs del servidor de base de datos de asistencia determinaron que se utilizaron credenciales de administración del superior sin autorización previa para alterar y adulterar los registros de fichadas de ingresos y egresos del agente de mención y de terceros.
 
-Que el agente A.T., Categoría Técnico I, reconoció formalmente por escrito la autoría del suceso, no aportando argumentos justificativos de su accionar.
+* Que con el fin de garantizar el debido proceso se solicitó el descargo correspondiente sin aportar argumentos válidos que justifiquen su conducta.
 
 Que este hecho configura una transgresión gravísima a las obligaciones de buena fe, decoro y lealtad contempladas en la Ley Nº 14656, en particular su **Artículo 107º, Inciso 5**, y representa una violación flagrante de los protocolos de seguridad informática de esta Municipalidad.
 

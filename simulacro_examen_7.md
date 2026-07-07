@@ -250,6 +250,7 @@ CONSIDERANDO:
 * Que se verificó la exposición pública de credenciales críticas de administrador de bases de datos y APIs en el repositorio personal del agente.
 * Que esto configura una falta grave a los deberes de reserva e integridad técnica (Art. 107 incs. 2 y 5 de la Ley 14656, Artículo 107º, Inciso 5).
 * Que por razones de seguridad de la red y bases de datos resulta de carácter urgente bloquear los accesos informáticos del agente y promover las actuaciones sumariales.
+* Que con el fin de garantizar el debido proceso se solicitó el descargo correspondiente sin aportar argumentos válidos que justifiquen su conducta.
 * Por todo lo expuesto, de acuerdo a las atribuciones de control y supervisión y conforme al artículo 108 de la Ley 14656,
 
 **EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE**

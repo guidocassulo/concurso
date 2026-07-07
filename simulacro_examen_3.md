@@ -232,6 +232,7 @@ CONSIDERANDO:
 * Que se verificó la exportación masiva y no autorizada de la base de datos de contribuyentes y deudas fiscales utilizando las credenciales del Agente R.D.
 * Que se constató la entrega de dicha información confidencial a una entidad privada, configurando una infracción gravísima al deber de reserva.
 * Que dada la naturaleza de la sanción expulsiva (cesantía) que pudiere corresponder, resulta obligatorio promover la sustanciación de un sumario administrativo previo.
+* Que con el fin de garantizar el debido proceso se solicitó el descargo correspondiente sin aportar argumentos válidos que justifiquen su conducta.
 * Por todo lo expuesto, de acuerdo a las atribuciones de control y supervisión y conforme al artículo 108 de la Ley 14656,
 
 **EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE**

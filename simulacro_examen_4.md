@@ -239,6 +239,7 @@ CONSIDERANDO:
 * Que las auditorías técnicas demostraron que el agente F.M. instaló y ejecutó de manera sistemática código de minería de criptomonedas en beneficio económico privado.
 * Que este accionar alteró el rendimiento de las plataformas de trámites municipales y afectó el ancho de banda de la red de la comuna.
 * Que el agente F.M. admitió por escrito el desempeño de la conducta descripta.
+* Que con el fin de garantizar el debido proceso se solicitó el descargo correspondiente sin aportar argumentos válidos que justifiquen su conducta.
 * Que esto configura una infracción grave a las obligaciones de prestar el servicio con eficiencia y no utilizar bienes del Estado para fines privados.
 * Que dada la gravedad de la falta y la naturaleza de la sanción expulsiva (cesantía) que pudiere corresponder, resulta obligatorio promover la sustanciación de un sumario administrativo previo.
 * Por todo lo expuesto, de acuerdo a las atribuciones de control y supervisión y conforme al artículo 108 de la Ley 14656,
