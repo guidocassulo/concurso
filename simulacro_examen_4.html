@@ -8,245 +8,250 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <style>
-        :root {
-            --primary: #0077c2;
-            --primary-dark: #005b94;
-            --accent: #e3f2fd;
-            --text: #333333;
-            --text-muted: #666666;
-            --bg: #f5f7fa;
-            --card-bg: #ffffff;
-            --border: #e0e0e0;
-            --success: #2e7d32;
-            --shadow: 0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.1);
-        }
+        
+:root {
+    --primary: #0077c2;
+    --primary-dark: #005b94;
+    --accent: #e3f2fd;
+    --text: #333333;
+    --text-muted: #666666;
+    --bg: #f5f7fa;
+    --card-bg: #ffffff;
+    --border: #e0e0e0;
+    --success: #2e7d32;
+    --shadow: 0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.1);
+}
 
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --primary: #4fc3f7;
-                --primary-dark: #0288d1;
-                --accent: #1a237e;
-                --text: #e0e0e0;
-                --text-muted: #aaaaaa;
-                --bg: #121212;
-                --card-bg: #1e1e1e;
-                --border: #333333;
-                --success: #81c784;
-                --shadow: 0 4px 6px rgba(0,0,0,0.3);
-            }
-        }
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primary: #4fc3f7;
+        --primary-dark: #0288d1;
+        --accent: #1a237e;
+        --text: #e0e0e0;
+        --text-muted: #aaaaaa;
+        --bg: #121212;
+        --card-bg: #1e1e1e;
+        --border: #333333;
+        --success: #81c784;
+        --shadow: 0 4px 6px rgba(0,0,0,0.3);
+    }
+}
 
-        body {
-            font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
-            color: var(--text);
-            background-color: var(--bg);
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-        }
+body {
+    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+    color: var(--text);
+    background-color: var(--bg);
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
 
-        header {
-            background-color: var(--primary-dark);
-            color: white;
-            padding: 20px 40px;
-            box-shadow: var(--shadow);
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
+header {
+    background-color: var(--primary-dark);
+    color: white;
+    padding: 20px 40px;
+    box-shadow: var(--shadow);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
-        header h1 {
-            margin: 0;
-            font-size: 1.5rem;
-            font-weight: 600;
-            letter-spacing: 0.5px;
-        }
+header h1 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
 
-        header .subtitle {
-            font-size: 0.9rem;
-            opacity: 0.8;
-        }
+header .subtitle {
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
 
-        .container {
-            max-width: 900px;
-            margin: 40px auto;
-            padding: 0 20px;
-        }
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
 
-        .exam-card {
-            background-color: var(--card-bg);
-            border-radius: 8px;
-            box-shadow: var(--shadow);
-            padding: 40px;
-            border: 1px solid var(--border);
-            margin-bottom: 20px;
-        }
+.exam-card {
+    background-color: var(--card-bg);
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+    padding: 40px;
+    border: 1px solid var(--border);
+    margin-bottom: 20px;
+}
 
-        h1, h2, h3 {
-            color: var(--primary-dark);
-        }
+h1, h2, h3 {
+    color: var(--primary-dark);
+}
 
-        h2 {
-            color: var(--primary);
-            border-bottom: 2px solid var(--primary);
-            padding-bottom: 8px;
-            margin-top: 40px;
-        }
+h2 {
+    color: var(--primary);
+    border-bottom: 2px solid var(--primary);
+    padding-bottom: 8px;
+    margin-top: 40px;
+}
 
-        h3 {
-            color: var(--text);
-            margin-top: 30px;
-            border-left: 4px solid var(--primary);
-            padding-left: 12px;
-        }
+h3 {
+    color: var(--text);
+    margin-top: 30px;
+    border-left: 4px solid var(--primary);
+    padding-left: 12px;
+}
 
-        ul {
-            padding-left: 20px;
-        }
+ul {
+    padding-left: 20px;
+}
 
-        li {
-            margin-bottom: 8px;
-        }
+li {
+    margin-bottom: 8px;
+}
 
-        details {
-            background-color: var(--accent);
-            border-left: 4px solid var(--primary);
-            border-radius: 4px;
-            margin: 20px 0;
-            padding: 15px;
-            transition: all 0.3s ease;
-        }
+/* Details and Summary styling for Solutions */
+details {
+    background-color: var(--accent);
+    border-left: 4px solid var(--primary);
+    border-radius: 4px;
+    margin: 20px 0;
+    padding: 15px;
+    transition: all 0.3s ease;
+}
 
-        details[open] {
-            box-shadow: var(--shadow);
-            background-color: var(--card-bg);
-            border: 1px solid var(--border);
-            border-left: 4px solid var(--primary);
-        }
+details[open] {
+    box-shadow: var(--shadow);
+    background-color: var(--card-bg);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--primary);
+}
 
-        summary {
-            font-weight: bold;
-            cursor: pointer;
-            outline: none;
-            user-select: none;
-            color: var(--primary-dark);
-            padding: 5px 0;
-        }
+summary {
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+    user-select: none;
+    color: var(--primary-dark);
+    padding: 5px 0;
+}
 
-        summary:hover {
-            color: var(--primary);
-        }
+summary:hover {
+    color: var(--primary);
+}
 
-        details p, details ul {
-            margin-top: 15px;
-        }
+details p, details ul {
+    margin-top: 15px;
+}
 
-        .actions {
-            display: flex;
-            gap: 10px;
-            margin-bottom: 20px;
-            justify-content: flex-end;
-        }
+/* Print Button and utilities */
+.actions {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    justify-content: flex-end;
+}
 
-        .btn {
-            background-color: var(--primary);
-            color: white;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 4px;
-            cursor: pointer;
-            font-weight: bold;
-            text-decoration: none;
-            transition: background-color 0.2s;
-            font-size: 0.9rem;
-        }
+.btn {
+    background-color: var(--primary);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background-color 0.2s;
+    font-size: 0.9rem;
+}
 
-        .btn:hover {
-            background-color: var(--primary-dark);
-        }
+.btn:hover {
+    background-color: var(--primary-dark);
+}
 
-        .btn-secondary {
-            background-color: transparent;
-            color: var(--primary);
-            border: 1px solid var(--primary);
-        }
+.btn-secondary {
+    background-color: transparent;
+    color: var(--primary);
+    border: 1px solid var(--primary);
+}
 
-        .btn-secondary:hover {
-            background-color: var(--accent);
-            color: var(--primary-dark);
-        }
+.btn-secondary:hover {
+    background-color: var(--accent);
+    color: var(--primary-dark);
+}
 
-        .score-calculator {
-            margin-top: 40px;
-            padding: 20px;
-            background-color: var(--accent);
-            border-radius: 6px;
-            border: 1px solid var(--border);
-        }
+.score-calculator {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: var(--accent);
+    border-radius: 6px;
+    border: 1px solid var(--border);
+}
 
-        .score-input {
-            width: 60px;
-            padding: 5px;
-            border-radius: 4px;
-            border: 1px solid var(--border);
-            text-align: center;
-            font-weight: bold;
-            background: var(--card-bg);
-            color: var(--text);
-        }
+.score-input {
+    width: 60px;
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+    text-align: center;
+    font-weight: bold;
+    background: var(--card-bg);
+    color: var(--text);
+}
 
-        .score-row {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 10px;
-        }
+.score-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
 
-        .score-total {
-            font-size: 1.2rem;
-            font-weight: bold;
-            margin-top: 15px;
-            border-top: 1px dashed var(--border);
-            padding-top: 15px;
-            display: flex;
-            justify-content: space-between;
-        }
+.score-total {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 15px;
+    border-top: 1px dashed var(--border);
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
 
-        blockquote {
-            background: var(--accent);
-            border-left: 4px solid var(--primary);
-            margin: 1.5em 10px;
-            padding: 10px 20px;
-            font-style: italic;
-        }
+/* Blockquote styles */
+blockquote {
+    background: var(--accent);
+    border-left: 4px solid var(--primary);
+    margin: 1.5em 10px;
+    padding: 10px 20px;
+    font-style: italic;
+}
 
-        @media print {
-            body {
-                background-color: white;
-                color: black;
-            }
-            header, .actions, .score-calculator, summary::-webkit-details-marker, details summary {
-                display: none !important;
-            }
-            .exam-card {
-                box-shadow: none !important;
-                border: none !important;
-                padding: 0 !important;
-            }
-            details {
-                background-color: transparent !important;
-                border: none !important;
-                border-left: 2px solid #333 !important;
-                page-break-inside: avoid;
-            }
-            details[open] {
-                border: none !important;
-                border-left: 2px solid #333 !important;
-            }
-            h2, h3 {
-                page-break-after: avoid;
-            }
-        }
+@media print {
+    body {
+        background-color: white;
+        color: black;
+    }
+    header, .actions, .score-calculator, summary::-webkit-details-marker, details summary {
+        display: none !important;
+    }
+    .exam-card {
+        box-shadow: none !important;
+        border: none !important;
+        padding: 0 !important;
+    }
+    details {
+        background-color: transparent !important;
+        border: none !important;
+        border-left: 2px solid #333 !important;
+        page-break-inside: avoid;
+    }
+    details[open] {
+        border: none !important;
+        border-left: 2px solid #333 !important;
+    }
+    h2, h3 {
+        page-break-after: avoid;
+    }
+}
+
     </style>
 </head>
 <body>
@@ -598,7 +603,7 @@ a) Determine la Velocidad Real entregada por el equipo en este Sprint. Justifiqu
 <li>Backlog Restante = $112 \text{ SP}$</li>
 <li>Duración del Sprint = $2 \text{ semanas}$</li>
 </ul>
-<p>$\text{Sprints necesarios} = \frac{\text{Backlog Restante}}{\text{Velocidad}} = \frac{112 \text{ SP}}{28 \text{ SP/Sprint}} = \mathbf{4 \text{ Sprints}}$</p>
+<p>$$\text{Sprints necesarios} = \frac{\text{Backlog Restante}}{\text{Velocidad}} = \frac{112 \text{ SP}}{28 \text{ SP/Sprint}} = \mathbf{4 \text{ Sprints}}$$</p>
 <ul>
 <li><strong>Tiempo Estimado:</strong> $4 \text{ Sprints} \times 2 \text{ semanas/Sprint} = \mathbf{8 \text{ Semanas}}$ de trabajo total restantes para la finalización del proyecto.</li>
 </ul>

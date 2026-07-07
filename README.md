@@ -27,6 +27,9 @@ Cada simulacro sigue fielmente la estructura y puntajes del examen oficial real 
 | **Simulacro 6** | [Ver Markdown](simulacro_examen_6.md) | [Abrir en Navegador](simulacro_examen_6.html) | Usabilidad (Heurísticas de Nielsen) y Accesibilidad (WCAG 2.1), Puntos de Historia vs Puntos de Función, Casos de Uso de Negocio vs Sistema, Inyección SQL, Eficiencia del Flujo. |
 | **Simulacro 7** | [Ver Markdown](simulacro_examen_7.md) | [Abrir en Navegador](simulacro_examen_7.html) | Firma Digital vs Electrónica, Ergonomía (Túnel Carpiano), Acto administrativo (GitHub leak), Violencia de género MGP, Tablas/Árboles de Decisión, errores DFD, DoD vs DoR, Sprint Capacity. |
 | **Simulacro 8** | [Ver Markdown](simulacro_examen_8.md) | [Abrir en Navegador](simulacro_examen_8.html) | Montos LOM, RAFAM (Activos Intangibles), Prescripción disciplinaria, Domicilio Electrónico, Incompatibilidades Computación, Accidente eléctrico (ART), Abandono de servicio, CFD (Kanban), Pruebas de Integración, Eficiencia del Flujo (Cycle/Lead Time). |
+| **Simulacro 9** | [Ver Markdown](simulacro_examen_9.md) | [Abrir en Navegador](simulacro_examen_9.html) | Presupuesto LOM, Licencia Paternidad, Matrícula Profesional Computación, Confort Visual (Decreto 351/79), Inconducta técnica (Disposición de 4 días), Acoso en Teams (Violencia Laboral), Patrón Observer, Caja Blanca vs Negra, Velocidad vs Throughput, DER y Diccionario, Little's Law y proyecciones. |
+| **Examen Real 0066** | [Ver Markdown](examen_real_0066_resuelto.md) | [Abrir en Navegador](examen_real_0066_resuelto.html) | Transcripción íntegra y resolución del examen real 0066 de la MGP (Jefe de Soporte de TI, puntaje 34.5/35). Incluye LOM, Procedimiento digital, Licencias, Accidente de trabajo (ART), Docencia privada en horario municipal (Disposición), Violencia de género, algoritmos de CPU, puesta en servicio, mantenimiento, TCP/IP y cálculo de usuarios WLAN. |
+
 
 ### 📖 Guías de Referencia de Normativa
 
