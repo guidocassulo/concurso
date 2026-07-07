@@ -313,7 +313,7 @@ El Jefe de Departamento debe actuar de inmediato de forma estrictamente confiden
         *   `Descripcion` - varchar(100)
         *   `Monto_Unidades_Fijas` - decimal(10,2)
 
-*(📖 Kendall & Kendall, Cap. 13, págs. 380-388)*
+*(📖 Kendall & Kendall, Cap. 13, págs. 410-411, 424-425)*
 
 ---
 
@@ -354,7 +354,7 @@ El Jefe de Departamento debe actuar de inmediato de forma estrictamente confiden
         1.  El código cuente con un 100% de cobertura de **Pruebas Unitarias** locales aprobadas en el pipeline de desarrollo.
         2.  Las **Pruebas de Integración** en el servidor de pruebas (Staging) entre los nuevos módulos tributarios y los servicios externos del Data Center (ej. GDE nacional o portales de pago de bancos) pasen satisfactoriamente en condiciones similares a producción antes de que se considere "Terminada" (*Done*) la Historia de Usuario para la release.
 
-*(📖 Kendall & Kendall, Cap. 16, págs. 445-449)*
+*(📖 Kendall & Kendall, Cap. 18, pág. 526+)*
 
 ---
 
