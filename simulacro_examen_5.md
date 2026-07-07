@@ -115,8 +115,8 @@
 > Un analista programador de su dependencia, asignado a tareas de desarrollo del portal de autogestión de tasas, presenta un reclamo formal ante la Jefatura. Manifiesta que padece fatiga visual severa, dolores de cabeza y síndrome del ojo seco de carácter crónico debido a que la iluminación de su puesto de trabajo es deficiente y la pantalla no cuenta con filtros ergonómicos. Solicita el inicio de un expediente de cobertura médica ante la ART contratada por el municipio.
 > 
 > Se solicita:
-> 1. Indique si dicha patología califica formalmente como Enfermedad Profesional de acuerdo al listado oficial del Decreto Nacional 658/96 de la Ley de Riesgos del Trabajo 24557, Artículo 6º y fundamente su respuesta.
-> 2. Detalle cuáles son los deberes preventivos del Municipio (empleador) bajo la Ley de Higiene y Seguridad 19587, Artículo 9º en relación con la ergonomía visual y qué medidas correctivas debe adoptar en el puesto de trabajo del agente.
+> 1. Indique si dicha patología califica como una Enfermedad Profesional bajo el Listado oficial de la Ley de Riesgos del Trabajo 24557 y fundamente su respuesta.
+> 2. Detalle cuáles son los deberes preventivos del Municipio (empleador) bajo la Ley de Higiene y Seguridad Nº 19587, Artículo 9º en relación con la ergonomía en puestos de oficina y qué medidas preventivas inmediatas debe adoptar el Jefe de Sistemas de Software.
 
 ---
 

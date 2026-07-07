@@ -209,16 +209,14 @@
 *   **Configuración:** **Sí, configura un accidente laboral.** El agente sufrió una descarga eléctrica en ocasión de realizar sus tareas asignadas (soporte e instalación física de red) dentro del establecimiento de la Municipalidad (lugar de trabajo) y durante el horario laboral.
 *   **Norma Nacional:** Se rige bajo la **Ley Nacional de Riesgos del Trabajo Nº 24557** (y modificatorias), la cual garantiza al agente afectado la cobertura médica total de urgencia, traslados, medicamentos, cirugías (prestaciones en especie) y el pago de su salario durante su convalecencia (prestaciones dinerarias por ILT) a través de la ART.
 
-### 2. Omitidas Normas de Higiene y Seguridad (Ley 19587, Artículo 9º y Decreto 351/79, Anexo I, Capítulo 14)
-Se violó el **Capítulo 14 (Instalaciones Eléctricas)** del Decreto 351/79 reglamentario de la Ley 19587:
-*   **Omisiones Estructurales:**
-    1.  **Falta de Disyuntor Diferencial:** El tablero eléctrico debe contar con disyuntor diferencial de sensibilidad adecuada (30 mA) para cortar la energía automáticamente ante una fuga a tierra (electrocución del operario).
-    2.  **Falta de Puesta a Tierra:** Toda instalación y racks metálicos del Data Center deben estar conectados a un sistema de puesta a tierra (jabalina) verificado y certificado periódicamente.
-    3.  **Falta de Mantenimiento Preventivo:** Mantener en servicio un cable de alimentación con la aislación dañada infringe el deber de conservar las instalaciones eléctricas en condiciones seguras.
-*   **Falta de Provisión de EPP (Elementos de Protección Personal):** El municipio debió proveer de forma obligatoria y gratuita al personal de soporte técnico:
-    *   Calzado de seguridad dieléctrico (sin puntera metálica e impermeables).
-    *   Guantes dieléctricos de baja tensión.
-    *   Herramientas con aislamiento certificado para trabajos eléctricos.
+### 2. Obligaciones Omitidas de Higiene y Seguridad (Ley 19587, Artículo 9º)
+*   **Incumplimiento de Deberes Preventivos del Empleador (Artículo 9º de la Ley 19587):**
+    1.  **Falta de mantenimiento de equipos y ambientes de trabajo (Inciso a):** Omitió mantener las instalaciones del Data Center (conexión a tierra de los racks) y los materiales de trabajo (cables de alimentación) en óptimas condiciones de seguridad.
+    2.  **Falta de medidas de protección frente a riesgos eléctricos (Inciso b):** No se adoptaron los dispositivos mínimos de protección activa contra descargas (como disyuntores diferenciales en el tablero de distribución de la sala de servidores).
+    3.  **Falta de provisión y exigencia de uso de Equipos de Protección Personal (EPP) (Inciso f):** Se omitió proveer al personal de soporte técnico expuesto a tareas de montaje eléctrico de los elementos aislantes de protección necesarios (calzado de seguridad dieléctrico, guantes aislados y herramientas manuales con recubrimiento aislante homologado).
+*   **Acciones Preventivas a Adoptar por el Jefe de Sistemas:**
+    1.  **Suspensión del servicio de riesgo:** Ordenar de forma inmediata que el personal se abstenga de operar o manipular componentes del Data Center que no estén debidamente desenergizados hasta que se reparen las fallas de infraestructura.
+    2.  **Notificación de Urgencia:** Remitir un informe formal de seguridad por sistema GDE al área de mantenimiento eléctrico o servicios generales de la municipalidad solicitando la instalación de disyuntores, puesta a tierra certificada y provisión de elementos dieléctricos de protección para el equipo de soporte.
 
 </details>
 

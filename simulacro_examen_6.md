@@ -69,14 +69,14 @@
 **Sí, el siniestro califica formalmente como un Accidente de Trabajo.**
 *   **Fundamento Jurídico:** Se produjo un acontecimiento de carácter súbito y violento (lesión física en la columna) que ocurrió *en ocasión del trabajo* (traslado físico de equipamiento informático ordenado por la Jefatura) en el ámbito físico municipal y durante la jornada laboral (Artículo 6º de la Ley 24557). La ART debe brindar cobertura total.
 
-### 2. Normas de Ergonomía Omitidas (Resolución SRT 295/03 y Ley 19587):
-Se infringió el **Anexo I (Especificaciones Técnicas de Ergonomía para la manipulación manual de cargas)** de la Resolución SRT 295/03 reglamentaria de la Ley 19587:
-*   **Omisión de Cargas Límites:** La norma nacional establece límites máximos de levantamiento de cargas por una sola persona (máximo de 25 kg para hombres en condiciones de agarre óptimas). Obligar o permitir que un solo agente levante un rack de servidores de 50 kg (duplicando el límite seguro) viola flagrantemente el principio preventivo.
-*   **Falta de Medios Auxiliares:** El empleador (Municipio) omitió proveer herramientas mecánicas para el traslado vertical u horizontal de elementos pesados en la oficina de TIC.
-*   **Medidas Correctivas:** El Jefe del Departamento Técnico debe solicitar de forma prioritaria la provisión de:
-    1.  Medios mecánicos de elevación y traslado: **Carro hidráulico manual (zorra) o carro de plataforma rodante**.
-    2.  Capacitación obligatoria al personal técnico en técnicas seguras de levantamiento de cargas (doblar rodillas, mantener carga pegada al cuerpo).
-    3.  Fajas lumbares protectoras de uso obligatorio para tareas de depósito y traslados físicos de servidores.
+### 2. Pautas de Ergonomía y Levantamiento Seguro de Cargas (Ley 19587, Artículo 9º)
+*   **Deberes Preventivos Omitidos por el Empleador (Artículo 9º de la Ley 19587):**
+    1.  **Garantizar la integridad física de los trabajadores (Inciso a y b):** Obligar o permitir que un único agente de soporte informático levante físicamente en solitario un rack de servidores de 50 kg de peso viola el deber de evitar sobreesfuerzos musculares extremos.
+    2.  **Falta de provisión de medios auxiliares (Inciso f):** Se omitió proveer de herramientas o medios mecánicos idóneos para el traslado horizontal o vertical de equipamiento tecnológico pesado en las dependencias de la comuna.
+*   **Medidas Preventivas a Adoptar por el Jefe de Sistemas:**
+    1.  **Solicitar medios mecánicos de traslado:** Solicitar la adquisición de carros de transporte manual (plataformas rodantes o carros zorra) para mover servidores y racks de forma segura.
+    2.  **Capacitación en técnicas seguras:** Instruir al personal de soporte técnico en técnicas básicas de manipulación segura de cargas (flexionar rodillas, mantener la carga pegada al tronco, no rotar la espalda).
+    3.  **Provisión de fajas lumbares protectoras:** Proveer fajas de sujeción lumbar para tareas que involucren levantamiento físico de equipamiento informático.
 
 </details>
 
