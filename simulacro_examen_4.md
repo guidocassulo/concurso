@@ -189,7 +189,7 @@
 *   **Fundamento Normativo:** Decretos MGP de despapelización e implementación del Domicilio Electrónico Constituido (en consonancia con el Código Civil y Comercial y la Ordenanza 26348). Las notificaciones dirigidas al buzón electrónico oficial del administrado surten efectos legales idénticos a las notificaciones físicas por cédula, y se consideran firmes a partir de su acceso en el sistema o de forma ficta al día hábil siguiente de su alojamiento digital. *(📋 Verificar en texto oficial de Decretos MGP de despapelización y Ordenanza 26348)*
 
 ### 7. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto MGP 966/19 (Manual de Redacción Administrativa), **Anexo I, Capítulo III, Sección Providencias**: *"La Providencia es un documento de mero trámite y de impulso procesal interno, redactado de forma directa y sintética por el funcionario a cargo de una dependencia para girar las actuaciones, solicitar informes o instruir una tarea, careciendo de formalidades complejas como vistos y considerandos"*. *(📋 Verificar en texto oficial de Decreto MGP 966/19)*
+*   **Fundamento Normativo:** Decreto MGP 966/19 (Manual de Redacción Administrativa), **Anexo I, Capítulo III, Sección Providencias**: *"La Providencia es un documento de mero trámite y de impulso procesal interno, redactado de forma directa y sintética por el funcionario a cargo de una dependencia para girar las actuaciones, solicitar informes o instruir una tarea, careciendo de formalidades complejas como vistos y considerandos"*. *(📋 Verificar en texto oficial de Decreto MGP 966/19, Anexo I, Capítulo III, Sección Providencias)*
 
 ### 8. Respuesta Correcta: **c**
 *   **Fundamento Normativo:** Reglamento contable de la RAFAM y Ley de Compras de la LOM. El diseño y redacción del Pliego Técnico (especificaciones de hardware, software, ancho de banda o requerimientos de sistemas) es de responsabilidad exclusiva del área técnica usuaria (Jefe de Departamento / Especialista en TIC), siendo la Dirección de Compras la encargada únicamente de anexar las cláusulas legales, administrativas e impositivas (Pliego de Bases y Condiciones Generales). *(📋 Verificar en texto oficial de RAFAM y Reglamento de Compras LOM)*
@@ -209,7 +209,7 @@
 *   **Configuración:** **Sí, configura un accidente laboral.** El agente sufrió una descarga eléctrica en ocasión de realizar sus tareas asignadas (soporte e instalación física de red) dentro del establecimiento de la Municipalidad (lugar de trabajo) y durante el horario laboral.
 *   **Norma Nacional:** Se rige bajo la **Ley Nacional de Riesgos del Trabajo Nº 24557** (y modificatorias), la cual garantiza al agente afectado la cobertura médica total de urgencia, traslados, medicamentos, cirugías (prestaciones en especie) y el pago de su salario durante su convalecencia (prestaciones dinerarias por ILT) a través de la ART.
 
-### 2. Omitidas Normas de Higiene y Seguridad (Ley 19587 y Decreto 351/79):
+### 2. Omitidas Normas de Higiene y Seguridad (Ley 19587, Artículo 9º y Decreto 351/79, Anexo I, Capítulo 14)
 Se violó el **Capítulo 14 (Instalaciones Eléctricas)** del Decreto 351/79 reglamentario de la Ley 19587:
 *   **Omisiones Estructurales:**
     1.  **Falta de Disyuntor Diferencial:** El tablero eléctrico debe contar con disyuntor diferencial de sensibilidad adecuada (30 mA) para cortar la energía automáticamente ante una fuga a tierra (electrocución del operario).
@@ -225,7 +225,7 @@ Se violó el **Capítulo 14 (Instalaciones Eléctricas)** del Decreto 351/79 reg
 <details>
 <summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary>
 
-### 1. Procedimiento Disciplinario y Medida Preventiva (Ley 14656)
+### 1. Procedimiento Disciplinario y Medida Preventiva (Ley 14656, Artículos 105º y 108º)
 *   **Procedimiento Obligatorio:** Al ser una falta calificada como grave (utilizar recursos informáticos del Estado para enriquecimiento personal de minería de criptomonedas, afectando la estabilidad del portal web), el castigo superará los 10 días de suspensión o implicará cesantía. Por lo tanto, **es obligatorio tramitar un Sumario Administrativo previo** (Artículo 108º de la Ley 14656).
 *   **Medida Preventiva Jerárquica:** El Jefe de Departamento debe solicitar de inmediato el **bloqueo físico y lógico del perfil de accesos informáticos (usuarios de red, VPN, credenciales SSH/RDP) del agente F.M.** y suspender provisionalmente sus permisos sobre servidores municipales. Adicionalmente, debe proponer en la elevación la **suspensión preventiva del agente** sin goce de haberes (o con haberes según defina el sumario) por un término de hasta 60 días para evitar sabotajes en la base de datos municipal durante la investigación.
 

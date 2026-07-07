@@ -120,7 +120,7 @@
 <details>
 <summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary>
 
-### 1. Procedimiento y Plazos Formales (Ley 14656 y Decreto 1539/18)
+### 1. Procedimiento y Plazos Formales (Ley 14656, Artículos 105º, 106º y 108º y Decreto MGP 1539/18, Artículo 1º)
 *   **Debido Proceso / Descargo Previo:** Antes de dictar la sanción de suspensión (que es correctiva menor por ser menor a 5 días y no requerir sumario formal), el Jefe de Departamento debe cumplir con la garantía del debido proceso. Se debe correr formal traslado de los cargos imputados y de las pruebas (el acta de inconducta con testigos y el reporte del servidor de staging) al agente R.D. para que formule su descargo por escrito dentro del plazo de **cinco (5) días hábiles** (Ley 14656, Art. 106).
 *   **Dictamen Jurídico:** Al tratarse de una sanción correctiva directa de 4 días de suspensión (atribución delegada a los Jefes de Departamento por el Decreto 1539/18), **no es obligatoria la intervención ni el dictamen previo** de la Dirección General de Asuntos Jurídicos de la MGP, salvo que existan dudas sobre el procedimiento. Sin embargo, para la validez formal del acto, basta con la sustanciación del descargo y el dictado de la Disposición fundada.
 
@@ -167,27 +167,27 @@ ARTÍCULO 3º.- Registrar en el Legajo de Personal del Agente, notificar al inte
 ---
 
 ## CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA LABORAL (4.5 Puntos)
-*Consigna: Resuelva el caso en base al Protocolo de Violencia de Género de la MGP (Ordenanza 24271) y las pautas de la Ley Micaela.*
+*Consigna: Resuelva el caso en base al Protocolo de Violencia de Género de la MGP (Ordenanza 24271, Anexo I, Punto 4, Punto 3, Anexo I) y las pautas de la Ley Micaela.*
 
 > En el canal oficial de Microsoft Teams del equipo de desarrollo de software del municipio, un programador senior publica en el canal general un meme de contenido altamente sexista y degradante hacia las capacidades de las mujeres en carreras de ingeniería y desarrollo de código. Ante las quejas informales de dos programadoras del equipo, el agente responde por el mismo canal público minimizando los reclamos de sus compañeras, tratándolas de *"exageradas y carentes de humor"* y sugiriendo que *"deberían dedicarse al soporte telefónico si no toleran los chistes del sector"*.
 > 
 > Una de las programadoras afectadas presenta una queja escrita ante usted como Jefe de Departamento.
 > 
 > Se solicita:
-> 1. Encuadre la conducta descrita bajo las prescripciones de la Ley Micaela y la Ordenanza Nº 24271 de la MGP. ¿Configura violencia laboral por razones de género? (1.5 Puntos)
+> 1. Encuadre la conducta descrita bajo las prescripciones de la Ley Micaela y la Ordenanza Nº 24271, Anexo I de la MGP. ¿Configura violencia laboral por razones de género? (1.5 Puntos)
 > 2. Detalle las acciones de resguardo, de cese del hostigamiento y los principios de abordaje inmediato que debe aplicar como superior jerárquico ante la queja formalizada. (1.5 Puntos)
 > 3. Indique qué dependencias y organismos municipales externos a su departamento deben intervenir de forma coordinada para tramitar la denuncia y brindar acompañamiento integral a las afectadas. (1.5 Puntos)
 
 <details>
 <summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</b></summary>
 
-### 1. Encuadre de la Conducta (Ley Micaela y Ordenanza 24271)
-*   **Configuración de Violencia de Género:** Sí, la conducta del agente configura violencia laboral por razones de género. Bajo la **Ordenanza 24271**, la violencia de género en el ámbito laboral se define como toda conducta, acción u omisión que, de manera directa o indirecta, afecte la vida, libertad, dignidad, integridad física, psicológica, sexual o seguridad de las trabajadoras basada en una relación de poder desigual.
+### 1. Encuadre de la Conducta (Ley Micaela (Ley 27499, Artículo 1º) y Ordenanza 24271, Anexo I, Punto 4, Punto 3, Anexo I, Punto 3, Anexo I)
+*   **Configuración de Violencia de Género:** Sí, la conducta del agente configura violencia laboral por razones de género. Bajo la **Ordenanza 24271, Anexo I, Punto 4, Punto 3, Anexo I**, la violencia de género en el ámbito laboral se define como toda conducta, acción u omisión que, de manera directa o indirecta, afecte la vida, libertad, dignidad, integridad física, psicológica, sexual o seguridad de las trabajadoras basada en una relación de poder desigual.
 *   **Encuadre Específico:** Publicar memes sexistas denigrantes y descalificar públicamente las capacidades técnicas de las mujeres desarrolladoras, sugiriendo de forma discriminatoria que sean segregadas a tareas secundarias ("soporte telefónico"), atenta contra su dignidad profesional y su derecho a un entorno laboral libre de discriminación (Ley Nacional 26485 y Ley Micaela 27499). Constituye hostigamiento y violencia psicológica en el trabajo.
 
 ### 2. Acciones de Resguardo Inmediatas por el Jefe de Departamento
 *   **Cese Inmediato de la Conducta:** El Jefe de Departamento debe ordenar al programador de forma inmediata la remoción del contenido sexista del canal público de Microsoft Teams y notificarle el cese del hostigamiento bajo apercibimiento de sanción directa grave.
-*   **Principios de Abordaje (Ordenanza 24271, Anexo I):**
+*   **Principios de Abordaje (Ordenanza 24271, Anexo I, Punto 4, Punto 3, Anexo I, Anexo I):**
     1.  **Confidencialidad:** Garantizar absoluta reserva del trámite de la queja para proteger la privacidad e intimidad de la denunciante.
     2.  **No Revictimización:** Evitar obligar a las afectadas a relatar repetidamente los hechos, y prohibir careos o reuniones de confrontación directa en el ámbito de la oficina con el denunciado.
     3.  **Protección y Acompañamiento:** Ofrecer a las agentes la posibilidad de reacomodar sus mesas o dinámicas de reuniones ágiles para evitar el contacto directo continuo con el agente mientras se resuelve el caso, sin que esto signifique un perjuicio o traslado forzoso de las afectadas.

@@ -115,8 +115,8 @@
 > Una agente del equipo de desarrollo de software que trabaja bajo su supervisión como Jefe de Departamento manifiesta dolores persistentes en la muñeca derecha, entumecimiento y hormigueo en los dedos pulgar, índice y medio. Refiere que la sintomatología se ha intensificado notablemente durante los últimos meses de trabajo continuo frente a la computadora. Tras la consulta médica formal, se le diagnostica **Síndrome del Túnel Carpiano** y se le prescribe un período de reposo y tratamiento de kinesiología.
 > 
 > Se solicita:
-> 1. Indique si la patología descrita califica como una Enfermedad Profesional bajo el régimen de la Ley 24557 y sus decretos reglamentarios (Listado de Enfermedades Profesionales). Fundamente jurídicamente su respuesta.
-> 2. Determine qué normas preventivas de ergonomía aplicables al trabajo de oficina (Resolución SRT 295/03 reglamentaria de la Ley 19587) debieron implementarse en el puesto laboral y qué elementos o adaptaciones ergonómicas específicas del puesto de trabajo debe solicitar el Jefe de Sistemas de Software para evitar la recidiva de la agente al retornar al servicio.
+> 1. Indique si la patología descrita califica como una Enfermedad Profesional bajo el régimen de la Ley 24557, Artículo 6º y sus decretos reglamentarios (Listado de Enfermedades Profesionales). Fundamente jurídicamente su respuesta.
+> 2. Determine qué normas preventivas de ergonomía aplicables al trabajo de oficina (Resolución SRT 295/03 reglamentaria de la Ley 19587, Artículo 9º) debieron implementarse en el puesto laboral y qué elementos o adaptaciones ergonómicas específicas del puesto de trabajo debe solicitar el Jefe de Sistemas de Software para evitar la recidiva de la agente al retornar al servicio.
 
 ---
 
@@ -127,16 +127,16 @@
 > 
 > La investigación preliminar demuestra que el repositorio contenía archivos de configuración sensibles, con APIs keys expuestas y strings de conexión a la base de datos municipal de producción con credenciales de administrador de red. El agente R.G. admitió los hechos alegando que subió el código para "trabajar desde su hogar y pedir ayuda externa en un foro técnico", sin dimensionar el gravísimo riesgo de seguridad informática que implicaba para las bases de datos fiscales y personales de los contribuyentes.
 > 
-> Como Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, usted debe elevar las actuaciones de inmediato a los fines de promover el Sumario Administrativo por transgresión grave a los deberes de confidencialidad y lealtad (Art. 107 de la Ley 14656 y concordantes) y ordenar como medida de seguridad el cese de los accesos lógicos y la suspensión preventiva del agente.
+> Como Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, usted debe elevar las actuaciones de inmediato a los fines de promover el Sumario Administrativo por transgresión grave a los deberes de confidencialidad y lealtad (Art. 107 de la Ley 14656, Artículo 107º, Inciso 5 y concordantes) y ordenar como medida de seguridad el cese de los accesos lógicos y la suspensión preventiva del agente.
 > 
 > Se solicita:
-> 1. Explique fundadamente qué obligaciones y deberes estatutarios del agente municipal (Ley 14656) se infringieron con esta conducta y qué medida de seguridad técnica lógica inmediata debe ejecutar el Jefe de Departamento respecto a las credenciales y claves expuestas. (1.5 Puntos)
+> 1. Explique fundadamente qué obligaciones y deberes estatutarios del agente municipal (Ley 14656, Artículo 107º, Inciso 5) se infringieron con esta conducta y qué medida de seguridad técnica lógica inmediata debe ejecutar el Jefe de Departamento respecto a las credenciales y claves expuestas. (1.5 Puntos)
 > 2. Redacte la parte dispositiva y de fundamentación (`VISTO`, `CONSIDERANDO` y `DISPONE` o `ELEVA`) de la Disposición formal mediante la cual usted, como Jefe de Departamento, informa el caso, promueve el sumario, ordena el bloqueo de accesos y solicita la intervención de la Dirección General de Recursos Humanos. (2.5 Puntos)
 
 ---
 
 ## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
-*Consigna: Responda las siguientes preguntas en base al protocolo de violencia laboral de género de la MGP (Ordenanza 24271) y la Ley Micaela (Ley 27499).*
+*Consigna: Responda las siguientes preguntas en base al protocolo de violencia laboral de género de la MGP (Ordenanza 24271, Anexo I, Punto 3, Anexo I) y la Ley Micaela (Ley 27499).*
 
 > Una programadora de software recientemente incorporada a su departamento le solicita una reunión privada. Le manifiesta que un desarrollador con mayor antigüedad en el área la desmerece sistemáticamente frente a sus compañeros con comentarios menospreciativos sobre su género ("las mujeres no tienen lógica para la programación compleja", "seguro entró por cupo y no por capacidad"), la interrumpe de forma constante en las reuniones de equipo (ejerciendo "mansplaining" y adueñándose de sus ideas de desarrollo) y le envía mensajes de texto persistentes fuera del horario laboral con insinuaciones personales no deseadas. Refiere sentirse intimidada, estresada y temerosa de que esto afecte su continuidad laboral o su evaluación de desempeño.
 > 
@@ -181,7 +181,7 @@
 *   **Fundamento Normativo:** Ley Nacional de Firma Digital Nº 25.506, **Artículos 3º, 5º, 6º y 9º**. La diferencia jurídica fundamental radica en que la firma digital posee una presunción de autoría y de integridad asignada directamente por ley: se presume que el documento firmado pertenece al titular del certificado digital y que no ha sido alterado, trasladando al impugnante la carga de probar lo contrario (*carga invertida*). En cambio, la firma electrónica carece de estas presunciones, de modo que si es desconocida en juicio, es quien la invoca quien debe probar su validez mediante pericia informática u otros medios de prueba. *(📋 Ley 25.506)*
 
 ### 2. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto MGP **923/19 (Reglamento de Licencia por Descanso Anual) y Ley 14656, Artículo 80º**. La Licencia por Descanso Anual tiene carácter obligatorio y goce íntegro de haberes. Las vacaciones deben ser usufructuadas dentro del período respectivo; si por razones de servicio fundadas por el titular de la dependencia no pudieran gozarse, se transfieren al año siguiente. De no usufructuarse en dicho período prorrogado, expiran de pleno derecho sin dar derecho a indemnización pecuniaria (salvo cese de la relación laboral). *(📋 Decreto MGP 923/19)*
+*   **Fundamento Normativo:** Decreto MGP **923/19 (Reglamento de Licencia por Descanso Anual) y Ley 14656, Artículo 107º, Inciso 5, Artículo 80º**. La Licencia por Descanso Anual tiene carácter obligatorio y goce íntegro de haberes. Las vacaciones deben ser usufructuadas dentro del período respectivo; si por razones de servicio fundadas por el titular de la dependencia no pudieran gozarse, se transfieren al año siguiente. De no usufructuarse en dicho período prorrogado, expiran de pleno derecho sin dar derecho a indemnización pecuniaria (salvo cese de la relación laboral). *(📋 Decreto MGP 923/19)*
 
 ### 3. Respuesta Correcta: **a**
 *   **Fundamento Normativo:** Decreto MGP **121/18 y 122/18 (Régimen de Control Horario)**. La falta de registro de asistencia (entrada o salida) en los dispositivos biométricos sin mediar justificación documentada (formulario de comisión de servicio, salida autorizada o licencia médica) equivale a una inasistencia injustificada con el consecuente descuento de haberes del día. Las omisiones de fichado por desperfectos del equipo o descuidos del agente deben ser informadas e iniciadas por el agente a través del sistema GDE municipal dentro de las 48 horas hábiles del hecho para su validación jerárquica, no teniendo el Jefe de Departamento facultades para archivar planillas manuales informales paralelas. *(📋 Decretos MGP 121/18 y 122/18)*
@@ -190,13 +190,13 @@
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 155º**. En los procesos de Licitación Pública o Privada, cuando se presente una sola oferta válida y esta sea técnicamente admisible y conveniente para los intereses de la comuna, el Intendente puede proceder a la adjudicación del contrato únicamente si cuenta con la **previa autorización del Honorable Concejo Deliberante (H.C.D.)** mediante ordenanza habilitante. *(📋 LOM - Art. 155º)*
 
 ### 5. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto Provincial **2.980/00 (Reglamento de Administración Financiera Municipal - RAFAM), disposiciones sobre la ejecución del gasto**. La etapa del **Devengado** presupuestario se perfecciona cuando se verifica la recepción definitiva de los bienes o la prestación del servicio técnico contratado a satisfacción del municipio. Es el momento en que se genera la obligación jurídica y contable de pago al proveedor y afecta de manera de forma definitiva el crédito presupuestario del ejercicio fiscal, independientemente de cuándo se efectivice la tesorería (etapa del pago). *(📋 RAFAM Decreto 2980/00)*
+*   **Fundamento Normativo:** Decreto Provincial **2.980/00 (Reglamento de Administración Financiera Municipal - RAFAM), disposiciones sobre la ejecución del gasto**. La etapa del **Devengado** presupuestario se perfecciona cuando se verifica la recepción definitiva de los bienes o la prestación del servicio técnico contratado a satisfacción del municipio. Es el momento en que se genera la obligación jurídica y contable de pago al proveedor y afecta de manera de forma definitiva el crédito presupuestario del ejercicio fiscal, independientemente de cuándo se efectivice la tesorería (etapa del pago). *(📋 RAFAM Decreto 2980/00, Artículos 93º y 94º)*
 
 ### 6. Respuesta Correcta: **a**
 *   **Fundamento Normativo:** Ordenanza General Nº 26.348 (Procedimiento Administrativo Municipal), **Artículo 86º**. El interesado o agente afectado podrá interponer el Recurso de Revocatoria (ante el mismo funcionario que dictó el acto) en el plazo perentorio de **diez (10) días hábiles administrativos** contados desde el día siguiente a la notificación fehaciente del acto administrativo impugnado. *(📋 Ord. Gral. 26.348 - Art. 86º)*
 
 ### 7. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Provincial 14656 y reglamentaciones municipales (o Convenio Colectivo de Trabajo). La autoridad municipal competente está facultada para aplicar de forma directa sanciones correctivas menores de apercibimiento o de **suspensión de hasta diez (10) días** en el año calendario sin necesidad de sustanciar sumario administrativo previo. Sin embargo, para la validez de la sanción se debe respetar obligatoriamente el derecho a defensa del agente, otorgándole un plazo reglamentario previo para presentar su descargo antes de dictar la resolución. *(📋 Ley 14656)*
+*   **Fundamento Normativo:** Ley Provincial 14656 y reglamentaciones municipales (o Convenio Colectivo de Trabajo). La autoridad municipal competente está facultada para aplicar de forma directa sanciones correctivas menores de apercibimiento o de **suspensión de hasta diez (10) días** en el año calendario sin necesidad de sustanciar sumario administrativo previo. Sin embargo, para la validez de la sanción se debe respetar obligatoriamente el derecho a defensa del agente, otorgándole un plazo reglamentario previo para presentar su descargo antes de dictar la resolución. *(📋 Ley 14656, Artículo 107º, Inciso 5, Artículos 105º y 106º)*
 
 ### 8. Respuesta Correcta: **a**
 *   **Fundamento Normativo:** Decretos MGP **397/01, 3080/01 y 2490/05** (Estatuto del Premio Estímulo al Presentismo). El premio presentismo es de carácter restrictivo y premia la asistencia perfecta. Se pierde en su totalidad por inasistencias injustificadas, suspensiones disciplinarias o por registrar más de 3 llegadas tarde en el mes (que no se encuadren en las tolerancias reglamentarias), o por salidas de carácter particular no compensadas. Quedan exceptuadas de la pérdida del premio las licencias extraordinarias por maternidad, exámenes de estudio autorizados, o licencias ordinarias. *(📋 Decretos MGP 397/01, 3080/01 y 2490/05)*
@@ -212,11 +212,11 @@
 <details>
 <summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary>
 
-### 1. Configuración de Enfermedad Profesional (Ley 24557):
+### 1. Configuración de Enfermedad Profesional (Ley 24557, Artículo 6º):
 **Sí, el Síndrome del Túnel Carpiano califica legalmente como Enfermedad Profesional.**
 *   **Fundamento Jurídico:** Esta patología está expresamente contemplada en el **Listado de Enfermedades Profesionales (Decreto 658/96)** reglamentario de la Ley de Riesgos del Trabajo Nº 24557. Está directamente vinculada a tareas que requieren movimientos repetitivos de la muñeca, presión local en la palma de la mano, flexo-extensión forzada y prolongada de la articulación (típico del uso continuo de teclado y ratón sin apoyo ergonómico en puestos informáticos). La ART del municipio debe brindar cobertura total al tratamiento médico, kinésico y salarios de los días caídos de licencia por enfermedad profesional.
 
-### 2. Normas de Ergonomía y Medidas Preventivas (Resolución SRT 295/03 y Ley 19587):
+### 2. Normas de Ergonomía y Medidas Preventivas (Resolución SRT 295/03 y Ley 19587, Artículo 9º):
 Se omitieron las directivas de ergonomía para puestos de trabajo con pantallas de visualización de datos de la **Resolución SRT 295/03 (Anexo I)**. Al retornar de su licencia, el Jefe de Departamento debe exigir al área de compras e higiene laboral la provisión de:
 1.  **Silla de oficina ergonómica:** Con soporte lumbar ajustable, apoyabrazos regulables en altura (para mantener los codos a 90º) y base giratoria de 5 rayos regulable en altura.
 2.  **Mouse ergonómico vertical:** Diseñado para evitar la pronación del antebrazo y la flexión repetitiva de la muñeca.
@@ -230,7 +230,7 @@ Se omitieron las directivas de ergonomía para puestos de trabajo con pantallas 
 <summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary>
 
 ### 1. Obligaciones Estatutarias Involucradas y Medida de Seguridad Lógica
-*   **Deberes Estatutarios Incumplidos (Ley 14656):**
+*   **Deberes Estatutarios Incumplidos (Ley 14656, Artículo 107º, Inciso 5):**
     *   **Artículo 107º inc. 2 (Deber de fidelidad y lealtad):** El agente violó el deber de guardar reserva y confidencialidad respecto a la información, código interno del software y claves de los servidores municipales a los que tiene acceso en razón de sus tareas.
     *   **Artículo 107º inc. 5 (Deber de custodia y responsabilidad patrimonial):** Al exponer públicamente las credenciales de administración del Data Center en GitHub, el agente cometió una negligencia grave que vulnera la seguridad y el patrimonio de la información de la comuna.
 *   **Medidas Técnicas Lógicas de Urgencia (Jefe de Sistemas):**
@@ -248,7 +248,7 @@ Se omitieron las directivas de ergonomía para puestos de trabajo con pantallas 
 
 **CONSIDERANDO:**
 * Que se verificó la exposición pública de credenciales críticas de administrador de bases de datos y APIs en el repositorio personal del agente.
-* Que esto configura una falta grave a los deberes de reserva e integridad técnica (Art. 107 incs. 2 y 5 de la Ley 14656).
+* Que esto configura una falta grave a los deberes de reserva e integridad técnica (Art. 107 incs. 2 y 5 de la Ley 14656, Artículo 107º, Inciso 5).
 * Que por razones de seguridad de la red y bases de datos resulta urgente bloquear los accesos informáticos del agente y solicitar sumario.
 
 Por ello, en uso de las atribuciones delegadas:
@@ -269,7 +269,7 @@ Por ello, en uso de las atribuciones delegadas:
 
 ### 1. Encuadre de la Situación (Ordenanza Nº 24.271 MGP):
 **Sí, la situación encuadra formalmente como un caso de Violencia Laboral de Género.**
-*   **Fundamento:** Conforme a la **Ordenanza 24271 (Protocolo de Abordaje sobre Violencia Laboral con perspectiva de género en la MGP)**, la conducta del agente masculino constituye violencia psicológica y acoso laboral por razones de género. Abarca el menosprecio sistemático de la capacidad técnica de la programadora frente al equipo, la descalificación fundada en su género, la interrupción constante (mansplaining) que menoscaba su labor profesional, y el acoso de índole personal mediante mensajes no deseados fuera del horario laboral. Afecta el ambiente de trabajo, la dignidad y la salud psíquica de la agente denunciante.
+*   **Fundamento:** Conforme a la **Ordenanza 24271, Anexo I, Punto 3, Anexo I (Protocolo de Abordaje sobre Violencia Laboral con perspectiva de género en la MGP)**, la conducta del agente masculino constituye violencia psicológica y acoso laboral por razones de género. Abarca el menosprecio sistemático de la capacidad técnica de la programadora frente al equipo, la descalificación fundada en su género, la interrupción constante (mansplaining) que menoscaba su labor profesional, y el acoso de índole personal mediante mensajes no deseados fuera del horario laboral. Afecta el ambiente de trabajo, la dignidad y la salud psíquica de la agente denunciante.
 
 ### 2. Medidas Preventivas de Resguardo Inmediatas por el Jefe de Departamento:
 Usted como Jefe de Departamento tiene la obligación de garantizar un ambiente de trabajo libre de violencia y discriminación. Debe disponer de forma inmediata y sin dilaciones:
@@ -278,7 +278,7 @@ Usted como Jefe de Departamento tiene la obligación de garantizar un ambiente d
 *   **Proteger las condiciones de la denunciante (Evitar la Victimización Secundaria):** Ninguna medida preventiva debe implicar un perjuicio profesional para ella. **No se debe trasladar forzadamente a la denunciante a otra dependencia ni quitarle responsabilidades jerárquicas o técnicas**, sino que las medidas de traslado físico o funcional para garantizar el distanciamiento deben recaer, de ser necesario, sobre el agente denunciado.
 
 ### 3. Vía Institucional de Denuncia y Acompañamiento:
-*   El Jefe de Departamento debe **asesorar a la agente denunciante respecto a sus derechos** e informarle sobre la existencia del Protocolo de la Ordenanza 24271.
+*   El Jefe de Departamento debe **asesorar a la agente denunciante respecto a sus derechos** e informarle sobre la existencia del Protocolo de la Ordenanza 24271, Anexo I, Punto 3, Anexo I.
 *   Debe elevar un informe confidencial a la **Dirección de Políticas de Género municipal** y a la **Comisión Interdisciplinaria de Abordaje de Violencia Laboral** de la Dirección de Recursos Humanos para que brinden patrocinio psicológico, legal y social a la víctima.
 *   **Ley Micaela:** La capacitación obligatoria en género de la Ley Micaela (Ley 27499 y Ley Provincial 15134) obliga a todo el personal jerárquico a **actuar con debida diligencia, erradicar los sesgos y prejuicios de género** (no minimizar la situación como un "conflicto de programadores" o una "exageración de la agente") y a aplicar activamente los protocolos de intervención inmediata para garantizar la no discriminación en el ámbito de las tecnologías.
 

@@ -194,7 +194,7 @@
 
 ### 7. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Ley 14656 (Estatuto del Empleo Público Municipal), **Artículo 25º** y concordantes. El derecho a la carrera y el principio de inocencia determinan que el procesamiento o sumario administrativo en trámite no suspende de por sí los derechos estatutarios del agente (como el derecho a presentarse o solicitar reencasillamientos y promociones), a menos que exista una suspensión preventiva dictada por resolución fundada del Intendente o que la sanción firme sea cesantía/exoneración.
-*(📋 Verificar en texto oficial de Ley 14656)*
+*(📋 Verificar en texto oficial de Ley 14656, Artículo 25º)*
 
 ### 8. Respuesta Correcta: **d**
 *   **Fundamento Normativo:** Ley 14656, **Artículos 105º y 106º**, en concordancia con el Decreto Reglamentario Municipal **1539/18, Artículo 1º, Inciso c**. Las sanciones correctivas menores de llamado de atención, apercibimiento y suspensión de hasta 5 días pueden ser aplicadas de forma directa por el superior jerárquico inmediato con rango de Jefe de Departamento, previa sustanciación del descargo del agente, sin necesidad de sumario previo (el cual es obligatorio a partir de 6 o más días de suspensión).
@@ -202,11 +202,11 @@
 
 ### 9. Respuesta Correcta: **c**
 *   **Fundamento Normativo:** Ley 14656 y Decreto Reglamentario MGP **121/18, Artículo 4º** (Control Horario). El decreto autoriza a la Dirección de Personal a justificar a los agentes hasta un máximo de veinte (20) minutos acumulados de llegada tarde por mes (con un tope de 120 minutos por año calendario). Al tratarse de una primera llegada tarde de 12 minutos, está dentro de este rango y no corresponde la aplicación de una sanción disciplinaria directa (llamado de atención/apercibimiento, regulados en el Art. 5º), aunque sí se computa para el control de horas.
-*(📋 Verificar en texto oficial de Decreto MGP 121/18)*
+*(📋 Verificar en texto oficial de Decreto MGP 121/18, Artículo 4º)*
 
 ### 10. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Decreto MGP **121/18, Artículo 3º**. El decreto establece que se considera llegada tarde al ingreso que se verifique hasta los treinta (30) minutos posteriores al horario fijado de entrada. Pasado dicho lapso (los 30 minutos), el agente no podrá prestar servicios, computándosele inasistencia injustificada, salvo que se configure un caso de fuerza mayor debidamente justificado por escrito ante el superior jerárquico.
-*(📋 Verificar en texto oficial de Decreto MGP 121/18)*
+*(📋 Verificar en texto oficial de Decreto MGP 121/18, Artículo 4º)*
 
 </details>
 
@@ -291,7 +291,7 @@ Por ello, en uso de las atribuciones delegadas mediante el Decreto Nº 1539/18,
 *   **Fundamento Normativo:** **Ley 27499 (Ley Micaela), Artículo 8º**: Las personas que se negaren sin causa justa a realizar las capacitaciones previstas serán intimadas en forma fehaciente por la autoridad de aplicación. *"El incumplimiento de dicha intimación sin causa justa dará lugar a la sanción disciplinaria pertinente y a hacer pública la negativa en la página web..."*. Al considerarse la capacitación un deber y carga pública del empleo estatal, la negativa reiterada es un incumplimiento de los deberes de agente público.
 
 ### 3. Diligencias del Superior Jerárquico ante Denuncia de Violencia de Género (Ordenanza 24271):
-Al recibir una denuncia de violencia laboral o acoso por razones de género, el Jefe de Departamento debe actuar conforme al Protocolo Municipal (Ord. 24271):
+Al recibir una denuncia de violencia laboral o acoso por razones de género, el Jefe de Departamento debe actuar conforme al Protocolo Municipal (Ordenanza 24271, Anexo I, Punto 4):
 *   **Principios de Abordaje:**
     1.  **Confidencialidad:** Garantizar absoluta reserva del trámite y de la identidad de las personas para proteger la integridad psicofísica y laboral de la denunciante.
     2.  **No Revictimización:** Evitar que la persona afectada deba reiterar su relato ante distintas dependencias o personas si no es estrictamente indispensable.

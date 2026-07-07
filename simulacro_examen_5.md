@@ -99,7 +99,7 @@
 
 ---
 
-### 10. Conforme a las licencias vigentes en la Ley 14656 y decretos municipales, la licencia extraordinaria por atención de familiar enfermo a cargo directo se otorga bajo las siguientes condiciones de cobro:
+### 10. Conforme a las licencias vigentes en la Ley 14656, Artículo 89º y decretos municipales, la licencia extraordinaria por atención de familiar enfermo a cargo directo se otorga bajo las siguientes condiciones de cobro:
 *   a) Sin goce de sueldo en todos los casos por tratarse de un asunto particular del agente.
 *   b) Con goce íntegro de haberes por el período reglamentario máximo (hasta 20 días al año).
 *   c) Con descuento del 50% del salario básico a partir del tercer día de inasistencia.
@@ -115,8 +115,8 @@
 > Un analista programador de su dependencia, asignado a tareas de desarrollo del portal de autogestión de tasas, presenta un reclamo formal ante la Jefatura. Manifiesta que padece fatiga visual severa, dolores de cabeza y síndrome del ojo seco de carácter crónico debido a que la iluminación de su puesto de trabajo es deficiente y la pantalla no cuenta con filtros ergonómicos. Solicita el inicio de un expediente de cobertura médica ante la ART contratada por el municipio.
 > 
 > Se solicita:
-> 1. Indique si dicha patología califica formalmente como Enfermedad Profesional de acuerdo al listado oficial del Decreto Nacional 658/96 de la Ley 24557 y fundamente su respuesta.
-> 2. Detalle cuáles son los deberes preventivos del Municipio (empleador) bajo la Ley de Higiene y Seguridad 19587 en relación con la ergonomía visual y qué medidas correctivas debe adoptar en el puesto de trabajo del agente.
+> 1. Indique si dicha patología califica formalmente como Enfermedad Profesional de acuerdo al listado oficial del Decreto Nacional 658/96 de la Ley de Riesgos del Trabajo 24557, Artículo 6º y fundamente su respuesta.
+> 2. Detalle cuáles son los deberes preventivos del Municipio (empleador) bajo la Ley de Higiene y Seguridad 19587, Artículo 9º en relación con la ergonomía visual y qué medidas correctivas debe adoptar en el puesto de trabajo del agente.
 
 ---
 
@@ -134,9 +134,9 @@
 ---
 
 ## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
-*Consigna: Responda las siguientes preguntas sobre el Protocolo de Violencia de Género de la MGP (Ordenanza 24271).*
+*Consigna: Responda las siguientes preguntas sobre el Protocolo de Violencia de Género de la MGP (Ordenanza 24271, Anexo I).*
 
-1.  Defina brevemente las conductas que configuran "acoso sexual" y "hostigamiento laboral" en razón del género en el ámbito laboral de acuerdo con la Ordenanza 24271. (1.5 Puntos)
+1.  Defina brevemente las conductas que configuran "acoso sexual" y "hostigamiento laboral" en razón del género en el ámbito laboral de acuerdo con la Ordenanza 24271, Anexo I, Punto 3. (1.5 Puntos)
 2.  Explique cuál es el rol específico que le compete al área de Medicina del Trabajo (Salud Ocupacional) en la Municipalidad en relación con las licencias médicas y el acompañamiento de las agentes víctimas de violencia de género. (1.5 Puntos)
 3.  ¿Cómo debe proceder usted como superior jerárquico respecto a la confidencialidad de la justificación de las inasistencias de una agente a su cargo derivadas de situaciones de violencia de género? (1.5 Puntos)
 
@@ -173,7 +173,7 @@
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 155º** (y reglamentos contables RAFAM). Toda contratación que exceda la duración del ejercicio financiero anual (12 meses de presupuesto corriente) comprometiendo erogaciones presupuestarias plurianuales de años futuros requiere la previa y expresa autorización y convalidación del Honorable Concejo Deliberante (HCD) mediante la sanción de una ordenanza con mayoría de los concejales presentes. *(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades - Art. 155º)*
 
 ### 2. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto MGP **2250/13 (Grupo Ocupacional Computación)**: El escalafón del personal técnico y profesional del área de informática del municipio de General Pueyrredón se estructura formalmente en cuatro agrupamientos o clases de tareas: Operación, Programación, Análisis de Sistemas y Soporte Técnico. *(📋 Verificar en texto oficial de Decreto MGP 2250/13)*
+*   **Fundamento Normativo:** Decreto MGP **2250/13, Artículo 1º y Anexo I (Grupo Ocupacional Computación)**: El escalafón del personal técnico y profesional del área de informática del municipio de General Pueyrredón se estructura formalmente en cuatro agrupamientos o clases de tareas: Operación, Programación, Análisis de Sistemas y Soporte Técnico. *(📋 Verificar en texto oficial de Decreto MGP 2250/13)*
 
 ### 3. Respuesta Correcta: **c**
 *   **Fundamento Normativo:** Ordenanza General 26348, **Artículo 79º**: El silencio de la administración de efectos denegatorios (silencio negativo) se produce de pleno derecho transcurrido el plazo máximo de **treinta (30) días hábiles administrativos** desde que las actuaciones se encuentren en condiciones de ser resueltas por el funcionario competente (ej. con dictámenes y pruebas cerradas) sin que haya recaído resolución definitiva. *(📋 Verificar en texto oficial de Ordenanza General 26348 - Art. 79º)*
@@ -206,7 +206,7 @@
 
 ### 1. Encuadre en el Listado de Enfermedades Profesionales:
 **No califica de forma directa como Enfermedad Profesional en el listado cerrado.**
-*   **Justificación:** El listado cerrado de enfermedades profesionales establecido por el **Decreto Nacional 658/96 (Ley 24557)** no incluye a la fatiga visual ni al síndrome del ojo seco como afecciones generadoras de incapacidad laboral bajo la exposición a agentes de riesgo informáticos de forma directa (a diferencia de la tendinitis o el túnel carpiano que sí figuran asociados al riesgo físico de movimientos repetitivos). La ART rechazará la denuncia inicialmente.
+*   **Justificación:** El listado cerrado de enfermedades profesionales establecido por el **Decreto Nacional 658/96 (Ley de Riesgos del Trabajo 24557, Artículo 6º)** no incluye a la fatiga visual ni al síndrome del ojo seco como afecciones generadoras de incapacidad laboral bajo la exposición a agentes de riesgo informáticos de forma directa (a diferencia de la tendinitis o el túnel carpiano que sí figuran asociados al riesgo físico de movimientos repetitivos). La ART rechazará la denuncia inicialmente.
 *   **Vía Excepcional:** Para su cobertura, el agente o el municipio deberán demostrar la relación de causalidad directa ante la Comisión Médica Jurisdiccional (CMJ), probando que las condiciones ambientales del puesto municipal fueron la causa exclusiva de la afección visual.
 
 ### 2. Deberes Preventivos del Municipio (Ley 19587 y Decreto 351/79):
@@ -244,7 +244,7 @@ Que el agente J.L. se negó formal y taxativamente a cumplir con la orden impart
 
 Que esta conducta infringe de forma directa los deberes establecidos en la Ley Nº 14656, en particular su **Artículo 107º, Inciso 1** (prestar el servicio con eficiencia, capacidad y diligencia) e **Inciso 2** (obedecer las órdenes emanadas de los superiores jerárquicos competentes destinadas al servicio).
 
-Que el agrupamiento de personal del Decreto 2250/13 contempla dentro de la polivalencia de tareas de la planta técnica del sector informático el auxilio y mantenimiento de las terminales de operación ante contingencias urgentes del servicio.
+Que el agrupamiento de personal del Decreto 2250/13, Artículo 1º y Anexo I contempla dentro de la polivalencia de tareas de la planta técnica del sector informático el auxilio y mantenimiento de las terminales de operación ante contingencias urgentes del servicio.
 
 Que con el objeto de preservar las garantías de Debido Proceso y de la Defensa en Juicio, se confirió el correspondiente traslado para descargo al agente J.P., habiendo presentado su descargo por escrito dentro del término legal sin fundamentar razones de fuerza mayor o ilegalidad de la orden recibida que justifiquen su negativa.
 
@@ -271,7 +271,7 @@ Por ello, en ejercicio de las facultades disciplinarias delegadas mediante el De
 <details>
 <summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</b></summary>
 
-### 1. Acoso Sexual y Hostigamiento Laboral (Ordenanza MGP 24271):
+### 1. Acoso Sexual y Hostigamiento Laboral (Ordenanza MGP 24271, Anexo I, Punto 3):
 *   **Acoso Sexual:** Es todo comportamiento de índole sexual (físico, verbal, gestual o escrito), no consentido y rechazado por quien lo recibe, que afecte su dignidad, y cuya solicitud condicione la estabilidad o progresión en la carrera administrativa del agente (abuso de poder), o cree un entorno laboral hostil.
 *   **Hostigamiento Laboral (Acoso Moral):** Es el maltrato psicológico, hostigamiento, descrédito profesional sistemático o aislamiento laboral ejercido de forma continua sobre un agente por parte de superiores o pares, con el fin de provocar su desgaste psicofísico o forzar su renuncia o traslado.
 

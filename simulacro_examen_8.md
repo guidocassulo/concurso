@@ -132,7 +132,7 @@ Por ello, en uso de las atribuciones delegadas:
 
 ### 1. Encuadre de la Situación (Ordenanza Nº 24.271 MGP):
 **Sí, configura Violencia Laboral de Género.**
-*   **Fundamento:** La Ordenanza 24271 define la violencia laboral con perspectiva de género como toda conducta, manifestación o acoso que atente contra la dignidad, la integridad física o psíquica del agente en el lugar de trabajo, basada en su género. En este caso, el hostigamiento verbal persistente, comentarios descalificatorios sistemáticos y gestos obscenos configuran violencia psicológica y acoso sexual ambiental, afectando gravemente la salud psíquica de la agente y forzándola a licencias médicas por estrés.
+*   **Fundamento:** La Ordenanza 24271, Anexo I, Punto 3 define la violencia laboral con perspectiva de género como toda conducta, manifestación o acoso que atente contra la dignidad, la integridad física o psíquica del agente en el lugar de trabajo, basada en su género. En este caso, el hostigamiento verbal persistente, comentarios descalificatorios sistemáticos y gestos obscenos configuran violencia psicológica y acoso sexual ambiental, afectando gravemente la salud psíquica de la agente y forzándola a licencias médicas por estrés.
 
 ### 2. Obligaciones y Acciones del Jefe de Departamento (Garantizar la No Revictimización):
 El Jefe de Departamento debe actuar de inmediato de forma estrictamente confidencial:
@@ -143,7 +143,7 @@ El Jefe de Departamento debe actuar de inmediato de forma estrictamente confiden
 ### 3. Vías Institucionales y Derivación Coordinada:
 *   El Jefe de Departamento debe informar la situación formalmente a la **Dirección de Políticas de Género municipal** para coordinar el asesoramiento especializado y acompañamiento interdisciplinario (psicológico y social) de la agente.
 *   Remitir el caso a la **Dirección de Medicina del Trabajo** de la Municipalidad para justificar y auditar adecuadamente las licencias médicas de la agente, encuadrándolas correctamente dentro del Protocolo de Violencia de Género para evitar pérdidas de presentismo.
-*   Elevar la denuncia de acoso ante la **Dirección de Personal de la Dirección General de Recursos Humanos** para que se instruya la investigación sumaria correspondiente contra el agente agresor de conformidad con la Ordenanza 24271 y la Ley Micaela.
+*   Elevar la denuncia de acoso ante la **Dirección de Personal de la Dirección General de Recursos Humanos** para que se instruya la investigación sumaria correspondiente contra el agente agresor de conformidad con la Ordenanza 24271, Anexo I, Punto 3 y la Ley Micaela.
 
 </details>
 

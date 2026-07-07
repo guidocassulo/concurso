@@ -165,13 +165,14 @@
 <summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary>
 
 ### 1. Respuesta Correcta: **c**
-*   **Fundamento Normativo:** Ordenanza General 26348 (Procedimiento Administrativo Municipal), **Artículo 79º**: *"Vencido el plazo previsto para resolver, o el de treinta (30) días de estar el expediente en condiciones de dictarse resolución definitiva... el interesado podrá considerar que existe resolución denegatoria (silencio administrativo)..."*. Esto habilita al administrado a interponer los recursos de impugnación o acudir a la vía judicial contencioso-administrativa. *(📋 Verificar en texto oficial de Ordenanza General 26348)*
+*   **Fundamento Normativo:** Ordenanza General 26348 (Procedimiento Administrativo Municipal), **Artículo 79º**: *"Vencido el plazo previsto para resolver, o el de treinta (30) días de estar el expediente en condiciones de dictarse resolución definitiva... el interesado podrá considerar que existe resolución denegatoria (silencio administrativo)..."*. Esto habilita al administrado a interponer los recursos de impugnación o acudir a la vía judicial contencioso-administrativa. *(📋 Verificar en texto oficial de Ordenanza General 26348, Artículo 79º)*
 
 ### 2. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Constitución de la Provincia de Buenos Aires (**Artículo 53º**), Decreto-Ley Provincial **8078/73** de acumulación de cargos públicos, y la Ley Orgánica de las Municipalidades. Estas normas establecen el principio general de incompatibilidad para el desempeño de más de un cargo público remunerado, estableciendo la excepción expresa para el ejercicio de la docencia, siempre y cuando no exista superposición horaria ni funcional en la prestación de servicios. *(📋 Verificar en texto oficial de Constitución Provincial y Decreto-Ley 8078/73)*
 
 ### 3. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto MGP **121/18, Artículo 3º**: El agente que registre su ingreso superando la tolerancia de 15 minutos en el biométrico sin que medie fuerza mayor aceptada formalmente por el Jefe de Departamento *"no podrá prestar servicios, computándosele inasistencia injustificada..."* con la consiguiente pérdida del haber de ese día (y considerándose falta disciplinaria si se reitera). *(📋 Verificar en texto oficial de Decreto MGP 121/18)*
+*   **Fundamento Normativo:** Decreto MGP **121/18, Artículo 3º**. Se considera tardanza el ingreso verificado dentro de los treinta (30) minutos posteriores a la hora oficial de entrada. Excedido este lapso de tolerancia de 30 minutos sin una causa de fuerza mayor debidamente acreditada por escrito, el agente no podrá prestar servicios durante esa jornada, computándosele inasistencia injustificada con la consecuente pérdida de la remuneración diaria correspondiente.
+*(📋 Verificar en texto oficial de Decreto MGP 121/18, Artículo 3º)*
 
 ### 4. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 71º y 72º**: Las ordenanzas sancionadas por el Concejo Deliberante quedan automáticamente promulgadas si el Intendente Municipal no las veta y devuelve al Concejo dentro del término de **diez (10) días hábiles** desde la fecha de su comunicación oficial. *(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades)*
@@ -192,7 +193,7 @@
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 249º y 250º**: El juzgamiento y eventual destitución de concejales o del Intendente Municipal por irregularidades graves en sus funciones requiere obligatoriamente una mayoría calificada de **dos tercios de la totalidad de los miembros** componentes del Concejo Deliberante en sesión especial. *(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades)*
 
 ### 10. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Nacional de Higiene y Seguridad en el Trabajo Nº 19587, **Artículo 8º y 9º**: Es obligación exclusiva e indelegable del empleador (en este caso el Municipio) la provisión gratuita de los equipos de protección individual correspondientes y la adopción de las medidas preventivas, ergonómicas y estructurales necesarias en los puestos de trabajo. El agente no debe incurrir en gasto alguno para su seguridad. *(📋 Verificar en texto oficial de Ley Nacional 19587)*
+*   **Fundamento Normativo:** Ley Nacional de Higiene y Seguridad en el Trabajo Nº 19587, **Artículo 8º y 9º**: Es obligación exclusiva e indelegable del empleador (en este caso el Municipio) la provisión gratuita de los equipos de protección individual correspondientes y la adopción de las medidas preventivas, ergonómicas y estructurales necesarias en los puestos de trabajo. El agente no debe incurrir en gasto alguno para su seguridad. *(📋 Verificar en texto oficial de Ley Nacional 19587, Artículos 8º y 9º)*
 
 </details>
 
@@ -202,7 +203,7 @@
 ### 1. Configuración de la Cobertura:
 **Sí, la situación está cubierta por la legislación.**
 *   **Figura Legal:** Configura una **Enfermedad Profesional**.
-*   **Justificación de Inclusión:** El Síndrome del Túnel Carpiano se encuentra expresamente catalogado en el **Listado de Enfermedades Profesionales (Decreto Nacional 658/96)** aprobado bajo la Ley 24557, asociado a agentes de riesgo físicos de tareas repetitivas y posiciones forzadas que involucren movimientos de flexión y extensión repetitiva de la muñeca (como ocurre con la digitación sistemática e intensiva de los programadores y personal de soporte informático).
+*   **Justificación de Inclusión:** El Síndrome del Túnel Carpiano se encuentra expresamente catalogado en el **Listado de Enfermedades Profesionales (Decreto Nacional 658/96, Anexo I de la Ley 24557)** aprobado bajo la Ley 24557, asociado a agentes de riesgo físicos de tareas repetitivas y posiciones forzadas que involucren movimientos de flexión y extensión repetitiva de la muñeca (como ocurre con la digitación sistemática e intensiva de los programadores y personal de soporte informático).
 
 ### 2. Procedimiento Administrativo en caso de Rechazo de la ART:
 Si la ART rechaza formalmente la enfermedad profesional alegando que la causa es extralaboral:
@@ -216,8 +217,8 @@ Si la ART rechaza formalmente la enfermedad profesional alegando que la causa es
 <summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary>
 
 ### 1. Procedimiento Obligatorio y Medida Precautoria (Ley 14656)
-*   **Procedimiento Obligatorio:** Al tratarse de una falta de extrema gravedad susceptible de sanción expulsiva (cesantía o exoneración), es **requisito constitucional de validez sustanciar un Sumario Administrativo previo** (Ley 14656, Artículo 108 y concordantes). No se puede aplicar la cesantía de manera directa. El sumario garantiza la investigación del hecho, la recolección de pruebas y el pleno ejercicio del derecho de defensa del agente antes del dictado de la resolución definitiva por parte del Intendente Municipal.
-*   **Medida Precautoria Inmediata:** El Jefe de Departamento debe proponer al superior la **Suspensión Preventiva** del agente o el **Traslado Preventivo (cambio de tareas/función)** a un área sin acceso a sistemas de información o bases de datos durante la sustanciación del sumario. La suspensión preventiva o traslado preventivo se fundamenta en la necesidad de resguardar la seguridad de la base de datos municipal y evitar alteraciones o nuevas filtraciones de información sensible (Artículo 112º de la Ley 14656).
+*   **Procedimiento Obligatorio:** Al tratarse de una falta de extrema gravedad susceptible de sanción expulsiva (cesantía o exoneración), es **requisito constitucional de validez sustanciar un Sumario Administrativo previo** (Ley 14656, Artículo 108º y concordantes). No se puede aplicar la cesantía de manera directa. El sumario garantiza la investigación del hecho, la recolección de pruebas y el pleno ejercicio del derecho de defensa del agente antes del dictado de la resolución definitiva por parte del Intendente Municipal.
+*   **Medida Precautoria Inmediata:** El Jefe de Departamento debe proponer al superior la **Suspensión Preventiva** del agente o el **Traslado Preventivo (cambio de tareas/función)** a un área sin acceso a sistemas de información o bases de datos durante la sustanciación del sumario. La suspensión preventiva o traslado preventivo se fundamenta en la necesidad de resguardar la seguridad de la base de datos municipal y evitar alteraciones o nuevas filtraciones de información sensible (Artículo 112º de la Ley 14656 (Suspensión Preventiva)).
 
 ---
 
@@ -269,7 +270,7 @@ Por ello, en uso de sus facultades de gestión y control de la dependencia,
 
 ### 1. Licencia Especial por Violencia de Género:
 *   **Existencia:** **Sí, existe.**
-*   **Encuadre y Goce:** Se rige por la **Ley Provincial 14656 (Artículo 60º bis)** y reglamentaciones municipales específicas de la MGP. Es con **goce íntegro de haberes** y **no requiere de ninguna antigüedad mínima** previa en el empleo para que la agente pueda hacer uso de ella. Su duración inicial puede ser de hasta quince (15) días corridos (prorrogables por quince días más).
+*   **Encuadre y Goce:** Se rige por la **Ley Provincial 14656, Artículo 60º bis** y reglamentaciones municipales específicas de la MGP. Es con **goce íntegro de haberes** y **no requiere de ninguna antigüedad mínima** previa en el empleo para que la agente pueda hacer uso de ella. Su duración inicial puede ser de hasta quince (15) días corridos (prorrogables por quince días más).
 
 ### 2. Procedimiento de Solicitud y Documentación:
 1.  **Solicitud Reservada:** La agente puede solicitar la licencia de forma directa o a través de un tercero ante la Dirección de Personal o a través del módulo reservado de GDE.

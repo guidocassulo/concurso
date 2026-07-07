@@ -49,10 +49,10 @@
 
 ---
 
-### 5. De acuerdo con el régimen horario de la Municipalidad de General Pueyrredón (Decreto 121/18), un agente tiene derecho a registrar justificación de tardanzas de hasta 15 minutos en el ingreso diario bajo el siguiente límite:
-*   a) Hasta diez (10) veces al mes, compensando las horas al final de la jornada.
-*   b) Hasta un máximo de tres (3) veces al mes calendario.
-*   c) Ilimitadas, siempre que el acumulado mensual no supere las dos (2) horas.
+### 5. De acuerdo con el régimen de control de asistencia de la Municipalidad de General Pueyrredón (Decreto 121/18), la Dirección de Personal puede justificar tardanzas mensuales acumuladas del agente sin aplicar sanciones disciplinarias hasta un límite máximo de:
+*   a) 60 minutos mensuales.
+*   b) 20 minutos por mes (con un tope de 120 minutos por año calendario).
+*   c) 30 minutos mensuales (con un tope de 180 minutos por año calendario).
 *   d) Ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
@@ -134,7 +134,7 @@
 ---
 
 ## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
-*Consigna: Responda las siguientes preguntas conforme a la Ordenanza Municipal 24271 (Protocolo de Género MGP) y leyes nacionales/provinciales.*
+*Consigna: Responda las siguientes preguntas conforme a la Ordenanza Municipal 24271, Anexo I, Punto 4 (Protocolo de Género MGP) y leyes nacionales/provinciales.*
 
 1.  Defina brevemente qué conductas constituyen "violencia laboral por razones de género" en el ámbito de la administración pública municipal. (1.5 Puntos)
 2.  Explique cómo se garantizan operativamente los principios de "no revictimización" y de "confidencialidad" durante la tramitación de una denuncia por violencia de género en el área municipal. (1.5 Puntos)
@@ -172,23 +172,23 @@
 
 ### 1. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** RAFAM (Decreto 2980/00), **Artículos 93º y 94º** (Etapas de Ejecución del Gasto). La etapa del **Devengado** representa el surgimiento de una obligación de pago recíproca (recepción de conformidad de los bienes o servicios contratados) y constituye el registro administrativo definitivo que afecta al presupuesto del ejercicio, perfeccionando la deuda flotante o consolidada. El compromiso solo reserva el crédito presupuestario pero no genera la obligación líquida de pago.
-*(📋 Verificar en texto oficial de Decreto 2980/00 - RAFAM)*
+*(📋 Verificar en texto oficial de Decreto 2980/00 - RAFAM, Artículos 93º y 94º)*
 
 ### 2. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Ordenanza General 26348 (Procedimiento Administrativo Municipal), **Capítulo VIII de las Notificaciones**: Las notificaciones personales o por cédula que contengan decisiones definitivas o de mero trámite surten efectos legales a partir del **día hábil administrativo siguiente** al de su realización práctica, comenzando a computarse a partir de ese momento los plazos para interponer los recursos pertinentes.
-*(📋 Verificar en texto oficial de Ordenanza General 26348)*
+*(📋 Verificar en texto oficial de Ordenanza General 26348, Capítulo VIII)*
 
 ### 3. Respuesta Correcta: **a**
 *   **Fundamento Normativo:** Ley 14656, **Artículo 26º, Inciso c), subinciso 1**: *"El poder disciplinario por parte de la Administración Municipal se extingue: ... c) por prescripción, en los siguientes términos: 1. a los seis (6) meses en los supuestos de faltas susceptibles de ser sancionadas con penas correctivas."*
-*(📋 Verificar en texto oficial de Ley 14656 - Art. 26º)*
+*(📋 Verificar en texto oficial de Ley 14656, Artículo 26º, Inciso c, subinciso 1)*
 
 ### 4. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 108º, Inciso 2** y concordantes de la Ordenanza Complementaria de Presupuesto. La determinación y fijación de los sueldos y dietas de los miembros de los departamentos Ejecutivo y Deliberativo es facultad exclusiva del Honorable Concejo Deliberante (HCD) en la ordenanza anual de presupuesto o su complementaria.
 *(📋 Verificar en texto oficial de Decreto-Ley 6769/58 - L.O.M.)*
 
 ### 5. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto MGP **121/18, Artículo 4º**: *"El agente municipal podrá registrar tardanzas justificadas de hasta quince (15) minutos en su ingreso diario hasta un máximo de tres (3) veces en el mes calendario..."*. Las tardanzas adicionales o que excedan este límite mensual serán consideradas faltas pasibles de descuento y sanción disciplinaria progresiva.
-*(📋 Verificar en texto oficial de Decreto MGP 121/18)*
+*   **Fundamento Normativo:** Decreto MGP **121/18, Artículo 4º**. La Dirección de Personal está facultada para justificar las tardanzas registradas por los agentes hasta un máximo acumulado de veinte (20) minutos en el mes calendario (con un límite de 120 minutos por año calendario). Excedido este límite mensual, las tardanzas adicionales no justificadas serán consideradas inasistencias injustificadas sujetas a descuento y a sanciones disciplinarias conforme al estatuto.
+*(📋 Verificar en texto oficial de Decreto MGP 121/18, Artículo 4º)*
 
 ### 6. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Ordenanza General 26348 (y Ley Provincial de Firma Digital Nº 13666 de adhesión a Ley Nacional 25506). La firma digital del funcionario interviniente posee la misma validez legal y eficacia jurídica que la firma de puño y letra plasmada en soporte de papel, siendo idónea para suscribir actos administrativos, informes y expedientes electrónicos.
@@ -201,7 +201,7 @@
 ### 8. Respuesta Correcta: **a**
 *   **Fundamento Normativo:** Ley 14656, **Artículo 108º, Inciso a**: Son causales de cesantía directa: *"Inasistencias injustificadas que excedan de cinco (5) días continuos o diez (10) días discontinuos en el término de doce (12) meses..."*.
 > ⚠️ **Nota de verificación:** La cita 'Ley 14656, Artículo 108º, Inciso a' para cesantía por inasistencias debe confirmarse contra el texto oficial completo de la norma, ya que la numeración de artículos e incisos puede variar según la edición o modificaciones posteriores de la ley.
-*(📋 Verificar en texto oficial de Ley 14656)*
+*(📋 Verificar en texto oficial de Ley 14656, Artículo 108º, Inciso a)*
 
 ### 9. Respuesta Correcta: **c**
 *   **Fundamento Normativo:** Ley 14656, **Artículo 105º**. Las sanciones correctivas abarcan: llamado de atención, apercibimiento y suspensión de hasta 30 días corridos sin goce de haberes. Las sanciones expulsivas son la cesantía y la exoneración (Artículo 108º y 109º).
@@ -238,7 +238,7 @@
 
 ### 1. Plazos de Defensa y de Recursos (Ordenanza General 26348)
 1.  **Defensa (Descargo):** El agente cuenta con un plazo mínimo de **cinco (5) días hábiles** (tras ser notificado del traslado de la imputación) para presentar su descargo por escrito, ofrecer pruebas y justificaciones.
-2.  **Recurso de Revocatoria:** Contra el acto administrativo de sanción (Disposición del Jefe de Departamento), el agente puede interponer un **Recurso de Revocatoria** ante el mismo emisor en el plazo de **diez (10) días hábiles** contados a partir del día siguiente al de la notificación formal. Lleva implícito el recurso jerárquico en subsidio si la revocatoria fuera rechazada (Art. 86 y concordantes de la Ord. Gral 26348).
+2.  **Recurso de Revocatoria:** Contra el acto administrativo de sanción (Disposición del Jefe de Departamento), el agente puede interponer un **Recurso de Revocatoria** ante el mismo emisor en el plazo de **diez (10) días hábiles** contados a partir del día siguiente al de la notificación formal. Lleva implícito el recurso jerárquico en subsidio si la revocatoria fuera rechazada (Artículo 86º de la Ordenanza General 26348).
 
 ---
 
@@ -290,7 +290,7 @@ Constituye violencia laboral por razones de género toda conducta, acción, omis
 
 ### 3. Validez de la Reubicación Sin Consentimiento:
 **No es administrativamente válida.**
-*   **Fundamento:** De acuerdo al **Protocolo de la Ordenanza Municipal MGP 24271 y Leyes de Protección Integral**, la reubicación física de oficina o cambio de tareas de la denunciante **solo puede realizarse a su solicitud expresa y con su conformidad formal**. La reubicación forzada o impuesta sin su consentimiento constituye una sanción encubierta que lesiona sus derechos y puede ser considerada violencia institucional, ya que altera unilateralmente sus condiciones laborales. Las medidas preventivas obligatorias o traslados forzosos de protección deben aplicarse primordialmente sobre el agente denunciado, nunca sobre la víctima de manera unilateral.
+*   **Fundamento:** De acuerdo al **Protocolo de la Ordenanza Municipal MGP 24271, Anexo I, Punto 7 y Leyes de Protección Integral**, la reubicación física de oficina o cambio de tareas de la denunciante **solo puede realizarse a su solicitud expresa y con su conformidad formal**. La reubicación forzada o impuesta sin su consentimiento constituye una sanción encubierta que lesiona sus derechos y puede ser considerada violencia institucional, ya que altera unilateralmente sus condiciones laborales. Las medidas preventivas obligatorias o traslados forzosos de protección deben aplicarse primordialmente sobre el agente denunciado, nunca sobre la víctima de manera unilateral.
 
 </details>
 
