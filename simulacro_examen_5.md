@@ -239,7 +239,7 @@ VISTO: las actuaciones iniciadas por el incidente de insubordinación registrado
 CONSIDERANDO:
 * Que con fecha [Fecha del hecho], ante una interrupción crítica del sistema de atención en la Mesa de Entradas municipal, el agente se negó formal y taxativamente a cumplir con la orden presencial y directa de reemplazar la placa de red de la PC de dicho sector.
 * Que el agente adujo que dicha tarea de hardware no se correspondía con su cargo de programador de software, lo cual infringe los deberes de obediencia y el reencasillamiento previsto en el Decreto 2250/13, Artículo 1º y Anexo I.
-* Que se garantizó el derecho de defensa corriendo traslado para descargo, habiéndose presentado el mismo en término sin aportar elementos que justifiquen su negativa.
+* Que con el fin de garantizar el debido proceso se solicitó el descargo correspondiente sin aportar argumentos válidos que justifiquen su conducta.
 * Por todo lo expuesto, de acuerdo a las atribuciones establecidas por los artículos 105 y 106 de la Ley 14656 y el Decreto Municipal Nº 1539/18 Art. 1º, Inciso c),
 
 **EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE**

@@ -134,7 +134,7 @@ CONSIDERANDO:
 * Que el citado agente ha incurrido en un incumplimiento reiterado y deliberado de las directivas de trabajo vigentes, específicamente la obligación de utilizar el repositorio Git establecida por Disposición Interna Nº 02/26.
 * Que el uso no autorizado de FTP provocó la pérdida de una semana de trabajo del equipo.
 * Que al llamarle la atención de forma verbal, el agente reaccionó profiriendo insultos y agresiones verbales hacia la Jefatura.
-* Que a los fines de salvaguardar el debido proceso se corrió traslado de las actuaciones, habiéndose presentado su descargo sin aportar elementos que justifiquen su accionar.
+* Que con el fin de garantizar el debido proceso se solicitó el descargo correspondiente sin aportar argumentos válidos que justifiquen su conducta.
 * Por todo lo expuesto, de acuerdo a las atribuciones establecidas por los artículos 105 y 106 de la Ley 14656 y el Decreto Municipal Nº 1539/18 Art. 1º, Inciso c),
 
 **EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE**

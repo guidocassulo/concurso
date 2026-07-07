@@ -245,7 +245,7 @@ VISTO: la ausencia injustificada del Agente M.A., Legajo Nº 99.999, Categoría 
 CONSIDERANDO:
 * Que se constató la inasistencia física del citado agente de su puesto habitual de tareas en este Departamento, sin que conste en el sistema biométrico de control horario registro de egreso alguno ni autorización escrita de salida.
 * Que al realizarse la verificación de las causales de la ausencia, se constató mediante acta e informes que el agente M.A. se encontraba desempeñando funciones docentes aranceladas en un instituto universitario privado durante dicho horario de labor municipal.
-* Que para garantizar el debido proceso se corrió formal traslado de las actuaciones para su descargo, habiéndose presentado el mismo en término sin aportar elementos que justifiquen su inasistencia.
+* Que con el fin de garantizar el debido proceso se solicitó el descargo correspondiente sin aportar argumentos válidos que justifiquen su conducta.
 * Por todo lo expuesto, de acuerdo a las atribuciones establecidas por los artículos 105 y 106 de la Ley 14656 y el Decreto Municipal Nº 1539/18 Art. 1º, Inciso c),
 
 **EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE**

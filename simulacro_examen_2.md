@@ -251,7 +251,7 @@ VISTO: las actuaciones referentes al incidente de inconducta cometido por el Age
 CONSIDERANDO:
 * Que con fecha [Fecha del hecho], el agente de mención incurrió en agresiones verbales e insultos manifiestamente ofensivos contra un contribuyente en la Mesa de Ayuda y contra otro agente municipal que intervino para mediar.
 * Que dicho comportamiento vulnera directamente los deberes de trato cortés, respetuoso y decoroso.
-* Que a los efectos de garantizar el derecho de defensa, se dio formal traslado para descargo al agente, habiéndose presentado el mismo sin aportar justificaciones válidas que desvirtúen los hechos acreditados por los testigos.
+* Que con el fin de garantizar el debido proceso se solicitó el descargo correspondiente sin aportar argumentos válidos que justifiquen su conducta.
 * Por todo lo expuesto, de acuerdo a las atribuciones establecidas por los artículos 105 y 106 de la Ley 14656 y el Decreto Municipal Nº 1539/18 Art. 1º, Inciso c),
 
 **EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE**
