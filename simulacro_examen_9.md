@@ -9,7 +9,7 @@
 ## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)
 *Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
-### 1. Según la Ley Orgánica de las Municipalidades (L.O.M. Decreto-Ley 6769/58), el Departamento Ejecutivo municipal (Intendente) tiene la obligación legal de presentar el Proyecto de Presupuesto de Gastos y Cálculo de Recursos para el siguiente ejercicio al Honorable Concejo Deliberante (HCD) antes de la siguiente fecha de cada año:
+### 1. Según la Ley Orgánica de las Municipalidades, el Departamento Ejecutivo municipal (Intendente) tiene la obligación legal de presentar el Proyecto de Presupuesto de Gastos y Cálculo de Recursos para el siguiente ejercicio al Honorable Concejo Deliberante (HCD) antes de la siguiente fecha de cada año:
 *   a) El 31 de Diciembre.
 *   b) El 31 de Octubre.
 *   c) El 30 de Noviembre.
@@ -19,9 +19,9 @@
 
 ---
 
-### 2. De acuerdo con la Ley Provincial Nº 14656 (Estatuto Marco de Empleo Municipal) y las reglamentaciones vigentes en la MGP, la licencia especial por paternidad (nacimiento de hijo para el progenitor no gestante) posee las siguientes características de base en la ley provincial marco y de extensión a nivel local:
-*   a) Otorga un máximo de 2 días corridos según la Ley 14656 y no admite extensión a nivel municipal.
-*   b) Otorga un piso mínimo según la Ley 14656 (**Artículo 64º** - Licencia por Nacimiento de Hijo), habiéndose extendido en el ámbito de la MGP a **quince (15) días corridos** por reglamentación local y Convenio Colectivo de Trabajo.
+### 2. De acuerdo con la Ley Provincial de Empleo Municipal y las reglamentaciones vigentes en la MGP, la licencia especial por paternidad (nacimiento de hijo para el progenitor no gestante) posee las siguientes características de base en la ley provincial marco y de extensión a nivel local:
+*   a) Otorga un máximo de 2 días corridos y no admite extensión a nivel municipal.
+*   b) Otorga un piso mínimo en la ley marco, habiéndose extendido en el ámbito de la MGP a quince (15) días corridos por reglamentación local y Convenio Colectivo de Trabajo.
 *   c) Otorga diez (10) días hábiles automáticos en toda la provincia de Buenos Aires sin distinción del municipio.
 *   d) Ninguna de las anteriores.
 
@@ -29,17 +29,17 @@
 
 ---
 
-### 3. De acuerdo al nomenclador del Grupo Ocupacional Computación del Municipio (Decreto Nº 2250/13), para que un agente pueda acceder al cargo de "Analista Programador Senior" se exige como requisito excluyente:
+### 3. De acuerdo al nomenclador del Grupo Ocupacional Computación del Municipio, para que un agente pueda acceder al cargo de "Analista Programador Senior" se exige como requisito excluyente:
 *   a) Título secundario técnico en informática y 10 años de antigüedad en el área de sistemas.
-*   b) Poseer Matrícula Profesional vigente expedida por el Consejo Profesional de Ciencias Informáticas de la Provincia de Buenos Aires (Ley 13.016) o título universitario acorde a la especialidad.
-*   c) Aprobación del examen de suficiencia técnica dictado de manera interna por el Sindicato de Trabajadores Municipales (STM).
+*   b) Poseer Matrícula Profesional vigente expedida por el Consejo Profesional de la Provincia o título universitario acorde a la especialidad.
+*   c) Aprobación del examen de suficiencia técnica dictado de manera interna por el Sindicato de Trabajadores Municipales.
 *   d) Ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 4. Según las pautas de estilo y redacción de la documentación administrativa de la MGP (Decreto Nº 966/19 - Manual de Redacción), ¿en qué documento se deben instrumentar las directivas de carácter general dirigidas al personal o las pautas de procedimiento interno de una dependencia informática?
+### 4. Según las pautas de estilo y redacción de la documentación administrativa de la MGP, ¿en qué documento se deben instrumentar las directivas de carácter general dirigidas al personal o las pautas de procedimiento interno de una dependencia informática?
 *   a) Nota Administrativa.
 *   b) Memorándum.
 *   c) Disposición (o Circular según el alcance).
@@ -49,25 +49,63 @@
 
 ---
 
-### 5. Planificación de Sprint y Capacidad Horaria del Equipo (Scrum Manager)
-*   **Tiempo Real vs. Tiempo Ideal:** El tiempo real representa las horas físicas de presencia del agente en la oficina, mientras que el tiempo ideal es el esfuerzo neto efectivo de desarrollo libre de reuniones administrativas, tiempos muertos o soporte técnico ajeno al sprint.
+### 5. De acuerdo con las normas de tramitación electrónica de expedientes por GDE, el documento de impulso administrativo utilizado para pases y derivaciones entre áreas es:
+*   a) Nota Oficial (NO).
+*   b) Providencia (PV).
+*   c) Memorándum (ME).
+*   d) Ninguna de las anteriores.
 
-#### **a) Cálculo de Tiempo Real Disponible (horas reales):**
-*   Equipo: 4 programadores.
-*   Sprint: 2 semanas (10 días laborables).
-*   Jornada: 6 horas diarias.
-*   **Tiempo Real Disponible:**
-    $\text{Tiempo Real} = 4 \text{ personas} \times 6 \text{ horas/día} \times 10 \text{ días} = \mathbf{240 \text{ horas reales}}$
+**Fundamento Normativo:** __________________________________________________________________
 
-#### **b) Cálculo de Capacidad Efectiva (tiempo ideal) y Utilidad:**
-*   Factor de enfoque: 70%.
-*   **Capacidad Efectiva (Tiempo Ideal):**
-    $\text{Capacidad Efectiva} = 240 \text{ horas reales} \times 0.70 = \mathbf{168 \text{ horas ideales}}$
-*   **Utilidad en la Planificación:** El equipo utiliza estas 168 horas ideales como el límite máximo para la suma de las estimaciones detalladas de las tareas que componen el *Sprint Backlog*. Si al desglosar las historias prioritarias en tareas de desarrollo técnico la suma acumulada supera las 168 horas ideales, el equipo cuenta con una alerta cuantitativa objetiva para no comprometerse a realizar más trabajo del físicamente realizable en el sprint.
+---
 
-*(📖 Scrum Manager v2.6, Parte I, págs. 37-41)*
+### 6. Conforme al régimen de delegación de atribuciones disciplinarias en el ámbito municipal, la facultad para aplicar suspensiones correctivas directas de hasta diez (10) días sin sumario previo a los agentes de la planta permanente corresponde a:
+*   a) El Jefe de Departamento de forma directa mediante disposición de servicio.
+*   b) El Secretario del área jerárquica respectiva.
+*   c) El Director de Personal municipal de forma autónoma.
+*   d) Ninguna de las anteriores.
 
-</details>
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 7. Según el reglamento de control horario de asistencia de la MGP, las franquicias mensuales permitidas para compensar impuntualidades breves de ingreso por razones de fuerza mayor contemplan:
+*   a) Un máximo de cinco (5) franquicias mensuales de hasta diez (10) minutos cada una.
+*   b) Un máximo de tres (3) franquicias o tolerancias de impuntualidad mensual de hasta quince (15) minutos.
+*   c) No existe un límite de franquicias si la tardanza se compensa con trabajo extra al finalizar la jornada.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 8. En el abordaje institucional de situaciones de violencia laboral y de género, el principio de "No Revictimización" prohíbe:
+*   a) Ofrecer contención psicológica obligatoria a la víctima si esta no la solicita expresamente.
+*   b) Reubicar físicamente al agente agresor a otra área administrativa para evitar el contacto.
+*   c) Someter a la víctima a declaraciones reiteradas de los mismos hechos o a careos y confrontaciones directas con el denunciado.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 9. Conforme a las contingencias cubiertas por la Ley de Riesgos del Trabajo, si un agente sufre una fractura participando en un torneo deportivo oficial organizado y patrocinado por el municipio:
+*   a) El hecho califica como accidente inculpable por ocurrir fuera del establecimiento.
+*   b) El hecho califica como accidente de trabajo al producirse en ocasión del empleo en una actividad auspiciada oficialmente por el empleador.
+*   c) La ART queda exenta de brindar cobertura médica si la actividad deportiva es voluntaria.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 10. Según los Deberes y Atribuciones fijados por la Ley Orgánica de las Municipalidades al Departamento Ejecutivo, el plazo improrrogable que posee el Intendente Municipal para contestar formalmente por escrito los pedidos de informes legislativos aprobados por el Concejo Deliberante es de:
+*   a) Quince (15) días de recibido.
+*   b) Treinta (30) días hábiles administrativos.
+*   c) Treinta (30) días corridos.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
 
 ---
 
@@ -81,6 +119,51 @@
 > Se solicita:
 > 1. Indique si las patologías descritas pueden encuadrarse como Enfermedades Profesionales bajo la Ley de Riesgos del Trabajo 24557 y qué requisitos exige el sistema para su cobertura. (0.75 Puntos)
 > 2. Determine qué principios y deberes de la Ley de Higiene y Seguridad Laboral Nº 19587 se están infringiendo con respecto a la iluminación y confort visual, y qué acciones y rediseños ergonómicos inmediatos debe adoptar el Jefe de Departamento en la oficina de software. (0.75 Puntos)
+
+<details>
+<summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary>
+
+### 1. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 109º** (y Artículo 35º del Reglamento Contable de la RAFAM). El Intendente Municipal debe elevar el proyecto de presupuesto para el ejercicio siguiente al Concejo Deliberante antes del 31 de octubre de cada año. El HCD tiene la facultad de solicitar prórrogas si fuera necesario.
+*(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades)*
+
+### 2. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Ley 14656, **Artículo 92º** (Licencia por Paternidad / Nacimiento de Hijo para progenitor no gestante). La ley marco provincial fija una licencia con goce de haberes de 5 días hábiles, pero remite a las normas locales y de negociación colectiva. En la MGP, las ordenanzas complementarias y el Convenio Colectivo de Trabajo (CCT) elevan el plazo a 15 días corridos.
+*(📋 Verificar en texto oficial de Ley 14656)*
+
+### 3. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Decreto Municipal **2250/13, Anexo II** (Requisitos mínimos para cargos del Grupo Computación). El nomenclador exige de manera excluyente el título universitario afín a sistemas de información o computación, o bien contar con la Matrícula Profesional activa habilitada por el Consejo Profesional de Ciencias Informáticas de la Provincia de Buenos Aires (Ley 13016).
+*(📋 Verificar en texto oficial de Decreto MGP 2250/13)*
+
+### 4. Respuesta Correcta: **c**
+*   **Fundamento Normativo:** Manual de Redacción de la MGP (Decreto Nº 966/19, Anexo I, Capítulo I). Las directivas permanentes, las normas de procedimiento interno y las reglamentaciones generales del área de competencia deben instrumentarse en una **Disposición** de la Jefatura (o Circular si es meramente informativa), mientras que las Notas se utilizan para comunicaciones formales externas y los Memorándums para comunicaciones internas rápidas no permanentes.
+*(📋 Verificar en texto oficial de Decreto MGP 966/19)*
+
+### 5. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Decreto Reglamentario de GDE en la MGP (Decreto Nº 2940/22 y manuales operativos de uso del sistema). Las **Providencias (PV)** son los documentos formales obligatorios en GDE que sirven para el impulso procesal de los expedientes, la derivación y el pase de las actuaciones de un área a otra. Las notas (NO) se reservan para comunicaciones externas o notas de elevación formales.
+*(📋 Verificar en texto oficial de Decreto MGP 2940/22)*
+
+### 6. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Ley 14656, **Artículos 105º y 106º**, en concordancia con el Decreto Reglamentario Municipal **1539/18, Artículo 1º, Inciso a**. La delegación de facultades disciplinarias asigna a los Secretarios del Departamento Ejecutivo la competencia para aplicar sanciones correctivas de llamado de atención, apercibimiento y suspensiones de hasta diez (10) días de suspensión sin sumario previo (a partir del día 11 es obligatorio el sumario).
+*(📋 Verificar en texto oficial de Decreto MGP 1539/18)*
+
+### 7. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Decreto de Control Asistencial MGP (Decreto Nº **121/18, Artículo 4º**). Establece una tolerancia de tres (3) franquicias o tolerancias de impuntualidad mensual de hasta 15 minutos en el mes. Superadas las tres franquicias, o al llegar tarde más de 15 minutos, se computa la tardanza y se descuenta el tiempo correspondiente, siendo pasible de apercibimiento en caso de reiteraciones injustificadas.
+*(📋 Verificar en texto oficial de Decreto MGP 121/18)*
+
+### 8. Respuesta Correcta: **c**
+*   **Fundamento Normativo:** Ordenanza Municipal **24271, Anexo I, Artículo 4º** (Principios de abordaje en situaciones de violencia laboral). El principio de **No Revictimización** o evitación de la victimización secundaria prohíbe someter a la víctima a declaraciones reiteradas de los mismos hechos que puedan generarle mayor sufrimiento psicológico, y prohíbe obligarla a careos o confrontaciones directas con el denunciado.
+*(📋 Verificar en texto oficial de Ordenanza MGP 24271)*
+
+### 9. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Ley de Riesgos del Trabajo Nº 24557, **Artículo 6º, Inciso 1**. El accidente se produce en ocasión del trabajo, ya que las actividades recreativas, deportivas o sociales organizadas, financiadas o patrocinadas de forma oficial por el empleador (el Municipio) se consideran una extensión del vínculo de empleo y de sus objetivos, estando plenamente cubiertas por la ART.
+*(📋 Verificar en texto oficial de Ley 24557)*
+
+### 10. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 108º, Inciso 7** (Deberes del Departamento Ejecutivo). Es atribución y deber del Intendente: *"Suministrar verbalmente o por escrito los informes que le solicite el Concejo Deliberante..."*. El artículo establece un plazo de treinta (30) días para la contestación formal de dichos pedidos de informes legislativos.
+*(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades)*
+
+</details>
 
 <details>
 <summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary>

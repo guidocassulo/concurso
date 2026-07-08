@@ -3,33 +3,197 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simulacro Nº 7 - MGP</title>
+    <title>Simulacro Nº 7 - Concurso Jefatura de Sistemas MGP</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <style>
-        body { font-family: system-ui, -apple-system, sans-serif; max-width: 960px; margin: 0 auto; padding: 20px; line-height: 1.7; color: #1a1a2e; background: #f0f4f8; }
-        h1 { background: linear-gradient(135deg, #0077c2, #005b94); color: white; padding: 20px 30px; border-radius: 8px; margin: -20px -20px 30px; }
-        h2 { color: #0077c2; border-bottom: 3px solid #0077c2; padding-bottom: 8px; margin-top: 40px; }
-        h3 { border-left: 4px solid #0077c2; padding-left: 14px; color: #1a1a2e; }
-        h4 { color: #005b94; }
-        details { border-left: 4px solid #0077c2; background: #e8f4fd; margin: 20px 0; padding: 15px 20px; border-radius: 0 6px 6px 0; transition: all 0.3s; }
-        details[open] { background: #ffffff; border: 1px solid #c5dff0; border-left: 4px solid #0077c2; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
-        summary { font-weight: bold; cursor: pointer; color: #005b94; font-size: 1.05rem; padding: 5px 0; user-select: none; }
-        summary:hover { color: #0077c2; }
-        blockquote { background: #fff8e1; border-left: 4px solid #ffa000; padding: 15px 20px; margin: 20px 0; border-radius: 0 6px 6px 0; }
-        code { background: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-family: monospace; }
-        pre { background: #1a1a2e; color: #e8f4fd; padding: 20px; border-radius: 8px; overflow-x: auto; }
-        ul, ol { padding-left: 25px; }
-        li { margin-bottom: 6px; }
-        table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-        th { background: #0077c2; color: white; padding: 10px 15px; text-align: left; }
-        td { padding: 9px 15px; border-bottom: 1px solid #ddd; }
-        tr:nth-child(even) { background: #f8f9fa; }
-        .nota { background: #fff3cd; border: 1px solid #ffc107; padding: 10px 15px; border-radius: 6px; margin: 10px 0; font-style: italic; }
-    </style>
+:root {
+    --primary: #0077c2;
+    --primary-dark: #005b94;
+    --primary-light: #e8f4fd;
+    --bg: #f8fafc;
+    --surface: #ffffff;
+    --text: #1e293b;
+    --text-muted: #64748b;
+    --border: #e2e8f0;
+    --success: #10b981;
+    --success-light: #ecfdf5;
+}
+
+body {
+    font-family: 'Outfit', 'Inter', system-ui, sans-serif;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    line-height: 1.75;
+    color: var(--text);
+    background-color: var(--bg);
+}
+
+h1 {
+    background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+    color: white;
+    padding: 30px 40px;
+    border-radius: 12px;
+    margin: -40px -20px 40px;
+    font-size: 2.2rem;
+    box-shadow: 0 10px 15px -3px rgba(0, 119, 194, 0.1), 0 4px 6px -4px rgba(0, 119, 194, 0.1);
+}
+
+h2 {
+    color: var(--primary-dark);
+    border-bottom: 3px solid var(--primary-light);
+    padding-bottom: 10px;
+    margin-top: 50px;
+    font-size: 1.6rem;
+}
+
+h3 {
+    border-left: 5px solid var(--primary);
+    padding-left: 16px;
+    color: var(--text);
+    margin-top: 30px;
+    font-size: 1.25rem;
+}
+
+h4 {
+    color: var(--primary-dark);
+    margin-top: 25px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: var(--border);
+    margin: 40px 0;
+}
+
+details {
+    border: 1px solid var(--border);
+    background: var(--surface);
+    margin: 25px 0;
+    padding: 20px 25px;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+    transition: all 0.25s ease;
+}
+
+details[open] {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -4px rgba(0, 0, 0, 0.05);
+    border-color: #cbd5e1;
+}
+
+summary {
+    font-weight: 600;
+    color: var(--primary-dark);
+    cursor: pointer;
+    outline: none;
+    user-select: none;
+    font-size: 1.05rem;
+}
+
+summary:hover {
+    color: var(--primary);
+}
+
+.score-calculator {
+    background: linear-gradient(135deg, #f1f5f9, #e2e8f0);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 30px;
+    margin-top: 50px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+.score-calculator h3 {
+    border: none;
+    padding: 0;
+    margin-top: 0;
+    color: var(--primary-dark);
+}
+
+.score-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 0;
+}
+
+.score-row span {
+    font-weight: 500;
+}
+
+.score-input {
+    width: 80px;
+    padding: 8px 12px;
+    border: 1.5px solid var(--border);
+    border-radius: 6px;
+    font-size: 1rem;
+    text-align: center;
+    background: var(--surface);
+    color: var(--text);
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.score-input:focus {
+    border-color: var(--primary);
+}
+
+.score-total {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+    padding-top: 20px;
+    border-top: 2px dashed #cbd5e1;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+#total-score {
+    color: var(--primary);
+}
+
+.status-badge {
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+.status-pass {
+    background-color: var(--success-light);
+    color: var(--success);
+}
+
+.status-fail {
+    background-color: #fef2f2;
+    color: #ef4444;
+}
+
+pre {
+    background: #1e293b;
+    color: #f8fafc;
+    padding: 20px;
+    border-radius: 8px;
+    overflow-x: auto;
+    font-family: 'Fira Code', monospace;
+    font-size: 0.9rem;
+}
+
+blockquote {
+    border-left: 4px solid var(--primary);
+    background: var(--primary-light);
+    margin: 25px 0;
+    padding: 15px 25px;
+    border-radius: 0 8px 8px 0;
+    color: #0f172a;
+}
+</style>
 </head>
 <body>
-    <h1>Simulacro Nº 7<br><small style="font-size:0.7em;font-weight:normal;opacity:0.9">Municipalidad de General Pueyrredón — Concurso de Cargos Jerárquicos</small></h1>
     <h1>SIMULACRO DE EXAMEN Nº 7</h1>
 <p><strong>Cargo:</strong> Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
 <hr>
@@ -449,7 +613,55 @@ $$\text{SP Estimados} = 178.1 \text{ horas} \times 0.175 \text{ SP/hora} = \math
     </div>
 </div>
 
-    <hr>
-    <p style="text-align:center;color:#888;font-size:0.85em">Material de estudio para el Concurso de Jefe de Departamento de Sistemas — MGP</p>
+<div class="score-calculator">
+    <h3>Calculadora de Puntaje (Autoevaluación)</h3>
+    <p>Ingresa los puntos obtenidos en cada sección para calcular tu nota final (Puntaje de aprobación: 25 puntos / 70%):</p>
+    <div class="score-row">
+        <span>Cuestión 1 (Normativa - Máx 10 pts):</span>
+        <input type="number" min="0" max="10" step="0.5" class="score-input" id="q1" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 2 (Higiene y ART - Máx 1.5 pts):</span>
+        <input type="number" min="0" max="1.5" step="0.25" class="score-input" id="q2" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 3 (Caso Disciplinario - Máx 4 pts):</span>
+        <input type="number" min="0" max="4" step="0.5" class="score-input" id="q3" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 4 (Perspectiva de Género - Máx 4.5 pts):</span>
+        <input type="number" min="0" max="4.5" step="0.25" class="score-input" id="q4" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 5 (Evaluación Técnica - Máx 15 pts):</span>
+        <input type="number" min="0" max="15" step="0.5" class="score-input" id="q5" oninput="calcScore()">
+    </div>
+    <div class="score-total">
+        <span>Puntaje Total (Máximo 35):</span>
+        <span id="total-score">0.0 / 35.0 <span class="status-badge status-fail" style="background:#cbd5e1; color:#475569">Sin evaluar</span></span>
+    </div>
+</div>
+        
+    <script>
+function calcScore() {
+    const q1 = parseFloat(document.getElementById('q1')?.value || 0);
+    const q2 = parseFloat(document.getElementById('q2')?.value || 0);
+    const q3 = parseFloat(document.getElementById('q3')?.value || 0);
+    const q4 = parseFloat(document.getElementById('q4')?.value || 0);
+    const q5 = parseFloat(document.getElementById('q5')?.value || 0);
+    
+    const total = q1 + q2 + q3 + q4 + q5;
+    const isPass = total >= 25;
+    
+    const totalElem = document.getElementById('total-score');
+    if (totalElem) {
+        totalElem.innerHTML = total.toFixed(1) + ' / 35.0 ' + 
+            (isPass 
+                ? '<span class="status-badge status-pass">APROBADO</span>' 
+                : '<span class="status-badge status-fail">DESAPROBADO</span>');
+    }
+}
+window.calcScore = calcScore;
+</script>
 </body>
 </html>

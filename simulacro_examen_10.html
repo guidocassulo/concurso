@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulacro Nº 10 - Concurso Jefatura de Sistemas MGP</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <style>
+:root {
+    --primary: #0077c2;
+    --primary-dark: #005b94;
+    --primary-light: #e8f4fd;
+    --bg: #f8fafc;
+    --surface: #ffffff;
+    --text: #1e293b;
+    --text-muted: #64748b;
+    --border: #e2e8f0;
+    --success: #10b981;
+    --success-light: #ecfdf5;
+}
+
+body {
+    font-family: 'Outfit', 'Inter', system-ui, sans-serif;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    line-height: 1.75;
+    color: var(--text);
+    background-color: var(--bg);
+}
+
+h1 {
+    background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+    color: white;
+    padding: 30px 40px;
+    border-radius: 12px;
+    margin: -40px -20px 40px;
+    font-size: 2.2rem;
+    box-shadow: 0 10px 15px -3px rgba(0, 119, 194, 0.1), 0 4px 6px -4px rgba(0, 119, 194, 0.1);
+}
+
+h2 {
+    color: var(--primary-dark);
+    border-bottom: 3px solid var(--primary-light);
+    padding-bottom: 10px;
+    margin-top: 50px;
+    font-size: 1.6rem;
+}
+
+h3 {
+    border-left: 5px solid var(--primary);
+    padding-left: 16px;
+    color: var(--text);
+    margin-top: 30px;
+    font-size: 1.25rem;
+}
+
+h4 {
+    color: var(--primary-dark);
+    margin-top: 25px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: var(--border);
+    margin: 40px 0;
+}
+
+details {
+    border: 1px solid var(--border);
+    background: var(--surface);
+    margin: 25px 0;
+    padding: 20px 25px;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+    transition: all 0.25s ease;
+}
+
+details[open] {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -4px rgba(0, 0, 0, 0.05);
+    border-color: #cbd5e1;
+}
+
+summary {
+    font-weight: 600;
+    color: var(--primary-dark);
+    cursor: pointer;
+    outline: none;
+    user-select: none;
+    font-size: 1.05rem;
+}
+
+summary:hover {
+    color: var(--primary);
+}
+
+.score-calculator {
+    background: linear-gradient(135deg, #f1f5f9, #e2e8f0);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 30px;
+    margin-top: 50px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+.score-calculator h3 {
+    border: none;
+    padding: 0;
+    margin-top: 0;
+    color: var(--primary-dark);
+}
+
+.score-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 0;
+}
+
+.score-row span {
+    font-weight: 500;
+}
+
+.score-input {
+    width: 80px;
+    padding: 8px 12px;
+    border: 1.5px solid var(--border);
+    border-radius: 6px;
+    font-size: 1rem;
+    text-align: center;
+    background: var(--surface);
+    color: var(--text);
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.score-input:focus {
+    border-color: var(--primary);
+}
+
+.score-total {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+    padding-top: 20px;
+    border-top: 2px dashed #cbd5e1;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+#total-score {
+    color: var(--primary);
+}
+
+.status-badge {
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+.status-pass {
+    background-color: var(--success-light);
+    color: var(--success);
+}
+
+.status-fail {
+    background-color: #fef2f2;
+    color: #ef4444;
+}
+
+pre {
+    background: #1e293b;
+    color: #f8fafc;
+    padding: 20px;
+    border-radius: 8px;
+    overflow-x: auto;
+    font-family: 'Fira Code', monospace;
+    font-size: 0.9rem;
+}
+
+blockquote {
+    border-left: 4px solid var(--primary);
+    background: var(--primary-light);
+    margin: 25px 0;
+    padding: 15px 25px;
+    border-radius: 0 8px 8px 0;
+    color: #0f172a;
+}
+</style>
+</head>
+<body>
+    <h1>SIMULACRO DE EXAMEN Nº 10</h1>
+<p><strong>Cargo:</strong> Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
+<hr>
+<h2>CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)</h2>
+<p><em>Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.</em></p>
+<h3>1. Conforme a las disposiciones de la Ley Orgánica de las Municipalidades respecto de las atribuciones del Honorable Concejo Deliberante (HCD) en materia de contrataciones, ¿cuál de los siguientes actos administrativos del área de desarrollo de sistemas requiere obligatoriamente aprobación previa por ordenanza del cuerpo legislativo municipal?</h3>
+<ul>
+<li>a) La aprobación de los pliegos de bases y condiciones de una licitación pública para la adquisición de computadoras de oficina estándar.</li>
+<li>b) La adjudicación de una concesión de uso y explotación de un servicio informático municipal a un tercero por un plazo determinado.</li>
+<li>c) El dictado de una disposición de Jefatura que regule el procedimiento de copias de seguridad de las bases de datos locales.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>2. Según el estatuto del empleo público municipal vigente en la provincia, la licencia especial con goce de haberes por enfermedad de largo tratamiento del agente exige para su justificación y encuadre legal:</h3>
+<ul>
+<li>a) Únicamente la presentación del certificado del médico particular en la mesa de entradas del Concejo Deliberante.</li>
+<li>b) La intervención obligatoria de la Dirección de Salud Ocupacional (o junta médica municipal) para auditar la afección y otorgar la correspondiente justificación médica del período de inasistencias.</li>
+<li>c) Una declaración jurada del superior jerárquico inmediato que certifique la dolencia física o psicológica del agente a su cargo.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>3. De acuerdo al reglamento general de control de asistencia de la MGP, cuando un agente de sistemas deba ausentarse de sus tareas de manera imprevista por razones de fuerza mayor o enfermedad común, posee la obligación de avisar al área de personal de su dependencia dentro del siguiente plazo perentorio:</h3>
+<ul>
+<li>a) Dentro de las primeras cuatro (4) horas del inicio de su jornada habitual de labor.</li>
+<li>b) Dentro de las primeras dos (2) horas del horario fijado para su ingreso de tareas del día.</li>
+<li>c) Al finalizar el día hábil administrativo por medio de correo electrónico institucional.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>4. Según las pautas de estilo, redacción y formalismo de los documentos administrativos que rigen en la MGP, la sección del Considerando de una Disposición administrativa debe redactarse adoptando el siguiente formalismo gramatical:</h3>
+<ul>
+<li>a) Redacción corrida en un único párrafo comenzando con la expresión &quot;Habiendo visto que...&quot;.</li>
+<li>b) Viñetas numeradas de forma independiente donde cada punto comience obligatoriamente con la frase condicional &quot;Si el agente...&quot;.</li>
+<li>c) Párrafos independientes que comiencen individualmente con la palabra &quot;Que...&quot; para exponer de forma lógica y deductiva los motivos de hecho y de derecho de la resolución.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>5. Conforme al nomenclador de cargos y clases del escalafón informático (Grupo Ocupacional Computación) de la municipalidad, el derecho al cobro de un adicional salarial permanente por título universitario de grado afín a la especialidad informática:</h3>
+<ul>
+<li>a) Se otorga de forma automática al momento del ingreso al municipio independientemente de la función asignada.</li>
+<li>b) Requiere que el título posea reconocimiento oficial y nacional, y que el agente desempeñe efectivamente funciones técnicas afines a su formación académica superior en la planta municipal.</li>
+<li>c) Es acumulativo con otros adicionales informáticos de presentismo de forma ilimitada sin requerir intervención de la Dirección de Personal.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>6. Según el reglamento de Gestión Documental Electrónica (GDE) de la MGP, cuando un acto administrativo o informe técnico de la Jefatura requiere la intervención formal y la firma conjunta de dos dependencias municipales:</h3>
+<ul>
+<li>a) Cada dependencia debe generar un documento digital por separado y anexarlos a un expediente físico en papel.</li>
+<li>b) Se debe generar un único documento digital en el módulo GEDO que permita la firma digital sucesiva de los funcionarios de ambas áreas para conservar su unicidad.</li>
+<li>c) Se debe imprimir el documento, firmarse de manera manuscrita por ambos jefes y escanearse nuevamente para su subida a GDE.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>7. De acuerdo con la Ley de Riesgos del Trabajo (L.R.T.), ante la ocurrencia de un siniestro laboral o accidente de trabajo de un agente en el ámbito municipal, el empleador posee la obligación legal de notificar el hecho a la Aseguradora de Riesgos del Trabajo (ART) dentro del plazo perentorio de:</h3>
+<ul>
+<li>a) Siete (7) días hábiles administrativos de ocurrido el hecho.</li>
+<li>b) Tres (3) días corridos del suceso o del primer diagnóstico médico del agente.</li>
+<li>c) De manera inmediata y en un plazo que no exceda las cuarenta y ocho (48) horas hábiles.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>8. Conforme al protocolo de abordaje de situaciones de violencia laboral y de género vigente en el municipio, ¿cuál de las siguientes conductas y manifestaciones del personal de la oficina configura formalmente violencia de género en el ámbito de trabajo?</h3>
+<ul>
+<li>a) El reclamo formal del superior por escrito por un atraso injustificado en la entrega de tareas informáticas.</li>
+<li>b) El hostigamiento verbal persistente, comentarios descalificatorios reiterados o gestos de índole sexual no consentidos que afecten la dignidad o salud física/psíquica del agente basados en su género.</li>
+<li>c) La reorganización física de los puestos de trabajo del personal dispuesta por la Jefatura de Sistemas por razones de espacio o seguridad.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>9. Según las disposiciones del procedimiento administrativo de la Ordenanza General 26348, cuando un agente municipal presenta un reclamo formal de índole salarial ante el Departamento Ejecutivo y la comuna no se pronuncia expresamente en los plazos reglamentarios, transcurrido el tiempo límite se configura:</h3>
+<ul>
+<li>a) La aceptación tácita del reclamo salarial por silencio administrativo positivo.</li>
+<li>b) El silencio administrativo negativo, considerándose denegado tácitamente el reclamo y quedando habilitada la vía de los recursos jerárquicos o judiciales.</li>
+<li>c) La paralización del expediente con archivo automático sin derecho a recurrir por caducidad de instancia.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>10. Conforme a las responsabilidades públicas fijadas por la Ley Orgánica de las Municipalidades, los funcionarios y agentes de nivel jerárquico municipal responden civil y penalmente por los daños materiales que causen a la comuna:</h3>
+<ul>
+<li>a) Únicamente en caso de haber actuado de forma dolosa y con intención manifiesta de daño, quedando exentos por cualquier negligencia o descuido laboral.</li>
+<li>b) De forma personal y patrimonial ante los daños derivados del ejercicio de sus funciones, cuando estos sean producto de culpa grave, negligencia inexcusable o dolo en su accionar técnico-administrativo.</li>
+<li>c) De forma colectiva y solidaria entre todos los agentes de planta técnica de la oficina sin imputación personal.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h2>CUESTION Nº 2: CASO SITUACIONAL DE HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)</h2>
+<p><em>Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.</em></p>
+<blockquote>
+<p>La Jefatura de Departamento de Gestión en Sistemas detecta que en la sala del Data Center municipal, que alberga los racks de servidores centrales de producción de la comuna, el sistema de ventilación forzada y aire acondicionado industrial presenta fallas mecánicas severas. Esto produce un nivel de ruido continuo de 92 dBA estables, vibraciones intensas en el suelo técnico de la sala y temperaturas ambientales internas de 30ºC sin circulación de aire limpio. </p>
+<p>A pesar de las advertencias verbales del personal técnico de infraestructura de redes que debe ingresar diariamente a realizar tareas de mantenimiento físico del cableado por períodos de 4 horas continuas sin protección auditiva ni ropa de abrigo adecuada, la Jefatura no ha implementado medidas correctoras ni suministrado elementos protectores. Tras 3 meses de exposición, dos técnicos presentan zumbidos recurrentes en los oídos (tinnitus), fatiga auditiva e hipertensión arterial.</p>
+<p>Se solicita:</p>
+<ol>
+<li>Indique si las patologías descritas califican como Enfermedades Profesionales bajo el marco legal de la Ley de Riesgos del Trabajo 24557 y qué condiciones exige el sistema normativo para otorgar cobertura. (0.75 Puntos)</li>
+<li>Determine qué principios y deberes preventivos de la Ley de Higiene y Seguridad Laboral Nº 19587 se están infringiendo respecto a las condiciones ambientales (ruido, vibraciones y confort térmico) de la sala de servidores y qué acciones de gestión inmediata debe instrumentar el Jefe de Departamento. (0.75 Puntos)</li>
+</ol>
+</blockquote>
+<hr>
+<h2>CUESTION Nº 3: CASO PRÁCTICO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)</h2>
+<p><em>Consigna: Resuelva el caso disciplinario planteado y redacte el acto administrativo correspondiente.</em></p>
+<blockquote>
+<p>Durante una auditoría de logs y consumo de ancho de banda del firewall municipal de General Pueyrredón, la Dirección de Personal e Infraestructura Tecnológica detecta que el agente de soporte técnico de sistemas de software R.P. (Legajo Nº 55.555, Categoría Técnico III, Planta Permanente) desconectó de forma intencional y voluntaria el perfil de protección de red del firewall municipal para su computadora de trabajo. </p>
+<p>La finalidad de esta maniobra técnica fue eludir las restricciones de navegación institucionales para descargar de forma masiva en disco archivos personales pesados y visualizar servicios de streaming comercial, consumiendo el 90% del ancho de banda municipal y dejando a la red en un estado de vulnerabilidad severa ante ciberataques externos por un lapso continuo de 4 horas. Al notificársele la imputación de los hechos de acuerdo a los plazos legales, el agente R.P. reconoce la acción pero argumenta que &quot;no sabía que representaba un peligro de seguridad informática de esa magnitud&quot;.</p>
+<p>Se solicita:</p>
+<ol>
+<li>Resuelva el caso disciplinario encuadrando las faltas del agente R.P. según la Ley Provincial 14656 y determine fundadamente si corresponde aplicar una sanción correctiva de suspensión directa o si se requiere sumario previo. Indique qué medidas inmediatas de carácter técnico-administrativo de seguridad informática debe instrumentar la Jefatura de Sistemas sobre el agente para resguardar la infraestructura del municipio. (2 Puntos)</li>
+<li>Redacte el acto administrativo correspondiente (Disposición de sanción) adoptando de manera formal la estructura del examen real 0066 (VISTO, CONSIDERANDO con viñetas &quot;Que...&quot;, párrafo de atribuciones de la Ley 14656 y el Decreto 1539/18, y los artículos del DISPONE). (2 Puntos)</li>
+</ol>
+</blockquote>
+<hr>
+<h2>CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA EN EL ÁMBITO LABORAL (4.5 Puntos)</h2>
+<p><em>Consigna: Responda las siguientes preguntas sobre la Ley Micaela (Ley 27499 / Ley 15134) y la Ordenanza MGP 24271 en el ámbito municipal.</em></p>
+<blockquote>
+<p>Una agente contratada en la planta temporaria anual de la Municipalidad, que se desempeña como programadora de software en su área de sistemas, concurre a su oficina de Jefatura de Departamento a denunciar de forma estrictamente reservada que su supervisor jerárquico inmediato la ha convocado en reiteradas oportunidades fuera del horario laboral mediante llamadas personales y mensajes desubicados. </p>
+<p>En dichas comunicaciones, el supervisor le ha manifestado explícitamente que su continuidad laboral en la municipalidad y la renovación de su contrato anual en la próxima cohorte administrativa &quot;dependerán de su buena predisposición para aceptar invitaciones de carácter personal e íntimo fuera del municipio&quot;. La agente presenta capturas de pantalla de los chats de mensajería privada que prueban el hecho y manifiesta un estado de angustia extrema y temor a perder su fuente de ingresos.</p>
+<p>Se solicita:</p>
+<ol>
+<li>Encuadre formalmente la situación denunciada de acuerdo a las disposiciones y nomenclador de conductas de la Ordenanza Nº 24.271 MGP. Indique detalladamente qué responsabilidades y obligaciones legales de acción inmediata le corresponden a usted en su carácter de Jefe de Departamento para resguardar la integridad psicofísica y laboral de la agente. (1.5 Puntos)</li>
+<li>Explique qué medidas preventivas y de protección laboral de aplicación inmediata deben adoptarse con respecto a la agente y al supervisor denunciado para garantizar la &quot;No Revictimización&quot; y estabilidad laboral de la víctima, de acuerdo al protocolo local. (1.5 Puntos)</li>
+<li>Indique qué vías institucionales internas y derivaciones de celeridad se deben tramitar de manera obligatoria y qué rol desempeña la Asesoría Confidencial en la sustanciación de la investigación de acuerdo a la Ordenanza 24271. (1.5 Puntos)</li>
+</ol>
+</blockquote>
+<hr>
+<h2>CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 Puntos c/u)</h2>
+<p><em>Consigna: Responda las siguientes preguntas basadas en la bibliografía oficial del cargo (Kendall &amp; Kendall 8va Edición y Scrum Manager v2.6).</em></p>
+<ol>
+<li><p><strong>HCI y Usabilidad de Interfaces (Kendall &amp; Kendall):</strong> Explique la importancia del principio de &quot;Consistencia y Estándares&quot; en el diseño de la interacción humano-computadora (HCI) de portales web gubernamentales destinados al contribuyente. Indique qué tres (3) áreas de diseño de la interfaz de usuario deben seguir estándares rígidos según la bibliografía oficial.</p>
+</li>
+<li><p><strong>Ingeniería de Requisitos y Diseño JAD (Kendall &amp; Kendall):</strong> Defina el concepto de Diseño Conjunto de Aplicaciones (JAD - <em>Joint Application Design</em>) como método alternativo para recopilar requerimientos de información de sistemas. Explique en qué fases del ciclo de vida de desarrollo de software es recomendable su utilización y qué tres (3) roles principales del equipo participan de los talleres presenciales.</p>
+</li>
+<li><p><strong>Backlog y Definition of Ready - DoR (Scrum Manager):</strong> Defina conceptualmente qué es la Definition of Ready (DoR) o &quot;Definición de Preparado&quot; en los equipos ágiles de Scrum. Explique qué diferencias posee con la Definition of Done (DoD) y por qué es una herramienta clave para la Jefatura de Sistemas al iniciar la reunión de planificación del sprint.</p>
+</li>
+<li><p><strong>UML y Casos de Uso de Sistema (Kendall &amp; Kendall):</strong> Describa qué componentes técnicos componen la descripción detallada de un Caso de Uso de Sistema en UML. Explique la diferencia conceptual entre el &quot;Flujo Básico de Eventos&quot; (o curso normal) y los &quot;Cursos Alternativos&quot; (o cursos alternos de excepción) y provea un ejemplo de cada uno aplicado al caso de uso municipal de sistema <code>Registrar Pago Tributario Online</code>.</p>
+</li>
+<li><p><strong>Caso Práctico de Velocidad y Estimaciones (Scrum Manager):</strong>
+El equipo ágil de desarrollo de software del municipio ha registrado una velocidad estable de <strong>25 Puntos de Historia (SP)</strong> por sprint de 2 semanas de duración. El Product Owner de la Secretaría de Hacienda municipal le presenta un backlog residual de requerimientos tributarios priorizados estimados por los programadores en un total acumulado de <strong>150 SP</strong> y le solicita que determine cuándo estará finalizado el software para su puesta en producción en las delegaciones.</p>
+<p>Se solicita al Jefe de Departamento:</p>
+<ul>
+<li>a) Calcule la cantidad estimada de sprints de desarrollo necesarios para completar la totalidad del backlog y determine el plazo total del proyecto en semanas y meses calendarios (considere meses de 4 semanas). Muestre la fórmula empleada.</li>
+<li>b) Si durante la planificación de un sprint el equipo decide asumir requerimientos que totalizan 35 SP por encima de su velocidad histórica debido a presiones políticas del Secretario de Hacienda, indique qué impacto tiene esto sobre la velocidad del equipo de desarrollo, qué dos (2) problemas de calidad de software se generarán y qué medida correctiva ágil debe adoptar el Jefe de Sistemas de Software.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h2>GUÍA DE RESPUESTAS Y SOLUCIONES EXPLICADAS (INFORMACIÓN OCULTA PARA AUTOEVALUACIÓN)</h2>
+<details>
+<summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary><h3>1. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículo 56º y 151º</strong>. Todo contrato de concesión de servicios públicos a terceros que exceda el ejercicio del presupuesto corriente del intendente o que implique concesiones de explotación exclusiva de software del municipio por un término determinado debe contar de manera previa con la autorización por ordenanza dictada por el Honorable Concejo Deliberante (HCD) para la validez de la adjudicación. <em>(📋 LOM - Arts. 56º y 151º)</em></li>
+</ul>
+<h3>2. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley 14656, <strong>Artículo 66º</strong> (Licencia por Enfermedad) y decretos municipales locales de la MGP. Las licencias y las justificaciones por inasistencias derivadas de afecciones de largo tratamiento están sujetas al contralor médico oficial de la Dirección de Salud Ocupacional municipal. Este organismo tiene la atribución obligatoria de constituir juntas médicas para auditar físicamente al agente, encuadrar el período necesario de inasistencias por reposo y emitir el dictamen formal de apto/no apto. <em>(📋 Ley 14656 - Art. 66º)</em></li>
+</ul>
+<h3>3. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto Asistencial MGP <strong>121/18, Artículo 6º</strong> (Avisos de inasistencia). El agente que se vea impedido de concurrir a cumplir con sus tareas diarias debido a enfermedad imprevista u otras causas de fuerza mayor posee la obligación legal de comunicar la novedad al Departamento de Personal de su dependencia dentro de las primeras dos (2) horas del horario habitual fijado para su ingreso a tareas del día, a fin de coordinar la visita del médico del contralor municipal de salud ocupacional. <em>(📋 Decreto 121/18 - Art. 6º)</em></li>
+</ul>
+<h3>4. Respuesta Correcta: <strong>c</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Manual de Redacción MGP (Decreto Nº <strong>966/19</strong>, Anexo I, Capítulo III, Sección Disposiciones). En la redacción del Considerando (el cual expone las justificaciones de hecho y de derecho de la medida), cada párrafo independiente debe comenzar obligatoriamente con la palabra de enlace &quot;Que...&quot; y finalizar con un punto y coma, ordenando de forma lógica y estructurada los antecedentes normativos y los fundamentos de la sanción antes del artículo dispositivo. <em>(📋 Decreto MGP 966/19)</em></li>
+</ul>
+<h3>5. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto Municipal <strong>2250/13, Anexo I y II</strong> (Escalafón y Adicionales del Grupo Computación). El cobro del adicional salarial permanente por mayor capacitación profesional y título universitario de grado afín a la informática exige de manera concurrente que el título posea reconocimiento nacional de validez y que el agente desarrolle efectivamente sus tareas dentro de la planta técnica informática, desempeñando funciones afines a su formación académica para justificar la asignación presupuestaria. <em>(📋 Decreto MGP 2250/13)</em></li>
+</ul>
+<h3>6. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto de GDE en la MGP (Decreto Nº <strong>2.940/22</strong>, Reglamento de Firmas y Expediente Electrónico). Todo documento administrativo que requiera la intervención o conformidad conjunta de dos o más reparticiones municipales debe ser generado en formato electrónico único en el módulo GEDO, posibilitando la firma digital sucesiva (multi-firma) de los funcionarios a cargo de las áreas, conformando un registro digital único y no redundante. <em>(📋 Decreto MGP 2.940/22)</em></li>
+</ul>
+<h3>7. Respuesta Correcta: <strong>c</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley de Riesgos del Trabajo Nº 24557, <strong>Artículo 6º</strong> (Denuncia del accidente) y reglamentaciones de la SRT. El empleador (el Municipio) posee el deber de notificar formalmente el acaecimiento de un accidente laboral de forma inmediata y en un plazo que no exceda las cuarenta y ocho (48) horas hábiles a la Aseguradora de Riesgos del Trabajo (ART) contratada, suministrando los datos del agente y el parte inicial del siniestro. <em>(📋 Ley 24557)</em></li>
+</ul>
+<h3>8. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ordenanza Municipal MGP <strong>24.271, Anexo I, Punto 3</strong> (Nomenclador de conductas constitutivas de violencia). Se encuadra como violencia de género laboral toda acción u hostigamiento reiterado ejercido en el ámbito público municipal que vulnere la integridad física, psicológica, económica o sexual de un agente basada en su género, incluyendo expresiones descalificatorias sistemáticas y gestos no consentidos orientados al acoso sexual. <em>(📋 Ordenanza MGP 24.271)</em></li>
+</ul>
+<h3>9. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ordenanza General de Procedimientos Administrativos Municipales <strong>26348, Artículo 79º y 86º</strong>. Ante la presentación de peticiones de índole salarial o reclamos particulares de los agentes municipales, el transcurso de los plazos reglamentarios sin pronunciamiento expreso por parte del Departamento Ejecutivo local configura legalmente la denegación tácita del reclamo por silencio administrativo negativo, permitiendo al reclamante el recurso jerárquico correspondiente o la demanda judicial contencioso-administrativa. <em>(📋 Ordenanza General 26348 - Arts. 79º y 86º)</em></li>
+</ul>
+<h3>10. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículos 241º y 242º</strong> (Responsabilidad civil y patrimonial). Los funcionarios públicos del municipio responden personalmente y con su propio sueldo o patrimonio ante el Honorable Tribunal de Cuentas (HTC) por la pérdida, robo o destrucción de los bienes y fondos municipales puestos a su cargo, cuando el daño sea producto de su dolo, impericia manifiesta o culpa grave por negligencia en el ejercicio de sus deberes jerárquicos de custodia y supervisión. <em>(📋 LOM - Arts. 241º y 242º)</em></li>
+</ul>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary><h3>1. Configuración de Enfermedad Profesional (Ley 24557)</h3>
+<ul>
+<li><strong>Sí, el tinnitus (hipoacusia perceptiva / fatiga auditiva) e hipertensión secundaria califican formalmente como Enfermedad Profesional.</strong></li>
+<li><strong>Fundamento Jurídico:</strong> Se cumplen los requisitos del Artículo 6º, Inciso 2 de la Ley 24557:<ol>
+<li>Las patologías se generaron por un agente de riesgo físico presente en el ambiente de trabajo (<strong>ruido continuo persistente de 92 dBA</strong>, que supera el límite legal de 85 dBA permitido para jornadas completas sin protección auditiva).</li>
+<li>La exposición fue continua y repetida a lo largo de un lapso de 3 meses.</li>
+<li>Las afecciones auditivas están incluidas explícitamente en el <strong>Listado de Enfermedades Profesionales (Decreto Nacional 658/96, Anexo I)</strong>. La ART tiene la obligación de brindar cobertura total de diagnóstico, tratamiento médico, provisión de protectores y el pago de licencias.</li>
+</ol>
+</li>
+</ul>
+<h3>2. Normas de Higiene y Seguridad Laboral Infringidas (Ley 19587)</h3>
+<p>Se infringieron de forma directa las pautas y obligaciones contempladas en los <strong>Artículos 8º y 9º de la Ley 19587</strong>:</p>
+<ul>
+<li><strong>Omisión de Reducción de Ruidos e Insonorización (Artículo 8º):</strong> Es obligación del empleador insonorizar mecánicamente los componentes industriales rotatorios de refrigeración de servidores que emitan vibraciones y ruidos molestos.</li>
+<li><strong>Falta de Equipamiento de Protección Individual y Climatización (Artículo 9º, Inciso a, b y f):</strong> Se omitió la provisión obligatoria de protectores auditivos de inserción o de copa homologados para el personal técnico, así como ropa de abrigo adecuada para trabajar de forma segura en ambientes de baja temperatura controlada (servidores).</li>
+<li><strong>Medidas de Gestión Inmediata del Jefe de Departamento:</strong><ol>
+<li><strong>Suspensión de tareas en caliente de forma continua:</strong> Limitar el tiempo de exposición horaria diaria del personal en la sala ruidosa de servidores, estableciendo esquemas de rotación horaria de 1 hora máxima de permanencia.</li>
+<li><strong>Solicitud de EPP y Relevamiento:</strong> Requerir de forma urgente por GDE ante la Dirección de Personal e Higiene y Seguridad la provisión inmediata de protectores auditivos homologados y ropa técnica de abrigo para el Data Center, junto con una medición acústica oficial de decibeles de la sala.</li>
+</ol>
+</li>
+</ul>
+<p><em>(📖 Ley 19587 - Artículos 8º y 9º; Ley 24557 - Artículo 6º)</em></p>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary><h3>1. Resolución Disciplinaria y Medidas de Gestión de Seguridad</h3>
+<ul>
+<li><strong>Encuadre Legal y Gravedad:</strong> La conducta del agente R.P. configura la comisión de faltas administrativas graves referidas a la violación de deberes éticos, negligencia en la custodia de la seguridad de los activos de información del estado municipal, utilización indebida de equipamiento estatal para fines comerciales/personales privados y puesta en riesgo deliberada de la red informática municipal (violación del <strong>Artículo 107º, Incisos 1, 2, 3 y 5 de la Ley 14656</strong>).</li>
+<li><strong>Sanción Disciplinaria Aplicable y Sumario Administrativo:</strong> Al tratarse de una falta grave con reconocimiento de autoría del agente y sin antecedentes previos registrados, corresponde aplicar una sanción correctiva de <strong>suspensión de siete (7) días sin goce de haberes</strong>. De acuerdo al <strong>Artículo 105º de la Ley 14656</strong>, las suspensiones que no excedan de diez (10) días corridos pueden ser aplicadas por el funcionario competente de forma directa <strong>sin necesidad de sustanciar Sumario Administrativo previo</strong>, requiriendo únicamente la intimación formal, la formulación de descargos previos del agente (debido proceso) y el dictamen jurídico de la Procuración Municipal (Decreto 1539/18).</li>
+<li><strong>Medida Técnica-Administrativa Inmediata del Jefe de Sistemas:</strong> El Jefe de Departamento debe ordenar de inmediato a la Dirección de Redes e Infraestructura la <strong>anulación técnica y revocación total del acceso a consolas de administración o firewall del usuario del agente R.P.</strong>, aplicar políticas restrictivas en Directorio Activo que restrinjan la navegación general de su puesto de trabajo a dominios específicos de uso administrativo, y suspender transitoriamente sus credenciales VPN mientras dure el cumplimiento efectivo de la sanción de suspensión para evitar adulteración o eliminación de logs de la auditoría.</li>
+</ul>
+<hr>
+<h3>2. Redacción del Acto Administrativo (Disposición de Sanción)</h3>
+<p><strong>MAR DEL PLATA,</strong> 8 de Julio de 2026</p>
+<p><strong>VISTO</strong> las actuaciones administrativas registradas en el expediente electrónico correspondientes a la auditoría de consumos de ancho de banda y logs de firewall del Departamento de Sistemas de Software municipal, que involucran al Agente R.P., Legajo Nº 55.555, Categoría Técnico III de Planta Permanente; y</p>
+<p><strong>CONSIDERANDO:</strong></p>
+<ul>
+<li>Que con fecha [Insertar Fecha], el área de infraestructura de red municipal constató una saturación extrema del canal de comunicaciones del Data Center que afectó el 90% del ancho de banda municipal, interrumpiendo el flujo operativo de los sistemas administrativos de la comuna;</li>
+<li>Que el análisis de auditoría lógica demostró que el agente R.P. desactivó de forma intencional el perfil de protección de red del firewall municipal en su terminal de desarrollo para posibilitar descargas masivas de contenido particular y streaming de entretenimiento ajenos al servicio;</li>
+<li>Que esta maniobra técnica unilateral vulneró de manera severa la seguridad lógica perimetral del municipio durante un lapso ininterrumpido de 4 horas, exponiendo la red institucional y los servidores a virus y accesos no autorizados externos;</li>
+<li>Que notificado de los hechos imputados de forma reglamentaria, el agente formuló descargo reconociendo la autoría material de la desconexión del firewall pero argumentando la falta de comprensión de la magnitud del riesgo de seguridad ocasionado;</li>
+<li>Que la Procuración Municipal ha emitido el dictamen jurídico obligatorio correspondiente de conformidad con la delegación de facultades disciplinarias municipales vigentes, aconsejando la aplicación de una sanción correctiva de suspensión;</li>
+<li>Que es atribución y competencia del suscripto dictar la presente medida administrativa de acuerdo con las facultades conferidas por el Artículo 105º de la Ley 14656 y el Artículo 1º del Decreto Reglamentario Municipal Nº 1539/18;</li>
+</ul>
+<p>Por ello,</p>
+<p><strong>EL JEFE DE DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE</strong></p>
+<p><strong>DISPONE:</strong></p>
+<p><strong>ARTÍCULO 1º.-</strong> Aplicar al agente R.P., Legajo Nº 55.555, Categoría Técnico III de Planta Permanente del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, la sanción correctiva de siete (7) días de suspensión sin goce de haberes, por infracción a los deberes de conducta y custodia de bienes establecidos en el Artículo 107º, Incisos 1, 2, 3 y 5 de la Ley Provincial Nº 14656.</p>
+<p><strong>ARTÍCULO 2º.-</strong> La presente medida disciplinaria entrará en vigencia y comenzará a cumplirse de manera efectiva transcurrido el plazo legal de diez (10) días hábiles administrativos a partir de la fecha de su notificación formal, a fin de posibilitar la interposición de los recursos administrativos de ley por el agente.</p>
+<p><strong>ARTÍCULO 3º.-</strong> Registrar, notificar de manera formal en el Domicilio Electrónico Constituido del agente de conformidad con el Artículo 62º de la Ordenanza General 26348, remitir copia digital certificada a la Dirección de Personal municipal a efectos del descuento salarial correspondiente y su incorporación en el legajo único del agente, y archivar.</p>
+<p><strong>ARTÍCULO 4º.-</strong> Regístrese, comuníquese y archívese.</p>
+<p>[Firma Jefe de Departamento]</p>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</b></summary><h3>1. Encuadre de la Situación y Deberes de la Jefatura</h3>
+<ul>
+<li><strong>Encuadre Formal de Violencia de Género:</strong> La conducta del supervisor encuadra como <strong>Violencia de Género Laboral por Acoso Sexual Jerárquico y Abuso de Poder</strong> (Ordenanza MGP 24.271, Anexo I, Punto 3). El condicionamiento del puesto o la estabilidad contractual anual (programadora temporaria) a cambio de favores sexuales o de citas íntimas personales es una falta de conducta gravísima que atenta contra la integridad psíquica, la dignidad y el derecho al empleo en condiciones de respeto.</li>
+<li><strong>Obligaciones de Acción Inmediata del Jefe de Departamento:</strong><ol>
+<li><strong>Recepción y escucha activa:</strong> Recibir a la agente de forma inmediata en una reunión estrictamente reservada y confidencial, respetando su voluntad de reserva y brindando un entorno seguro y de contención emocional.</li>
+<li><strong>Labrado de Acta de Recepción:</strong> Documentar el testimonio de la agente detallando fechas, modalidad y recopilando las pruebas de capturas de pantalla de los chats aportados.</li>
+<li><strong>Remisión Confidencial:</strong> Elevar el expediente de forma confidencial y directa al Departamento de la <strong>Asesoría Confidencial</strong> del municipio en un plazo no mayor a 24 horas, para que se inicie el trámite administrativo de celeridad, resguardando en todo momento la identidad y los datos de la agente para evitar represalias de otros agentes de la oficina pública.</li>
+</ol>
+</li>
+</ul>
+<h3>2. Medidas de Protección y No Revictimización (Ordenanza 24271)</h3>
+<ul>
+<li><strong>Principio de No Revictimización (Evitación de la victimización secundaria):</strong> Se prohíbe forzar a la agente denunciante a declarar reiteradamente sobre los hechos humillantes ante distintas dependencias o a carearse físicamente con el supervisor acusado.</li>
+<li><strong>Medida de Distanciamiento Inmediato (Artículo 7º del Anexo I):</strong> Se debe proceder a la <strong>reubicación física o de turno del supervisor presunto agresor</strong> a otra dependencia física del municipio o retirarlo de la línea jerárquica de supervisión técnica directa de la agente. <strong>Se prohíbe de forma absoluta reubicar o trasladar a la víctima en contra de su voluntad</strong>, ya que esto constituiría un perjuicio indirecto para ella por denunciar.</li>
+<li><strong>Garantía de Estabilidad Laboral:</strong> Disponer la continuidad laboral normal de la agente en sus tareas de programación en el área, bloqueando cualquier evaluación o cese de contrato promovido por el supervisor denunciado durante el transcurso de la investigación.</li>
+</ul>
+<h3>3. Vías Institucionales de Derivación y Rol de la Asesoría Confidencial</h3>
+<ul>
+<li><strong>Asesoría Confidencial:</strong> Es el órgano municipal de aplicación exclusivo que recepta la denuncia formal, lleva adelante la investigación con sumario abreviado confidencial, y aconseja al Departamento Ejecutivo la aplicación de las sanciones disciplinarias de suspensión, cesantía o traslado definitivo.</li>
+<li><strong>Dirección de Personal:</strong> Para el registro formal de las licencias y la tramitación administrativa del cambio de supervisor de la agente denunciante.</li>
+<li><strong>Dirección de Sumarios:</strong> Se elevan las actuaciones concluidas a la Dirección de Sumarios a fin de abrir el Sumario Administrativo Formal disciplinario para la cesantía o exoneración del supervisor denunciado, requiriendo el dictamen legal obligatorio de la Procuración.</li>
+</ul>
+<p><em>(📋 Ordenanza MGP 24.271, Anexo I, Puntos 3, 4 y 7)</em></p>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación Técnica (HCI, Requisitos, Scrum y UML)</b></summary><h3>1. HCI y Usabilidad de Interfaces (Kendall &amp; Kendall)</h3>
+<ul>
+<li><strong>Consistencia y Estándares:</strong> Es el principio de diseño de la Interacción Humano-Computadora (HCI) que exige que las páginas web y las aplicaciones mantengan un comportamiento y presentación uniforme a lo largo del sistema. Esto reduce drásticamente la curva de aprendizaje de los contribuyentes, disminuye la tasa de errores de navegación y brinda una sensación de confiabilidad en el portal gubernamental.</li>
+<li><strong>Áreas de Diseño con Estándares Rígidos (3 áreas):</strong><ol>
+<li><strong>Diseño Visual y Layout:</strong> Ubicación fija de componentes clave de la interfaz en todas las pantallas (ej. el menú principal de navegación siempre a la izquierda o arriba, el botón de cierre de sesión arriba a la derecha).</li>
+<li><strong>Lenguaje y Terminología:</strong> Utilizar expresiones estándar y consistentes para las mismas acciones de negocio a lo largo de las vistas (ej. no mezclar los botones &quot;Pagar&quot;, &quot;Afectar Pago&quot; y &quot;Confirmar Transacción&quot; de forma confusa).</li>
+<li><strong>Retroalimentación del Sistema (Feedback):</strong> Utilizar formatos estandarizados de color y estilo para mensajes de confirmación o alerta de error (ej. verde para transacciones aprobadas, rojo para datos inválidos).</li>
+</ol>
+</li>
+</ul>
+<p><em>(📖 Kendall &amp; Kendall, Cap. 14, págs. 445-455)</em></p>
+<hr>
+<h3>2. Ingeniería de Requisitos y Diseño JAD (Kendall &amp; Kendall)</h3>
+<ul>
+<li><strong>Concepto de JAD (Joint Application Design):</strong> Es una metodología estructurada y cooperativa que reúne a los usuarios clave del negocio, tomadores de decisiones, analistas de sistemas y desarrolladores de software en talleres grupales presenciales intensivos para definir, discutir y documentar conjuntamente los requerimientos lógicos del sistema.</li>
+<li><strong>Fases recomendadas para su utilización:</strong> Es altamente recomendable en las fases tempranas de análisis de requerimientos del ciclo de vida de desarrollo de software (SDLC) para acelerar la definición del diseño conceptual y eliminar desacuerdos políticos o técnicos de priorización de requerimientos entre distintas Secretarías municipales.</li>
+<li><strong>Roles principales de los Talleres JAD (3 roles):</strong><ol>
+<li><strong>Facilitador (Líder del taller):</strong> Profesional neutral que dirige las sesiones del grupo, fomenta la participación activa y asegura que el equipo siga la agenda metodológica preestablecida.</li>
+<li><strong>Escribano (Scribe):</strong> Persona encargada de tomar notas oficiales detalladas y registrar formalmente todas las decisiones lógicas y requerimientos acordados.</li>
+<li><strong>Usuarios Patrocinadores (Sponsors / Stakeholders):</strong> Funcionarios de las secretarías y operadores clave que poseen la autoridad de negocio para definir qué debe hacer el sistema impositivo.</li>
+</ol>
+</li>
+</ul>
+<p><em>(📖 Kendall &amp; Kendall, Cap. 4, págs. 103-108)</em></p>
+<hr>
+<h3>3. Backlog y Definition of Ready - DoR (Scrum Manager)</h3>
+<ul>
+<li><strong>Definition of Ready (DoR):</strong> Es un acuerdo explícito y autogestionado por el equipo ágil que establece los criterios de calidad mínimos e indispensables que debe cumplir una Historia de Usuario (HU) antes de poder ser aceptada en la reunión de planificación del sprint (<em>Sprint Planning</em>) para ser desarrollada. Su propósito es evitar que los programadores inicien trabajo en tareas ambiguas, incompletas o bloqueadas por dependencias externas.</li>
+<li><strong>Diferencia con Definition of Done (DoD):</strong><ul>
+<li><strong>DoR:</strong> Evalúa si la HU está lista para ser <strong>iniciada</strong> (ej. está clara, tiene criterios de aceptación, el diseño de pantalla está aprobado, no hay dependencias).</li>
+<li><strong>DoD:</strong> Evalúa si la HU está realmente <strong>finalizada</strong> al término del sprint y en condiciones de ser desplegada (ej. código revisado, pruebas aprobadas, documentación técnica de base completada).</li>
+</ul>
+</li>
+<li><strong>Herramienta clave para la Jefatura de Sistemas:</strong> El Jefe de Sistemas la utiliza en el Sprint Planning como un filtro de calidad cuantitativo. Si una historia no satisface el DoR del equipo (ej. &quot;Mesa de Ayuda para Cobros&quot; no posee la API del banco definida), la Jefatura debe coordinar con el Product Owner para rechazar su ingreso al sprint, evitando que el equipo se comprometa a realizar tareas que inevitablemente se bloquearán durante las dos semanas de labor.</li>
+</ul>
+<p><em>(📖 Scrum Manager v2.6, Parte I, págs. 21-25)</em></p>
+<hr>
+<h3>4. UML y Casos de Uso de Sistema (Kendall &amp; Kendall)</h3>
+<ul>
+<li><strong>Componentes de la descripción detallada de un Caso de Uso de Sistema:</strong> Nombre unívoco, Actores involucrados, Precondiciones, Postcondiciones, Flujo Básico de Eventos (paso a paso de interacción normal), Cursos Alternativos (flujos de excepción o variantes) y Disparador de inicio.</li>
+<li><strong>Diferencia de Flujos:</strong><ul>
+<li><strong>Flujo Básico de Eventos:</strong> Representa el camino óptimo y feliz (happy path) donde el usuario y el sistema interactúan de forma perfecta para lograr el objetivo del negocio sin registrarse fallas ni desvíos lógicos.</li>
+<li><strong>Cursos Alternativos:</strong> Representan desvíos, decisiones lógicas o tratamientos de errores en el camino principal, donde el sistema debe realizar flujos de contingencia.</li>
+</ul>
+</li>
+<li><strong>Ejemplos aplicados a <code>Registrar Pago Tributario Online</code>:</strong><ul>
+<li><em>Flujo Básico:</em> 1. El contribuyente ingresa el CUIT. 2. El sistema muestra la deuda impositiva. 3. El contribuyente ingresa los datos de su tarjeta y presiona &quot;Pagar&quot;. 4. El sistema valida la tarjeta, procesa el cobro y emite el comprobante de pago digital grabándolo en el expediente.</li>
+<li><em>Curso Alternativo (Excepción por tarjeta rechazada):</em> 3.a. Si el portal emite un mensaje de error indicando &quot;Falta de Fondos&quot;, el sistema revierte el estado de la liquidación, muestra un mensaje descriptivo de rechazo al usuario del portal web y habilita la opción de probar con un medio de pago alternativo.</li>
+</ul>
+</li>
+</ul>
+<p><em>(📖 Kendall &amp; Kendall, Cap. 2, págs. 35-42 y Cap. 10, págs. 294-298)</em></p>
+<hr>
+<h3>5. Caso Práctico de Velocidad y Estimaciones (Scrum Manager)</h3>
+<h4><strong>a) Cálculo del plazo total del proyecto (sprints, semanas y meses):</strong></h4>
+<ol>
+<li><strong>Datos:</strong><ul>
+<li>Velocidad del equipo ($V$) = $25 \text{ SP/sprint}$</li>
+<li>Backlog Residual ($B$) = $150 \text{ SP}$</li>
+<li>Duración del Sprint ($D$) = $2 \text{ semanas}$</li>
+</ul>
+</li>
+<li><strong>Cálculo de Sprints Necesarios:</strong>
+$$\text{Sprints} = \frac{\text{Backlog Residual}}{\text{Velocidad}} = \frac{150 \text{ SP}}{25 \text{ SP/sprint}} = \mathbf{6 \text{ sprints}}$$</li>
+<li><strong>Cálculo del Tiempo en Semanas y Meses:</strong><ul>
+<li>$\text{Semanas Totales} = 6 \text{ sprints} \times 2 \text{ semanas/sprint} = \mathbf{12 \text{ semanas}}$</li>
+<li>$\text{Meses Calendario} = \frac{12 \text{ semanas}}{4 \text{ semanas/mes}} = \mathbf{3 \text{ meses}}$</li>
+<li><em>Conclusión:</em> El software tributario estará finalizado para su puesta en producción en las delegaciones municipales dentro de un plazo de <strong>3 meses</strong> (12 semanas totales de desarrollo).</li>
+</ul>
+</li>
+</ol>
+<h4><strong>b) Impacto de la sobre-planificación (35 SP) y problemas de calidad:</strong></h4>
+<ul>
+<li><strong>Impacto en la Velocidad del Equipo:</strong> La velocidad real del equipo <strong>no aumentará de forma mágica</strong> a 35 SP por la presión del Secretario de Hacienda. La velocidad del equipo es una métrica empírica estable determinada por su capacidad física de trabajo. Forzar el ingreso de 35 SP resultará en que el equipo termine el sprint con tareas inconclusas (<em>uncompleted</em>), reduciendo la predictibilidad del equipo en sprints subsiguientes.</li>
+<li><strong>Problemas de Calidad del Software (2 problemas):</strong><ol>
+<li><strong>Incremento de Deuda Técnica (Muda de Defectos):</strong> Para intentar cumplir con el alcance excesivo en el sprint, los desarrolladores omitirán la codificación de pruebas unitarias y simplificarán la revisión de código, ingresando fallas no detectadas que degradarán la estabilidad del sistema municipal de recaudación.</li>
+<li><strong>Incumplimiento de la Definition of Done (DoD):</strong> Se entregarán historias de usuario incompletas (sin testing de integración o sin manuales de usuario actualizados), trasladando el esfuerzo pendiente al siguiente sprint y colapsando el mantenimiento.</li>
+</ol>
+</li>
+<li><strong>Medida Correctiva a Adoptar por el Jefe de Sistemas:</strong> El Jefe de Sistemas de Software debe reunirse formalmente con el Product Owner y presentar los datos históricos de velocidad empírica del equipo (25 SP). Deberá fundamentar la necesidad de priorizar y <strong>retirar las historias de menor prioridad del sprint backlog</strong> hasta ajustar la carga del sprint al límite de velocidad empírica de 25 SP, protegiendo el ritmo de desarrollo sostenible y la calidad técnica del producto.</li>
+</ul>
+<p><em>(📖 Scrum Manager v2.6, Parte I, págs. 37-41)</em></p>
+</details><div class="score-calculator">
+    <h3>Calculadora de Puntaje (Autoevaluación)</h3>
+    <p>Ingresa los puntos obtenidos en cada sección para calcular tu nota final (Puntaje de aprobación: 25 puntos / 70%):</p>
+    <div class="score-row">
+        <span>Cuestión 1 (Normativa - Máx 10 pts):</span>
+        <input type="number" min="0" max="10" step="0.5" class="score-input" id="q1" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 2 (Higiene y ART - Máx 1.5 pts):</span>
+        <input type="number" min="0" max="1.5" step="0.25" class="score-input" id="q2" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 3 (Caso Disciplinario - Máx 4 pts):</span>
+        <input type="number" min="0" max="4" step="0.5" class="score-input" id="q3" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 4 (Perspectiva de Género - Máx 4.5 pts):</span>
+        <input type="number" min="0" max="4.5" step="0.25" class="score-input" id="q4" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 5 (Evaluación Técnica - Máx 15 pts):</span>
+        <input type="number" min="0" max="15" step="0.5" class="score-input" id="q5" oninput="calcScore()">
+    </div>
+    <div class="score-total">
+        <span>Puntaje Total (Máximo 35):</span>
+        <span id="total-score">0.0 / 35.0 (<span id="result-status" style="font-weight: bold; color: var(--text-muted);">Sin evaluar</span>)</span>
+    </div>
+</div>
+
+<div class="score-calculator">
+    <h3>Calculadora de Puntaje (Autoevaluación)</h3>
+    <p>Ingresa los puntos obtenidos en cada sección para calcular tu nota final (Puntaje de aprobación: 25 puntos / 70%):</p>
+    <div class="score-row">
+        <span>Cuestión 1 (Normativa - Máx 10 pts):</span>
+        <input type="number" min="0" max="10" step="0.5" class="score-input" id="q1" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 2 (Higiene y ART - Máx 1.5 pts):</span>
+        <input type="number" min="0" max="1.5" step="0.25" class="score-input" id="q2" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 3 (Caso Disciplinario - Máx 4 pts):</span>
+        <input type="number" min="0" max="4" step="0.5" class="score-input" id="q3" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 4 (Perspectiva de Género - Máx 4.5 pts):</span>
+        <input type="number" min="0" max="4.5" step="0.25" class="score-input" id="q4" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 5 (Evaluación Técnica - Máx 15 pts):</span>
+        <input type="number" min="0" max="15" step="0.5" class="score-input" id="q5" oninput="calcScore()">
+    </div>
+    <div class="score-total">
+        <span>Puntaje Total (Máximo 35):</span>
+        <span id="total-score">0.0 / 35.0 <span class="status-badge status-fail" style="background:#cbd5e1; color:#475569">Sin evaluar</span></span>
+    </div>
+</div>
+        
+    <script>
+function calcScore() {
+    const q1 = parseFloat(document.getElementById('q1')?.value || 0);
+    const q2 = parseFloat(document.getElementById('q2')?.value || 0);
+    const q3 = parseFloat(document.getElementById('q3')?.value || 0);
+    const q4 = parseFloat(document.getElementById('q4')?.value || 0);
+    const q5 = parseFloat(document.getElementById('q5')?.value || 0);
+    
+    const total = q1 + q2 + q3 + q4 + q5;
+    const isPass = total >= 25;
+    
+    const totalElem = document.getElementById('total-score');
+    if (totalElem) {
+        totalElem.innerHTML = total.toFixed(1) + ' / 35.0 ' + 
+            (isPass 
+                ? '<span class="status-badge status-pass">APROBADO</span>' 
+                : '<span class="status-badge status-fail">DESAPROBADO</span>');
+    }
+}
+window.calcScore = calcScore;
+</script>
+</body>
+</html>

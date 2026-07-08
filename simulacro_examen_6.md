@@ -160,6 +160,41 @@
 
 
 <details>
+<summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary>
+
+### 1. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Ley de Compras Públicas en el marco de la LOM y la RAFAM. En la redacción de especificaciones técnicas para pliegos de bases y condiciones particulares, rige el principio de **neutralidad tecnológica**. Queda prohibido consignar marcas comerciales específicas o referencias directivas que restrinjan la concurrencia de oferentes, salvo que se fundamente técnicamente que existe una necesidad de compatibilidad física o lógica insalvable con sistemas o equipos preexistentes en el municipio. *(📋 Verificar en texto oficial de LOM y RAFAM)*
+
+### 2. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Ley 14656, **Artículo 94º, inciso a** (y reglamentaciones locales MGP). Para la preparación y rendición de exámenes correspondientes a carreras de nivel terciario o universitario con reconocimiento oficial, el agente goza de licencia con goce de haberes por hasta un máximo de quince (15) días hábiles por año, acordada en fracciones de hasta cinco (5) días por examen, más el día de examen. *(📋 Verificar en texto oficial de Ley 14656 - Art. 94º)*
+
+### 3. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Decreto MGP **121/18, Artículo 5º**. El agente municipal que por olvido o razones de fuerza mayor omita registrar su fichada biométrica de ingreso o egreso debe presentar la correspondiente planilla de excepción, firmada y avalada por su superior jerárquico inmediato, dentro de un plazo perentorio de hasta cuarenta y ocho (48) horas hábiles posteriores al suceso. *(📋 Verificar en texto oficial de Decreto MGP 121/18, Artículo 5º)*
+
+### 4. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 156º, Inciso 4** (excepciones de compra directa): La adquisición directa es legalmente factible cuando la prestación del servicio técnico de mantenimiento de hardware posee exclusividad de patente o representación de marca oficial certificada por el fabricante extranjero sin existir proveedores alternativos homologados en el mercado. *(📋 Verificar en texto oficial de LOM - Art. 156º inc. 4)*
+
+### 5. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Decreto MGP **923/19, Artículo 12º** (Reglamento de Licencia por Descanso Anual - L.D.A.). La licencia ordinaria por descanso anual caduca al 31 de diciembre del año calendario siguiente al de su otorgamiento, perdiéndose el derecho a su goce si no se hubiere usufructuado en término, salvo postergación excepcional fundada por razones de servicio autorizada por el Secretario del área. *(📋 Verificar en texto oficial de Decreto MGP 923/19, Artículo 12º)*
+
+### 6. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Decreto MGP **966/19 (Manual de Redacción)**, Anexo I, Capítulo III, Sección Circulares. La Circular es el documento oficial de comunicación de alcance general firmado por la autoridad jerárquica competente para impartir instrucciones directivas o informaciones de cumplimiento uniforme a un conjunto homogéneo de dependencias o agentes de la comuna. *(📋 Verificar en texto oficial de Decreto MGP 966/19, Anexo I, Capítulo III)*
+
+### 7. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Decreto MGP **122/18, Artículos 2º y 3º** (Régimen de Salidas Particulares). Las salidas particulares por hora autorizadas por el superior jerárquico dentro de la jornada laboral de los agentes de sistemas tienen un límite máximo improrrogable de hasta cinco (5) horas mensuales, debiendo registrarse en el reloj biométrico al egreso y al reingreso. *(📋 Verificar en texto oficial de Decreto MGP 122/18, Artículos 2º y 3º)*
+
+### 8. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Decreto MGP **1539/18, Artículo 1º, Inciso c** (Delegación de Facultades Disciplinarias). La aplicación de sanciones correctivas de suspensión de hasta diez (10) días sin goce de haberes a agentes de planta permanente es competencia del Director General o Subsecretario del área, requiriendo el dictamen jurídico previo y la sustanciación de descargos. *(📋 Verificar en texto oficial de Decreto MGP 1539/18, Artículo 1º)*
+
+### 9. Respuesta Correcta: **d**
+*   **Fundamento Normativo:** Ley Nacional de Firma Digital Nº **25506**. El Artículo 4º original de la Ley 25.506, el cual establecía exclusiones de validez para las disposiciones de última voluntad, los actos de derecho de familia y los actos personalísimos, fue expresamente derogado por la Ley de Simplificación y Apoyo al Capital Emprendedor Nº 27349 (Artículo 15) y el DNU 27/18. Por lo tanto, la legislación de firma digital nacional vigente no contempla exclusiones genéricas de validez para tales supuestos, rigiendo el principio general de equivalencia funcional y validez jurídica de la firma digital (Artículo 3º de la Ley 25.506). *(📋 Verificar en texto oficial de Ley 25506)*
+
+### 10. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Decreto MGP **397/01 y modificatorios** (Reglamento de Presentismo Municipal). El cobro del Premio por Presentismo se perderá de forma íntegra por registrar inasistencias injustificadas, licencias extraordinarias sin goce, o por registrar más de tres (3) llegadas tarde mensuales no justificadas de más de diez (10) minutos. *(📋 Verificar en texto oficial de Decreto MGP 397/01 y modificatorios)*
+
+</details>
+
+<details>
 <summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary>
 
 ### 1. Configuración de Accidente Laboral:

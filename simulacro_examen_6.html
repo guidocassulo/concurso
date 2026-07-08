@@ -3,33 +3,197 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simulacro Nº 6 - MGP</title>
+    <title>Simulacro Nº 6 - Concurso Jefatura de Sistemas MGP</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <style>
-        body { font-family: system-ui, -apple-system, sans-serif; max-width: 960px; margin: 0 auto; padding: 20px; line-height: 1.7; color: #1a1a2e; background: #f0f4f8; }
-        h1 { background: linear-gradient(135deg, #0077c2, #005b94); color: white; padding: 20px 30px; border-radius: 8px; margin: -20px -20px 30px; }
-        h2 { color: #0077c2; border-bottom: 3px solid #0077c2; padding-bottom: 8px; margin-top: 40px; }
-        h3 { border-left: 4px solid #0077c2; padding-left: 14px; color: #1a1a2e; }
-        h4 { color: #005b94; }
-        details { border-left: 4px solid #0077c2; background: #e8f4fd; margin: 20px 0; padding: 15px 20px; border-radius: 0 6px 6px 0; transition: all 0.3s; }
-        details[open] { background: #ffffff; border: 1px solid #c5dff0; border-left: 4px solid #0077c2; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
-        summary { font-weight: bold; cursor: pointer; color: #005b94; font-size: 1.05rem; padding: 5px 0; user-select: none; }
-        summary:hover { color: #0077c2; }
-        blockquote { background: #fff8e1; border-left: 4px solid #ffa000; padding: 15px 20px; margin: 20px 0; border-radius: 0 6px 6px 0; }
-        code { background: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-family: monospace; }
-        pre { background: #1a1a2e; color: #e8f4fd; padding: 20px; border-radius: 8px; overflow-x: auto; }
-        ul, ol { padding-left: 25px; }
-        li { margin-bottom: 6px; }
-        table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-        th { background: #0077c2; color: white; padding: 10px 15px; text-align: left; }
-        td { padding: 9px 15px; border-bottom: 1px solid #ddd; }
-        tr:nth-child(even) { background: #f8f9fa; }
-        .nota { background: #fff3cd; border: 1px solid #ffc107; padding: 10px 15px; border-radius: 6px; margin: 10px 0; font-style: italic; }
-    </style>
+:root {
+    --primary: #0077c2;
+    --primary-dark: #005b94;
+    --primary-light: #e8f4fd;
+    --bg: #f8fafc;
+    --surface: #ffffff;
+    --text: #1e293b;
+    --text-muted: #64748b;
+    --border: #e2e8f0;
+    --success: #10b981;
+    --success-light: #ecfdf5;
+}
+
+body {
+    font-family: 'Outfit', 'Inter', system-ui, sans-serif;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    line-height: 1.75;
+    color: var(--text);
+    background-color: var(--bg);
+}
+
+h1 {
+    background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+    color: white;
+    padding: 30px 40px;
+    border-radius: 12px;
+    margin: -40px -20px 40px;
+    font-size: 2.2rem;
+    box-shadow: 0 10px 15px -3px rgba(0, 119, 194, 0.1), 0 4px 6px -4px rgba(0, 119, 194, 0.1);
+}
+
+h2 {
+    color: var(--primary-dark);
+    border-bottom: 3px solid var(--primary-light);
+    padding-bottom: 10px;
+    margin-top: 50px;
+    font-size: 1.6rem;
+}
+
+h3 {
+    border-left: 5px solid var(--primary);
+    padding-left: 16px;
+    color: var(--text);
+    margin-top: 30px;
+    font-size: 1.25rem;
+}
+
+h4 {
+    color: var(--primary-dark);
+    margin-top: 25px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: var(--border);
+    margin: 40px 0;
+}
+
+details {
+    border: 1px solid var(--border);
+    background: var(--surface);
+    margin: 25px 0;
+    padding: 20px 25px;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+    transition: all 0.25s ease;
+}
+
+details[open] {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -4px rgba(0, 0, 0, 0.05);
+    border-color: #cbd5e1;
+}
+
+summary {
+    font-weight: 600;
+    color: var(--primary-dark);
+    cursor: pointer;
+    outline: none;
+    user-select: none;
+    font-size: 1.05rem;
+}
+
+summary:hover {
+    color: var(--primary);
+}
+
+.score-calculator {
+    background: linear-gradient(135deg, #f1f5f9, #e2e8f0);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 30px;
+    margin-top: 50px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+.score-calculator h3 {
+    border: none;
+    padding: 0;
+    margin-top: 0;
+    color: var(--primary-dark);
+}
+
+.score-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 0;
+}
+
+.score-row span {
+    font-weight: 500;
+}
+
+.score-input {
+    width: 80px;
+    padding: 8px 12px;
+    border: 1.5px solid var(--border);
+    border-radius: 6px;
+    font-size: 1rem;
+    text-align: center;
+    background: var(--surface);
+    color: var(--text);
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.score-input:focus {
+    border-color: var(--primary);
+}
+
+.score-total {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+    padding-top: 20px;
+    border-top: 2px dashed #cbd5e1;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+#total-score {
+    color: var(--primary);
+}
+
+.status-badge {
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+.status-pass {
+    background-color: var(--success-light);
+    color: var(--success);
+}
+
+.status-fail {
+    background-color: #fef2f2;
+    color: #ef4444;
+}
+
+pre {
+    background: #1e293b;
+    color: #f8fafc;
+    padding: 20px;
+    border-radius: 8px;
+    overflow-x: auto;
+    font-family: 'Fira Code', monospace;
+    font-size: 0.9rem;
+}
+
+blockquote {
+    border-left: 4px solid var(--primary);
+    background: var(--primary-light);
+    margin: 25px 0;
+    padding: 15px 25px;
+    border-radius: 0 8px 8px 0;
+    color: #0f172a;
+}
+</style>
 </head>
 <body>
-    <h1>Simulacro Nº 6<br><small style="font-size:0.7em;font-weight:normal;opacity:0.9">Municipalidad de General Pueyrredón — Concurso de Cargos Jerárquicos</small></h1>
     <h1>SIMULACRO DE EXAMEN Nº 6</h1>
 <p><strong>Cargo:</strong> Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
 <hr>
@@ -176,6 +340,47 @@ b) Realice una interpretación ágil del porcentaje obtenido e indique qué tres
 </ol>
 <hr>
 <details>
+<summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary><h3>1. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley de Compras Públicas en el marco de la LOM y la RAFAM. En la redacción de especificaciones técnicas para pliegos de bases y condiciones particulares, rige el principio de <strong>neutralidad tecnológica</strong>. Queda prohibido consignar marcas comerciales específicas o referencias directivas que restrinjan la concurrencia de oferentes, salvo que se fundamente técnicamente que existe una necesidad de compatibilidad física o lógica insalvable con sistemas o equipos preexistentes en el municipio. <em>(📋 Verificar en texto oficial de LOM y RAFAM)</em></li>
+</ul>
+<h3>2. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley 14656, <strong>Artículo 94º, inciso a</strong> (y reglamentaciones locales MGP). Para la preparación y rendición de exámenes correspondientes a carreras de nivel terciario o universitario con reconocimiento oficial, el agente goza de licencia con goce de haberes por hasta un máximo de quince (15) días hábiles por año, acordada en fracciones de hasta cinco (5) días por examen, más el día de examen. <em>(📋 Verificar en texto oficial de Ley 14656 - Art. 94º)</em></li>
+</ul>
+<h3>3. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>121/18, Artículo 5º</strong>. El agente municipal que por olvido o razones de fuerza mayor omita registrar su fichada biométrica de ingreso o egreso debe presentar la correspondiente planilla de excepción, firmada y avalada por su superior jerárquico inmediato, dentro de un plazo perentorio de hasta cuarenta y ocho (48) horas hábiles posteriores al suceso. <em>(📋 Verificar en texto oficial de Decreto MGP 121/18, Artículo 5º)</em></li>
+</ul>
+<h3>4. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículo 156º, Inciso 4</strong> (excepciones de compra directa): La adquisición directa es legalmente factible cuando la prestación del servicio técnico de mantenimiento de hardware posee exclusividad de patente o representación de marca oficial certificada por el fabricante extranjero sin existir proveedores alternativos homologados en el mercado. <em>(📋 Verificar en texto oficial de LOM - Art. 156º inc. 4)</em></li>
+</ul>
+<h3>5. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>923/19, Artículo 12º</strong> (Reglamento de Licencia por Descanso Anual - L.D.A.). La licencia ordinaria por descanso anual caduca al 31 de diciembre del año calendario siguiente al de su otorgamiento, perdiéndose el derecho a su goce si no se hubiere usufructuado en término, salvo postergación excepcional fundada por razones de servicio autorizada por el Secretario del área. <em>(📋 Verificar en texto oficial de Decreto MGP 923/19, Artículo 12º)</em></li>
+</ul>
+<h3>6. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>966/19 (Manual de Redacción)</strong>, Anexo I, Capítulo III, Sección Circulares. La Circular es el documento oficial de comunicación de alcance general firmado por la autoridad jerárquica competente para impartir instrucciones directivas o informaciones de cumplimiento uniforme a un conjunto homogéneo de dependencias o agentes de la comuna. <em>(📋 Verificar en texto oficial de Decreto MGP 966/19, Anexo I, Capítulo III)</em></li>
+</ul>
+<h3>7. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>122/18, Artículos 2º y 3º</strong> (Régimen de Salidas Particulares). Las salidas particulares por hora autorizadas por el superior jerárquico dentro de la jornada laboral de los agentes de sistemas tienen un límite máximo improrrogable de hasta cinco (5) horas mensuales, debiendo registrarse en el reloj biométrico al egreso y al reingreso. <em>(📋 Verificar en texto oficial de Decreto MGP 122/18, Artículos 2º y 3º)</em></li>
+</ul>
+<h3>8. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>1539/18, Artículo 1º, Inciso c</strong> (Delegación de Facultades Disciplinarias). La aplicación de sanciones correctivas de suspensión de hasta diez (10) días sin goce de haberes a agentes de planta permanente es competencia del Director General o Subsecretario del área, requiriendo el dictamen jurídico previo y la sustanciación de descargos. <em>(📋 Verificar en texto oficial de Decreto MGP 1539/18, Artículo 1º)</em></li>
+</ul>
+<h3>9. Respuesta Correcta: <strong>d</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Nacional de Firma Digital Nº <strong>25506</strong>. El Artículo 4º original de la Ley 25.506, el cual establecía exclusiones de validez para las disposiciones de última voluntad, los actos de derecho de familia y los actos personalísimos, fue expresamente derogado por la Ley de Simplificación y Apoyo al Capital Emprendedor Nº 27349 (Artículo 15) y el DNU 27/18. Por lo tanto, la legislación de firma digital nacional vigente no contempla exclusiones genéricas de validez para tales supuestos, rigiendo el principio general de equivalencia funcional y validez jurídica de la firma digital (Artículo 3º de la Ley 25.506). <em>(📋 Verificar en texto oficial de Ley 25506)</em></li>
+</ul>
+<h3>10. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>397/01 y modificatorios</strong> (Reglamento de Presentismo Municipal). El cobro del Premio por Presentismo se perderá de forma íntegra por registrar inasistencias injustificadas, licencias extraordinarias sin goce, o por registrar más de tres (3) llegadas tarde mensuales no justificadas de más de diez (10) minutos. <em>(📋 Verificar en texto oficial de Decreto MGP 397/01 y modificatorios)</em></li>
+</ul>
+</details><details>
 <summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary><h3>1. Configuración de Accidente Laboral:</h3>
 <p><strong>Sí, el siniestro califica formalmente como un Accidente de Trabajo.</strong></p>
 <ul>
@@ -315,7 +520,55 @@ $$\text{Flow Efficiency (%)} = \left( \frac{12 \text{ horas}}{48 \text{ horas}} 
 <p><em>(📖 Scrum Manager v2.6, págs. 60-70)</em></p>
 </details>
 
-    <hr>
-    <p style="text-align:center;color:#888;font-size:0.85em">Material de estudio para el Concurso de Jefe de Departamento de Sistemas — MGP</p>
+<div class="score-calculator">
+    <h3>Calculadora de Puntaje (Autoevaluación)</h3>
+    <p>Ingresa los puntos obtenidos en cada sección para calcular tu nota final (Puntaje de aprobación: 25 puntos / 70%):</p>
+    <div class="score-row">
+        <span>Cuestión 1 (Normativa - Máx 10 pts):</span>
+        <input type="number" min="0" max="10" step="0.5" class="score-input" id="q1" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 2 (Higiene y ART - Máx 1.5 pts):</span>
+        <input type="number" min="0" max="1.5" step="0.25" class="score-input" id="q2" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 3 (Caso Disciplinario - Máx 4 pts):</span>
+        <input type="number" min="0" max="4" step="0.5" class="score-input" id="q3" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 4 (Perspectiva de Género - Máx 4.5 pts):</span>
+        <input type="number" min="0" max="4.5" step="0.25" class="score-input" id="q4" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 5 (Evaluación Técnica - Máx 15 pts):</span>
+        <input type="number" min="0" max="15" step="0.5" class="score-input" id="q5" oninput="calcScore()">
+    </div>
+    <div class="score-total">
+        <span>Puntaje Total (Máximo 35):</span>
+        <span id="total-score">0.0 / 35.0 <span class="status-badge status-fail" style="background:#cbd5e1; color:#475569">Sin evaluar</span></span>
+    </div>
+</div>
+        
+    <script>
+function calcScore() {
+    const q1 = parseFloat(document.getElementById('q1')?.value || 0);
+    const q2 = parseFloat(document.getElementById('q2')?.value || 0);
+    const q3 = parseFloat(document.getElementById('q3')?.value || 0);
+    const q4 = parseFloat(document.getElementById('q4')?.value || 0);
+    const q5 = parseFloat(document.getElementById('q5')?.value || 0);
+    
+    const total = q1 + q2 + q3 + q4 + q5;
+    const isPass = total >= 25;
+    
+    const totalElem = document.getElementById('total-score');
+    if (totalElem) {
+        totalElem.innerHTML = total.toFixed(1) + ' / 35.0 ' + 
+            (isPass 
+                ? '<span class="status-badge status-pass">APROBADO</span>' 
+                : '<span class="status-badge status-fail">DESAPROBADO</span>');
+    }
+}
+window.calcScore = calcScore;
+</script>
 </body>
 </html>

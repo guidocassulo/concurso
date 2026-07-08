@@ -9,10 +9,100 @@
 ## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)
 *Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
-### 1. De acuerdo con las disposiciones de la la Ley Orgánica de las Municipalidades y reglamentaciones de compras vigentes de la MGP, la adquisición de servidores físicos para el Data Center municipal cuyos montos superen los límites fijados para el Concurso de Precios debe realizarse obligatoriamente mediante el siguiente procedimiento de selección:
+### 1. De acuerdo con las disposiciones de la Ley Orgánica de las Municipalidades y reglamentaciones de compras vigentes de la MGP, la adquisición de servidores físicos para el Data Center municipal cuyos montos superen los límites fijados para el Concurso de Precios debe realizarse obligatoriamente mediante el siguiente procedimiento de selección:
 *   a) Licitación Pública.
 *   b) Contratación Directa por urgencia informática declarada por resolución del Jefe de Departamento.
 *   c) Licitación Privada o Concurso de Precios indistintamente, independientemente del monto.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 2. Según las normas contables públicas de la provincia, el desarrollo interno de programas y sistemas informáticos realizado por el personal de sistemas de la comuna:
+*   a) Debe registrarse íntegramente como un gasto de consumo corriente del ejercicio sin posibilidad de capitalización.
+*   b) Puede capitalizarse patrimonialmente como activo intangible siempre que se cumpla con la trazabilidad y cuantificación de costos de desarrollo.
+*   c) Requiere la aprobación previa del Honorable Concejo Deliberante para ser registrado como inversión física.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 3. Conforme a las causales de extinción de las sanciones previstas en el estatuto del empleo público municipal, las faltas cometidas por un agente que den lugar a sanciones correctivas prescriben de pleno derecho a los:
+*   a) Tres (3) meses de ocurrido el suceso.
+*   b) Seis (6) meses de cometida la falta.
+*   c) Doce (12) meses de sustanciada la imputación.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 4. Según la reglamentación municipal de la plataforma de Gestión Documental Electrónica (GDE), la incorporación de documentos a un Expediente Electrónico (EE) exige que:
+*   a) Todos los documentos físicos originales sigan archivándose en papel en la dependencia de origen.
+*   b) Todo documento digital se imprima y folee manualmente antes de su guarda temporal.
+*   c) Cada documento electrónico sea generado mediante los módulos del sistema (GEDO o CCOO), firmado digitalmente por funcionario competente, conformando un registro único.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 5. Conforme a la Ley Orgánica de las Municipalidades y la Ordenanza Complementaria de Presupuesto vigente, las reasignaciones de crédito presupuestario para transferir fondos desde gastos corrientes (bienes de consumo) a gastos de servicios no personales (consultoría informática) son atribución de:
+*   a) El Jefe de Departamento de Sistemas de forma autónoma mediante disposición interna.
+*   b) El Intendente Municipal, de conformidad con lo reglamentado en la ordenanza anual aprobada por el Honorable Concejo Deliberante.
+*   c) El Honorable Concejo Deliberante exclusivamente, requiriendo ordenanza especial en cada caso.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 6. De acuerdo con la legislación de identidad de género aplicable respecto al "Trato Digno", cuando un agente o contribuyente solicita el registro de su nombre de pila autopercibido en los sistemas informáticos municipales:
+*   a) Se debe exigir obligatoriamente la presentación previa del Documento Nacional de Identidad (DNI) rectificado.
+*   b) Se debe proceder a la rectificación y registro inmediato del nombre de pila autopercibido en los sistemas a solo requerimiento del interesado.
+*   c) Se debe iniciar un expediente administrativo con dictamen de la Procuración antes de modificar los registros informáticos.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 7. Conforme al régimen de notificaciones de la plataforma de trámites municipal (MDQ Digital), las notificaciones practicadas en el Domicilio Electrónico Constituido del contribuyente:
+*   a) Exigen que el destinatario abra obligatoriamente el documento electrónico para considerarse perfeccionadas.
+*   b) Se consideran perfeccionadas legalmente de forma automática transcurrido el plazo reglamentario desde su depósito en la bandeja del portal.
+*   c) Son meramente informativas y deben ser validadas posteriormente mediante cédula en papel.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 8. De acuerdo con el Reglamento de Presentismo de la MGP, el agente municipal conservará el derecho al cobro del Premio por Presentismo cuatrimestral cuando registre inasistencias derivadas de:
+*   a) Licencia anual ordinaria (vacaciones) o licencias extraordinarias por maternidad, paternidad, duelo o accidente de trabajo.
+*   b) Licencia por enfermedad común de corto tratamiento debidamente justificada por Salud Ocupacional.
+*   c) Suspensiones correctivas por impuntualidad no mayores a dos días hábiles.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 9. Conforme a las incompatibilidades y prohibiciones fijadas en el nomenclador de cargos informáticos municipal (Grupo Ocupacional Computación), el personal de sistemas de la comuna:
+*   a) Puede prestar servicios profesionales de consultoría técnica privada a empresas de software que contraten con la Municipalidad fuera de su horario laboral.
+*   b) Posee incompatibilidad absoluta para prestar servicios profesionales remunerados a empresas de software o tecnología que contraten con la Municipalidad.
+*   c) Puede participar libremente en proyectos privados de software con proveedores locales siempre que no utilice equipamiento municipal.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 10. Según las responsabilidades fiscales de la Ley Orgánica de las Municipalidades, todo funcionario o agente jerárquico que tenga a su cargo la custodia y administración de bienes municipales (como servidores o redes):
+*   a) Responderá administrativamente de forma colectiva con los demás agentes del sector ante pérdidas o roturas.
+*   b) Responderá patrimonial y pecuniariamente con su propio sueldo y patrimonio ante el Tribunal de Cuentas por el deterioro o pérdida del equipamiento debido a su negligencia grave.
+*   c) Queda exento de responsabilidad civil si la pérdida ocurre dentro del edificio municipal y se efectúa la denuncia policial correspondiente.
 *   d) Ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
@@ -39,16 +129,6 @@
 
 ---
 
-### 4. Según el Decreto de GDE (Decreto Nº 2.940/22 MGP) y las normas de procedimiento administrativo electrónico, la tramitación de expedientes mediante la plataforma de Gestión Documental Electrónica exige que:
-*   a) Todos los documentos físicos originales sigan archivándose en papel en la dependencia de origen de forma obligatoria por seguridad de red.
-*   b) Todo documento o archivo digital que se incorpore al Expediente Electrónico (EE) sea numerado de forma secuencial en papel por mesa de entradas del municipio.
-*   c) Cada documento electrónico incorporado al EE sea generado mediante el módulo de GEDO o CCOO, firmado digitalmente por funcionario competente, conformando un registro único y no redundante.
-*   d) Ninguna de las anteriores.
-
-**Fundamento Normativo:** __________________________________________________________________
-
----
-
 ### 5. Cálculo de Velocidad y Capacidad Ágil (Scrum Manager)
 *   **Concepto de Tiempo Real vs. Tiempo Ideal:** El tiempo real es la jornada laboral física del personal, mientras que el tiempo ideal es el esfuerzo neto necesario para completar una tarea bajo condiciones óptimas sin interrupciones ni tiempos muertos.
 
@@ -68,6 +148,39 @@
 *   *Nota del Jefe de Sistemas:* En caso de que el esfuerzo hubiera superado la capacidad de 180 horas ideales, el Jefe de Sistemas debería coordinar con el Product Owner para retirar historias de menor prioridad del backlog del sprint antes del cierre de la reunión de planificación.
 
 *(📖 Scrum Manager v2.6, Parte I, págs. 37-41)*
+
+<details>
+<summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary>
+
+### 1. Respuesta Correcta: **a**
+*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículos 151º a 156º** (Régimen de contrataciones). Las compras y contrataciones municipales de bienes y servicios (como equipamiento de servidores) que superen los límites económicos fijados anualmente por la Ley de Presupuesto de la Provincia de Buenos Aires para Licitaciones Privadas deben encuadrarse obligatoriamente en un llamado a **Licitación Pública**. El fraccionamiento del gasto para eludir este procedimiento constituye una falta grave pasible de sanción por el Honorable Tribunal de Cuentas. *(📋 LOM - Art. 151º)*
+
+### 2. Respuesta Correcta: **a**
+*   **Fundamento Normativo:** RAFAM (Decreto Provincial 2980/00), **Anexo contable de activos no corrientes**. Las normas contables públicas determinan que el desarrollo interno de programas y sistemas informáticos (activos intangibles) de uso institucional o de recaudación propia puede capitalizarse patrimonialmente como activo intangible siempre que se cumpla con la trazabilidad y cuantificación de costos de desarrollo (horas hombre dedicadas, licencias externas de desarrollo y consultoría afectada directamente al proyecto). Esto mejora el balance patrimonial de la comuna, no considerándose gasto corriente de consumo. *(📋 RAFAM)*
+
+### 3. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Ley Provincial 14656, **Artículo 26º** (Extinción del poder disciplinario). El poder disciplinario de la administración municipal se extingue por prescripción en los siguientes plazos: seis (6) meses para las faltas que dan lugar a sanciones correctivas y doce (12) meses (1 año) para las faltas que correspondan a sanciones expulsivas (cesantía). *(📋 Ley 14656)*
+
+### 4. Respuesta Correcta: **c**
+*   **Fundamento Normativo:** Decreto MGP **2.940/22 (Reglamento de GDE)**. La implementación del Expediente Electrónico (EE) municipal establece la obligatoriedad de que toda pieza documental (providencia, dictamen, nota, disposición) que se incorpore al trámite se genere a través de los módulos oficiales de GDE (GEDO, CCOO, etc.), firmándose digitalmente para asegurar su inalterabilidad, unicidad, integridad y no redundancia de documentos, prohibiéndose el uso de expedientes o folios paralelos en papel de forma simultánea. *(📋 Decreto MGP 2.940/22)*
+
+### 5. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículos 119º y 120º** y Ordenanza Complementaria de Presupuesto de la MGP **26.580**. Las reasignaciones presupuestarias que implican transferir crédito de gastos corrientes (bienes) a gastos de servicios no personales (consultoría técnica) corresponden formalmente a atribuciones presupuestarias del Intendente Municipal, de conformidad con lo reglamentado en la Ordenanza Complementaria de Presupuesto aprobada anualmente por el Honorable Concejo Deliberante (HCD). *(📋 LOM y Ord. 26.580)*
+
+### 6. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Ley Nacional de Identidad de Género Nº 26.743, **Artículo 12º** (Trato digno). Rige el derecho de toda persona a ser identificada por su nombre de pila autopercibido e identidad de género en todos los registros administrativos. El área de desarrollo de sistemas de software debe diseñar las bases de datos y la interfaz de usuario de modo tal que, a solo requerimiento del interesado, se rectifiquen y registren de forma inmediata y automática sus datos identificatorios respetando su nombre de pila autopercibido, aun si este no ha realizado el cambio en el documento nacional de identidad (DNI). *(📋 Ley 26.743 - Art. 12º)*
+
+### 7. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Decreto regulador de la Plataforma MDQ Digital (**DECFC-2024-2050-E**). El Domicilio Electrónico Constituido es jurídicamente equivalente al domicilio físico especial constituido. La notificación se considera perfeccionada legalmente transcurrido el plazo automático fijado por el decreto (generalmente 10 días hábiles) desde el depósito del acto en la bandeja de notificaciones del portal web, aun si el contribuyente no ingresó al sistema o no abrió el documento enviado. Esto evita la paralización de los plazos administrativos por inacción del usuario. *(📋 DECFC-2024-2050-E)*
+
+### 8. Respuesta Correcta: **a**
+*   **Fundamento Normativo:** Decretos MGP **397/01 y 3080/01** (Reglamento del Premio por Presentismo). El premio presentismo (licencia con goce de haberes) no se pierde por inasistencias derivadas de la licencia anual ordinaria (vacaciones) ni por licencias extraordinarias por maternidad, paternidad, adopción, duelo familiar o accidente de trabajo. En cambio, cualquier inasistencia por enfermedad común (corto tratamiento), inasistencias injustificadas, o sanciones disciplinarias por impuntualidad, interrumpen y anulan el beneficio del cuatrimestre correspondiente. *(📋 Decretos MGP 397/01 y 3080/01)*
+
+### 9. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Decreto MGP **2.250/13 (Régimen de Computación)**. El personal informático municipal del grupo computación posee incompatibilidad absoluta para asesorar, representar, programar o prestar cualquier tipo de servicio profesional de carácter remunerado a empresas de software, consultoras de tecnología o proveedores de hardware que contraten con la Municipalidad de General Pueyrredón o mantengan litigios administrativos o judiciales con el fisco municipal. *(📋 Decreto MGP 2.250/13)*
+
+### 10. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículos 241º y 242º**. Todo agente municipal de nivel jerárquico que tenga a su cargo la custodia, administración o supervisión directa de bienes municipales (como servidores o redes) responderá patrimonial y pecuniariamente con su propio sueldo y patrimonio ante el Tribunal de Cuentas por el deterioro, robo o pérdida del equipamiento si el suceso fue producto de su negligencia grave, omisión de controles elementales o incumplimiento de sus deberes jerárquicos de supervisión. *(📋 LOM - Arts. 241º y 242º)*
 
 </details>
 

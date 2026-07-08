@@ -3,43 +3,288 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simulacro Nº 8 - MGP</title>
+    <title>Simulacro Nº 8 - Concurso Jefatura de Sistemas MGP</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <style>
-        body { font-family: system-ui, -apple-system, sans-serif; max-width: 960px; margin: 0 auto; padding: 20px; line-height: 1.7; color: #1a1a2e; background: #f0f4f8; }
-        h1 { background: linear-gradient(135deg, #0077c2, #005b94); color: white; padding: 20px 30px; border-radius: 8px; margin: -20px -20px 30px; }
-        h2 { color: #0077c2; border-bottom: 3px solid #0077c2; padding-bottom: 8px; margin-top: 40px; }
-        h3 { border-left: 4px solid #0077c2; padding-left: 14px; color: #1a1a2e; }
-        h4 { color: #005b94; }
-        details { border-left: 4px solid #0077c2; background: #e8f4fd; margin: 20px 0; padding: 15px 20px; border-radius: 0 6px 6px 0; transition: all 0.3s; }
-        details[open] { background: #ffffff; border: 1px solid #c5dff0; border-left: 4px solid #0077c2; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
-        summary { font-weight: bold; cursor: pointer; color: #005b94; font-size: 1.05rem; padding: 5px 0; user-select: none; }
-        summary:hover { color: #0077c2; }
-        blockquote { background: #fff8e1; border-left: 4px solid #ffa000; padding: 15px 20px; margin: 20px 0; border-radius: 0 6px 6px 0; }
-        code { background: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-family: monospace; }
-        pre { background: #1a1a2e; color: #e8f4fd; padding: 20px; border-radius: 8px; overflow-x: auto; }
-        ul, ol { padding-left: 25px; }
-        li { margin-bottom: 6px; }
-        table { border-collapse: collapse; width: 100%; margin: 15px 0; }
-        th { background: #0077c2; color: white; padding: 10px 15px; text-align: left; }
-        td { padding: 9px 15px; border-bottom: 1px solid #ddd; }
-        tr:nth-child(even) { background: #f8f9fa; }
-        .nota { background: #fff3cd; border: 1px solid #ffc107; padding: 10px 15px; border-radius: 6px; margin: 10px 0; font-style: italic; }
-    </style>
+:root {
+    --primary: #0077c2;
+    --primary-dark: #005b94;
+    --primary-light: #e8f4fd;
+    --bg: #f8fafc;
+    --surface: #ffffff;
+    --text: #1e293b;
+    --text-muted: #64748b;
+    --border: #e2e8f0;
+    --success: #10b981;
+    --success-light: #ecfdf5;
+}
+
+body {
+    font-family: 'Outfit', 'Inter', system-ui, sans-serif;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    line-height: 1.75;
+    color: var(--text);
+    background-color: var(--bg);
+}
+
+h1 {
+    background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+    color: white;
+    padding: 30px 40px;
+    border-radius: 12px;
+    margin: -40px -20px 40px;
+    font-size: 2.2rem;
+    box-shadow: 0 10px 15px -3px rgba(0, 119, 194, 0.1), 0 4px 6px -4px rgba(0, 119, 194, 0.1);
+}
+
+h2 {
+    color: var(--primary-dark);
+    border-bottom: 3px solid var(--primary-light);
+    padding-bottom: 10px;
+    margin-top: 50px;
+    font-size: 1.6rem;
+}
+
+h3 {
+    border-left: 5px solid var(--primary);
+    padding-left: 16px;
+    color: var(--text);
+    margin-top: 30px;
+    font-size: 1.25rem;
+}
+
+h4 {
+    color: var(--primary-dark);
+    margin-top: 25px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: var(--border);
+    margin: 40px 0;
+}
+
+details {
+    border: 1px solid var(--border);
+    background: var(--surface);
+    margin: 25px 0;
+    padding: 20px 25px;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+    transition: all 0.25s ease;
+}
+
+details[open] {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -4px rgba(0, 0, 0, 0.05);
+    border-color: #cbd5e1;
+}
+
+summary {
+    font-weight: 600;
+    color: var(--primary-dark);
+    cursor: pointer;
+    outline: none;
+    user-select: none;
+    font-size: 1.05rem;
+}
+
+summary:hover {
+    color: var(--primary);
+}
+
+.score-calculator {
+    background: linear-gradient(135deg, #f1f5f9, #e2e8f0);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 30px;
+    margin-top: 50px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+.score-calculator h3 {
+    border: none;
+    padding: 0;
+    margin-top: 0;
+    color: var(--primary-dark);
+}
+
+.score-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 0;
+}
+
+.score-row span {
+    font-weight: 500;
+}
+
+.score-input {
+    width: 80px;
+    padding: 8px 12px;
+    border: 1.5px solid var(--border);
+    border-radius: 6px;
+    font-size: 1rem;
+    text-align: center;
+    background: var(--surface);
+    color: var(--text);
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.score-input:focus {
+    border-color: var(--primary);
+}
+
+.score-total {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+    padding-top: 20px;
+    border-top: 2px dashed #cbd5e1;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+#total-score {
+    color: var(--primary);
+}
+
+.status-badge {
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+.status-pass {
+    background-color: var(--success-light);
+    color: var(--success);
+}
+
+.status-fail {
+    background-color: #fef2f2;
+    color: #ef4444;
+}
+
+pre {
+    background: #1e293b;
+    color: #f8fafc;
+    padding: 20px;
+    border-radius: 8px;
+    overflow-x: auto;
+    font-family: 'Fira Code', monospace;
+    font-size: 0.9rem;
+}
+
+blockquote {
+    border-left: 4px solid var(--primary);
+    background: var(--primary-light);
+    margin: 25px 0;
+    padding: 15px 25px;
+    border-radius: 0 8px 8px 0;
+    color: #0f172a;
+}
+</style>
 </head>
 <body>
-    <h1>Simulacro Nº 8<br><small style="font-size:0.7em;font-weight:normal;opacity:0.9">Municipalidad de General Pueyrredón — Concurso de Cargos Jerárquicos</small></h1>
     <h1>SIMULACRO DE EXAMEN Nº 8</h1>
 <p><strong>Cargo:</strong> Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
 <hr>
 <h2>CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)</h2>
 <p><em>Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.</em></p>
-<h3>1. De acuerdo con las disposiciones de la la Ley Orgánica de las Municipalidades y reglamentaciones de compras vigentes de la MGP, la adquisición de servidores físicos para el Data Center municipal cuyos montos superen los límites fijados para el Concurso de Precios debe realizarse obligatoriamente mediante el siguiente procedimiento de selección:</h3>
+<h3>1. De acuerdo con las disposiciones de la Ley Orgánica de las Municipalidades y reglamentaciones de compras vigentes de la MGP, la adquisición de servidores físicos para el Data Center municipal cuyos montos superen los límites fijados para el Concurso de Precios debe realizarse obligatoriamente mediante el siguiente procedimiento de selección:</h3>
 <ul>
 <li>a) Licitación Pública.</li>
 <li>b) Contratación Directa por urgencia informática declarada por resolución del Jefe de Departamento.</li>
 <li>c) Licitación Privada o Concurso de Precios indistintamente, independientemente del monto.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>2. Según las normas contables públicas de la provincia, el desarrollo interno de programas y sistemas informáticos realizado por el personal de sistemas de la comuna:</h3>
+<ul>
+<li>a) Debe registrarse íntegramente como un gasto de consumo corriente del ejercicio sin posibilidad de capitalización.</li>
+<li>b) Puede capitalizarse patrimonialmente como activo intangible siempre que se cumpla con la trazabilidad y cuantificación de costos de desarrollo.</li>
+<li>c) Requiere la aprobación previa del Honorable Concejo Deliberante para ser registrado como inversión física.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>3. Conforme a las causales de extinción de las sanciones previstas en el estatuto del empleo público municipal, las faltas cometidas por un agente que den lugar a sanciones correctivas prescriben de pleno derecho a los:</h3>
+<ul>
+<li>a) Tres (3) meses de ocurrido el suceso.</li>
+<li>b) Seis (6) meses de cometida la falta.</li>
+<li>c) Doce (12) meses de sustanciada la imputación.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>4. Según la reglamentación municipal de la plataforma de Gestión Documental Electrónica (GDE), la incorporación de documentos a un Expediente Electrónico (EE) exige que:</h3>
+<ul>
+<li>a) Todos los documentos físicos originales sigan archivándose en papel en la dependencia de origen.</li>
+<li>b) Todo documento digital se imprima y folee manualmente antes de su guarda temporal.</li>
+<li>c) Cada documento electrónico sea generado mediante los módulos del sistema (GEDO o CCOO), firmado digitalmente por funcionario competente, conformando un registro único.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>5. Conforme a la Ley Orgánica de las Municipalidades y la Ordenanza Complementaria de Presupuesto vigente, las reasignaciones de crédito presupuestario para transferir fondos desde gastos corrientes (bienes de consumo) a gastos de servicios no personales (consultoría informática) son atribución de:</h3>
+<ul>
+<li>a) El Jefe de Departamento de Sistemas de forma autónoma mediante disposición interna.</li>
+<li>b) El Intendente Municipal, de conformidad con lo reglamentado en la ordenanza anual aprobada por el Honorable Concejo Deliberante.</li>
+<li>c) El Honorable Concejo Deliberante exclusivamente, requiriendo ordenanza especial en cada caso.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>6. De acuerdo con la legislación de identidad de género aplicable respecto al &quot;Trato Digno&quot;, cuando un agente o contribuyente solicita el registro de su nombre de pila autopercibido en los sistemas informáticos municipales:</h3>
+<ul>
+<li>a) Se debe exigir obligatoriamente la presentación previa del Documento Nacional de Identidad (DNI) rectificado.</li>
+<li>b) Se debe proceder a la rectificación y registro inmediato del nombre de pila autopercibido en los sistemas a solo requerimiento del interesado.</li>
+<li>c) Se debe iniciar un expediente administrativo con dictamen de la Procuración antes de modificar los registros informáticos.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>7. Conforme al régimen de notificaciones de la plataforma de trámites municipal (MDQ Digital), las notificaciones practicadas en el Domicilio Electrónico Constituido del contribuyente:</h3>
+<ul>
+<li>a) Exigen que el destinatario abra obligatoriamente el documento electrónico para considerarse perfeccionadas.</li>
+<li>b) Se consideran perfeccionadas legalmente de forma automática transcurrido el plazo reglamentario desde su depósito en la bandeja del portal.</li>
+<li>c) Son meramente informativas y deben ser validadas posteriormente mediante cédula en papel.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>8. De acuerdo con el Reglamento de Presentismo de la MGP, el agente municipal conservará el derecho al cobro del Premio por Presentismo cuatrimestral cuando registre inasistencias derivadas de:</h3>
+<ul>
+<li>a) Licencia anual ordinaria (vacaciones) o licencias extraordinarias por maternidad, paternidad, duelo o accidente de trabajo.</li>
+<li>b) Licencia por enfermedad común de corto tratamiento debidamente justificada por Salud Ocupacional.</li>
+<li>c) Suspensiones correctivas por impuntualidad no mayores a dos días hábiles.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>9. Conforme a las incompatibilidades y prohibiciones fijadas en el nomenclador de cargos informáticos municipal (Grupo Ocupacional Computación), el personal de sistemas de la comuna:</h3>
+<ul>
+<li>a) Puede prestar servicios profesionales de consultoría técnica privada a empresas de software que contraten con la Municipalidad fuera de su horario laboral.</li>
+<li>b) Posee incompatibilidad absoluta para prestar servicios profesionales remunerados a empresas de software o tecnología que contraten con la Municipalidad.</li>
+<li>c) Puede participar libremente en proyectos privados de software con proveedores locales siempre que no utilice equipamiento municipal.</li>
+<li>d) Ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>10. Según las responsabilidades fiscales de la Ley Orgánica de las Municipalidades, todo funcionario o agente jerárquico que tenga a su cargo la custodia y administración de bienes municipales (como servidores o redes):</h3>
+<ul>
+<li>a) Responderá administrativamente de forma colectiva con los demás agentes del sector ante pérdidas o roturas.</li>
+<li>b) Responderá patrimonial y pecuniariamente con su propio sueldo y patrimonio ante el Tribunal de Cuentas por el deterioro o pérdida del equipamiento debido a su negligencia grave.</li>
+<li>c) Queda exento de responsabilidad civil si la pérdida ocurre dentro del edificio municipal y se efectúa la denuncia policial correspondiente.</li>
 <li>d) Ninguna de las anteriores.</li>
 </ul>
 <p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
@@ -64,15 +309,6 @@
 </ul>
 <p><em>(📖 Scrum Manager v2.6, Parte II, págs. 65-66)</em></p>
 <hr>
-<h3>4. Según el Decreto de GDE (Decreto Nº 2.940/22 MGP) y las normas de procedimiento administrativo electrónico, la tramitación de expedientes mediante la plataforma de Gestión Documental Electrónica exige que:</h3>
-<ul>
-<li>a) Todos los documentos físicos originales sigan archivándose en papel en la dependencia de origen de forma obligatoria por seguridad de red.</li>
-<li>b) Todo documento o archivo digital que se incorpore al Expediente Electrónico (EE) sea numerado de forma secuencial en papel por mesa de entradas del municipio.</li>
-<li>c) Cada documento electrónico incorporado al EE sea generado mediante el módulo de GEDO o CCOO, firmado digitalmente por funcionario competente, conformando un registro único y no redundante.</li>
-<li>d) Ninguna de las anteriores.</li>
-</ul>
-<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
-<hr>
 <h3>5. Cálculo de Velocidad y Capacidad Ágil (Scrum Manager)</h3>
 <ul>
 <li><strong>Concepto de Tiempo Real vs. Tiempo Ideal:</strong> El tiempo real es la jornada laboral física del personal, mientras que el tiempo ideal es el esfuerzo neto necesario para completar una tarea bajo condiciones óptimas sin interrupciones ni tiempos muertos.</li>
@@ -95,6 +331,47 @@ $\text{Esfuerzo Total Backlog} = 35 \text{ (HU A)} + 42 \text{ (HU B)} + 28 \tex
 <li><em>Nota del Jefe de Sistemas:</em> En caso de que el esfuerzo hubiera superado la capacidad de 180 horas ideales, el Jefe de Sistemas debería coordinar con el Product Owner para retirar historias de menor prioridad del backlog del sprint antes del cierre de la reunión de planificación.</li>
 </ul>
 <p><em>(📖 Scrum Manager v2.6, Parte I, págs. 37-41)</em></p>
+<details>
+<summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary><h3>1. Respuesta Correcta: <strong>a</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículos 151º a 156º</strong> (Régimen de contrataciones). Las compras y contrataciones municipales de bienes y servicios (como equipamiento de servidores) que superen los límites económicos fijados anualmente por la Ley de Presupuesto de la Provincia de Buenos Aires para Licitaciones Privadas deben encuadrarse obligatoriamente en un llamado a <strong>Licitación Pública</strong>. El fraccionamiento del gasto para eludir este procedimiento constituye una falta grave pasible de sanción por el Honorable Tribunal de Cuentas. <em>(📋 LOM - Art. 151º)</em></li>
+</ul>
+<h3>2. Respuesta Correcta: <strong>a</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> RAFAM (Decreto Provincial 2980/00), <strong>Anexo contable de activos no corrientes</strong>. Las normas contables públicas determinan que el desarrollo interno de programas y sistemas informáticos (activos intangibles) de uso institucional o de recaudación propia puede capitalizarse patrimonialmente como activo intangible siempre que se cumpla con la trazabilidad y cuantificación de costos de desarrollo (horas hombre dedicadas, licencias externas de desarrollo y consultoría afectada directamente al proyecto). Esto mejora el balance patrimonial de la comuna, no considerándose gasto corriente de consumo. <em>(📋 RAFAM)</em></li>
+</ul>
+<h3>3. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Provincial 14656, <strong>Artículo 26º</strong> (Extinción del poder disciplinario). El poder disciplinario de la administración municipal se extingue por prescripción en los siguientes plazos: seis (6) meses para las faltas que dan lugar a sanciones correctivas y doce (12) meses (1 año) para las faltas que correspondan a sanciones expulsivas (cesantía). <em>(📋 Ley 14656)</em></li>
+</ul>
+<h3>4. Respuesta Correcta: <strong>c</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>2.940/22 (Reglamento de GDE)</strong>. La implementación del Expediente Electrónico (EE) municipal establece la obligatoriedad de que toda pieza documental (providencia, dictamen, nota, disposición) que se incorpore al trámite se genere a través de los módulos oficiales de GDE (GEDO, CCOO, etc.), firmándose digitalmente para asegurar su inalterabilidad, unicidad, integridad y no redundancia de documentos, prohibiéndose el uso de expedientes o folios paralelos en papel de forma simultánea. <em>(📋 Decreto MGP 2.940/22)</em></li>
+</ul>
+<h3>5. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículos 119º y 120º</strong> y Ordenanza Complementaria de Presupuesto de la MGP <strong>26.580</strong>. Las reasignaciones presupuestarias que implican transferir crédito de gastos corrientes (bienes) a gastos de servicios no personales (consultoría técnica) corresponden formalmente a atribuciones presupuestarias del Intendente Municipal, de conformidad con lo reglamentado en la Ordenanza Complementaria de Presupuesto aprobada anualmente por el Honorable Concejo Deliberante (HCD). <em>(📋 LOM y Ord. 26.580)</em></li>
+</ul>
+<h3>6. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Nacional de Identidad de Género Nº 26.743, <strong>Artículo 12º</strong> (Trato digno). Rige el derecho de toda persona a ser identificada por su nombre de pila autopercibido e identidad de género en todos los registros administrativos. El área de desarrollo de sistemas de software debe diseñar las bases de datos y la interfaz de usuario de modo tal que, a solo requerimiento del interesado, se rectifiquen y registren de forma inmediata y automática sus datos identificatorios respetando su nombre de pila autopercibido, aun si este no ha realizado el cambio en el documento nacional de identidad (DNI). <em>(📋 Ley 26.743 - Art. 12º)</em></li>
+</ul>
+<h3>7. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto regulador de la Plataforma MDQ Digital (<strong>DECFC-2024-2050-E</strong>). El Domicilio Electrónico Constituido es jurídicamente equivalente al domicilio físico especial constituido. La notificación se considera perfeccionada legalmente transcurrido el plazo automático fijado por el decreto (generalmente 10 días hábiles) desde el depósito del acto en la bandeja de notificaciones del portal web, aun si el contribuyente no ingresó al sistema o no abrió el documento enviado. Esto evita la paralización de los plazos administrativos por inacción del usuario. <em>(📋 DECFC-2024-2050-E)</em></li>
+</ul>
+<h3>8. Respuesta Correcta: <strong>a</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decretos MGP <strong>397/01 y 3080/01</strong> (Reglamento del Premio por Presentismo). El premio presentismo (licencia con goce de haberes) no se pierde por inasistencias derivadas de la licencia anual ordinaria (vacaciones) ni por licencias extraordinarias por maternidad, paternidad, adopción, duelo familiar o accidente de trabajo. En cambio, cualquier inasistencia por enfermedad común (corto tratamiento), inasistencias injustificadas, o sanciones disciplinarias por impuntualidad, interrumpen y anulan el beneficio del cuatrimestre correspondiente. <em>(📋 Decretos MGP 397/01 y 3080/01)</em></li>
+</ul>
+<h3>9. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>2.250/13 (Régimen de Computación)</strong>. El personal informático municipal del grupo computación posee incompatibilidad absoluta para asesorar, representar, programar o prestar cualquier tipo de servicio profesional de carácter remunerado a empresas de software, consultoras de tecnología o proveedores de hardware que contraten con la Municipalidad de General Pueyrredón o mantengan litigios administrativos o judiciales con el fisco municipal. <em>(📋 Decreto MGP 2.250/13)</em></li>
+</ul>
+<h3>10. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículos 241º y 242º</strong>. Todo agente municipal de nivel jerárquico que tenga a su cargo la custodia, administración o supervisión directa de bienes municipales (como servidores o redes) responderá patrimonial y pecuniariamente con su propio sueldo y patrimonio ante el Tribunal de Cuentas por el deterioro, robo o pérdida del equipamiento si el suceso fue producto de su negligencia grave, omisión de controles elementales o incumplimiento de sus deberes jerárquicos de supervisión. <em>(📋 LOM - Arts. 241º y 242º)</em></li>
+</ul>
 </details><details>
 <summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary><h3>1. Configuración de Accidente Laboral (Ley 24557):</h3>
 <p><strong>Sí, el hecho configura un Accidente de Trabajo.</strong></p>
@@ -335,7 +612,55 @@ $$\text{Flow Efficiency (LT)} = \left( \frac{1.6 \text{ días}}{12 \text{ días}
     </div>
 </div>
 
-    <hr>
-    <p style="text-align:center;color:#888;font-size:0.85em">Material de estudio para el Concurso de Jefe de Departamento de Sistemas — MGP</p>
+<div class="score-calculator">
+    <h3>Calculadora de Puntaje (Autoevaluación)</h3>
+    <p>Ingresa los puntos obtenidos en cada sección para calcular tu nota final (Puntaje de aprobación: 25 puntos / 70%):</p>
+    <div class="score-row">
+        <span>Cuestión 1 (Normativa - Máx 10 pts):</span>
+        <input type="number" min="0" max="10" step="0.5" class="score-input" id="q1" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 2 (Higiene y ART - Máx 1.5 pts):</span>
+        <input type="number" min="0" max="1.5" step="0.25" class="score-input" id="q2" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 3 (Caso Disciplinario - Máx 4 pts):</span>
+        <input type="number" min="0" max="4" step="0.5" class="score-input" id="q3" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 4 (Perspectiva de Género - Máx 4.5 pts):</span>
+        <input type="number" min="0" max="4.5" step="0.25" class="score-input" id="q4" oninput="calcScore()">
+    </div>
+    <div class="score-row">
+        <span>Cuestión 5 (Evaluación Técnica - Máx 15 pts):</span>
+        <input type="number" min="0" max="15" step="0.5" class="score-input" id="q5" oninput="calcScore()">
+    </div>
+    <div class="score-total">
+        <span>Puntaje Total (Máximo 35):</span>
+        <span id="total-score">0.0 / 35.0 <span class="status-badge status-fail" style="background:#cbd5e1; color:#475569">Sin evaluar</span></span>
+    </div>
+</div>
+        
+    <script>
+function calcScore() {
+    const q1 = parseFloat(document.getElementById('q1')?.value || 0);
+    const q2 = parseFloat(document.getElementById('q2')?.value || 0);
+    const q3 = parseFloat(document.getElementById('q3')?.value || 0);
+    const q4 = parseFloat(document.getElementById('q4')?.value || 0);
+    const q5 = parseFloat(document.getElementById('q5')?.value || 0);
+    
+    const total = q1 + q2 + q3 + q4 + q5;
+    const isPass = total >= 25;
+    
+    const totalElem = document.getElementById('total-score');
+    if (totalElem) {
+        totalElem.innerHTML = total.toFixed(1) + ' / 35.0 ' + 
+            (isPass 
+                ? '<span class="status-badge status-pass">APROBADO</span>' 
+                : '<span class="status-badge status-fail">DESAPROBADO</span>');
+    }
+}
+window.calcScore = calcScore;
+</script>
 </body>
 </html>
