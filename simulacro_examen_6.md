@@ -63,9 +63,9 @@
 ## CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)
 *Consigna: Resuelva el caso disciplinario planteado y redacte el acto administrativo correspondiente.*
 
-> Durante un control de seguridad técnica de accesos lógicos y auditoría de logs del reloj biométrico municipal, la Dirección de Personal detecta que el agente de soporte informático A.T. (Legajo Nº 44.444, Categoría Técnico I) utilizó sin autorización las credenciales de administración del superior jerárquico para acceder al servidor de control horario y adulterar fraudulentamente las fichadas de asistencia (ingresos y egresos) propias y de terceros, intentando encubrir ausencias injustificadas.
+> Durante una auditoría técnica en la base de datos de producción del Sistema de Recaudación Tributaria municipal, la Dirección de Auditoría Interna detecta que el agente de soporte informático A.T. (Legajo Nº 44.444, Categoría Técnico I) accedió de forma no autorizada al servidor utilizando privilegios elevados y modificó directamente mediante consola SQL los registros de deudas de tasas por servicios urbanos de un inmueble particular, eliminando saldos pendientes de pago por un monto millonario a fin de favorecer a un contribuyente.
 > 
-> Al tomar conocimiento, usted como Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software debe iniciar los procedimientos correctivos obligatorios.
+> Al tomar conocimiento de esta grave irregularidad técnica y administrativa, usted como Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software debe iniciar los procedimientos correctivos obligatorios.
 > 
 > Se solicita:
 > 1. Analice fundadamente de conformidad con la Ley 14656 qué tipo de sanción disciplinaria definitiva corresponde ante la gravedad del hecho y si usted posee facultades para aplicarla de forma directa, detallando qué medida de seguridad preventiva lógica e inmediata debe adoptar respecto a los accesos del agente A.T. (1.5 Puntos)
@@ -123,8 +123,8 @@
 <summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary>
 
 ### 1. Procedimiento Disciplinario y Medida Jerárquica Directa
-*   **Procedimiento Obligatorio:** Al configurarse la comisión de una falta administrativa gravísima de índole ética e informática (utilización indebida de credenciales del superior para alterar de forma fraudulenta las marcas biométricas del reloj horario de asistencia), la sanción a aplicar es la de **cesantía o exoneración** del agente A.T. Por consiguiente, **es requisito obligatorio tramitar un Sumario Administrativo previo** (Artículo 108º de la Ley 14656).
-*   **Medida Preventiva de Sistemas:** El Jefe de Sistemas de Software debe ordenar de forma inmediata el **bloqueo físico y lógico de todos los perfiles de acceso (usuarios Active Directory, VPN, accesos a bases de datos y terminales físicas) del agente A.T.**, impidiendo cualquier interacción técnica con los sistemas del municipio en tanto dure la tramitación de las actuaciones para evitar adulteración o eliminación de logs y registros del sistema.
+*   **Procedimiento Obligatorio:** Al configurarse la comisión de una falta administrativa gravísima de índole ética e informática (utilización indebida de privilegios elevados de base de datos para acceder de forma no autorizada mediante consola SQL y suprimir deudas de contribuyentes en el sistema de recaudación tributaria), la sanción a aplicar es de naturaleza expulsiva (de **cesantía o exoneración** del agente A.T.). Por consiguiente, **es requisito obligatorio tramitar un Sumario Administrativo previo** (Artículo 108º de la Ley 14656).
+*   **Medida Preventiva de Sistemas:** El Jefe de Sistemas de Software debe ordenar de forma inmediata el **bloqueo físico y lógico de todos los perfiles de acceso (usuarios Active Directory, VPN, accesos a bases de datos y terminales físicas) del agente A.T.**, impidiendo cualquier interacción técnica con los sistemas del municipio en tanto dure la tramitación de las actuaciones para evitar adulteración, borrado o eliminación de logs y registros en las bases de datos de producción.
 
 ---
 
@@ -132,11 +132,11 @@
 
 **MAR DEL PLATA,** [Insertar Fecha]
 
-**VISTO** las alteraciones y accesos no autorizados detectados en las auditorías técnicas de la base de datos biométrica de control de asistencia municipal con fecha [Fecha del hecho], que involucran al Agente A.T., Legajo Nº 44.444; y
+**VISTO** las alteraciones y accesos no autorizados detectados en las auditorías técnicas de la base de datos de producción del Sistema de Recaudación Tributaria municipal con fecha [Fecha del hecho], que involucran al Agente A.T., Legajo Nº 44.444; y
 
 **CONSIDERANDO:**
 
-Que las auditorías y trazabilidad de logs del servidor de base de datos de asistencia determinaron que se utilizaron credenciales de administración del superior sin autorización previa para alterar y adulterar los registros de fichadas de ingresos y egresos del agente de mención y de terceros.
+Que las auditorías y trazabilidad de logs del servidor de base de datos tributaria determinaron que se ingresó de forma no autorizada mediante consola SQL utilizando credenciales de administración con privilegios elevados para alterar y suprimir fraudulentamente los registros de deudas de un contribuyente particular.
 
 * Que con el fin de garantizar el debido proceso se solicitó el descargo correspondiente sin aportar argumentos válidos que justifiquen su conducta.
 
@@ -144,7 +144,7 @@ Que este hecho configura una transgresión gravísima a las obligaciones de buen
 
 Que dada la extrema gravedad de la conducta y la naturaleza expulsiva de la eventual sanción definitiva (cesantía o exoneración), resulta obligatorio solicitar la instrucción de un Sumario Administrativo previo según lo determina el Artículo 108º de la Ley Nº 14656.
 
-Que por razones imperativas de seguridad informática de la red de datos del municipio y para salvaguardar la integridad de las bases de datos de personal, se estima indispensable ordenar la suspensión preventiva del agente A.T. y el cese de sus accesos técnicos lógicos.
+Que por razones imperativas de seguridad informática de la red de datos del municipio y para salvaguardar la integridad de las bases de datos financieras y tributarias, se estima indispensable ordenar la suspensión preventiva del agente A.T. y el cese inmediato de todos sus accesos técnicos lógicos.
 
 Por ello, en uso de las atribuciones de supervisión técnico-disciplinarias de la dependencia,
 
