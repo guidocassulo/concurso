@@ -152,14 +152,14 @@ CONSIDERANDO:
 ---
 
 ## CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA LABORAL (4.5 Puntos)
-*Consigna: Resuelva el caso en base al Protocolo de Violencia de Género de la MGP (Ordenanza 24271, Anexo I, Punto 4, Punto 3, Anexo I) y las pautas de la Ley Micaela.*
+*Consigna: Resuelva el caso en base al protocolo municipal de violencia de género aplicable y la normativa vigente.*
 
 > En el canal oficial de Microsoft Teams del equipo de desarrollo de software del municipio, un programador senior publica en el canal general un meme de contenido altamente sexista y degradante hacia las capacidades de las mujeres en carreras de ingeniería y desarrollo de código. Ante las quejas informales de dos programadoras del equipo, el agente responde por el mismo canal público minimizando los reclamos de sus compañeras, tratándolas de *"exageradas y carentes de humor"* y sugiriendo que *"deberían dedicarse al soporte telefónico si no toleran los chistes del sector"*.
 > 
 > Una de las programadoras afectadas presenta una queja escrita ante usted como Jefe de Departamento.
 > 
 > Se solicita:
-> 1. Encuadre la conducta descrita bajo las prescripciones de la Ley Micaela y la Ordenanza Nº 24271, Anexo I de la MGP. ¿Configura violencia laboral por razones de género? (1.5 Puntos)
+> 1. Encuadre la conducta descrita bajo la normativa municipal y nacional en materia de género y violencia laboral. ¿Configura violencia laboral por razones de género? (1.5 Puntos)
 > 2. Detalle las acciones de resguardo, de cese del hostigamiento y los principios de abordaje inmediato que debe aplicar como superior jerárquico ante la queja formalizada. (1.5 Puntos)
 > 3. Indique qué dependencias y organismos municipales externos a su departamento deben intervenir de forma coordinada para tramitar la denuncia y brindar acompañamiento integral a las afectadas. (1.5 Puntos)
 

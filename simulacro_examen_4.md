@@ -19,7 +19,7 @@
 
 ---
 
-### 2. Según el Estatuto de Empleo Público Municipal (Ley 14656), el personal seleccionado ingresa al municipio bajo la condición de estabilidad laboral tras superar un período de prueba de:
+### 2. Según el Estatuto de Empleo Público Municipal (el estatuto del empleo público municipal), el personal seleccionado ingresa al municipio bajo la condición de estabilidad laboral tras superar un período de prueba de:
 *   a) Tres (3) meses de servicio activo.
 *   b) Seis (6) meses de servicio activo.
 *   c) Doce (12) meses de prestación de servicios efectiva.
@@ -49,7 +49,7 @@
 
 ---
 
-### 5. De conformidad con el régimen estatutario (Ley 14656), el agente municipal masculino tiene derecho por el nacimiento de su hijo/a a usufructuar una licencia por paternidad de:
+### 5. De conformidad con el régimen estatutario (el estatuto del empleo público municipal), el agente municipal masculino tiene derecho por el nacimiento de su hijo/a a usufructuar una licencia por paternidad de:
 *   a) Dos (2) días hábiles administrativos.
 *   b) Cinco (5) días corridos.
 *   c) Quince (15) días corridos con goce íntegro de haberes.
@@ -79,7 +79,7 @@
 
 ---
 
-### 8. En el proceso de compras del área de Sistemas bajo el régimen de la L.O.M. y la RAFAM, la responsabilidad de redactar las especificaciones técnicas detalladas y los requerimientos funcionales del Pliego de Bases y Condiciones Particulares recae sobre:
+### 8. En el proceso de compras del área de Sistemas bajo el régimen de la la Ley Orgánica de las Municipalidades y la RAFAM, la responsabilidad de redactar las especificaciones técnicas detalladas y los requerimientos funcionales del Pliego de Bases y Condiciones Particulares recae sobre:
 *   a) La Dirección de Compras y Suministros municipal de forma exclusiva.
 *   b) El Contador Municipal para verificar los códigos de barra.
 *   c) El Jefe del Departamento Técnico (área usuaria y especialista) que inicia el requerimiento de gasto.
@@ -99,7 +99,7 @@
 
 ---
 
-### 10. Conforme a la Ley 14656 y decretos municipales, el agente municipal que deba ausentarse para el cuidado de un miembro enfermo del grupo familiar directo a su cargo, puede solicitar licencia con goce de haberes por un límite anual de:
+### 10. Conforme a la el estatuto del empleo público municipal y decretos municipales, el agente municipal que deba ausentarse para el cuidado de un miembro enfermo del grupo familiar directo a su cargo, puede solicitar licencia con goce de haberes por un límite anual de:
 *   a) Hasta cinco (5) días hábiles únicamente.
 *   b) Hasta veinte (20) días corridos por año calendario (prorrogables según reglamentación).
 *   c) Hasta noventa (90) días continuos.
@@ -116,7 +116,7 @@
 > 
 > Se solicita:
 > 1. Indique si el siniestro configura un accidente laboral cubierto y qué norma nacional rige la cobertura de salud e indemnizaciones.
-> 2. Identifique qué obligaciones y deberes de la Ley de Higiene y Seguridad Laboral Nº 19587 se omitieron en el ámbito de trabajo y qué elementos debieron de haberse provisto para evitar el siniestro.
+> 2. Identifique qué obligaciones y deberes de la la legislación de higiene y seguridad laboral aplicable se omitieron en el ámbito de trabajo y qué elementos debieron de haberse provisto para evitar el siniestro.
 
 ---
 
@@ -125,10 +125,10 @@
 
 > Mediante una auditoría de sistemas e inspección de tráfico de red, la Dirección General de TIC constata que el agente F.M. (Legajo Nº 66.666, Categoría Técnico II, Programador) instaló y ejecutó de manera continua un software de minería de criptomonedas utilizando la capacidad de procesamiento de tres servidores virtuales del municipio destinados al portal de trámites, consumiendo de forma anómala el ancho de banda del organismo en beneficio económico personal. El agente reconoce el hecho por escrito, manifestando que "fue en horario muerto" y que "no dañó ningún archivo".
 > 
-> Al configurarse una falta grave de uso indebido de bienes públicos y violación de las normas de seguridad informática de la comuna (Art. 107 inc 1 y 5 Ley 14656), usted como Jefe de Sistemas de Software decide elevar las actuaciones para aplicar una sanción severa de suspensión y apartar preventivamente al agente de los servidores.
+> Al configurarse una falta grave de uso indebido de bienes públicos y violación de las normas de seguridad informática de la comuna, usted como Jefe de Sistemas de Software decide elevar las actuaciones para aplicar una sanción severa de suspensión y apartar preventivamente al agente de los servidores.
 > 
 > Se solicita:
-> 1. Indique fundadamente qué procedimiento formal se debe seguir conforme a la Ley 14656 y qué medida preventiva inmediata debe solicitar respecto al perfil de accesos lógicos y físicos del agente en los servidores municipales. (1.5 Puntos)
+> 1. Indique fundadamente qué procedimiento formal se debe seguir conforme al estatuto del empleo público municipal y qué medida preventiva inmediata debe solicitar respecto al perfil de accesos lógicos y físicos del agente en los servidores municipales. (1.5 Puntos)
 > 2. Redacte la parte dispositiva y de fundamentación (`VISTO`, `CONSIDERANDO` y `DISPONE`) de la Disposición mediante la cual usted, como Jefe de Departamento, eleva el caso promoviendo el sumario y disponiendo la medida precautoria. (2.5 Puntos)
 
 ---
@@ -139,8 +139,9 @@
 > Una analista programadora de su dependencia presenta una nota formal ante su Jefatura solicitando que en todos los registros internos de la oficina (listados de asistencia, credencial de acceso físico, firma de correos electrónicos institucionales y usuario de red corporativo) se modifique su nombre anterior por el de "Juana Pérez" y su dirección de correo a `juana.perez@mardelplata.gov.ar` para respetar su identidad de género autopercibida. Informa que aún no ha iniciado el trámite judicial/registral de rectificación de su DNI.
 > 
 > Se solicita:
-> 1. Explique cómo debe proceder usted como Jefe de Departamento y qué establece la Ley Nacional de Identidad de Género Nº 26743 respecto al "Trato Digno" y el nombre autopercibido en los registros públicos de la administración. (2.5 Puntos)
+> 1. Explique cómo debe proceder usted como Jefe de Departamento y qué establece la legislación sobre identidad de género respecto al "Trato Digno" y el nombre autopercibido en los registros públicos de la administración. (2.5 Puntos)
 > 2. Indique si es legalmente válido exigirle a la agente la presentación del DNI rectificado como condición previa para realizar los cambios solicitados en los sistemas de información municipales. (2.0 Puntos)
+
 
 ---
 

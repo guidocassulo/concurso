@@ -19,7 +19,7 @@
 
 ---
 
-### 2. De acuerdo con el Escalafón del Personal de la Municipalidad de General Pueyrredón y el Decreto de Habilitación Tecnológica (Decreto 2250/13 - Grupo Ocupacional Computación), el personal de sistemas se divide técnicamente en los siguientes agrupamientos profesionales y técnicos:
+### 2. De acuerdo con el Escalafón del Personal de la Municipalidad de General Pueyrredón y el Decreto de Habilitación Tecnológica (el nomenclador de cargos informáticos municipal - Grupo Ocupacional Computación), el personal de sistemas se divide técnicamente en los siguientes agrupamientos profesionales y técnicos:
 *   a) Administrativos generales de sistemas, Operarios de PC y Técnicos de red exclusivamente.
 *   b) Operación, Programación, Análisis de Sistemas y Soporte Técnico.
 *   c) Profesionales informáticos del área nacional, personal técnico y agentes de mantenimiento.
@@ -59,7 +59,7 @@
 
 ---
 
-### 6. De acuerdo con el régimen del Estatuto Municipal (Ley 14656), la estabilidad absoluta de planta permanente del agente público municipal se adquiere de pleno derecho:
+### 6. De acuerdo con el régimen del Estatuto Municipal (el estatuto del empleo público municipal), la estabilidad absoluta de planta permanente del agente público municipal se adquiere de pleno derecho:
 *   a) Al cumplir seis (6) meses de prestación de servicio y ser ratificado por escrito.
 *   b) Automáticamente al cumplir los doce (12) meses de prestación de servicios efectiva, si no mediare calificación desfavorable del superior o exoneración decretada.
 *   c) Al cumplir los dos (2) años de antigüedad en el legajo del agente.
@@ -99,7 +99,7 @@
 
 ---
 
-### 10. Conforme a las licencias vigentes en la Ley 14656, Artículo 89º y decretos municipales, la licencia extraordinaria por atención de familiar enfermo a cargo directo se otorga bajo las siguientes condiciones de cobro:
+### 10. Conforme a las licencias vigentes en la el estatuto del empleo público municipal, Artículo 89º y decretos municipales, la licencia extraordinaria por atención de familiar enfermo a cargo directo se otorga bajo las siguientes condiciones de cobro:
 *   a) Sin goce de sueldo en todos los casos por tratarse de un asunto particular del agente.
 *   b) Con goce íntegro de haberes por el período reglamentario máximo (hasta 20 días al año).
 *   c) Con descuento del 50% del salario básico a partir del tercer día de inasistencia.
@@ -115,8 +115,8 @@
 > Un analista programador de su dependencia, asignado a tareas de desarrollo del portal de autogestión de tasas, presenta un reclamo formal ante la Jefatura. Manifiesta que padece fatiga visual severa, dolores de cabeza y síndrome del ojo seco de carácter crónico debido a que la iluminación de su puesto de trabajo es deficiente y la pantalla no cuenta con filtros ergonómicos. Solicita el inicio de un expediente de cobertura médica ante la ART contratada por el municipio.
 > 
 > Se solicita:
-> 1. Determine, con base en la Ley 24557 (Artículo 6º), si la patología expuesta califica como una contingencia de cobertura directa por parte de la ART o si el agente debe iniciar un trámite excepcional para demostrar el nexo de causalidad laboral. Explique el procedimiento.
-> 2. Detalle cuáles son los deberes preventivos y las condiciones higiénico-ambientales que el Municipio (empleador) debe garantizar según la Ley de Higiene y Seguridad Nº 19587 (Artículos 8º y 9º) con respecto a la iluminación y confort de pantallas, e indique qué medidas preventivas inmediatas debe adoptar el Jefe de Sistemas de Software.
+> 1. Determine, con base en la legislación de riesgos del trabajo aplicable, si la patología expuesta califica como una contingencia de cobertura directa por parte de la ART o si el agente debe iniciar un trámite excepcional para demostrar el nexo de causalidad laboral. Explique el procedimiento y fundamente legalmente.
+> 2. Detalle cuáles son los deberes preventivos y las condiciones higiénico-ambientales que el Municipio (empleador) debe garantizar según la legislación de higiene y seguridad laboral aplicable con respecto a la iluminación y confort de pantallas, e indique qué medidas preventivas inmediatas debe adoptar el Jefe de Sistemas de Software.
 
 ---
 
@@ -128,15 +128,15 @@
 > El agente J.L. se niega a cumplir la orden, manifestando por escrito en su descargo que dicha tarea de mantenimiento físico de hardware corresponde al agrupamiento de soporte técnico y excede sus funciones específicas de programación.
 > 
 > Se solicita:
-> 1. Analice de forma fundada, de conformidad con el nomenclador del Grupo Ocupacional Computación (Decreto MGP 2250/13) y los límites al deber de obediencia jerárquica de la Ley 14656, si la negativa del agente constituye una falta disciplinaria y si corresponde aplicar una sanción disciplinaria por insubordinación o desobediencia. (1.5 Puntos)
+> 1. Analice de forma fundada, de conformidad con el nomenclador de cargos informáticos municipal y los límites al deber de obediencia jerárquica previstos en el estatuto del empleo público municipal, si la negativa del agente constituye una falta disciplinaria y si corresponde aplicar una sanción disciplinaria por insubordinación o desobediencia. (1.5 Puntos)
 > 2. Determine el temperamento a adoptar con respecto a las actuaciones disciplinarias y redacte la parte dispositiva y de fundamentación (`VISTO`, `CONSIDERANDO` y `DISPONE`) del acto administrativo que corresponda dictar en su carácter de Jefe de Departamento para resolver definitivamente el caso. (2.5 Puntos)
 
 ---
 
 ## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
-*Consigna: Responda las siguientes preguntas sobre el Protocolo de Violencia de Género de la MGP (Ordenanza 24271, Anexo I).*
+*Consigna: Responda las siguientes preguntas sobre el protocolo municipal de violencia de género aplicable.*
 
-1.  Defina brevemente las conductas que configuran "acoso sexual" y "hostigamiento laboral" en razón del género en el ámbito laboral de acuerdo con la Ordenanza 24271, Anexo I, Punto 3. (1.5 Puntos)
+1.  Defina brevemente las conductas que configuran "acoso sexual" y "hostigamiento laboral" en razón del género en el ámbito laboral de acuerdo con el protocolo municipal de violencia de género aplicable. (1.5 Puntos)
 2.  Explique cuál es el rol y las funciones que le competen a la Asesoría Confidencial en la Municipalidad respecto de la tramitación de denuncias y medidas preventivas urgentes de resguardo a la víctima. (1.5 Puntos)
 3.  ¿Cómo debe proceder usted como superior jerárquico respecto a la confidencialidad de la justificación de las inasistencias de una agente a su cargo derivadas de situaciones de violencia de género? (1.5 Puntos)
 

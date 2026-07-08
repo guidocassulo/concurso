@@ -19,7 +19,7 @@
 
 ---
 
-### 2. Conforme al Estatuto del Empleo Público Municipal (Ley 14656), la acumulación o desempeño de más de un cargo a sueldo en la administración pública nacional, provincial o municipal es:
+### 2. Conforme al Estatuto del Empleo Público Municipal (el estatuto del empleo público municipal), la acumulación o desempeño de más de un cargo a sueldo en la administración pública nacional, provincial o municipal es:
 *   a) Permitida libremente siempre que no superen las 48 horas semanales en total.
 *   b) Estrictamente incompatible en todos los casos, excepto en el ejercicio de la docencia y bajo condiciones de compatibilidad horaria y funcional.
 *   c) Permitida únicamente si los dos cargos pertenecen al mismo municipio y son de la misma categoría.
@@ -59,7 +59,7 @@
 
 ---
 
-### 6. De acuerdo con la Ley 14656, la licencia por enfermedad inculpable con goce íntegro de haberes para un agente con una antigüedad menor a cinco (5) años en el municipio tiene un límite máximo de duración por cada accidente o enfermedad de:
+### 6. De acuerdo con la el estatuto del empleo público municipal, la licencia por enfermedad inculpable con goce íntegro de haberes para un agente con una antigüedad menor a cinco (5) años en el municipio tiene un límite máximo de duración por cada accidente o enfermedad de:
 *   a) Treinta (30) días corridos.
 *   b) Tres (3) meses en total.
 *   c) Seis (6) meses en total.
@@ -69,7 +69,7 @@
 
 ---
 
-### 7. De conformidad con la L.O.M. y las normativas contables de la RAFAM, el funcionario encargado de ejercer el control de legalidad interno previo del gasto, fiscalizando la imputación y disponibilidad de fondos antes de emitir una orden de pago, es:
+### 7. De conformidad con la la Ley Orgánica de las Municipalidades y las normativas contables de la RAFAM, el funcionario encargado de ejercer el control de legalidad interno previo del gasto, fiscalizando la imputación y disponibilidad de fondos antes de emitir una orden de pago, es:
 *   a) El Intendente Municipal.
 *   b) El Tesorero Municipal.
 *   c) El Contador Municipal.
@@ -115,7 +115,7 @@
 > Un agente de su departamento, con una antigüedad de 8 años en el puesto de soporte técnico y desarrollo, comienza a manifestar dolores persistentes en su muñeca y mano derecha. Es diagnosticado clínicamente con "Síndrome del Túnel Carpiano" crónico, una afección ergonómica del nervio mediano. El agente sostiene que la lesión se debe a sus tareas diarias de digitación intensiva y reparación manual de hardware, y solicita la cobertura de su tratamiento médico.
 > 
 > Se solicita:
-> 1. Indique si dicha situación encuadra dentro de las coberturas de la Ley de Riesgos del Trabajo (Ley 24557), bajo qué figura legal se encasilla y cómo se justifica su inclusión.
+> 1. Indique si dicha situación encuadra dentro de las coberturas de la la legislación de riesgos del trabajo aplicable, bajo qué figura legal se encasilla y cómo se justifica su inclusión.
 > 2. Explique cuál es el procedimiento administrativo en caso de que la ART rechace la relación de causalidad laboral de la afección del agente, indicando ante qué organismo público se debe reclamar.
 
 ---
@@ -125,16 +125,17 @@
 
 > Usted como Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software constata mediante una auditoría informática automatizada (logs de acceso a la base de datos municipal de Catastro y Tasas) que el agente R.D. (Legajo Nº 77.777, Categoría Técnico I) extrajo y exportó sin autorización un listado con datos fiscales confidenciales de contribuyentes y deudas, habiéndolos entregado posteriormente a una empresa inmobiliaria privada para su beneficio económico personal. El agente es confrontado y reconoce su autoría del hecho por escrito en un descargo preliminar, calificándolo de "un favor personal sin mala intención".
 > 
-> Al tratarse de una falta gravísima que infringe flagrantemente el deber de reserva (Art. 107 inc 5 Ley 14656) y el decoro, siendo susceptible de una sanción de carácter expulsivo (cesantía o exoneración), usted sabe que excede sus facultades aplicar una sanción de forma directa.
+> Al tratarse de una falta gravísima que infringe flagrantemente el deber de reserva y el decoro, siendo susceptible de una sanción de carácter expulsivo (cesantía o exoneración), usted sabe que excede sus facultades aplicar una sanción de forma directa.
 > 
 > Se solicita:
-> 1. Indique fundadamente cuál es el procedimiento obligatorio a seguir conforme a la Ley 14656 para sancionar al agente con una medida expulsiva y qué medida precautoria inmediata puede proponer el Jefe de Departamento respecto a la prestación de servicios del agente para resguardar la seguridad de la base de datos. (1.5 Puntos)
+> 1. Indique fundadamente cuál es el procedimiento obligatorio a seguir conforme al estatuto del empleo público municipal para sancionar al agente con una medida expulsiva y qué medida precautoria inmediata puede proponer el Jefe de Departamento respecto a la prestación de servicios del agente para resguardar la seguridad de la base de datos. (1.5 Puntos)
 > 2. Redacte el acto administrativo formal (Disposición de elevación) mediante el cual usted, en su rol de Jefe de Departamento, informa el hecho a la Dirección General de TIC y a la Dirección de Personal, solicita formalmente la instrucción de las actuaciones sumariales y propone la aplicación de la medida precautoria que corresponda. El texto debe contar con los elementos estructurales obligatorios: `VISTO`, `CONSIDERANDO`, y la parte dispositiva (`DISPONE` o `RESUELVE` / `ELEVA`). Indique si requiere dictamen jurídico previo. (2.5 Puntos)
 
 ---
 
 ## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
-*Consigna: Responda las siguientes preguntas justificando con el marco normativo municipal e internacional (Ordenanza 24271 MGP y leyes concordantes).*
+*Consigna: Responda las siguientes preguntas justificando con el marco normativo municipal correspondientes sobre género y violencia laboral.*
+
 
 1.  ¿Existe en el ámbito de la Municipalidad de General Pueyrredón una licencia especial por violencia de género para las agentes municipales? En caso afirmativo, indique bajo qué norma se rige, si es con o sin goce de haberes y si requiere una antigüedad mínima para su usufructo. (1.5 Puntos)
 2.  Explique cómo debe proceder administrativamente una agente municipal para solicitar formalmente dicha licencia especial por violencia de género, resguardando la intimidad de sus datos y qué documentación de respaldo resulta suficiente. (1.5 Puntos)

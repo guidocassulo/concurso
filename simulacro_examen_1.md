@@ -19,7 +19,7 @@
 
 ---
 
-### 2. De acuerdo con la Ley Orgánica de las Municipalidades (L.O.M. Decreto-Ley 6769/58), el patrimonio municipal está constituido por:
+### 2. De acuerdo con la Ley Orgánica de las Municipalidades (la Ley Orgánica de las Municipalidades Decreto-Ley 6769/58), el patrimonio municipal está constituido por:
 *   a) Bienes muebles e inmuebles exclusivamente.
 *   b) Bienes inmuebles, muebles, semovientes, créditos, títulos y acciones adquiridos a título oneroso o gratuito, y las donaciones y legados aceptados.
 *   c) Bienes inmuebles y muebles adquiridos a título oneroso, excluyendo las donaciones.
@@ -29,7 +29,7 @@
 
 ---
 
-### 3. El Honorable Tribunal de Cuentas de la Provincia de Buenos Aires podrá imponer a los funcionarios y empleados municipales, según la L.O.M., las siguientes sanciones:
+### 3. El Honorable Tribunal de Cuentas de la Provincia de Buenos Aires podrá imponer a los funcionarios y empleados municipales, según la la Ley Orgánica de las Municipalidades, las siguientes sanciones:
 *   a) Solamente llamados de atención y amonestaciones.
 *   b) Solamente inhabilitación para el ejercicio de empleo municipal.
 *   c) Solamente cargos pecuniarios.
@@ -103,7 +103,7 @@
 
 ---
 
-### 10. Un agente a su cargo llega 40 minutos tarde a registrar su ingreso a la jornada laboral. De acuerdo a la reglamentación vigente de control horario de la MGP (Decreto 121/18), dicho agente:
+### 10. Un agente a su cargo llega 40 minutos tarde a registrar su ingreso a la jornada laboral. De acuerdo a la reglamentación vigente de control horario municipal, dicho agente:
 *   a) Puede ingresar a prestar servicios normalmente y compensar los 40 minutos al final de la jornada.
 *   b) Puede quedarse a prestar servicios siempre y cuando la situación se deba a fuerza mayor debidamente acreditada y sea autorizada por su superior jerárquico.
 *   c) No puede bajo ninguna circunstancia quedarse a prestar servicios y se le computará inasistencia injustificada.
@@ -120,7 +120,7 @@
 > 
 > Se solicita:
 > 1. Indique si dicha situación configura un accidente de trabajo de acuerdo a la legislación vigente y fundamente su respuesta.
-> 2. Identifique quién es el responsable de brindar las prestaciones médicas y farmacéuticas, y cuál es la norma nacional aplicable.
+> 2. Identifique quién es el responsable de brindar las prestaciones médicas y farmacéuticas, y cuál es el marco normativo aplicable.
 
 ---
 
@@ -132,17 +132,17 @@
 > Teniendo en cuenta que el agente no registra antecedentes disciplinarios previos en su legajo y que usted decide aplicarle la **sanción correctiva máxima** permitida para su rango jerárquico como Jefe de Departamento.
 > 
 > Se solicita:
-> 1. Indique el procedimiento formal que debe seguir a partir de la constatación de la falta, mencionando los plazos involucrados para garantizar el derecho de defensa del agente (debido proceso). (1.5 Puntos)
-> 2. Redacte formalmente el acto administrativo (Disposición) mediante el cual aplica la sanción al agente. El texto debe contar con los elementos estructurales obligatorios: `VISTO`, `CONSIDERANDO`, y la parte dispositiva (`DISPONE`), de conformidad con la Ley 14656 y las normas de redacción municipal. Asimismo, informe si requiere dictamen jurídico previo. (2.5 Puntos)
+> 1. Indique el procedimiento formal que debe seguir a partir de la constatación de la falta, mencionando los plazos involucrados para garantizar el debido proceso y la defensa del agente. (1.5 Puntos)
+> 2. Redacte formalmente el acto administrativo (Disposición) mediante el cual aplica la sanción al agente. El texto debe contar con los elementos estructurales obligatorios: `VISTO`, `CONSIDERANDO`, y la parte dispositiva (`DISPONE`), de conformidad con el estatuto del empleo público municipal y las normas de redacción del municipio. Asimismo, informe si requiere dictamen jurídico previo. (2.5 Puntos)
 
 ---
 
 ## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
-*Consigna: Responda las siguientes preguntas justificando con el marco normativo nacional, provincial y municipal correspondiente (Ley Micaela y Ordenanza municipal 24271).*
+*Consigna: Responda las siguientes preguntas justificando con el marco normativo nacional, provincial y municipal correspondiente sobre género y violencia laboral.*
 
-1.  Explique qué implicancia posee la capacitación en violencia de género sobre la carrera administrativa de los agentes públicos municipales y en qué norma se establece. (1.5 Puntos)
-2.  ¿Es verdadero o falso que si un agente público municipal se niega de manera injustificada a realizar las capacitaciones sobre género establecidas por la Ley Micaela puede ser pasible de sanciones disciplinarias? Fundamente con la norma. (1.5 Puntos)
-3.  Si usted como Jefe de Departamento recibe una denuncia de una agente bajo su cargo motivada en violencia laboral por razones de género en el área, ¿cuáles son los principios de abordaje inmediatos y las primeras diligencias que debe adoptar de acuerdo al protocolo municipal (Ordenanza 24271)? (1.5 Puntos)
+1.  Explique qué implicancia posee la capacitación en violencia de género sobre la carrera administrativa de los agentes públicos municipales y fundamente legalmente. (1.5 Puntos)
+2.  ¿Es verdadero o falso que si un agente público municipal se niega de manera injustificada a realizar las capacitaciones sobre género establecidas por la normativa de capacitación obligatoria puede ser pasible de sanciones disciplinarias? Justifique su respuesta. (1.5 Puntos)
+3.  Si usted como Jefe de Departamento recibe una denuncia de una agente bajo su cargo motivada en violencia laboral por razones de género en el área, ¿cuáles son los principios de abordaje inmediatos y las primeras diligencias que debe adoptar de acuerdo al protocolo municipal aplicable? (1.5 Puntos)
 
 ---
 

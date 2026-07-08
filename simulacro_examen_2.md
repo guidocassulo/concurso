@@ -29,7 +29,7 @@
 
 ---
 
-### 3. De acuerdo con el régimen disciplinario de la Ley 14656, ¿cuál es el plazo de prescripción para la aplicación de sanciones disciplinarias correctivas (llamado de atención, apercibimiento y suspensiones de hasta 10 días)?
+### 3. De acuerdo con el régimen disciplinario de la el estatuto del empleo público municipal, ¿cuál es el plazo de prescripción para la aplicación de sanciones disciplinarias correctivas (llamado de atención, apercibimiento y suspensiones de hasta 10 días)?
 *   a) A los seis (6) meses de cometida la falta o de conocida por la autoridad.
 *   b) Al año (1 año) de ocurrida la falta.
 *   c) A los dos (2) años de cometida la falta.
@@ -79,7 +79,7 @@
 
 ---
 
-### 8. De conformidad con el Estatuto de Empleo Público Municipal (Ley 14656), la inasistencia injustificada del agente es causa directa de cesantía cuando se verifique la siguiente condición en el año calendario:
+### 8. De conformidad con el Estatuto de Empleo Público Municipal (el estatuto del empleo público municipal), la inasistencia injustificada del agente es causa directa de cesantía cuando se verifique la siguiente condición en el año calendario:
 *   a) Cinco (5) inasistencias continuas o diez (10) inasistencias discontinuas sin causa justificada.
 *   b) Diez (10) inasistencias continuas únicamente.
 *   c) Tres (3) inasistencias discontinuas en el mes sin aviso previo.
@@ -89,7 +89,7 @@
 
 ---
 
-### 9. Dentro de la Ley 14656, ¿cuál de las siguientes sanciones de carácter disciplinario se clasifica como una sanción correctiva y no expulsiva?
+### 9. Dentro de la el estatuto del empleo público municipal, ¿cuál de las siguientes sanciones de carácter disciplinario se clasifica como una sanción correctiva y no expulsiva?
 *   a) La cesantía de la administración.
 *   b) La exoneración de la función pública municipal.
 *   c) La suspensión de hasta treinta (30) días corridos sin goce de haberes.
@@ -99,7 +99,7 @@
 
 ---
 
-### 10. Según la L.O.M. (Decreto-Ley 6769/58), el período ordinario de sesiones del Honorable Concejo Deliberante se extiende obligatoriamente cada año:
+### 10. Según la Ley Orgánica de las Municipalidades, el período ordinario de sesiones del Honorable Concejo Deliberante se extiende obligatoriamente cada año:
 *   a) Del 1 de febrero al 31 de diciembre.
 *   b) Del 1 de marzo al 30 de noviembre.
 *   c) Del 1 de abril al 31 de octubre.
@@ -115,7 +115,7 @@
 > Un analista programador de su dependencia, con horario laboral asignado de 08:00 a 14:00 hs, se traslada en su motocicleta desde su domicilio real declarado hacia el edificio de la Municipalidad (Mesa de Entradas de Sistemas). En el trayecto directo habitual, a las 07:45 hs, es colisionado por un automóvil particular en la vía pública, sufriendo lesiones que le demandan una internación y posterior reposo médico de 30 días.
 > 
 > Se solicita:
-> 1. Indique si dicha situación configura un siniestro cubierto por la Ley de Riesgos del Trabajo y bajo qué concepto. Fundamente técnicamente su respuesta.
+> 1. Indique si dicha situación configura un siniestro cubierto por la legislación de riesgos del trabajo y bajo qué concepto. Fundamente técnicamente su respuesta.
 > 2. Detalle las obligaciones administrativas inmediatas que recaen sobre el agente y sobre usted como responsable del área (Municipalidad) ante este siniestro.
 
 ---
@@ -125,16 +125,16 @@
 
 > Usted como Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software es informado de que el agente J.P. (Legajo Nº 88.888, Categoría Técnico I, Programador) agredió verbalmente e insultó con términos despectivos a un contribuyente que asistió a la oficina a reclamar por una falla en la Clave Tributaria, y posteriormente mantuvo una conducta agresiva con un compañero de la misma oficina que intentó calmarlo. El hecho fue presenciado por dos agentes municipales del sector y quedó asentado en el reporte diario de novedades.
 > 
-> Tras correrle traslado de las actuaciones, el descargo del agente M.A. no justifica de ningún modo la agresión cometida, limitándose a alegar "estrés laboral" e "irritación". Ante la gravedad de la falta contra las normas de respeto y decoro (Art. 107 inc 3 Ley 14656), y dado que el agente no registra sanciones previas en su legajo, usted decide aplicarle una **sanción correctiva directa de tres (3) días de suspensión sin goce de haberes**.
+> Tras correrle traslado de las actuaciones, el descargo del agente M.A. no justifica de ningún modo la agresión cometida, limitándose a alegar "estrés laboral" e "irritación". Ante la gravedad de la falta contra las normas de respeto y decoro, y dado que el agente no registra sanciones previas en su legajo, usted decide aplicarle una **sanción correctiva directa de tres (3) días de suspensión sin goce de haberes**.
 > 
 > Se solicita:
-> 1. Explique brevemente los plazos de defensa y de interposición de recursos que posee el agente conforme a la Ordenanza General 26348. (1.5 Puntos)
-> 2. Redacte la parte dispositiva y de fundamentación (`VISTO`, `CONSIDERANDO` y `DISPONE`) de la Disposición que aplicará al agente J.P., fundamentando con la Ley 14656 y delegaciones vigentes. (2.5 Puntos)
+> 1. Explique brevemente los plazos de defensa y de interposición de recursos que posee el agente conforme a las normas de procedimiento administrativo municipal. (1.5 Puntos)
+> 2. Redacte la parte dispositiva y de fundamentación (`VISTO`, `CONSIDERANDO` y `DISPONE`) de la Disposición que aplicará al agente J.P., fundamentando con el estatuto del empleo público municipal y delegaciones vigentes correspondientes. (2.5 Puntos)
 
 ---
 
 ## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
-*Consigna: Responda las siguientes preguntas conforme a la Ordenanza Municipal 24271, Anexo I, Punto 4 (Protocolo de Género MGP) y leyes nacionales/provinciales.*
+*Consigna: Responda las siguientes preguntas conforme al protocolo de género y violencia laboral de la MGP y leyes nacionales/provinciales.*
 
 1.  Defina brevemente qué conductas constituyen "violencia laboral por razones de género" en el ámbito de la administración pública municipal. (1.5 Puntos)
 2.  Explique cómo se garantizan operativamente los principios de "no revictimización" y de "confidencialidad" durante la tramitación de una denuncia por violencia de género en el área municipal. (1.5 Puntos)

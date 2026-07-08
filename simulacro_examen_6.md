@@ -19,7 +19,7 @@
 
 ---
 
-### 2. Según el régimen estatutario de la Ley 14656 y decretos locales de la MGP, la licencia extraordinaria otorgada a un agente municipal por motivos de examen para cursar carreras de informática de nivel universitario o superior cuenta con el siguiente límite temporal:
+### 2. Según el régimen estatutario de la el estatuto del empleo público municipal y decretos locales de la MGP, la licencia extraordinaria otorgada a un agente municipal por motivos de examen para cursar carreras de informática de nivel universitario o superior cuenta con el siguiente límite temporal:
 *   a) Hasta dos (2) días por examen y un máximo de diez (10) días por año calendario.
 *   b) Hasta cinco (5) días corridos por examen, con un máximo de veinte (20) días por año calendario, con goce íntegro de haberes.
 *   c) Hasta diez (10) días por examen de forma ilimitada siempre que se presente certificado de examen.
@@ -27,7 +27,7 @@
 
 **Fundamento Normativo:** __________________________________________________________________
 
-### 3. Conforme a las disposiciones del Decreto de Control Horario de la Municipalidad (Decreto MGP 121/18), el agente municipal que por olvido o fuerza mayor haya omitido registrar su fichada biométrica de ingreso o egreso debe:
+### 3. Conforme a las disposiciones del Decreto de Control Horario de la Municipalidad (la reglamentación municipal de control de asistencia), el agente municipal que por olvido o fuerza mayor haya omitido registrar su fichada biométrica de ingreso o egreso debe:
 *   a) Justificar la omisión de forma verbal ante su superior jerárquico el mismo día en que ocurrió el suceso.
 *   b) Presentar formalmente la correspondiente planilla de excepción con la firma avalada de su superior jerárquico dentro del plazo perentorio de hasta cuarenta y ocho (48) horas hábiles posteriores al suceso.
 *   c) Presentar un descargo por escrito ante la Dirección de Personal al cierre del período mensual de liquidación.
@@ -47,7 +47,7 @@
 
 ---
 
-### 5. De acuerdo al Decreto MGP 923/19 (Reglamento de Licencia por Descanso Anual - L.D.A.), el derecho al usufructo de la licencia anual ordinaria correspondiente a un período determinado caduca de pleno derecho:
+### 5. De acuerdo a la reglamentación municipal de licencias (Reglamento de Licencia por Descanso Anual - L.D.A.), el derecho al usufructo de la licencia anual ordinaria correspondiente a un período determinado caduca de pleno derecho:
 *   a) Al 31 de diciembre del año calendario de su otorgamiento, perdiéndose el derecho a gozarla si no se usufructuó.
 *   b) Al 31 de diciembre del año siguiente al que corresponda su otorgamiento, salvo postergación fundada por razones de servicio autorizada por el Secretario del área.
 *   c) A los cinco (5) años del período correspondiente, de conformidad con la prescripción general del derecho laboral.
@@ -67,7 +67,7 @@
 
 ---
 
-### 7. Conforme al régimen de control de salida del personal establecido en el Decreto MGP 122/18 (Salida por hora), las salidas particulares por hora autorizadas por el superior jerárquico dentro de la jornada laboral:
+### 7. Conforme al régimen de control de salida del personal establecido en la reglamentación municipal de salidas particulares (Salida por hora), las salidas particulares por hora autorizadas por el superior jerárquico dentro de la jornada laboral:
 *   a) Son libres e ilimitadas siempre que el agente compense las horas al final de la jornada.
 *   b) Tienen un límite máximo de hasta cinco (5) horas mensuales, debiendo registrarse en el reloj biométrico al egreso y al reingreso.
 *   c) Se compensan descontándose directamente de la Licencia por Descanso Anual (L.D.A.) del agente.
@@ -77,7 +77,7 @@
 
 ---
 
-### 8. Según el Decreto MGP 1539/18 sobre delegación de facultades disciplinarias y el estatuto municipal, la aplicación de una sanción correctiva de suspensión de hasta diez (10) días sin goce de haberes a un agente de planta permanente es atribución del:
+### 8. Según la reglamentación municipal de facultades disciplinarias y el estatuto municipal, la aplicación de una sanción correctiva de suspensión de hasta diez (10) días sin goce de haberes a un agente de planta permanente es atribución del:
 *   a) Jefe de Departamento del área de forma directa mediante disposición interna.
 *   b) Director General o Subsecretario del área, requiriendo dictamen legal previo de la Procuración Municipal.
 *   c) Intendente Municipal exclusivamente, previo sumario administrativo obligatorio.
@@ -87,7 +87,7 @@
 
 ---
 
-### 9. De conformidad con la Ley Nacional de Firma Digital Nº 25506 y la Ley Provincial 13666, se excluye expresamente la validez de la firma digital para:
+### 9. De conformidad con la legislación de firma digital aplicable, se excluye expresamente la validez de la firma digital para:
 *   a) Los pliegos de bases y condiciones de licitaciones públicas de software.
 *   b) Las disposiciones administrativas de elevación de sumarios de la jefatura.
 *   c) Las disposiciones de última voluntad (testamentos) y los actos de derecho de familia.
@@ -113,8 +113,8 @@
 > Un agente del área de soporte técnico de su dependencia, siguiendo instrucciones verbales de traslado de equipamiento, intenta levantar y mover en solitario un rack de servidores de 50 kg de peso desde el taller hasta el Data Center municipal. Durante el movimiento, sufre un esfuerzo lumbar agudo que le provoca una lesión de columna (lumbalgia aguda invalidante), debiendo ser asistido en el lugar y trasladado a un centro asistencial.
 > 
 > Se solicita:
-> 1. Indique si el siniestro califica formalmente como un Accidente de Trabajo cubierto bajo el régimen de la Ley 24557 y en qué artículo se fundamenta. (0.75 Puntos)
-> 2. Determine qué pautas de ergonomía y levantamiento seguro de cargas, bajo la Ley de Higiene y Seguridad Laboral Nº 19587 (Artículo 9º), debieron observarse, y qué medidas preventivas inmediatas debe adoptar el Jefe de Sistemas de Software para el traslado seguro de equipamiento informático pesado. (0.75 Puntos)
+> 1. Indique si el siniestro califica formalmente como un Accidente de Trabajo de conformidad con la legislación de riesgos del trabajo aplicable y determine su fundamento legal. (0.75 Puntos)
+> 2. Determine qué pautas de ergonomía y levantamiento seguro de cargas, de acuerdo a la legislación de higiene y seguridad laboral aplicable, debieron observarse, y qué medidas preventivas inmediatas debe adoptar el Jefe de Sistemas de Software para el traslado seguro de equipamiento informático pesado. (0.75 Puntos)
 
 ---
 
@@ -126,17 +126,17 @@
 > Al tomar conocimiento de esta grave irregularidad técnica y administrativa, usted como Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software debe iniciar los procedimientos correctivos obligatorios.
 > 
 > Se solicita:
-> 1. Analice fundadamente de conformidad con la Ley 14656 qué tipo de sanción disciplinaria definitiva corresponde ante la gravedad del hecho y si usted posee facultades para aplicarla de forma directa, detallando qué medida de seguridad preventiva lógica e inmediata debe adoptar respecto a los accesos del agente A.T. (1.5 Puntos)
+> 1. Analice fundadamente, de conformidad con el estatuto del empleo público municipal, qué tipo de sanción disciplinaria definitiva corresponde ante la gravedad del hecho y si usted posee facultades para aplicarla de forma directa, detallando qué medida de seguridad preventiva lógica e inmediata debe adoptar respecto a los accesos del agente A.T. (1.5 Puntos)
 > 2. Redacte la parte dispositiva y de fundamentación (`VISTO`, `CONSIDERANDO` y `DISPONE` o `ELEVA`) de la Disposición formal mediante la cual usted, en su carácter de Jefe de Departamento, informa el caso a la Dirección General de TIC y a la Dirección de Personal para promover el sumario y ordenar preventivamente el bloqueo lógico del agente. (2.5 Puntos)
 
 ---
 
 ## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
-*Consigna: Responda las siguientes preguntas sobre la Ley Micaela (Leyes Nacional 27499 y Provincial 15134) y su aplicación jerárquica municipal.*
+*Consigna: Responda las siguientes preguntas sobre la normativa vigente de capacitación obligatoria en género y su aplicación jerárquica municipal.*
 
-1. Defina qué obligaciones legales en materia de formación y perspectiva de género impone la Ley Micaela al Jefe de Departamento y al personal a su cargo en el ámbito de la Municipalidad de General Pueyrredón. (1.5 Puntos)
+1. Defina qué obligaciones legales en materia de formación y perspectiva de género impone la normativa de capacitación obligatoria en género al Jefe de Departamento y al personal a su cargo en el ámbito de la Municipalidad de General Pueyrredón. (1.5 Puntos)
 2. Explique qué medidas de organización del trabajo y flexibilidad puede adoptar la Jefatura para garantizar que todo el equipo del área de desarrollo de software realice la capacitación obligatoria sin afectar la prestación de servicios críticos de soporte. (1.5 Puntos)
-3. De acuerdo al Artículo 3º de la Ley Provincial 15134, ¿cuál es la consecuencia directa de carrera administrativa para el propio Jefe de Departamento si este omitiera realizar y acreditar la capacitación obligatoria Ley Micaela? (1.5 Puntos)
+3. De conformidad con la normativa de capacitación obligatoria en género, ¿cuál es la consecuencia directa de carrera administrativa para el propio Jefe de Departamento si este omitiera realizar y acreditar la capacitación obligatoria? (1.5 Puntos)
 
 ---
 

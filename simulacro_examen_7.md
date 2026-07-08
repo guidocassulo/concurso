@@ -42,7 +42,7 @@
 ### 4. En un proceso de Licitación Pública para el desarrollo y diseño integral de un nuevo software catastral y de tasas municipales, si se presenta una única oferta válida que cumple formalmente con todas las especificaciones técnicas del pliego elaboradas por la Jefatura de Departamento:
 *   a) La licitación debe declararse nula de forma obligatoria por falta de concurrencia y llamarse a un segundo proceso licitatorio.
 *   b) El Intendente Municipal tiene la facultad de adjudicarla de forma directa sin requerir autorización de otros órganos.
-*   c) El Departamento Ejecutivo puede adjudicar la licitación al único oferente, pero requiere de forma obligatoria la previa autorización del Honorable Concejo Deliberante (H.C.D.), conforme a la L.O.M.
+*   c) El Departamento Ejecutivo puede adjudicar la licitación al único oferente, pero requiere de forma obligatoria la previa autorización del Honorable Concejo Deliberante (H.C.D.), conforme a la la Ley Orgánica de las Municipalidades
 *   d) Ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
@@ -82,7 +82,7 @@
 ### 8. De acuerdo con el régimen de Premio Presentismo en la MGP (Decreto Nº 397/01 y modificatorios Decreto Nº 3080/01 y 2490/05), un agente del departamento perderá el derecho a percibir el goce íntegro mensual de dicho premio estímulo en caso de que registre durante el mes calendario:
 *   a) Cualquier inasistencia injustificada o más de tres (3) llegadas tarde mensuales justificadas (de más de 15 minutos), salvo las excepciones taxativas fijadas por decreto (como licencias por examen o maternidad).
 *   b) Una sola salida por horas para atención médica autorizada por el supervisor y acreditada ante reconocimiento médico.
-*   c) Salidas por hora autorizadas para realizar capacitación obligatoria de la Ley Micaela.
+*   c) Salidas por hora autorizadas para realizar capacitación obligatoria de la normativa de capacitación obligatoria en género.
 *   d) Ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
@@ -115,8 +115,8 @@
 > Una agente del equipo de desarrollo de software que trabaja bajo su supervisión como Jefe de Departamento manifiesta dolores persistentes en la muñeca derecha, entumecimiento y hormigueo en los dedos pulgar, índice y medio. Refiere que la sintomatología se ha intensificado notablemente durante los últimos meses de trabajo continuo frente a la computadora. Tras la consulta médica formal, se le diagnostica **Síndrome del Túnel Carpiano** y se le prescribe un período de reposo y tratamiento de kinesiología.
 > 
 > Se solicita:
-> 1. Indique si la patología descrita califica como una Enfermedad Profesional bajo el régimen de la Ley 24557, Artículo 6º y de qué manera se justifica y fundamenta su encuadre en base a la relación de causalidad con la ejecución del trabajo. Fundamente jurídicamente su respuesta.
-> 2. Determine qué pautas o medidas preventivas de ergonomía laboral (bajo la Ley de Higiene y Seguridad Nº 19587, Artículo 9º) debieron aplicarse en el puesto de oficina de la agente y qué adaptaciones específicas debe solicitar el Jefe de Sistemas de Software para evitar la recidiva al retornar al servicio.
+> 1. Indique si la patología descrita califica como una Enfermedad Profesional bajo la legislación de riesgos del trabajo aplicable y de qué manera se justifica y fundamenta su encuadre en base a la relación de causalidad con la ejecución del trabajo. Fundamente jurídicamente su respuesta.
+> 2. Determine qué pautas o medidas preventivas de ergonomía laboral (bajo la la legislación de higiene y seguridad laboral aplicable) debieron aplicarse en el puesto de oficina de la agente y qué adaptaciones específicas debe solicitar el Jefe de Sistemas de Software para evitar la recidiva al retornar al servicio.
 
 ---
 
@@ -127,23 +127,24 @@
 > 
 > La investigación preliminar demuestra que el repositorio contenía archivos de configuración sensibles, con APIs keys expuestas y strings de conexión a la base de datos municipal de producción con credenciales de administrador de red. El agente R.G. admitió los hechos alegando que subió el código para "trabajar desde su hogar y pedir ayuda externa en un foro técnico", sin dimensionar el gravísimo riesgo de seguridad informática que implicaba para las bases de datos fiscales y personales de los contribuyentes.
 > 
-> Como Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, usted debe elevar las actuaciones de inmediato a los fines de promover el Sumario Administrativo por transgresión grave a los deberes de confidencialidad y lealtad (Art. 107 de la Ley 14656, Artículo 107º, Inciso 5 y concordantes) y ordenar como medida de seguridad el cese de los accesos lógicos y la suspensión preventiva del agente.
+> Como Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, usted debe elevar las actuaciones de inmediato a los fines de promover el Sumario Administrativo por transgresión grave a los deberes de confidencialidad y lealtad (los deberes y obligaciones previstos en el estatuto del empleo público municipal) y ordenar como medida de seguridad el cese de los accesos lógicos y la suspensión preventiva del agente.
 > 
 > Se solicita:
-> 1. Explique fundadamente qué obligaciones y deberes estatutarios del agente municipal (Ley 14656, Artículo 107º, Inciso 5) se infringieron con esta conducta y qué medida de seguridad técnica lógica inmediata debe ejecutar el Jefe de Departamento respecto a las credenciales y claves expuestas. (1.5 Puntos)
+> 1. Explique fundadamente qué obligaciones y deberes estatutarios del agente municipal (el estatuto del empleo municipal respecto a los deberes de los agentes) se infringieron con esta conducta y qué medida de seguridad técnica lógica inmediata debe ejecutar el Jefe de Departamento respecto a las credenciales y claves expuestas. (1.5 Puntos)
 > 2. Redacte la parte dispositiva y de fundamentación (`VISTO`, `CONSIDERANDO` y `DISPONE` o `ELEVA`) de la Disposición formal mediante la cual usted, como Jefe de Departamento, informa el caso, promueve el sumario, ordena el bloqueo de accesos y solicita la intervención de la Dirección General de Recursos Humanos. (2.5 Puntos)
 
 ---
 
 ## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
-*Consigna: Responda las siguientes preguntas en base al protocolo de violencia laboral de género de la MGP (Ordenanza 24271, Anexo I, Punto 3, Anexo I) y la Ley Micaela (Ley 27499).*
+*Consigna: Responda las siguientes preguntas en base al protocolo de violencia laboral de género de la MGP (el protocolo municipal de violencia de género aplicable, Anexo I) y la normativa de capacitación obligatoria en género.*
 
 > Una programadora de software recientemente incorporada a su departamento le solicita una reunión privada. Le manifiesta que un desarrollador con mayor antigüedad en el área la desmerece sistemáticamente frente a sus compañeros con comentarios menospreciativos sobre su género ("las mujeres no tienen lógica para la programación compleja", "seguro entró por cupo y no por capacidad"), la interrumpe de forma constante en las reuniones de equipo (ejerciendo "mansplaining" y adueñándose de sus ideas de desarrollo) y le envía mensajes de texto persistentes fuera del horario laboral con insinuaciones personales no deseadas. Refiere sentirse intimidada, estresada y temerosa de que esto afecte su continuidad laboral o su evaluación de desempeño.
 > 
 > Se solicita:
-> 1. Encuadre la situación descrita bajo las disposiciones de la Ordenanza Nº 24.271 (Protocolo de Abordaje de Violencia Laboral de Género de la MGP). Indique si configura violencia laboral de género y justifique la respuesta. (1.5 Puntos)
+> 1. Encuadre la situación descrita bajo las disposiciones del protocolo municipal de violencia de género aplicable. Indique si configura violencia laboral de género y justifique la respuesta. (1.5 Puntos)
 > 2. Detalle qué medidas preventivas inmediatas de resguardo y protección del entorno laboral de la agente debe arbitrar el Jefe de Departamento de forma inmediata sin que estas impliquen una alteración perjudicial de sus condiciones de trabajo para la denunciante (como traslados forzados o quita de proyectos). (1.5 Puntos)
-> 3. Explique cuál es la vía institucional correcta y obligatoria que debe seguir el Jefe de Departamento para canalizar la situación ante los organismos de aplicación de la Municipalidad, y cómo la capacitación de la Ley Micaela orienta el accionar jerárquico frente a estos casos. (1.5 Puntos)
+> 3. Explique cuál es la vía institucional correcta y obligatoria que debe seguir el Jefe de Departamento para canalizar la situación ante los organismos de aplicación de la Municipalidad, y cómo la capacitación de la normativa de capacitación obligatoria en género orienta el accionar jerárquico frente a estos casos. (1.5 Puntos)
+
 
 ---
 
