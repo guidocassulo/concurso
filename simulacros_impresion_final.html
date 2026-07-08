@@ -5,19 +5,24 @@
     <title>Compilación de Simulacros para Impresión</title>
     <style>
 @page {
-    size: A4;
-    margin: 8mm 10mm 8mm 10mm;
+    size: A4 portrait;
+    margin: 15mm 15mm 15mm 15mm;
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
 }
 
 body {
     font-family: Arial, sans-serif;
     width: 100%;
+    max-width: 100%;
     margin: 0;
     padding: 0;
-    line-height: 1.25;
+    line-height: 1.4;
     color: #111827;
     background-color: #ffffff;
-    font-size: 9.5pt;
+    font-size: 10.5pt;
 }
 
 .page-break {
@@ -28,98 +33,89 @@ body {
 h1.main-title {
     text-align: center;
     border-bottom: 2px solid #000000;
-    padding-bottom: 4px;
-    margin: 0 0 15px 0;
-    font-size: 1.4rem;
+    padding-bottom: 6px;
+    margin: 0 0 25px 0;
+    font-size: 1.6rem;
 }
 
 h1.exam-title {
-    font-size: 1.25rem;
+    font-size: 1.35rem;
     color: #000000;
     border-bottom: 1.5px solid #000000;
-    padding-bottom: 3px;
-    margin: 0 0 10px 0;
+    padding-bottom: 4px;
+    margin: 0 0 15px 0;
 }
 
 h2 {
-    font-size: 1rem;
+    font-size: 1.15rem;
     color: #111827;
     border-bottom: 1px solid #d1d5db;
-    padding-bottom: 2px;
-    margin: 12px 0 6px 0;
+    padding-bottom: 3px;
+    margin: 18px 0 10px 0;
 }
 
 h3 {
-    font-size: 0.9rem;
+    font-size: 1.05rem;
     color: #1f2937;
-    margin: 8px 0 4px 0;
+    margin: 12px 0 6px 0;
 }
 
 p {
-    margin: 3px 0;
+    margin: 6px 0;
 }
 
-/* 2-column layout for multiple choice options */
-h2 + h3 + ul,
-h2 + p + h3 + ul,
-h3 + ul {
-    display: flex;
-    flex-wrap: wrap;
-    padding-left: 0;
-    list-style: none;
-    margin: 4px 0 6px 0;
+ul {
+    padding-left: 24px;
+    margin: 8px 0;
 }
 
-h2 + h3 + ul li,
-h2 + p + h3 + ul li,
-h3 + ul li {
-    width: 48%;
-    margin-right: 2%;
-    margin-bottom: 2px;
-    font-size: 8.5pt;
-    line-height: 1.2;
+li {
+    margin-bottom: 6px;
+    font-size: 10pt;
+    list-style-type: disc;
 }
 
+/* Force details block to act as standard div for seamless printing splits */
 details {
     display: block !important;
     border: 1px solid #d1d5db !important;
     background: #ffffff !important;
-    margin: 8px 0 !important;
-    padding: 6px 12px !important;
+    margin: 12px 0 !important;
+    padding: 10px 15px !important;
     border-radius: 4px !important;
 }
 
 summary {
     font-weight: 700;
     color: #000000;
-    margin-bottom: 4px;
+    margin-bottom: 8px;
     border-bottom: 1px dashed #d1d5db;
-    padding-bottom: 2px;
-    font-size: 9pt;
+    padding-bottom: 4px;
+    font-size: 10pt;
 }
 
 blockquote {
-    border-left: 2px solid #000000;
+    border-left: 3px solid #000000;
     background: #f9fafb;
-    margin: 6px 0;
-    padding: 4px 10px;
+    margin: 10px 0;
+    padding: 8px 15px;
     color: #374151;
 }
 
 pre {
     background: #f3f4f6;
     color: #1f2937;
-    padding: 4px 10px;
+    padding: 8px 15px;
     border: 1px solid #d1d5db;
     border-radius: 4px;
     overflow-x: auto;
-    font-size: 8pt;
-    margin: 4px 0;
+    font-size: 9pt;
+    margin: 8px 0;
 }
 
 @media print {
     body {
-        font-size: 9.5pt;
+        font-size: 10.5pt;
     }
     
     .score-calculator, .no-print {
@@ -135,342 +131,9 @@ pre {
 </head>
 <body>
     
-<h1 class="main-title no-print">Compilación de Simulacros Seleccionados para Impresión (Edición Optimizada)</h1>
+<h1 class="main-title no-print">Compilación de Simulacros Seleccionados para Impresión (Edición Optimizada Legible)</h1>
 
 <div class="">
-    <h1 class="exam-title">Simulacro Nº 3</h1>
-    <h1>SIMULACRO DE EXAMEN Nº 3</h1>
-<p><strong>Cargo:</strong> Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
-<hr>
-<h2>CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)</h2>
-<p><em>Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.</em></p>
-<h3>1. Según la Ordenanza General 26348 (Procedimiento Administrativo Municipal), cuando la administración no resuelve un trámite o petición dentro de los plazos reglamentarios, el administrado puede considerar configurado el &quot;silencio de la administración&quot; con efecto denegatorio una vez transcurrido el siguiente plazo sin respuesta:</h3>
-<ul>
-<li>a) Diez (10) días hábiles administrativos.</li>
-<li>b) Quince (15) días corridos.</li>
-<li>c) Treinta (30) días hábiles administrativos contados desde que el trámite esté en condiciones de ser resuelto.</li>
-<li>d) Ninguna de las anteriores.</li>
-</ul>
-<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
-<hr>
-<h3>2. Conforme al Estatuto del Empleo Público Municipal (el estatuto del empleo público municipal), la acumulación o desempeño de más de un cargo a sueldo en la administración pública nacional, provincial o municipal es:</h3>
-<ul>
-<li>a) Permitida libremente siempre que no superen las 48 horas semanales en total.</li>
-<li>b) Estrictamente incompatible en todos los casos, excepto en el ejercicio de la docencia y bajo condiciones de compatibilidad horaria y funcional.</li>
-<li>c) Permitida únicamente si los dos cargos pertenecen al mismo municipio y son de la misma categoría.</li>
-<li>d) Ninguna de las anteriores.</li>
-</ul>
-<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
-<hr>
-<h3>3. De acuerdo al Decreto Reglamentario Municipal de Control Horario (Decreto 121/18), si un agente registra su ingreso superando la tolerancia de 15 minutos sin causa justificada de fuerza mayor aceptada por su superior:</h3>
-<ul>
-<li>a) Se le computará llegada tarde simple y podrá compensar la demora al final del día.</li>
-<li>b) No se le permitirá prestar servicios en esa jornada, computándosele inasistencia injustificada y perdiendo el derecho al cobro de dicho día.</li>
-<li>c) Se le aplicará de forma automática una sanción de suspensión de 1 día.</li>
-<li>d) Ninguna de las anteriores.</li>
-</ul>
-<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
-<hr>
-<h3>4. Según la Ley Orgánica de las Municipalidades, las ordenanzas sancionadas por el Honorable Concejo Deliberante quedan promulgadas automáticamente si el Intendente Municipal no las veta dentro de un plazo de:</h3>
-<ul>
-<li>a) Cinco (5) días hábiles desde su recepción oficial.</li>
-<li>b) Diez (10) días hábiles desde su recepción oficial.</li>
-<li>c) Treinta (30) días corridos.</li>
-<li>d) Las ordenanzas solo entran en vigencia si el Intendente firma el decreto expreso de promulgación.</li>
-</ul>
-<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
-<hr>
-<h3>5. En la tramitación de expedientes mediante el sistema GDE, la diferencia jurídica clave entre la Firma Digital y la Firma Electrónica según la Ley Nacional 25506 radica en que:</h3>
-<ul>
-<li>a) La firma electrónica no tiene validez legal alguna y está prohibida en actos administrativos.</li>
-<li>b) La firma digital goza de una presunción <em>iuris tantum</em> de autoría e integridad (invirtiendo la carga de la prueba en caso de desconocimiento), mientras que la firma electrónica no goza de estas presunciones y su validez debe ser probada por quien la invoca.</li>
-<li>c) La firma digital solo es válida para documentos firmados por el Intendente, y la electrónica para el resto de los funcionarios.</li>
-<li>d) Ninguna de las anteriores.</li>
-</ul>
-<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
-<hr>
-<h3>6. De acuerdo con la el estatuto del empleo público municipal, la licencia por enfermedad inculpable con goce íntegro de haberes para un agente con una antigüedad menor a cinco (5) años en el municipio tiene un límite máximo de duración por cada accidente o enfermedad de:</h3>
-<ul>
-<li>a) Treinta (30) días corridos.</li>
-<li>b) Tres (3) meses en total.</li>
-<li>c) Seis (6) meses en total.</li>
-<li>d) Un (1) año si el agente tiene carga de familia, o seis (6) meses si no la tuviese.</li>
-</ul>
-<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
-<hr>
-<h3>7. De conformidad con la la Ley Orgánica de las Municipalidades y las normativas contables de la RAFAM, el funcionario encargado de ejercer el control de legalidad interno previo del gasto, fiscalizando la imputación y disponibilidad de fondos antes de emitir una orden de pago, es:</h3>
-<ul>
-<li>a) El Intendente Municipal.</li>
-<li>b) El Tesorero Municipal.</li>
-<li>c) El Contador Municipal.</li>
-<li>d) El Presidente del Honorable Concejo Deliberante.</li>
-</ul>
-<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
-<hr>
-<h3>8. En el marco del sistema de Gestión Documental Electrónica (GDE) de la MGP, el módulo denominado GEDO (Generación de Documentos Oficiales) se utiliza específicamente para:</h3>
-<ul>
-<li>a) Caratular, tramitar y realizar el seguimiento de los expedientes electrónicos integrales.</li>
-<li>b) Elaborar, numerar y firmar digitalmente documentos oficiales (como actas, notas, informes, resoluciones, disposiciones) que luego se incorporan a los expedientes.</li>
-<li>c) Registrar las asistencias, licencias y calificaciones del personal municipal.</li>
-<li>d) Ninguna de las anteriores.</li>
-</ul>
-<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
-<hr>
-<h3>9. De acuerdo con las disposiciones de la Ley Orgánica de las Municipalidades, para proceder a la destitución del Intendente Municipal o de un Concejal en caso de la comisión de faltas graves, el Concejo Deliberante debe alcanzar una mayoría de:</h3>
-<ul>
-<li>a) Mayoría simple de los concejales presentes en la sesión.</li>
-<li>b) Dos tercios (2/3) de votos del total de los miembros que componen el cuerpo deliberativo.</li>
-<li>c) Tres cuartas partes (3/4) de los concejales en ejercicio.</li>
-<li>d) Ninguna de las anteriores.</li>
-</ul>
-<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
-<hr>
-<h3>10. De acuerdo con la Ley Nacional de Higiene y Seguridad en el Trabajo Nº 19587, la provisión de los Equipos de Protección Personal (EPP) y la adopción de medidas de ergonomía y seguridad ambiental en los puestos de trabajo del personal es:</h3>
-<ul>
-<li>a) Una obligación compartida a partes iguales en costo entre el empleado y la municipalidad.</li>
-<li>b) Una obligación exclusiva del empleador (en este caso la Municipalidad), quien debe proveerlos de forma gratuita y mantener las condiciones ambientales adecuadas.</li>
-<li>c) Una responsabilidad de la ART una vez que ocurre el primer accidente.</li>
-<li>d) Ninguna de las anteriores.</li>
-</ul>
-<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
-<hr>
-<h2>CUESTION Nº 2: HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)</h2>
-<p><em>Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.</em></p>
-<blockquote>
-<p>Un agente de su departamento, con una antigüedad de 8 años en el puesto de soporte técnico y desarrollo, comienza a manifestar dolores persistentes en su muñeca y mano derecha. Es diagnosticado clínicamente con &quot;Síndrome del Túnel Carpiano&quot; crónico, una afección ergonómica del nervio mediano. El agente sostiene que la lesión se debe a sus tareas diarias de digitación intensiva y reparación manual de hardware, y solicita la cobertura de su tratamiento médico.</p>
-<p>Se solicita:</p>
-<ol>
-<li>Indique si dicha situación encuadra dentro de las coberturas de la la legislación de riesgos del trabajo aplicable, bajo qué figura legal se encasilla y cómo se justifica su inclusión.</li>
-<li>Explique cuál es el procedimiento administrativo en caso de que la ART rechace la relación de causalidad laboral de la afección del agente, indicando ante qué organismo público se debe reclamar.</li>
-</ol>
-</blockquote>
-<hr>
-<h2>CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)</h2>
-<p><em>Consigna: Resuelva el caso disciplinario planteado y redacte el acto administrativo/elevación correspondiente.</em></p>
-<blockquote>
-<p>Usted como Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software constata mediante una auditoría informática automatizada (logs de acceso a la base de datos municipal de Catastro y Tasas) que el agente R.D. (Legajo Nº 77.777, Categoría Técnico I) extrajo y exportó sin autorización un listado con datos fiscales confidenciales de contribuyentes y deudas, habiéndolos entregado posteriormente a una empresa inmobiliaria privada para su beneficio económico personal. El agente es confrontado y reconoce su autoría del hecho por escrito en un descargo preliminar, calificándolo de &quot;un favor personal sin mala intención&quot;.</p>
-<p>Al tratarse de una falta gravísima que infringe flagrantemente el deber de reserva y el decoro, siendo susceptible de una sanción de carácter expulsivo (cesantía o exoneración), usted sabe que excede sus facultades aplicar una sanción de forma directa.</p>
-<p>Se solicita:</p>
-<ol>
-<li>Indique fundadamente cuál es el procedimiento obligatorio a seguir conforme al estatuto del empleo público municipal para sancionar al agente con una medida expulsiva y qué medida precautoria inmediata puede proponer el Jefe de Departamento respecto a la prestación de servicios del agente para resguardar la seguridad de la base de datos. (1.5 Puntos)</li>
-<li>Redacte el acto administrativo formal (Disposición de elevación) mediante el cual usted, en su rol de Jefe de Departamento, informa el hecho a la Dirección General de TIC y a la Dirección de Personal, solicita formalmente la instrucción de las actuaciones sumariales y propone la aplicación de la medida precautoria que corresponda. El texto debe contar con los elementos estructurales obligatorios: <code>VISTO</code>, <code>CONSIDERANDO</code>, y la parte dispositiva (<code>DISPONE</code> o <code>RESUELVE</code> / <code>ELEVA</code>). Indique si requiere dictamen jurídico previo. (2.5 Puntos)</li>
-</ol>
-</blockquote>
-<hr>
-<h2>CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</h2>
-<p><em>Consigna: Responda las siguientes preguntas justificando con el marco normativo municipal correspondientes sobre género y violencia laboral.</em></p>
-<ol>
-<li>¿Existe en el ámbito de la Municipalidad de General Pueyrredón una licencia especial por violencia de género para las agentes municipales? En caso afirmativo, indique bajo qué norma se rige, si es con o sin goce de haberes y si requiere una antigüedad mínima para su usufructo. (1.5 Puntos)</li>
-<li>Explique cómo debe proceder administrativamente una agente municipal para solicitar formalmente dicha licencia especial por violencia de género, resguardando la intimidad de sus datos y qué documentación de respaldo resulta suficiente. (1.5 Puntos)</li>
-<li>Si en su departamento de Sistemas de Software trabajan tanto una agente que ha denunciado acoso/violencia por razones de género como el agente denunciado, ¿cuáles son las medidas preventivas urgentes que debe adoptar usted como Jefe de Departamento en el espacio físico laboral para resguardar a la víctima? (1.5 Puntos)</li>
-</ol>
-<hr>
-<h2>CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)</h2>
-<p><em>Consigna: Responda las siguientes preguntas basadas en la bibliografía oficial del cargo (Kendall &amp; Kendall 8va Edición y Scrum Manager v2.6).</em></p>
-<ol>
-<li><strong>Diseño Orientado a Objetos (Kendall &amp; Kendall):</strong> Defina los conceptos de <strong>Cohesión</strong> y <strong>Acoplamiento</strong>. Explique detalladamente por qué un buen diseño de sistemas de software debe buscar siempre una <strong>alta cohesión y un bajo acoplamiento</strong> en sus clases y componentes de software.</li>
-<li><strong>Estimación en Proyectos Ágiles (Scrum Manager):</strong> Explique en qué consiste la técnica de estimación denominada <em>Planning Poker</em>. Describa cómo se utiliza la escala de Fibonacci modificada, quiénes estiman las tareas del backlog y cuáles son sus ventajas en comparación con los métodos tradicionales de estimación en horas individuales.</li>
-<li><strong>Modelado de Comportamiento UML (Kendall &amp; Kendall):</strong> Explique el propósito y la diferencia de uso entre un <strong>Diagrama de Secuencia</strong> y un <strong>Diagrama de Actividades</strong> en el análisis y diseño estructurado orientado a objetos. ¿Qué elementos principales componen a cada uno de estos diagramas?</li>
-<li><strong>Artefactos en Scrum (Scrum Manager):</strong> Defina y describa los artefactos <em>Product Backlog</em> (Pila de Producto) y <em>Sprint Backlog</em> (Pila del Sprint). Explique quién es responsable de la gestión y priorización de cada uno de ellos y cómo varía su contenido a lo largo de la ejecución de un proyecto de software.</li>
-<li><strong>Cálculo Práctico de Gestión de Flujo (Kanban):</strong><blockquote>
-<p>Un equipo de soporte y mantenimiento de sistemas compuesto por <strong>4 Desarrolladores</strong> utiliza un tablero Kanban para optimizar su flujo de trabajo cotidiano. El flujo de tareas pasa por las siguientes columnas: <code>To Do</code> -&gt; <code>Analysis</code> -&gt; <code>Coding</code> -&gt; <code>Testing</code> -&gt; <code>Done</code>.</p>
-<p>Resuelva los siguientes puntos:
-a) Explique conceptualmente qué es el límite de WIP (Work In Progress Limit) en Kanban, cuál es su propósito ágil y cómo ayuda a detectar cuellos de botella en el equipo de desarrollo.<br>b) Proponga límites numéricos específicos de WIP para las columnas <code>Analysis</code>, <code>Coding</code> y <code>Testing</code> para este equipo de 4 personas si se busca evitar la inactividad y promover la colaboración. Justifique numéricamente su propuesta. Explique detalladamente cómo debe actuar el equipo si la columna <code>Testing</code> alcanza su WIP limit máximo y en ese mismo instante ingresa un bug crítico de prioridad alta que debe ser resuelto con urgencia.</p>
-</blockquote>
-</li>
-</ol>
-<hr>
-<hr>
-<h2>GUÍA DE RESPUESTAS Y SOLUCIONES EXPLICADAS (INFORMACIÓN OCULTA PARA AUTOEVALUACIÓN)</h2>
-<details open>
-<summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary><h3>1. Respuesta Correcta: <strong>c</strong></h3>
-<ul>
-<li><strong>Fundamento Normativo:</strong> Ordenanza General 26348 (Procedimiento Administrativo Municipal), <strong>Artículo 79º</strong>: <em>&quot;Vencido el plazo previsto para resolver, o el de treinta (30) días de estar el expediente en condiciones de dictarse resolución definitiva... el interesado podrá considerar que existe resolución denegatoria (silencio administrativo)...&quot;</em>. Esto habilita al administrado a interponer los recursos de impugnación o acudir a la vía judicial contencioso-administrativa. <em>(📋 Verificar en texto oficial de Ordenanza General 26348, Artículo 79º)</em></li>
-</ul>
-<h3>2. Respuesta Correcta: <strong>b</strong></h3>
-<ul>
-<li><strong>Fundamento Normativo:</strong> Constitución de la Provincia de Buenos Aires (<strong>Artículo 53º</strong>), Decreto-Ley Provincial <strong>8078/73</strong> de acumulación de cargos públicos, y la Ley Orgánica de las Municipalidades. Estas normas establecen el principio general de incompatibilidad para el desempeño de más de un cargo público remunerado, estableciendo la excepción expresa para el ejercicio de la docencia, siempre y cuando no exista superposición horaria ni funcional en la prestación de servicios. <em>(📋 Verificar en texto oficial de Constitución Provincial y Decreto-Ley 8078/73)</em></li>
-</ul>
-<h3>3. Respuesta Correcta: <strong>b</strong></h3>
-<ul>
-<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>121/18, Artículo 3º</strong>. Se considera tardanza el ingreso verificado dentro de los treinta (30) minutos posteriores a la hora oficial de entrada. Excedido este lapso de tolerancia de 30 minutos sin una causa de fuerza mayor debidamente acreditada por escrito, el agente no podrá prestar servicios durante esa jornada, computándosele inasistencia injustificada con la consecuente pérdida de la remuneración diaria correspondiente.
-<em>(📋 Verificar en texto oficial de Decreto MGP 121/18, Artículo 3º)</em></li>
-</ul>
-<h3>4. Respuesta Correcta: <strong>b</strong></h3>
-<ul>
-<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículo 71º y 72º</strong>: Las ordenanzas sancionadas por el Concejo Deliberante quedan automáticamente promulgadas si el Intendente Municipal no las veta y devuelve al Concejo dentro del término de <strong>diez (10) días hábiles</strong> desde la fecha de su comunicación oficial. <em>(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades)</em></li>
-</ul>
-<h3>5. Respuesta Correcta: <strong>b</strong></h3>
-<ul>
-<li><strong>Fundamento Normativo:</strong> Ley Nacional de Firma Digital Nº 25506, <strong>Artículos 6º, 8º y 9º</strong>. La firma digital cuenta con una presunción de autoría (proviene del titular del certificado) y de integridad (el documento no ha sido modificado), lo que invierte la carga de la prueba en caso de litigio. La firma electrónica carece de estas presunciones de autoría e integridad, correspondiendo a quien la invoca acreditar su validez mediante peritajes en caso de ser desconocida por la contraparte. <em>(📋 Verificar en texto oficial de Ley Nacional 25506)</em></li>
-</ul>
-<h3>6. Respuesta Correcta: <strong>c</strong></h3>
-<ul>
-<li><strong>Fundamento Normativo:</strong> Ley 14656, <strong>Artículo 83º</strong>: Para enfermedades o accidentes inculpables que impidan la prestación de servicios, el trabajador conserva su remuneración por un período de <em>&quot;tres (3) meses, si su antigüedad en el servicio fuere menor de cinco (5) años, y de seis (6) meses si fuera mayor.&quot;</em> Si el trabajador tuviere cargas de familia, dichos plazos se duplican a seis (6) y doce (12) meses respectivamente. <em>(📋 Verificar en texto oficial de Ley 14656 - Art. 83º)</em></li>
-</ul>
-<h3>7. Respuesta Correcta: <strong>c</strong></h3>
-<ul>
-<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículos 186º y 187º</strong>, y reglamento contable RAFAM. El Contador Municipal ejerce la fiscalización interna previa de la legalidad de los actos que dispongan gastos o pagos, teniendo el deber de &quot;observar&quot; (rechazar) toda orden de pago que infrinja las disposiciones legales o presupuestarias. <em>(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades y RAFAM)</em></li>
-</ul>
-<h3>8. Respuesta Correcta: <strong>b</strong></h3>
-<ul>
-<li><strong>Fundamento Normativo:</strong> Reglamentaciones operativas del sistema de Gestión Documental Electrónica (GDE) de la MGP. El módulo <strong>GEDO</strong> (Generación de Documentos Oficiales) es el componente específico de software diseñado para la creación, edición, numeración automática y firma digital de todas las piezas documentales administrativas individuales (notas, informes, disposiciones, decretos) que luego se vinculan a un expediente electrónico (módulo EE). <em>(📋 Verificar en texto oficial de reglamentaciones GDE-MGP)</em></li>
-</ul>
-<h3>9. Respuesta Correcta: <strong>b</strong></h3>
-<ul>
-<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículo 249º y 250º</strong>: El juzgamiento y eventual destitución de concejales o del Intendente Municipal por irregularidades graves en sus funciones requiere obligatoriamente una mayoría calificada de <strong>dos tercios de la totalidad de los miembros</strong> componentes del Concejo Deliberante en sesión especial. <em>(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades)</em></li>
-</ul>
-<h3>10. Respuesta Correcta: <strong>b</strong></h3>
-<ul>
-<li><strong>Fundamento Normativo:</strong> Ley Nacional de Higiene y Seguridad en el Trabajo Nº 19587, <strong>Artículo 8º y 9º</strong>: Es obligación exclusiva e indelegable del empleador (en este caso el Municipio) la provisión gratuita de los equipos de protección individual correspondientes y la adopción de las medidas preventivas, ergonómicas y estructurales necesarias en los puestos de trabajo. El agente no debe incurrir en gasto alguno para su seguridad. <em>(📋 Verificar en texto oficial de Ley Nacional 19587, Artículos 8º y 9º)</em></li>
-</ul>
-</details><details open>
-<summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary><h3>1. Configuración de la Cobertura:</h3>
-<p><strong>Sí, la situación está cubierta por la legislación de riesgos del trabajo.</strong></p>
-<ul>
-<li><strong>Figura Legal:</strong> Configura una <strong>Enfermedad Profesional</strong>.</li>
-<li><strong>Justificación de Inclusión (Ley 24557, Artículo 6º):</strong> De acuerdo al Artículo 6º de la Ley 24557, son enfermedades profesionales aquellas que tienen causa directa e inmediata con la ejecución del trabajo. La patología del Síndrome del Túnel Carpiano se vincula directamente a tareas repetitivas y posiciones forzadas que involucran movimientos constantes de flexión y extensión de la muñeca (típicos de la digitación intensiva y el uso continuo de mouse y teclado sin soporte adecuado por parte de programadores y técnicos del área de software).</li>
-</ul>
-<h3>2. Procedimiento Administrativo en caso de Rechazo de la ART:</h3>
-<p>Si la ART rechaza formalmente la enfermedad profesional alegando que la causa es de origen extralaboral:</p>
-<ol>
-<li><strong>Reclamación formal:</strong> El agente (con asistencia del Municipio o por su cuenta) debe presentarse ante la <strong>Comisión Médica Jurisdiccional (CMJ)</strong> (organismo competente según la Ley 24557 y la Ley 27348).</li>
-<li><strong>Presentación de Prueba:</strong> Deberá aportar el diagnóstico médico, los estudios diagnósticos (electromiograma) y un informe detallado de las tareas y condiciones ergonómicas de su puesto de trabajo emitido por la Municipalidad para demostrar la exposición al riesgo.</li>
-<li><strong>Dictamen:</strong> La CMJ resolverá formalmente reconociendo el carácter laboral de la dolencia basándose en peritajes y rigor científico. Si el dictamen es favorable, obligará a la ART a brindar de forma obligatoria todas las prestaciones de salud e indemnizatorias contempladas en la Ley 24557.</li>
-</ol>
-</details><details open>
-<summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary><h3>1. Procedimiento Obligatorio y Medida Precautoria (Ley 14656)</h3>
-<ul>
-<li><strong>Procedimiento Obligatorio:</strong> Al tratarse de una falta de extrema gravedad susceptible de sanción expulsiva (cesantía o exoneración), es <strong>requisito constitucional de validez sustanciar un Sumario Administrativo previo</strong> (Ley 14656, Artículo 108º y concordantes). No se puede aplicar la cesantía de manera directa. El sumario garantiza la investigación del hecho, la recolección de pruebas y el pleno ejercicio del derecho de defensa del agente antes del dictado de la resolución definitiva por parte del Intendente Municipal.</li>
-<li><strong>Medida Precautoria Inmediata:</strong> El Jefe de Departamento debe proponer al superior la <strong>Suspensión Preventiva</strong> del agente o el <strong>Traslado Preventivo (cambio de tareas/función)</strong> a un área sin acceso a sistemas de información o bases de datos durante la sustanciación del sumario. La suspensión preventiva o traslado preventivo se fundamenta en la necesidad de resguardar la seguridad de la base de datos municipal y evitar alteraciones o nuevas filtraciones de información sensible (Artículo 112º de la Ley 14656 (Suspensión Preventiva)).</li>
-</ul>
-<hr>
-<h3>2. Redacción de la Disposición de Elevación (Estructura Base)</h3>
-<p>[Fecha del día]</p>
-<p>VISTO: las actuaciones referentes a las irregularidades detectadas en las auditorías de accesos del Departamento de Sistemas de Software de la municipalidad; y</p>
-<p>CONSIDERANDO:</p>
-<ul>
-<li>Que se verificó la exportación masiva y no autorizada de la base de datos de contribuyentes y deudas fiscales utilizando las credenciales del Agente R.D.</li>
-<li>Que se constató la entrega de dicha información confidencial a una entidad privada, configurando una infracción gravísima al deber de reserva.</li>
-<li>Que dada la naturaleza de la sanción expulsiva (cesantía) que pudiere corresponder, resulta obligatorio promover la sustanciación de un sumario administrativo previo.</li>
-<li>Que con el fin de garantizar el debido proceso se solicitó el descargo correspondiente sin aportar argumentos válidos que justifiquen su conducta.</li>
-<li>Por todo lo expuesto, de acuerdo a las atribuciones de control y supervisión y conforme al artículo 108 de la Ley 14656,</li>
-</ul>
-<p><strong>EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE</strong></p>
-<p><strong>DISPONE:</strong></p>
-<p><strong>Artículo 1º.-</strong> Elevar formalmente el informe circunstanciado del hecho y las pruebas de auditoría a la Dirección General de TIC y a la Dirección de Personal, a efectos de promover la sustanciación del Sumario Administrativo previo al Agente R.D., Legajo Nº 77.777, de conformidad con la Ley Nº 14656.
-<strong>Artículo 2º.-</strong> Proponer con carácter preventivo y urgente la suspensión preventiva o el traslado preventivo del agente R.D. a tareas sin acceso a sistemas o bases de datos de información municipal, de conformidad con el artículo 112 de la Ley 14656.
-<strong>Artículo 3º.-</strong> Notifíquese en los términos que establece el Artículo 62º de la Ordenanza 26348 y archivar en el legajo personal de agentes.
-<strong>Artículo 4º.-</strong> Regístrese, comuníquese y archívese.</p>
-</details><details open>
-<summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Licencia MGP</b></summary><h3>1. Licencia Especial por Violencia de Género:</h3>
-<ul>
-<li><strong>Existencia:</strong> <strong>Sí, existe.</strong></li>
-<li><strong>Encuadre y Goce:</strong> Se rige por la <strong>Ley Provincial 14656, Artículo 60º bis</strong> y reglamentaciones municipales específicas de la MGP. Es con <strong>goce íntegro de haberes</strong> y <strong>no requiere de ninguna antigüedad mínima</strong> previa en el empleo para que la agente pueda hacer uso de ella. Su duración inicial puede ser de hasta quince (15) días corridos (prorrogables por quince días más).</li>
-</ul>
-<h3>2. Procedimiento de Solicitud y Documentación:</h3>
-<ol>
-<li><strong>Solicitud Reservada:</strong> La agente puede solicitar la licencia de forma directa o a través de un tercero ante la Dirección de Personal o a través del módulo reservado de GDE.</li>
-<li><strong>Documentación de Respaldo:</strong> Para justificar legalmente la licencia, es suficiente la presentación de la constancia de haber realizado la denuncia policial o judicial de violencia de género, o en su defecto, una constancia de atención o informe técnico emitido por la Dirección de Políticas de Género municipal u otro organismo oficial de atención a víctimas de violencia. No se requiere la sustanciación de prueba compleja del hecho para el otorgamiento inmediato de la licencia por razones de urgencia y protección.</li>
-</ol>
-<h3>3. Medidas Preventivas del Jefe de Departamento en el Espacio Físico:</h3>
-<p>En caso de coexistencia de la denunciante y el denunciado en la misma oficina de sistemas, el Jefe de Departamento debe actuar inmediatamente:</p>
-<ol>
-<li><strong>Reubicación del denunciado:</strong> Disponer la reubicación física de oficina o cambio de sector de tareas del <strong>agente denunciado</strong> (nunca de la denunciante de forma obligada).</li>
-<li><strong>Restricción de Contacto:</strong> Prohibir cualquier tipo de comunicación, contacto presencial, telefónico o digital dentro del ámbito laboral entre el denunciado y la denunciante.</li>
-<li><strong>Flexibilización consensual:</strong> Acordar con la víctima de forma voluntaria medidas de flexibilidad horaria o teletrabajo si ella lo considerase necesario para su tranquilidad, manteniendo plenamente sus condiciones laborales originales.</li>
-</ol>
-</details><details open>
-<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (Cohesión, Scrum y Kanban)</b></summary><h3>1. Cohesión y Acoplamiento (Kendall &amp; Kendall)</h3>
-<ul>
-<li><strong>Cohesión:</strong> Mide la fuerza de la relación funcional entre los atributos y métodos dentro de una sola clase o módulo de software. Determina qué tan enfocada está una clase en realizar una única tarea y meta de negocio (ej. Cohesión funcional alta: una clase <code>LiquidadorDeTasas</code> que solo calcula impuestos).</li>
-<li><strong>Acoplamiento:</strong> Mide el grado de interdependencia o dependencia mutua que existe entre dos o más clases o módulos del sistema (ej. Acoplamiento de datos bajo: una clase se comunica con otra pasándole solo los parámetros estrictamente necesarios).</li>
-<li><strong>Búsqueda del Diseño Ideal (Alta Cohesión y Bajo Acoplamiento):</strong><ul>
-<li><strong>Alta Cohesión:</strong> Asegura que las clases sean simples, fáciles de entender, mantener y reutilizar. Si ocurre un cambio en una regla de negocio, solo se modificará la clase directamente responsable.</li>
-<li><strong>Bajo Acoplamiento:</strong> Asegura que los cambios realizados dentro del código de una clase no generen un &quot;efecto dominó&quot; de errores y fallos inesperados en otras clases del sistema. Reduce las dependencias del sistema facilitando el desarrollo en paralelo de los programadores y el testeo unitario independiente.</li>
-</ul>
-</li>
-</ul>
-<p><em>(📖 Kendall &amp; Kendall, Cap. 16, págs. 518-522)</em></p>
-<hr>
-<h3>2. Estimación Ágil con &quot;Planning Poker&quot; (Scrum Manager)</h3>
-<ul>
-<li><strong>Concepto:</strong> Es una técnica de estimación grupal y colaborativa donde el Scrum Team estima el esfuerzo relativo requerido para desarrollar las historias de usuario del Product Backlog.</li>
-<li><strong>Escala de Fibonacci Modificada:</strong> Se utilizan cartas con valores basados en Fibonacci ($0, 1, 2, 3, 5, 8, 13, 20, 40, 100$, ?, café). No representan horas exactas, sino <strong>Puntos de Historia (esfuerzo relativo, complejidad e incertidumbre)</strong>. Los valores más altos reflejan una mayor incertidumbre y la necesidad de descomponer la tarea en historias más pequeñas.</li>
-<li><strong>Quiénes Estiman:</strong> Estiman <strong>únicamente los Developers</strong> (el equipo de desarrollo), ya que son quienes efectivamente van a codificar y probar el software. El Product Owner aclara dudas del requerimiento y el Scrum Master facilita la dinámica, pero ninguno de los dos estima.</li>
-<li><strong>Ventajas sobre Estimación en Horas:</strong><ol>
-<li><strong>Evita el sesgo individual:</strong> Fomenta el debate técnico cuando hay divergencia de puntajes entre los desarrolladores, alineando el entendimiento de la tarea.</li>
-<li><strong>Rapidez y precisión relativa:</strong> Estimar en base a analogías (ej. &quot;Esta tarea es el doble de compleja que la anterior&quot;) es mucho más rápido y preciso que intentar adivinar horas exactas de desarrollo.</li>
-<li><strong>Independencia de habilidades:</strong> Un punto de historia mide el tamaño de la tarea, permitiendo calcular la velocidad del equipo sin importar quién del equipo la implemente (lo que variaría las horas en base a la experiencia junior/senior).</li>
-</ol>
-</li>
-</ul>
-<p><em>(📖 Scrum Manager v2.6, págs. 47-48)</em></p>
-<hr>
-<h3>3. Diagramas UML de Comportamiento: Secuencia vs Actividades (Kendall &amp; Kendall)</h3>
-<ul>
-<li><strong>Diagrama de Secuencia:</strong><ul>
-<li><strong>Propósito:</strong> Modelar la interacción dinámica entre objetos a lo largo del tiempo para un escenario o caso de uso particular. Representa el intercambio de mensajes en un orden secuencial temporal específico.</li>
-<li><strong>Elementos:</strong> Objetos (rectángulos superiores), Líneas de vida (líneas verticales de puntos), Focos de control (bloques de activación), Mensajes (flechas horizontales de llamada y retorno).</li>
-<li><strong>Etapa de uso:</strong> Se prefiere en el <strong>diseño detallado</strong>, para definir la lógica interna de los métodos y la comunicación entre controladores, modelos y bases de datos.</li>
-</ul>
-</li>
-<li><strong>Diagrama de Actividades:</strong><ul>
-<li><strong>Propósito:</strong> Modelar el flujo de control o de procesos de negocio paso a paso. Muestra la secuencia de actividades, bifurcaciones de decisiones y flujos paralelos del sistema.</li>
-<li><strong>Elementos:</strong> Estado inicial (círculo negro), Actividades/Acciones (rectángulos redondeados), Transiciones (flechas), Decisiones/Bifurcaciones (rombos), Barras de sincronización (barras negras para paralelismo/fork/join) y Carriles (swimlanes para separar roles).</li>
-<li><strong>Etapa de uso:</strong> Se prefiere en la <strong>recolección de requerimientos y análisis preliminar</strong>, para documentar los procesos y reglas de negocio del usuario antes de diseñar el software.</li>
-</ul>
-</li>
-</ul>
-<p><em>(📖 Kendall &amp; Kendall, Cap. 10, págs. 294-330)</em></p>
-<hr>
-<h3>4. Product Backlog vs Sprint Backlog (Scrum Manager)</h3>
-<ul>
-<li><strong>Product Backlog (Pila de Producto):</strong><ul>
-<li><strong>Definición:</strong> Es una lista ordenada y priorizada de todo lo que podría ser necesario en el producto (requerimientos, mejoras, corrección de errores). Es la única fuente de requisitos para cualquier cambio.</li>
-<li><strong>Responsable:</strong> El <strong>Product Owner</strong> es el único responsable de su gestión, orden y contenido.</li>
-<li><strong>Evolución:</strong> Es dinámico, nunca está completo. Crece, cambia y se refina continuamente a lo largo de la vida del producto para adaptarse al feedback del mercado y del usuario.</li>
-</ul>
-</li>
-<li><strong>Sprint Backlog (Pila del Sprint):</strong><ul>
-<li><strong>Definición:</strong> Es el conjunto de elementos del Product Backlog seleccionados para el Sprint actual, junto con un plan detallado (tareas técnicas) para entregar el incremento del Sprint y lograr el <em>Sprint Goal</em>.</li>
-<li><strong>Responsable:</strong> Es gestionado de forma exclusiva por los <strong>Developers</strong>.</li>
-<li><strong>Evolución:</strong> Es altamente estático durante el Sprint en cuanto al alcance del negocio (no se agregan nuevas historias de usuario), pero evoluciona diariamente a nivel técnico conforme los desarrolladores agregan, desglosan o completan tareas específicas en el día a día.</li>
-</ul>
-</li>
-</ul>
-<p><em>(📖 Scrum Manager v2.6, págs. 21-25)</em></p>
-<hr>
-<h3>5. Resolución de Caso Práctico de Gestión de Flujo (Kanban)</h3>
-<h4><strong>a) Definición y Propósito del Límite de WIP:</strong></h4>
-<p>El límite de WIP (Work In Progress Limit) establece la cantidad máxima de tareas que pueden encontrarse de manera simultánea en una columna de estado específica del flujo de trabajo de Kanban.</p>
-<ul>
-<li><strong>Propósito ágil:</strong> Forzar a que el equipo se enfoque en <strong>terminar tareas antes de empezar tareas nuevas</strong> (&quot;Stop starting, start finishing&quot;). Evita la sobrecarga de los desarrolladores y la multitarea ineficiente.</li>
-<li><strong>Detección de cuellos de botella:</strong> Si una columna alcanza su límite WIP, indica que el flujo está bloqueado en esa fase (por ejemplo, muchas tareas en <code>Testing</code> esperando validación). El equipo no puede arrastrar nuevas tareas de las columnas anteriores, visibilizando el problema de inmediato para que el equipo colabore para resolverlo.</li>
-</ul>
-<h4><strong>b) Propuesta de Límites WIP y Resolución de Caso Práctico:</strong></h4>
-<p>Para un equipo de <strong>4 desarrolladores</strong>, propongo los siguientes límites de WIP:</p>
-<ul>
-<li><code>Analysis</code> WIP Limit = <strong>2</strong> (permite preparar los requerimientos de forma anticipada sin sobrecargar).</li>
-<li><code>Coding</code> WIP Limit = <strong>3</strong> o <strong>4</strong> (suficiente para que los desarrolladores trabajen en paralelo o colaboren en parejas - Pair Programming).</li>
-<li><code>Testing</code> WIP Limit = <strong>2</strong> (fuerza a testear rápido lo programado para entregarlo, evitando acumulación de software sin verificar).</li>
-</ul>
-<h4><strong>Justificación Numérica:</strong></h4>
-<p>La suma del WIP de las columnas activas (<code>Analysis</code> + <code>Coding</code> + <code>Testing</code>) debe ser cercana a la capacidad del equipo (alrededor de $1$ o $1.5$ tareas por persona). Si limitamos <code>Testing</code> a 2 y <code>Coding</code> a 3/4, fomentamos que ante un cuello de botella, los desarrolladores se desplacen a ayudar a desbloquear columnas posteriores en lugar de seguir codificando más tareas que no podrán ser testeadas.</p>
-<h4><strong>Resolución del Escenario Crítico (Testing al Límite y Bug Crítico de Alta Prioridad):</strong></h4>
-<p>Si la columna <code>Testing</code> tiene su WIP al límite máximo (2 tareas) y entra un bug crítico urgente:</p>
-<ol>
-<li><strong>Regla de Kanban (Excepción de Clase de Servicio Urgente):</strong> El bug crítico entra bajo una clase de servicio de <strong>Urgencia / Expedite</strong>. Este tipo de tareas prioritarias pueden &quot;romper&quot; temporalmente el límite de WIP global del tablero debido al impacto directo en producción.</li>
-<li><strong>Acción del Equipo:</strong> Los desarrolladores <strong>detienen de forma inmediata sus tareas en curso</strong> de codificación o análisis.</li>
-<li><strong>Foco en el Bloqueo:</strong> El equipo se enfoca en resolver el bug y, al mismo tiempo, los desarrolladores ayudan activamente a testear y mover las tareas acumuladas en <code>Testing</code> a <code>Done</code> para liberar la columna.</li>
-<li><strong>Flujo Normal:</strong> Una vez resuelto el bug y liberado el cuello de botella en <code>Testing</code>, el tablero retorna a sus límites estrictos de WIP establecidos para las tareas ordinarias.</li>
-</ol>
-<p><em>(📖 Scrum Manager v2.6, págs. 60-70)</em></p>
-</details>
-
-</div>
-    
-<div class="page-break">
     <h1 class="exam-title">Simulacro Nº 8</h1>
     <h1>SIMULACRO DE EXAMEN Nº 8</h1>
 <p><strong>Cargo:</strong> Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
