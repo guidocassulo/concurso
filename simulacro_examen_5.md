@@ -269,7 +269,9 @@ Conforme a la **Ley 19587, Artículos 8º y 9º**, es obligación del Municipio 
 *   **Resguardo de Datos:** El personal médico de Salud Ocupacional tiene la obligación del secreto profesional, debiendo justificar las inasistencias en la planilla pública de novedades bajo códigos genéricos (ej. "Régimen de Licencia Especial" o "Artículo Médico Especial MGP") sin especificar las causas o el diagnóstico de violencia de género, resguardando la intimidad de la agente.
 
 ### 3. Confidencialidad de las Inasistencias de la Agente:
-El Jefe de Departamento debe garantizar que la justificación administrativa de las inasistencias de la agente (sea por licencia especial o por días de reposo médico) **se maneje bajo estricta reserva de sumario y confidencialidad**. No debe revelar los motivos reales de las faltas a los compañeros de oficina ni asentarlos en planillas públicas o murales del sector. Debe elevar las justificaciones médicas directamente a la Dirección de Personal en sobre cerrado o a través de trámites confidenciales en GDE.
+El Jefe de Departamento debe garantizar que la justificación administrativa de las inasistencias de la agente (sea por licencia especial o por días de reposo médico) se maneje bajo estricta reserva de sumario y confidencialidad. 
+*   **Fundamento Normativo (Ordenanza 24271, Anexo I, Procedimiento Formal):** De acuerdo al protocolo oficial de la MGP, la autoridad debe **"garantizar la máxima seriedad y confidencialidad de todas las denuncias formales, bajo apercibimiento de sanción en caso de que no se respete este principio"**, en resguardo absoluto del derecho a la **intimidad y a la dignidad** de la víctima. 
+*   **Acción del Superior:** No debe revelar los motivos reales de las faltas a los compañeros de oficina ni asentarlos en planillas públicas o murales del sector. Debe elevar las justificaciones médicas directamente a la Dirección de Personal en sobre cerrado o a través de trámites con carácter de confidencial en el sistema GDE. *(📋 Verificar en texto oficial de Ordenanza 24271, Anexo I)*
 
 </details>
 
