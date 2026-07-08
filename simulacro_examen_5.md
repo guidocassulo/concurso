@@ -137,7 +137,7 @@
 *Consigna: Responda las siguientes preguntas sobre el Protocolo de Violencia de Género de la MGP (Ordenanza 24271, Anexo I).*
 
 1.  Defina brevemente las conductas que configuran "acoso sexual" y "hostigamiento laboral" en razón del género en el ámbito laboral de acuerdo con la Ordenanza 24271, Anexo I, Punto 3. (1.5 Puntos)
-2.  Explique cuál es el rol específico que le compete al área de Medicina del Trabajo (Salud Ocupacional) en la Municipalidad en relación con las licencias médicas y el acompañamiento de las agentes víctimas de violencia de género. (1.5 Puntos)
+2.  Explique cuál es el rol y las funciones que le competen a la Asesoría Confidencial en la Municipalidad respecto de la tramitación de denuncias y medidas preventivas urgentes de resguardo a la víctima. (1.5 Puntos)
 3.  ¿Cómo debe proceder usted como superior jerárquico respecto a la confidencialidad de la justificación de las inasistencias de una agente a su cargo derivadas de situaciones de violencia de género? (1.5 Puntos)
 
 ---
@@ -264,9 +264,10 @@ Conforme a la **Ley 19587, Artículos 8º y 9º**, es obligación del Municipio 
 *   **Acoso Sexual:** Es todo comportamiento de índole sexual (físico, verbal, gestual o escrito), no consentido y rechazado por quien lo recibe, que afecte su dignidad, y cuya solicitud condicione la estabilidad o progresión en la carrera administrativa del agente (abuso de poder), o cree un entorno laboral hostil.
 *   **Hostigamiento Laboral (Acoso Moral):** Es el maltrato psicológico, hostigamiento, descrédito profesional sistemático o aislamiento laboral ejercido de forma continua sobre un agente por parte de superiores o pares, con el fin de provocar su desgaste psicofísico o forzar su renuncia o traslado.
 
-### 2. Rol de Medicina del Trabajo / Salud Ocupacional (Ord. 24271):
-*   **Evaluación Médica y Acompañamiento:** Salud Ocupacional interviene para brindar el apto médico y realizar la justificación de las inasistencias de las agentes derivadas de las afecciones físicas o psicológicas consecuencia de la violencia sufrida.
-*   **Resguardo de Datos:** El personal médico de Salud Ocupacional tiene la obligación del secreto profesional, debiendo justificar las inasistencias en la planilla pública de novedades bajo códigos genéricos (ej. "Régimen de Licencia Especial" o "Artículo Médico Especial MGP") sin especificar las causas o el diagnóstico de violencia de género, resguardando la intimidad de la agente.
+### 2. Rol y Funciones de la Asesoría Confidencial (Ordenanza MGP 24271, Anexo I):
+*   **Trámite e Investigación (Págs. 6 y 7):** La Asesoría Confidencial es el órgano competente ante el cual se radican las denuncias (tanto por vía informal como formal). Tiene a su cargo el deber de investigar los hechos, dar notificación rápida al denunciado, otorgar audiencias a las partes y elaborar un informe conclusivo en un plazo máximo de diez (10) días laborables para elevar a la Dirección de Sumarios.
+*   **Garantía de Confidencialidad y Trato Digno (Pág. 6):** Debe *"proteger la confidencialidad del procedimiento y la dignidad de las personas"* bajo apercibimiento de sanción en caso de incumplimiento de este deber de reserva. Asimismo, recabará la información intentando una única explicación de los hechos por parte de la víctima para evitar la revictimización.
+*   **Propuesta de Medidas de Resguardo (Pág. 6):** Tiene la atribución de proponer de forma inmediata a la superioridad del área medidas cautelares y preventivas de resguardo (como el alejamiento inmediato de los sujetos involucrados o la redistribución de tareas) las cuales *"en ningún caso podrán suponer para la víctima un perjuicio o menoscabo en las condiciones de trabajo, ni modificación sustancial de las mismas"* (Pág. 7). *(📋 Verificar en texto oficial de Ordenanza 24271, Anexo I)*
 
 ### 3. Confidencialidad de las Inasistencias de la Agente:
 El Jefe de Departamento debe garantizar que la justificación administrativa de las inasistencias de la agente (sea por licencia especial o por días de reposo médico) se maneje bajo estricta reserva de sumario y confidencialidad. 
