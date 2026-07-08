@@ -47,6 +47,66 @@
 
 ---
 
+### 5. De acuerdo al Decreto MGP 923/19 (Reglamento de Licencia por Descanso Anual - L.D.A.), el derecho al usufructo de la licencia anual ordinaria correspondiente a un período determinado caduca de pleno derecho:
+*   a) Al 31 de diciembre del año calendario de su otorgamiento, perdiéndose el derecho a gozarla si no se usufructuó.
+*   b) Al 31 de diciembre del año siguiente al que corresponda su otorgamiento, salvo postergación fundada por razones de servicio autorizada por el Secretario del área.
+*   c) A los cinco (5) años del período correspondiente, de conformidad con la prescripción general del derecho laboral.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 6. De acuerdo a las definiciones de documentos del Manual de Redacción Administrativa de la MGP (Decreto 966/19), el documento oficial de comunicación de alcance general firmado por autoridad jerárquica para impartir instrucciones o informaciones de cumplimiento uniforme a un conjunto de dependencias se denomina:
+*   a) Memorándum.
+*   b) Circular.
+*   c) Providencia.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 7. Conforme al régimen de control de salida del personal establecido en el Decreto MGP 122/18 (Salida por hora), las salidas particulares por hora autorizadas por el superior jerárquico dentro de la jornada laboral:
+*   a) Son libres e ilimitadas siempre que el agente compense las horas al final de la jornada.
+*   b) Tienen un límite máximo de hasta cinco (5) horas mensuales, debiendo registrarse en el reloj biométrico al egreso y al reingreso.
+*   c) Se compensan descontándose directamente de la Licencia por Descanso Anual (L.D.A.) del agente.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 8. Según el Decreto MGP 1539/18 sobre delegación de facultades disciplinarias y el estatuto municipal, la aplicación de una sanción correctiva de suspensión de hasta diez (10) días sin goce de haberes a un agente de planta permanente es atribución del:
+*   a) Jefe de Departamento del área de forma directa mediante disposición interna.
+*   b) Director General o Subsecretario del área, requiriendo dictamen legal previo de la Procuración Municipal.
+*   c) Intendente Municipal exclusivamente, previo sumario administrativo obligatorio.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 9. De conformidad con la Ley Nacional de Firma Digital Nº 25506 y la Ley Provincial 13666, se excluye expresamente la validez de la firma digital para:
+*   a) Los pliegos de bases y condiciones de licitaciones públicas de software.
+*   b) Las disposiciones administrativas de elevación de sumarios de la jefatura.
+*   c) Las disposiciones de última voluntad (testamentos) y los actos de derecho de familia.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
+### 10. De acuerdo con el Reglamento de Presentismo de la MGP (Decreto MGP 397/01 y modificatorios), el agente municipal perderá el cobro íntegro del Premio por Presentismo correspondiente al mes en curso cuando registre:
+*   a) Un (1) solo día de inasistencia justificada por razones de enfermedad familiar.
+*   b) Una (1) inasistencia injustificada o más de tres (3) llegadas tarde mensuales de más de diez (10) minutos sin justificación autorizada.
+*   c) Licencia por examen universitario por el término de dos días hábiles.
+*   d) Ninguna de las anteriores.
+
+**Fundamento Normativo:** __________________________________________________________________
+
+---
+
 ## CUESTION Nº 2: HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)
 *Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.*
 
