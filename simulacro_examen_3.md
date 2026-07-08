@@ -201,15 +201,15 @@
 <summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary>
 
 ### 1. Configuración de la Cobertura:
-**Sí, la situación está cubierta por la legislación.**
+**Sí, la situación está cubierta por la legislación de riesgos del trabajo.**
 *   **Figura Legal:** Configura una **Enfermedad Profesional**.
-*   **Justificación de Inclusión:** El Síndrome del Túnel Carpiano se encuentra expresamente catalogado en el **Listado de Enfermedades Profesionales (Decreto Nacional 658/96, Anexo I de la Ley 24557)** aprobado bajo la Ley 24557, asociado a agentes de riesgo físicos de tareas repetitivas y posiciones forzadas que involucren movimientos de flexión y extensión repetitiva de la muñeca (como ocurre con la digitación sistemática e intensiva de los programadores y personal de soporte informático).
+*   **Justificación de Inclusión (Ley 24557, Artículo 6º):** De acuerdo al Artículo 6º de la Ley 24557, son enfermedades profesionales aquellas que tienen causa directa e inmediata con la ejecución del trabajo. La patología del Síndrome del Túnel Carpiano se vincula directamente a tareas repetitivas y posiciones forzadas que involucran movimientos constantes de flexión y extensión de la muñeca (típicos de la digitación intensiva y el uso continuo de mouse y teclado sin soporte adecuado por parte de programadores y técnicos del área de software).
 
 ### 2. Procedimiento Administrativo en caso de Rechazo de la ART:
-Si la ART rechaza formalmente la enfermedad profesional alegando que la causa es extralaboral:
-1.  **Reclamación formal:** El agente (con asistencia del Municipio o por su cuenta) debe presentarse ante la **Comisión Médica Jurisdiccional (CMJ)** correspondiente a su domicilio (organismo de la Superintendencia de Riesgos del Trabajo - SRT).
-2.  **Presentación de Prueba:** Deberá aportar el diagnóstico médico, estudios complementarios (electromiograma) y una descripción oficial de tareas emitida por la Municipalidad que certifique que su puesto habitual de programador/soporte involucra el riesgo ergonómico de digitación continua.
-3.  **Dictamen:** La CMJ realizará una junta médica para dictaminar si existe relación causal directa entre las tareas realizadas en el Municipio y la patología del agente. En caso de dictamen favorable, obligará a la ART a brindar la cobertura de salud e indemnizatoria pertinente.
+Si la ART rechaza formalmente la enfermedad profesional alegando que la causa es de origen extralaboral:
+1.  **Reclamación formal:** El agente (con asistencia del Municipio o por su cuenta) debe presentarse ante la **Comisión Médica Jurisdiccional (CMJ)** (organismo competente según la Ley 24557 y la Ley 27348).
+2.  **Presentación de Prueba:** Deberá aportar el diagnóstico médico, los estudios diagnósticos (electromiograma) y un informe detallado de las tareas y condiciones ergonómicas de su puesto de trabajo emitido por la Municipalidad para demostrar la exposición al riesgo.
+3.  **Dictamen:** La CMJ resolverá formalmente reconociendo el carácter laboral de la dolencia basándose en peritajes y rigor científico. Si el dictamen es favorable, obligará a la ART a brindar de forma obligatoria todas las prestaciones de salud e indemnizatorias contempladas en la Ley 24557.
 
 </details>
 

@@ -85,18 +85,19 @@
 <details>
 <summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary>
 
-### 1. Encuadre de las Patologías (Ley 24557)
-*   **Enfermedades Profesionales (Art. 6 inc. 2 Ley 24557):** Para que una patología sea cubierta por la ART, debe estar incorporada en el Listado de Enfermedades Profesionales (Decreto 658/96) aprobado por el Poder Ejecutivo Nacional.
-*   **Astenopia Ocupacional (Fatiga Visual / Ojo Seco):** La fatiga visual asociada a pantallas de visualización de datos (PVD) no se encuentra expresamente en el listado cerrado como una enfermedad incapacitante por sí misma, a menos que genere un daño orgánico permanente. Sin embargo, los trastornos musculoesqueléticos lumbares y cervicales (por malas posturas ergonómicas para evitar el reflejo) sí están contemplados (hernias discales lumbares si implican vibración, o dolores mecánicos crónicos).
-*   **Vía de la Comisión Médica:** Si una patología no está en el listado cerrado pero se demuestra de forma directa la relación de causalidad con el ambiente de trabajo (como el reflejo directo y las pantallas de visualización de datos), el agente puede tramitar su inclusión y cobertura de forma excepcional ante las Comisiones Médicas Jurisdiccionales (Art. 6.2.b).
+### 1. Encuadre de las Patologías (Ley 24557):
+**La fatiga visual y el síndrome del ojo seco no califican como accidente laboral ni como enfermedad profesional automática.**
+*   **Justificación (Ley 24557, Artículo 6º):** De acuerdo al Artículo 6º de la Ley 24557, se consideran enfermedades profesionales aquellas causadas en forma directa e inmediata por el trabajo. Al tratarse de afecciones comunes no listadas de manera automática para puestos administrativos, la ART no brindará cobertura directa inicial.
+*   **Vía Excepcional:** Para su reconocimiento, el agente deberá iniciar una petición fundada ante la Comisión Médica Jurisdiccional (Ley 24557, Artículo 6º, apartado 2, inciso b) a fin de demostrar con rigor científico y peritajes la relación de causalidad directa y exclusiva entre las condiciones ambientales de su puesto de trabajo en el municipio y la dolencia visual diagnosticada.
 
-### 2. Normas de Higiene Infringidas y Acciones Correctivas (Ley 19587 / Decreto 351/79)
-*   **Normas Infringidas:** El **Capítulo 12 (Iluminación y Color) del Anexo I del Decreto 351/79** establece que la iluminación no debe provocar deslumbramientos directos ni reflejos molestos en las pantallas de visualización de datos. Obliga a mantener niveles mínimos de lux (500 lux para tareas de oficina con pantallas) y evitar la fatiga visual.
-*   **Acciones y Rediseño Ergonómico a adoptar por la Jefatura:**
+### 2. Normas de Higiene Infringidas y Acciones Correctivas (Ley 19587):
+Conforme a la **Ley 19587, Artículos 8º y 9º**, es obligación del Municipio (empleador) velar por la integridad psicofísica de los trabajadores y adoptar medidas preventivas contra riesgos higiénico-ambientales en los puestos de trabajo.
+*   **Deberes de Iluminación y Ergonomía (Ley 19587, Artículo 8º):** Se deben mantener niveles de iluminancia adecuados a la tarea y asegurar que las fuentes de iluminación no provoquen deslumbramientos directos ni reflejos molestos en las pantallas de visualización de datos de los programadores.
+*   **Acciones y Rediseño Ergonómico a adoptar por la Jefatura (Ley 19587, Artículo 9º, Inciso b):**
     1.  **Reorientación de los puestos:** Colocar los escritorios de forma **perpendicular** a los ventanales (la luz natural debe entrar por los costados, no por detrás ni por delante del monitor) para eliminar los reflejos (glare) y los deslumbramientos directos.
-    2.  **Control de luz natural:** Instalar cortinas tipo roller *blackout* o difusores en los ventanales para controlar la intensidad de la luz solar directa durante el día.
-    3.  **Iluminación Artificial Indirecta:** Disponer luminarias artificiales con difusores parabólicos que no generen reflejos en las pantallas y regular la luz en general en el rango de los 500 lux.
-    4.  **Ergonomía de las pantallas:** Proveer filtros antirreflejo si fuera necesario y regular el contraste, brillo y altura del borde superior del monitor a la altura de los ojos de los agentes.
+    2.  **Control de luz natural:** Instalar cortinas o difusores en los ventanales para controlar la intensidad de la luz solar directa durante el día.
+    3.  **Iluminación Artificial Indirecta:** Disponer luminarias artificiales con difusores que no generen reflejos en las pantallas y regular la luz en general.
+    4.  **Ergonomía de las pantallas:** Regular el contraste, brillo y altura del borde superior del monitor a la altura de los ojos de los agentes.
 
 </details>
 

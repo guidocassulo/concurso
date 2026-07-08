@@ -214,15 +214,15 @@
 
 ### 1. Configuración de Enfermedad Profesional (Ley 24557, Artículo 6º):
 **Sí, el Síndrome del Túnel Carpiano califica legalmente como Enfermedad Profesional.**
-*   **Fundamento Jurídico:** Esta patología está expresamente contemplada en el **Listado de Enfermedades Profesionales (Decreto 658/96)** reglamentario de la Ley de Riesgos del Trabajo Nº 24557. Está directamente vinculada a tareas que requieren movimientos repetitivos de la muñeca, presión local en la palma de la mano, flexo-extensión forzada y prolongada de la articulación (típico del uso continuo de teclado y ratón sin apoyo ergonómico en puestos informáticos). La ART del municipio debe brindar cobertura total al tratamiento médico, kinésico y salarios de los días caídos de licencia por enfermedad profesional.
+*   **Fundamento Jurídico:** De acuerdo con la **Ley Nacional de Riesgos del Trabajo Nº 24557, Artículo 6º**, se consideran enfermedades profesionales aquellas provocadas por causa directa e inmediata de la ejecución de las tareas. Esta patología está directamente vinculada a riesgos físicos por movimientos repetitivos de la muñeca y flexo-extensión forzada y prolongada de la articulación (típicos de la digitación sistemática en puestos informáticos sin elementos ergonómicos). La ART del municipio debe brindar cobertura total al tratamiento médico, kinésico y salarios de los días caídos de licencia por enfermedad profesional.
 
-### 2. Normas de Ergonomía y Medidas Preventivas (Resolución SRT 295/03 y Ley 19587, Artículo 9º):
-Se omitieron las directivas de ergonomía para puestos de trabajo con pantallas de visualización de datos de la **Resolución SRT 295/03 (Anexo I)**. Al retornar de su licencia, el Jefe de Departamento debe exigir al área de compras e higiene laboral la provisión de:
-1.  **Silla de oficina ergonómica:** Con soporte lumbar ajustable, apoyabrazos regulables en altura (para mantener los codos a 90º) y base giratoria de 5 rayos regulable en altura.
-2.  **Mouse ergonómico vertical:** Diseñado para evitar la pronación del antebrazo y la flexión repetitiva de la muñeca.
-3.  **Pad de mouse y teclado con apoyo de gel (Wrist rest):** Que permita mantener la muñeca en posición neutra y recta al tipear y operar el cursor.
-4.  **Soporte regulable para monitor o notebook:** Para ubicar el borde superior de la pantalla a la altura de los ojos del agente, evitando la flexión forzada del cuello.
-5.  **Pausas activas obligatorias:** Disponer un protocolo interno donde los programadores realicen 5 minutos de ejercicios de estiramiento de muñecas y dedos por cada 50 minutos de trabajo continuo.
+### 2. Normas de Ergonomía y Medidas Preventivas (Ley 19587, Artículos 8º y 9º):
+Bajo la **Ley 19587 (Artículos 8º y 9º)**, es obligación del Municipio (empleador) mantener los ambientes y útiles de trabajo en condiciones seguras y ergonómicas para preservar la integridad física de los agentes. Para prevenir lesiones por malas posturas y movimientos repetitivos al retornar de su licencia, el Jefe de Departamento debe solicitar:
+1.  **Silla ergonómica:** Con soporte lumbar ajustable, apoyabrazos regulables y base giratoria regulable en altura.
+2.  **Mouse ergonómico vertical:** Diseñado para evitar la flexión forzada y torsión de la muñeca.
+3.  **Apoyamuñecas de gel (Wrist rest) para teclado y pad de mouse:** A fin de mantener la muñeca en posición recta y neutra al tipear.
+4.  **Soporte regulable para monitor o notebook:** Para ubicar la pantalla al nivel de la línea de visión horizontal del agente, evitando tensiones cervicales.
+5.  **Pausas activas:** Disponer un protocolo interno de ejercicios de estiramiento y pausas breves de descanso físico por cada hora de trabajo continuo.
 
 </details>
 

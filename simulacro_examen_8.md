@@ -76,18 +76,18 @@
 
 ### 1. Configuración de Accidente Laboral (Ley 24557):
 **Sí, el hecho configura un Accidente de Trabajo.**
-*   **Fundamento Jurídico:** Se trató de un acontecimiento de carácter súbito y violento (descarga eléctrica seguida de caída de altura) que ocurrió *en ocasión del trabajo* (desarrollando cableado de red del municipio) dentro del ámbito físico municipal y durante la jornada laboral (Artículo 6º de la Ley 24557). La ART debe brindar cobertura integral de salud, kinesiología, internación y salarios caídos de la licencia laboral.
+*   **Fundamento Jurídico:** Se trató de un acontecimiento de carácter súbito y violento (descarga eléctrica seguida de caída de altura) que ocurrió *en ocasión del trabajo* (desarrollando tareas de cableado de red para el municipio) dentro del ámbito físico municipal y durante la jornada laboral (Artículo 6º de la Ley 24557). La ART debe brindar cobertura integral de salud, kinesiología, internación y salarios caídos de la licencia laboral.
 
-### 2. Normas de Higiene y Seguridad Infringidas (Ley 19587 y Dec. 351/79):
-Se infringieron de forma directa las normas del **Anexo VI (Instalaciones Eléctricas)** y **Anexo I (Trabajos con Riesgo de Caída)** de la Ley 19587 y el Decreto 351/79:
-*   **Omisión de Desenergización:** Todo trabajo sobre instalaciones eléctricas o adyacentes debe ejecutarse sin tensión eléctrica activa, debiendo cortarse la corriente en la caja de fusibles o disyuntores antes del inicio.
-*   **Falta de Elementos de Protección Personal (EPP):** Para trabajos en altura (más de 2 metros) y de riesgo eléctrico se debió proveer y exigir obligatoriamente:
-    1.  **Arnés de seguridad anticaídas de cuerpo completo** amarrado a línea de vida sólida independiente.
-    2.  **Casco de seguridad industrial dieléctrico.**
-    3.  **Guantes dieléctricos homologados** para baja y media tensión.
-    4.  **Zapatos de seguridad con suela aislante (dieléctricos).**
-    5.  **Escalera de fibra de vidrio** de doble hoja (prohibiéndose escaleras de madera o metal en tareas con riesgo eléctrico).
-*   **Medidas Correctivas de la Jefatura de Sistemas:** Disponer un protocolo interno de "Permiso de Trabajo Seguro en Redes" y capacitar obligatoriamente a todo el personal técnico de infraestructura en seguridad eléctrica y de trabajos en altura en coordinación con Higiene y Seguridad de la Dirección de Recursos Humanos.
+### 2. Normas de Higiene y Seguridad Infringidas (Ley 19587):
+Se infringieron los deberes preventivos y de seguridad contemplados en los **Artículos 8º y 9º de la Ley 19587**:
+*   **Omisión de Desenergización y Control de Riesgos (Artículo 9º, Inciso a y b):** Todo trabajo sobre instalaciones eléctricas o en sus cercanías debe realizarse con la tensión cortada en el tablero principal para evitar electrocuciones, y los componentes de red (cables y racks) deben estar adecuadamente conservados y con disyuntor diferencial operativo.
+*   **Falta de Equipos de Protección Personal (EPP) (Artículo 9º, Inciso f):** Se omitió proveer obligatoriamente al personal de infraestructura de los EPP necesarios para mitigar el riesgo eléctrico y de caídas en altura (más de 2 metros):
+    1.  **Arnés de seguridad anticaídas** y línea de vida adecuada.
+    2.  **Guantes dieléctricos homologados** para baja y media tensión.
+    3.  **Calzado de seguridad dieléctrico** (sin puntera metálica).
+    4.  **Casco de seguridad** para protección contra golpes y descargas.
+    5.  **Escalera de material no conductor** (fibra de vidrio) para trabajos de tendido eléctrico o de red.
+*   **Medidas Correctivas de la Jefatura de Sistemas:** Disponer de inmediato un protocolo interno de "Trabajo Seguro en Altura y Riesgo Eléctrico", prohibir tareas en caliente en servidores o tendidos eléctricos, y exigir formalmente al área de compras la provisión inmediata de los EPP homologados correspondientes.
 
 </details>
 

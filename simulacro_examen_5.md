@@ -204,52 +204,56 @@
 <details>
 <summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary>
 
-### 1. Encuadre en el Listado de Enfermedades Profesionales:
-**No califica de forma directa como Enfermedad Profesional en el listado cerrado.**
-*   **Justificación:** El listado cerrado de enfermedades profesionales establecido por el **Decreto Nacional 658/96 (Ley de Riesgos del Trabajo 24557, Artículo 6º)** no incluye a la fatiga visual ni al síndrome del ojo seco como afecciones generadoras de incapacidad laboral bajo la exposición a agentes de riesgo informáticos de forma directa (a diferencia de la tendinitis o el túnel carpiano que sí figuran asociados al riesgo físico de movimientos repetitivos). La ART rechazará la denuncia inicialmente.
-*   **Vía Excepcional:** Para su cobertura, el agente o el municipio deberán demostrar la relación de causalidad directa ante la Comisión Médica Jurisdiccional (CMJ), probando que las condiciones ambientales del puesto municipal fueron la causa exclusiva de la afección visual.
+### 1. Encuadre en la Ley de Riesgos del Trabajo (Ley 24557):
+**La fatiga visual y el síndrome del ojo seco no califican como accidente laboral ni como enfermedad profesional automática.**
+*   **Justificación (Ley 24557, Artículo 6º):** De acuerdo al Artículo 6º de la Ley 24557, se consideran enfermedades profesionales aquellas causadas en forma directa e inmediata por el trabajo. Al tratarse de afecciones comunes no listadas de manera automática para puestos administrativos, la ART no brindará cobertura directa inicial. 
+*   **Vía Excepcional:** Para su reconocimiento, el agente deberá iniciar una petición fundada ante la Comisión Médica Jurisdiccional (Ley 24557, Artículo 6º, apartado 2, inciso b) a fin de demostrar con rigor científico y peritajes la relación de causalidad directa y exclusiva entre las condiciones ambientales de su puesto de trabajo en el municipio y la dolencia visual diagnosticada.
 
-### 2. Deberes Preventivos del Municipio (Ley 19587 y Decreto 351/79):
-El Municipio está obligado a cumplir con el **Anexo IV (Iluminación)** del Decreto 351/79 reglamentario de la Ley 19587:
-*   **Deberes de Iluminación:** Proveer niveles mínimos de iluminancia (lux) adecuados para tareas de oficina con uso de pantallas (mínimo 500 lux de iluminación localizada y general), asegurando que no existan deslumbramientos directos o reflejos molestos en la pantalla del programador.
-*   **Deberes Ergonomía de Pantallas:** Las pantallas del personal de sistemas deben contar con regulación de brillo/contraste en funcionamiento, estar ubicadas a la distancia ergonómica correcta (entre 50 y 70 cm del operario) y contar con filtros o paneles antirreflejos si las condiciones de luz ambiental lo requirieran.
-*   **Medidas Correctivas Inmediatas:** El Jefe de Sistemas debe solicitar a Infraestructura/Mantenimiento:
-    1.  Medición de niveles de lux en el puesto mediante luxómetro.
-    2.  Adecuación o reemplazo de luminarias deficientes (instalar tubos LED con difusores antirreflejos).
-    3.  Provisión de brazo o soporte regulable para la pantalla de la agente.
-    4.  Establecer pausas ergonómicas periódicas de descanso visual (regla 20-20-20).
+### 2. Deberes Preventivos del Municipio (Ley 19587):
+Conforme a la **Ley 19587, Artículos 8º y 9º**, es obligación del Municipio (empleador) velar por la integridad psicofísica de los trabajadores y adoptar medidas preventivas contra riesgos higiénico-ambientales en los puestos de trabajo.
+*   **Deberes de Iluminación y Ergonomía (Ley 19587, Artículo 8º):** Se deben mantener niveles de iluminancia adecuados a la tarea y asegurar que las fuentes de iluminación no provoquen deslumbramientos directos ni reflejos molestos en las pantallas de visualización de datos de los programadores.
+*   **Medidas Correctivas Inmediatas del Jefe de Sistemas (Ley 19587, Artículo 9º, Inciso b):** Para garantizar el mantenimiento en condiciones seguras de las instalaciones y útiles de trabajo, se debe solicitar a Infraestructura/Mantenimiento:
+    1.  Medición y adecuación de los niveles de luz en el puesto afectado.
+    2.  Redistribución física de los escritorios para evitar que la luz artificial o natural provoque reflejos en la pantalla (deslumbramiento indirecto).
+    3.  Provisión de soportes regulables para monitores a fin de asegurar la altura ergonómica del borde superior de la pantalla a la altura de los ojos.
+    4.  Establecer pausas ergonómicas obligatorias y ejercicios de relajación visual periódicos (pausas activas) durante la jornada laboral.
 
 </details>
 
 <details>
 <summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary>
 
-### 1. Competencias Jerárquicas y Vías Recursivas
-*   **Facultad Directa:** **Sí, usted posee facultades como Jefe de Departamento.** De acuerdo con el régimen de disciplina de la **Ley 14656 (Artículos 105 y 106)** y el Decreto reglamentario local de delegación disciplinaria **1539/18, Artículo 1º, Inciso c**, los Jefes de Departamento poseen competencia disciplinaria delegada directa para aplicar sanciones correctivas menores de llamado de atención, apercibimiento y suspensiones de **hasta cinco (5) días corridos**, previa sustanciación del descargo formal del agente.
-*   **Vías Recursivas del Agente:** Contra la Disposición de sanción del Jefe de Departamento, el agente J.L. puede interponer un **Recurso de Revocatoria** ante la misma Jefatura dentro de los **diez (10) días hábiles administrativos** contados a partir de su notificación formal, llevando implícito en subsidio el **Recurso Jerárquico** ante el Intendente Municipal si la revocatoria fuera rechazada (Ordenanza General 26348, Artículo 86º).
+### 1. Competencias Jerárquicas, Inexistencia de Falta y Límites a la Obediencia
+*   **Inexistencia de Falta Disciplinaria (Decreto 2250/13):** Como Jefe de Departamento, al evaluar el descargo del agente, se constata que **no corresponde aplicar ninguna sanción**. De acuerdo con el nomenclador oficial de cargos del área de informática (**Decreto MGP 2250/13, Anexo I**), existe una división estricta de tareas estructurada en cuatro agrupamientos: Operación, Programación, Análisis de Sistemas y Soporte Técnico. El agente J.L. reviste el cargo de Programador (agrupamiento Programación) y la orden impartida (reemplazo físico de placa de red en una terminal) es una tarea típica de hardware que compete exclusivamente al personal de Soporte Técnico.
+*   **Límites del Deber de Obediencia:** En el empleo público, el deber de obediencia jerárquica no es absoluto; se limita a órdenes legítimas vinculadas a las funciones específicas de la categoría y cargo que ostenta el agente. El agente no tiene la obligación legal de realizar tareas que no le corresponden según su encuadre estatutario, por lo que su negativa motivada no constituye insubordinación ni desobediencia sancionable.
+*   **Resolución:** Corresponde disponer el **archivo de las actuaciones sin aplicación de sanción disciplinaria** al agente J.L. y derivar de inmediato el requerimiento técnico al área competente de Soporte Técnico para restablecer el servicio de red.
 
 ---
 
-### 2. Redacción de la Disposición (Estructura Base)
+### 2. Redacción del Acto Administrativo de Archivo (Estructura de la Disposición)
 
-[Fecha del día]
+**MAR DEL PLATA,** [Fecha]
 
-VISTO: las actuaciones iniciadas por el incidente de insubordinación registrado el día [Fecha del hecho] que involucra al Agente J.L., Legajo Nº 55.555, Categoría Técnico II; y
+**VISTO** las actuaciones iniciadas a partir del descargo formulado por el Agente J.L., Legajo Nº 55.555, Categoría Técnico II, con relación a la orden de servicio impartida el día [Fecha del hecho] en la Mesa de Entradas municipal, y;
 
-CONSIDERANDO:
-* Que con fecha [Fecha del hecho], ante una interrupción crítica del sistema de atención en la Mesa de Entradas municipal, el agente se negó formal y taxativamente a cumplir con la orden presencial y directa de reemplazar la placa de red de la PC de dicho sector.
-* Que el agente adujo que dicha tarea de hardware no se correspondía con su cargo de programador de software, lo cual infringe los deberes de obediencia y el reencasillamiento previsto en el Decreto 2250/13, Artículo 1º y Anexo I.
-* Que con el fin de garantizar el debido proceso se solicitó el descargo correspondiente sin aportar argumentos válidos que justifiquen su conducta.
-* Por todo lo expuesto, de acuerdo a las atribuciones establecidas por los artículos 105 y 106 de la Ley 14656 y el Decreto Municipal Nº 1539/18 Art. 1º, Inciso c),
+**CONSIDERANDO:**
+
+* Que con fecha [Fecha del hecho], ante una contingencia en la Mesa de Entradas municipal por la caída del sistema, se indicó presencialmente al agente J.L. realizar el reemplazo físico de la placa de red de la PC principal.
+* Que el agente formuló formal descargo manifestando que dicha tarea de mantenimiento físico de hardware excede sus funciones específicas de desarrollo de software.
+* Que analizados los antecedentes y de conformidad con el nomenclador del Grupo Ocupacional Computación aprobado por **Decreto Municipal Nº 2250/13, Anexo I**, el cargo del agente (Técnico II - Programador) se encuentra encuadrado bajo el agrupamiento de "Programación", cuyas funciones exclusivas comprenden el desarrollo, codificación y testeo de software, mas no las tareas de reparación física de equipamiento informático (hardware), las cuales competen al agrupamiento de "Soporte Técnico".
+* Que la orden de servicio que motiva el actuado requería tareas ajenas a las incumbencias de la categoría de revista del agente, no revistiendo su negativa carácter de falta administrativa de insubordinación o desobediencia (Artículo 107º de la Ley Nº 14656).
+* Por ello, en uso de las facultades de supervisión y administración de personal de esta dependencia,
 
 **EL JEFE DEL DEPARTAMENTO DE GESTIÓN, DESARROLLO E INNOVACIÓN EN SISTEMAS DE SOFTWARE**
 
 **DISPONE:**
 
-**Artículo 1º.-** Aplicar la sanción de 1 (un) día de suspensión sin goce de haberes al agente J.L., Legajo Nº 55.555, por encontrarse incurso de los supuestos del artículo 107, Inciso 1 y 2 de la Ley Nº 14656.
-**Artículo 2º.-** Hacer efectiva la sanción después de 10 días notificada esta.
-**Artículo 3º.-** Notifíquese en los términos que establece el Artículo 62º de la Ordenanza 26348 y archivar en el legajo personal de agentes.
-**Artículo 4º.-** Regístrese, comuníquese y archívese.
+**ARTÍCULO 1º.-** Desestimar la aplicación de sanción disciplinaria al agente **J.L.**, Legajo Nº **55.555**, Categoría **Técnico II**, disponiendo el **archivo definitivo de las presentes actuaciones** por no configurarse falta disciplinaria de conformidad con el nomenclador del Decreto Municipal Nº 2250/13.
+**ARTÍCULO 2º.-** Registrar en la dependencia, notificar fehacientemente al agente J.L., remitir copia a la Dirección de Personal para su toma de conocimiento sin anotación desfavorable en el legajo del agente, y archivar.
+
+**DISPOSICIÓN Nº** [Dejar espacio para número]
+
+*Firma y Sello del Jefe de Departamento*
 
 </details>
 
