@@ -54,7 +54,7 @@
 ### Simulacro 5
 | Cita original | Corrección |
 |--------------|-----------|
-| Decreto 121/18, Art. 6º (justificación omisión fichada 48hs) | Correcto. Verificado. |
+| Decreto 121/18, Art. 6º (justificación omisión fichada 48hs) | El Artículo 6º del Decreto 121/18 es una cláusula derogatoria del Decreto 1922/97. La regla de justificación por omisión de fichado de 48 hs hábiles se sustenta en el **Reglamento General de Control de Asistencia y Puntualidad (Decreto 121/18 y 122/18)**. Se corrigió quitando la mención errónea al Artículo 6º. |
 
 ### Simulacro 6
 | Cita original | Corrección |
