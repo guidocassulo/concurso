@@ -115,7 +115,7 @@
 > Una agente del equipo de desarrollo de software que trabaja bajo su supervisión como Jefe de Departamento manifiesta dolores persistentes en la muñeca derecha, entumecimiento y hormigueo en los dedos pulgar, índice y medio. Refiere que la sintomatología se ha intensificado notablemente durante los últimos meses de trabajo continuo frente a la computadora. Tras la consulta médica formal, se le diagnostica **Síndrome del Túnel Carpiano** y se le prescribe un período de reposo y tratamiento de kinesiología.
 > 
 > Se solicita:
-> 1. Indique si la patología descrita califica como una Enfermedad Profesional bajo el régimen de la Ley 24557, Artículo 6º y sus decretos reglamentarios (Listado de Enfermedades Profesionales). Fundamente jurídicamente su respuesta.
+> 1. Indique si la patología descrita califica como una Enfermedad Profesional bajo el régimen de la Ley 24557, Artículo 6º y de qué manera se justifica y fundamenta su encuadre en base a la relación de causalidad con la ejecución del trabajo. Fundamente jurídicamente su respuesta.
 > 2. Determine qué pautas o medidas preventivas de ergonomía laboral (bajo la Ley de Higiene y Seguridad Nº 19587, Artículo 9º) debieron aplicarse en el puesto de oficina de la agente y qué adaptaciones específicas debe solicitar el Jefe de Sistemas de Software para evitar la recidiva al retornar al servicio.
 
 ---

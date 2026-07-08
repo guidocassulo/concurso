@@ -80,7 +80,7 @@
 > 
 > Se solicita:
 > 1. Indique si las patologías descritas pueden encuadrarse como Enfermedades Profesionales bajo la Ley de Riesgos del Trabajo 24557 y qué requisitos exige el sistema para su cobertura. (0.75 Puntos)
-> 2. Determine qué normas de Higiene y Seguridad Laboral (Ley 19587, Decreto 351/79 sobre iluminación y confort visual) se están infringiendo y qué acciones y rediseños ergonómicos inmediatos debe adoptar el Jefe de Departamento en la oficina de software. (0.75 Puntos)
+> 2. Determine qué principios y deberes de la Ley de Higiene y Seguridad Laboral Nº 19587 se están infringiendo con respecto a la iluminación y confort visual, y qué acciones y rediseños ergonómicos inmediatos debe adoptar el Jefe de Departamento en la oficina de software. (0.75 Puntos)
 
 <details>
 <summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary>

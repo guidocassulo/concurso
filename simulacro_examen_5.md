@@ -115,21 +115,21 @@
 > Un analista programador de su dependencia, asignado a tareas de desarrollo del portal de autogestión de tasas, presenta un reclamo formal ante la Jefatura. Manifiesta que padece fatiga visual severa, dolores de cabeza y síndrome del ojo seco de carácter crónico debido a que la iluminación de su puesto de trabajo es deficiente y la pantalla no cuenta con filtros ergonómicos. Solicita el inicio de un expediente de cobertura médica ante la ART contratada por el municipio.
 > 
 > Se solicita:
-> 1. Indique si dicha patología califica como una Enfermedad Profesional bajo el Listado oficial de la Ley de Riesgos del Trabajo 24557 y fundamente su respuesta.
-> 2. Detalle cuáles son los deberes preventivos del Municipio (empleador) bajo la Ley de Higiene y Seguridad Nº 19587, Artículo 9º en relación con la ergonomía en puestos de oficina y qué medidas preventivas inmediatas debe adoptar el Jefe de Sistemas de Software.
+> 1. Determine, con base en la Ley 24557 (Artículo 6º), si la patología expuesta califica como una contingencia de cobertura directa por parte de la ART o si el agente debe iniciar un trámite excepcional para demostrar el nexo de causalidad laboral. Explique el procedimiento.
+> 2. Detalle cuáles son los deberes preventivos y las condiciones higiénico-ambientales que el Municipio (empleador) debe garantizar según la Ley de Higiene y Seguridad Nº 19587 (Artículos 8º y 9º) con respecto a la iluminación y confort de pantallas, e indique qué medidas preventivas inmediatas debe adoptar el Jefe de Sistemas de Software.
 
 ---
 
 ## CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)
 *Consigna: Resuelva el caso disciplinario planteado y redacte el acto administrativo correspondiente.*
 
-> Durante una urgencia operativa en la Mesa de Entradas de la municipalidad, donde los sistemas de atención al público se cayeron por una falla en la placa de red de la PC principal, usted como Jefe de Departamento le ordena de forma presencial y directa al programador J.L. (Legajo Nº 55.555, Categoría Técnico II) que se dirija al sector a reemplazar la placa de red dañada para restablecer el servicio. El agente J.L. se niega rotundamente a cumplir la orden, manifestando de forma descomedida ante otros agentes que su contrato es de "Desarrollador de software" y que "reparar PCs es tarea de soporte de hardware, no del área de programación". El hecho queda asentado en un acta técnica.
+> Durante una urgencia operativa en la Mesa de Entradas de la municipalidad, donde los sistemas de atención al público se cayeron por una falla en la placa de red de la PC principal, usted como Jefe de Departamento le ordena de forma presencial al programador J.L. (Legajo Nº 55.555, Categoría Técnico II, Agrupamiento Programación) que se dirija al sector a reemplazar la placa de red dañada para restablecer el servicio.
 > 
-> Tras vencer el plazo de traslado sin que su descargo aporte justificativos válidos de fuerza mayor, usted decide sancionar al agente aplicando una **sanción correctiva menor de un (1) día de suspensión sin goce de haberes** por insubordinación e incumplimiento de deberes de impulsar el trámite y obediencia jerárquica (Art. 107 inc 1 y 2 de la Ley 14656).
+> El agente J.L. se niega a cumplir la orden, manifestando por escrito en su descargo que dicha tarea de mantenimiento físico de hardware corresponde al agrupamiento de soporte técnico y excede sus funciones específicas de programación.
 > 
 > Se solicita:
-> 1. Explique fundadamente si usted posee facultades como Jefe de Departamento para aplicar de forma directa esta sanción y qué recurso jerárquico puede interponer el agente de acuerdo al procedimiento administrativo. (1.5 Puntos)
-> 2. Redacte la parte dispositiva y de fundamentación (`VISTO`, `CONSIDERANDO` y `DISPONE`) de la Disposición mediante la cual aplica la suspensión de 1 día al agente J.L. (2.5 Puntos)
+> 1. Analice de forma fundada, de conformidad con el nomenclador del Grupo Ocupacional Computación (Decreto MGP 2250/13) y los límites al deber de obediencia jerárquica de la Ley 14656, si la negativa del agente constituye una falta disciplinaria y si corresponde aplicar una sanción disciplinaria por insubordinación o desobediencia. (1.5 Puntos)
+> 2. Determine el temperamento a adoptar con respecto a las actuaciones disciplinarias y redacte la parte dispositiva y de fundamentación (`VISTO`, `CONSIDERANDO` y `DISPONE`) del acto administrativo que corresponda dictar en su carácter de Jefe de Departamento para resolver definitivamente el caso. (2.5 Puntos)
 
 ---
 
