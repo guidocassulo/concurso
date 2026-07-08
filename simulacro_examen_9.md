@@ -177,10 +177,10 @@ CONSIDERANDO:
     2.  **No Revictimización:** Evitar obligar a las afectadas a relatar repetidamente los hechos, y prohibir careos o reuniones de confrontación directa en el ámbito de la oficina con el denunciado.
     3.  **Protección y Acompañamiento:** Ofrecer a las agentes la posibilidad de reacomodar sus mesas o dinámicas de reuniones ágiles para evitar el contacto directo continuo con el agente mientras se resuelve el caso, sin que esto signifique un perjuicio o traslado forzoso de las afectadas.
 
-### 3. Organismos Externos y Trámite de la Denuncia
-*   **Dirección de Políticas de Género MGP:** Es el organismo de aplicación técnico específico de la municipalidad. El Jefe de Departamento debe guiar y acompañar a las afectadas a radicar la denuncia ante el equipo técnico interdisciplinario de esta Dirección, que brindará asesoramiento legal, psicológico y acompañamiento integral.
-*   **Dirección General de Recursos Humanos (Departamento Técnico):** Se debe remitir informe confidencial detallado de las actuaciones y el Acta del hecho para que se evalúe el inicio de las acciones sumariales disciplinarias contra el agente de acuerdo al régimen de la Ley 14656.
-*   **Dirección de Medicina del Trabajo:** Intervendrá en caso de que las afectadas requieran asistencia por afectaciones a la salud psíquica derivadas del acoso en el entorno laboral.
+### 3. Organismos Municipales Intervinientes y Trámite (Ordenanza 24271, Anexo I):
+*   **Asesoría Confidencial MGP:** Es el organismo de aplicación técnico y canal específico del Protocolo municipal (pág. 6 y 7). El Jefe de Departamento debe asesorar y acompañar a las afectadas a radicar la denuncia ante esta Asesoría, la cual sustanciará el procedimiento y garantizará la confidencialidad absoluta del trámite.
+*   **Dirección de Personal:** Deberá intervenir ante la remisión del caso por parte de la Asesoría Confidencial para registrar las novedades de inasistencia/licencia bajo reserva, y dar curso a los traslados y reubicaciones preventivas del presunto agresor a fin de resguardar a las víctimas en su espacio de trabajo.
+*   **Dirección de Sumarios:** Tomará intervención a los efectos de tramitar el sumario administrativo disciplinario correspondiente derivado del informe y de la conclusión del procedimiento por parte de la Asesoría Confidencial, determinando responsabilidades y sanciones según el nomenclador de faltas graves o muy graves del Protocolo (pág. 7 y 8). *(📋 Verificar en texto oficial de Ordenanza 24271, Anexo I)*
 
 </details>
 

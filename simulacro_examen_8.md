@@ -140,10 +140,10 @@ El Jefe de Departamento debe actuar de inmediato de forma estrictamente confiden
 *   **Resguardo de la Víctima (No victimización secundaria):** Se prohíbe de forma absoluta obligar a la agente denunciante a trasladarse de oficina o de tareas en contra de su voluntad, ya que esto constituiría una sanción indirecta perjudicial para ella por denunciar el hecho. Las medidas de movimiento o reubicación preventiva deben recaer exclusivamente sobre el agente presunto acosador.
 *   **Acompañamiento:** Mantener una escucha activa y empática, respetando la voluntad de la agente en todo momento y garantizando el secreto sumarial para evitar represalias de otros agentes de la oficina.
 
-### 3. Vías Institucionales y Derivación Coordinada:
-*   El Jefe de Departamento debe informar la situación formalmente a la **Dirección de Políticas de Género municipal** para coordinar el asesoramiento especializado y acompañamiento interdisciplinario (psicológico y social) de la agente.
-*   Remitir el caso a la **Dirección de Medicina del Trabajo** de la Municipalidad para justificar y auditar adecuadamente las licencias médicas de la agente, encuadrándolas correctamente dentro del Protocolo de Violencia de Género para evitar pérdidas de presentismo.
-*   Elevar la denuncia de acoso ante la **Dirección de Personal de la Dirección General de Recursos Humanos** para que se instruya la investigación sumaria correspondiente contra el agente agresor de conformidad con la Ordenanza 24271, Anexo I, Punto 3 y la Ley Micaela.
+### 3. Vías Institucionales y Derivación Coordinada (Ordenanza 24271, Anexo I):
+*   El Jefe de Departamento debe informar la situación de forma confidencial y coordinada ante la **Asesoría Confidencial** de la Municipalidad de General Pueyrredón, que es el órgano específico de aplicación encargado de receptar la denuncia, llevar la investigación y coordinar el resguardo de la agente de forma inmediata (pág. 6 y 7).
+*   Dar intervención formal a la **Dirección de Personal** de la MGP a fin de registrar y auditar las inasistencias en el marco del Protocolo y de la Ley 14656, y solicitar el cambio de puesto de trabajo o de tareas físicas del presunto agresor para evitar perjuicios o pérdidas de presentismo de la agente (pág. 7).
+*   Remitir el informe de los hechos y la conclusión de la investigación a la **Dirección de Sumarios** del municipio por intermedio de la Asesoría Confidencial para que se inicie el trámite sumarial disciplinario de celeridad, evaluando la aplicación de sanciones por faltas graves o muy graves de acuerdo al nomenclador del Protocolo (pág. 7 y 8).
 
 </details>
 

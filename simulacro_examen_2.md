@@ -229,7 +229,7 @@
 *   **Del Responsable del Área (Municipalidad):**
     1.  Recibir la notificación del agente y realizar de forma urgente la **Denuncia de Accidente de Trabajo** ante la ART (plazo de 48 horas de tomado conocimiento).
     2.  Completar el formulario de denuncia con los datos del hecho, el horario y domicilio declarado del agente.
-    3.  Tramitar las licencias médicas pertinentes en la Dirección de Personal y medicina del trabajo, y realizar el seguimiento de las prestaciones en especie brindadas por la ART al agente.
+    3.  Tramitar las licencias médicas pertinentes en la Dirección de Personal y el área médica de control laboral del municipio, y realizar el seguimiento de las prestaciones en especie brindadas por la ART al agente.
 
 </details>
 

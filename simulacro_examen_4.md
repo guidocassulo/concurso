@@ -116,7 +116,7 @@
 > 
 > Se solicita:
 > 1. Indique si el siniestro configura un accidente laboral cubierto y qué norma nacional rige la cobertura de salud e indemnizaciones.
-> 2. Identifique qué obligaciones legales de Higiene y Seguridad Laboral (Ley 19587 y Decreto 351/79) se omitieron en el ámbito de trabajo y qué elementos debieron proveerse para evitar el siniestro.
+> 2. Identifique qué obligaciones y deberes de la Ley de Higiene y Seguridad Laboral Nº 19587 se omitieron en el ámbito de trabajo y qué elementos debieron de haberse provisto para evitar el siniestro.
 
 ---
 
