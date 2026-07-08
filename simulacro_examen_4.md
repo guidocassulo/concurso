@@ -183,7 +183,7 @@
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 155º**: *"Se requerirá autorización previa del Concejo Deliberante para realizar compras o comprometer servicios que excedan el ejercicio financiero anual o graven presupuestos de años futuros..."*. El leasing de servidores en la nube plurianual excede el ejercicio fiscal corriente, requiriendo intervención y ordenanza aprobada por el cuerpo deliberativo. *(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades)*
 
 ### 5. Respuesta Correcta: **c**
-*   **Fundamento Normativo:** Ley 14656, **Artículo 92º** y reglamentaciones locales de la MGP. El Estatuto de Empleo Público Municipal establece en su artículo 92 que los progenitores no gestantes tienen derecho a una licencia de no menos de cinco (5) días hábiles con goce de haberes. Sin embargo, en el ámbito municipal de General Pueyrredón, esta fue extendida a quince (15) días corridos por decreto y convenio colectivo local. *(📋 Verificar en texto oficial de Ley 14656 - Art. 92º)*
+*   **Fundamento Normativo:** Ley 14656, **Artículo 64º** (Licencia por Nacimiento de Hijo): Establece la licencia para los progenitores no gestantes con goce íntegro de haberes por el nacimiento de hijo/a. En el ámbito municipal de General Pueyrredón, esta fue extendida a **quince (15) días corridos** por decreto y convenio colectivo local. *(📋 Verificar en texto oficial de Ley 14656 - Art. 64º y reglamentaciones locales MGP)*
 
 ### 6. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Decretos MGP de despapelización e implementación del Domicilio Electrónico Constituido (en consonancia con el Código Civil y Comercial y la Ordenanza 26348). Las notificaciones dirigidas al buzón electrónico oficial del administrado surten efectos legales idénticos a las notificaciones físicas por cédula, y se consideran firmes a partir de su acceso en el sistema o de forma ficta al día hábil siguiente de su alojamiento digital. *(📋 Verificar en texto oficial de Decretos MGP de despapelización y Ordenanza 26348)*
@@ -280,7 +280,7 @@ Como Jefe de Departamento de Sistemas de Software, debes **dar curso inmediato, 
     *   *Ventaja:* Riesgo técnico mínimo. Si el nuevo sistema falla, la operación continúa normalmente en el antiguo. Permite realizar auditorías cruzadas de datos para verificar la exactitud del nuevo software.
     *   *Desventaja:* Alto costo y sobrecarga del personal administrativo municipal, que debe registrar e introducir dos veces cada trámite y expediente, afectando la agilidad de la oficina.
 
-*(📖 Kendall & Kendall, Cap. 16, págs. 539-540)*
+*(📖 Kendall & Kendall, Cap. 18, págs. 535-540)*
 
 ---
 

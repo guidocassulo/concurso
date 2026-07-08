@@ -95,7 +95,7 @@ Se infringieron de forma directa las normas del **Anexo VI (Instalaciones Eléct
 <summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary>
 
 ### 1. Procedimiento Disciplinario y Cese de Haberes por Abandono de Servicio
-*   **Procedimiento Formal Obligatorio:** Al acumularse 11 inasistencias injustificadas consecutivas, se debe cursar intimación fehaciente al agente en su domicilio legal bajo apercibimiento de cesantía. Cumplido el plazo de intimación (48 horas hábiles) sin reintegro ni justificación, se procede a sustanciar el expediente administrativo para declarar formalmente la **cesantía del agente por abandono de servicio** (Artículo 109 inc. 1 de la Ley 14656).
+*   **Procedimiento Formal Obligatorio:** Al acumularse inasistencias injustificadas consecutivas que excedan de 5 días (configurando abandono de cargo), se debe cursar intimación fehaciente al agente en su domicilio legal bajo apercibimiento de cesantía. Cumplido el plazo de intimación (48 horas hábiles) sin reintegro ni justificación, se procede a sustanciar el expediente administrativo para declarar formalmente la **cesantía del agente por abandono de servicio** (**Artículo 108º, Inciso f) de la Ley 14656**: *"inasistencias injustificadas que excedan de cinco (5) días hábiles administrativos en el año o de tres (3) días hábiles consecutivos en el mes, previo apercibimiento."*).
 *   **Medidas de la Jefatura de Sistemas:** 
     *   Ordenar la **suspensión preventiva e inmediata de la liquidación de haberes mensuales** del agente J.M. a partir del primer día de inasistencia constatado, evitando pagos indebidos por servicios no prestados.
     *   Ordenar el **bloqueo físico y lógico definitivo de todos los accesos técnicos** (VPN, usuarios Active Directory, correo institucional, accesos a servidores de desarrollo) del agente J.M. para resguardar la seguridad de la red de datos municipal.
@@ -111,7 +111,7 @@ Se infringieron de forma directa las normas del **Anexo VI (Instalaciones Eléct
 **CONSIDERANDO:**
 * Que se registraron diez (10) inasistencias consecutivas sin previo aviso.
 * Que cursada la intimación de reintegro en el domicilio real, el agente no compareció ni justificó su inacción en el plazo legal de un (1) día hábil.
-* Que esto encuadra en la figura de abandono de cargo establecida en el **Artículo 108º de la Ley 14656**.
+* Que esto encuadra en la figura de abandono de cargo y cesantía establecida en el **Artículo 108º, Inciso f) de la Ley 14656** (inasistencias injustificadas que excedan de 5 días).
 * Que corresponde elevar las actuaciones solicitando su cesantía y bloquear sus accesos lógicos preventivamente.
 
 Por ello, en uso de las atribuciones delegadas:
@@ -120,7 +120,7 @@ Por ello, en uso de las atribuciones delegadas:
 
 **D I S P O N E:**
 
-**ARTÍCULO 1º.-** Elevar las actuaciones a la Dirección General de Recursos Humanos solicitando decretar la **Cesantía por Abandono de Cargo** del agente **J.M.**, Legajo Nº **55.555**, en los términos del Artículo 108º de la Ley Nº 14.656.
+**ARTÍCULO 1º.-** Elevar las actuaciones a la Dirección General de Recursos Humanos solicitando decretar la **Cesantía por Abandono de Cargo** del agente **J.M.**, Legajo Nº **55.555**, en los términos del Artículo **108º, Inciso f)** de la Ley Nº 14.656.
 **ARTÍCULO 2º.-** Disponer el **bloqueo preventivo inmediato de los accesos lógicos (VPN, Active Directory, bases de datos)** del agente a la infraestructura de red municipal.
 **ARTÍCULO 3º.-** Registrar, notificar según el Art. 62º de la Ordenanza 26348, elevar copias para el cese de haberes y archivar.
 

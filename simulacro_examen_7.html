@@ -3,280 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simulacro de Examen Nº 7 - Municipalidad de Gral. Pueyrredón</title>
-    <!-- MathJax for rendering LaTeX formulas -->
+    <title>Simulacro Nº 7 - MGP</title>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <style>
-        
-:root {
-    --primary: #0077c2;
-    --primary-dark: #005b94;
-    --accent: #e3f2fd;
-    --text: #333333;
-    --text-muted: #666666;
-    --bg: #f5f7fa;
-    --card-bg: #ffffff;
-    --border: #e0e0e0;
-    --success: #2e7d32;
-    --shadow: 0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.1);
-}
-
-@media (prefers-color-scheme: dark) {
-    :root {
-        --primary: #4fc3f7;
-        --primary-dark: #0288d1;
-        --accent: #1a237e;
-        --text: #e0e0e0;
-        --text-muted: #aaaaaa;
-        --bg: #121212;
-        --card-bg: #1e1e1e;
-        --border: #333333;
-        --success: #81c784;
-        --shadow: 0 4px 6px rgba(0,0,0,0.3);
-    }
-}
-
-body {
-    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
-    color: var(--text);
-    background-color: var(--bg);
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-}
-
-header {
-    background-color: var(--primary-dark);
-    color: white;
-    padding: 20px 40px;
-    box-shadow: var(--shadow);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-header h1 {
-    margin: 0;
-    font-size: 1.5rem;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-}
-
-header .subtitle {
-    font-size: 0.9rem;
-    opacity: 0.8;
-}
-
-.container {
-    max-width: 900px;
-    margin: 40px auto;
-    padding: 0 20px;
-}
-
-.exam-card {
-    background-color: var(--card-bg);
-    border-radius: 8px;
-    box-shadow: var(--shadow);
-    padding: 40px;
-    border: 1px solid var(--border);
-    margin-bottom: 20px;
-}
-
-h1, h2, h3 {
-    color: var(--primary-dark);
-}
-
-h2 {
-    color: var(--primary);
-    border-bottom: 2px solid var(--primary);
-    padding-bottom: 8px;
-    margin-top: 40px;
-}
-
-h3 {
-    color: var(--text);
-    margin-top: 30px;
-    border-left: 4px solid var(--primary);
-    padding-left: 12px;
-}
-
-ul {
-    padding-left: 20px;
-}
-
-li {
-    margin-bottom: 8px;
-}
-
-/* Details and Summary styling for Solutions */
-details {
-    background-color: var(--accent);
-    border-left: 4px solid var(--primary);
-    border-radius: 4px;
-    margin: 20px 0;
-    padding: 15px;
-    transition: all 0.3s ease;
-}
-
-details[open] {
-    box-shadow: var(--shadow);
-    background-color: var(--card-bg);
-    border: 1px solid var(--border);
-    border-left: 4px solid var(--primary);
-}
-
-summary {
-    font-weight: bold;
-    cursor: pointer;
-    outline: none;
-    user-select: none;
-    color: var(--primary-dark);
-    padding: 5px 0;
-}
-
-summary:hover {
-    color: var(--primary);
-}
-
-details p, details ul {
-    margin-top: 15px;
-}
-
-/* Print Button and utilities */
-.actions {
-    display: flex;
-    gap: 10px;
-    margin-bottom: 20px;
-    justify-content: flex-end;
-}
-
-.btn {
-    background-color: var(--primary);
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
-    cursor: pointer;
-    font-weight: bold;
-    text-decoration: none;
-    transition: background-color 0.2s;
-    font-size: 0.9rem;
-}
-
-.btn:hover {
-    background-color: var(--primary-dark);
-}
-
-.btn-secondary {
-    background-color: transparent;
-    color: var(--primary);
-    border: 1px solid var(--primary);
-}
-
-.btn-secondary:hover {
-    background-color: var(--accent);
-    color: var(--primary-dark);
-}
-
-.score-calculator {
-    margin-top: 40px;
-    padding: 20px;
-    background-color: var(--accent);
-    border-radius: 6px;
-    border: 1px solid var(--border);
-}
-
-.score-input {
-    width: 60px;
-    padding: 5px;
-    border-radius: 4px;
-    border: 1px solid var(--border);
-    text-align: center;
-    font-weight: bold;
-    background: var(--card-bg);
-    color: var(--text);
-}
-
-.score-row {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 10px;
-}
-
-.score-total {
-    font-size: 1.2rem;
-    font-weight: bold;
-    margin-top: 15px;
-    border-top: 1px dashed var(--border);
-    padding-top: 15px;
-    display: flex;
-    justify-content: space-between;
-}
-
-/* Blockquote styles */
-blockquote {
-    background: var(--accent);
-    border-left: 4px solid var(--primary);
-    margin: 1.5em 10px;
-    padding: 10px 20px;
-    font-style: italic;
-}
-
-@media print {
-    body {
-        background-color: white;
-        color: black;
-    }
-    header, .actions, .score-calculator, summary::-webkit-details-marker, details summary {
-        display: none !important;
-    }
-    .card-bg {
-        background-color: white !important;
-    }
-    .exam-card {
-        box-shadow: none !important;
-        border: none !important;
-        padding: 0 !important;
-    }
-    details {
-        background-color: transparent !important;
-        border: none !important;
-        border-left: 2px solid #333 !important;
-        page-break-inside: avoid;
-    }
-    details[open] {
-        border: none !important;
-        border-left: 2px solid #333 !important;
-    }
-    h2, h3 {
-        page-break-after: avoid;
-    }
-}
-
+        body { font-family: system-ui, -apple-system, sans-serif; max-width: 960px; margin: 0 auto; padding: 20px; line-height: 1.7; color: #1a1a2e; background: #f0f4f8; }
+        h1 { background: linear-gradient(135deg, #0077c2, #005b94); color: white; padding: 20px 30px; border-radius: 8px; margin: -20px -20px 30px; }
+        h2 { color: #0077c2; border-bottom: 3px solid #0077c2; padding-bottom: 8px; margin-top: 40px; }
+        h3 { border-left: 4px solid #0077c2; padding-left: 14px; color: #1a1a2e; }
+        h4 { color: #005b94; }
+        details { border-left: 4px solid #0077c2; background: #e8f4fd; margin: 20px 0; padding: 15px 20px; border-radius: 0 6px 6px 0; transition: all 0.3s; }
+        details[open] { background: #ffffff; border: 1px solid #c5dff0; border-left: 4px solid #0077c2; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+        summary { font-weight: bold; cursor: pointer; color: #005b94; font-size: 1.05rem; padding: 5px 0; user-select: none; }
+        summary:hover { color: #0077c2; }
+        blockquote { background: #fff8e1; border-left: 4px solid #ffa000; padding: 15px 20px; margin: 20px 0; border-radius: 0 6px 6px 0; }
+        code { background: #f0f0f0; padding: 2px 6px; border-radius: 3px; font-family: monospace; }
+        pre { background: #1a1a2e; color: #e8f4fd; padding: 20px; border-radius: 8px; overflow-x: auto; }
+        ul, ol { padding-left: 25px; }
+        li { margin-bottom: 6px; }
+        table { border-collapse: collapse; width: 100%; margin: 15px 0; }
+        th { background: #0077c2; color: white; padding: 10px 15px; text-align: left; }
+        td { padding: 9px 15px; border-bottom: 1px solid #ddd; }
+        tr:nth-child(even) { background: #f8f9fa; }
+        .nota { background: #fff3cd; border: 1px solid #ffc107; padding: 10px 15px; border-radius: 6px; margin: 10px 0; font-style: italic; }
     </style>
 </head>
 <body>
-    <header>
-        <div>
-            <h1>MUNICIPALIDAD DE GENERAL PUEYRREDON</h1>
-            <div class="subtitle">Sistemas de Software - MGP</div>
-        </div>
-        <div>
-            <span class="subtitle">Simulacro de Examen Nº 7</span>
-        </div>
-    </header>
-
-    <div class="container">
-        <div class="actions">
-            <button class="btn btn-secondary" onclick="window.print()">Imprimir Examen / PDF</button>
-            <button class="btn btn-secondary" onclick="toggleAnswers(true)">Mostrar Respuestas</button>
-            <button class="btn btn-secondary" onclick="toggleAnswers(false)">Ocultar Respuestas</button>
-        </div>
-
-        <div class="exam-card">
-            <h1>SIMULACRO DE EXAMEN Nº 7</h1>
+    <h1>Simulacro Nº 7<br><small style="font-size:0.7em;font-weight:normal;opacity:0.9">Municipalidad de General Pueyrredón — Concurso de Cargos Jerárquicos</small></h1>
+    <h1>SIMULACRO DE EXAMEN Nº 7</h1>
 <p><strong>Cargo:</strong> Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
 <hr>
 <h2>CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)</h2>
@@ -445,7 +199,7 @@ a) Calcule la <strong>Capacidad del Sprint (Sprint Capacity)</strong> real dispo
 </ul>
 <h3>2. Respuesta Correcta: <strong>b</strong></h3>
 <ul>
-<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>923/19 (Reglamento de Licencia por Descanso Anual) y Ley 14656, Artículo 107º, Inciso 5, Artículo 80º</strong>. La Licencia por Descanso Anual tiene carácter obligatorio y goce íntegro de haberes. Las vacaciones deben ser usufructuadas dentro del período respectivo; si por razones de servicio fundadas por el titular de la dependencia no pudieran gozarse, se transfieren al año siguiente. De no usufructuarse en dicho período prorrogado, expiran de pleno derecho sin dar derecho a indemnización pecuniaria (salvo cese de la relación laboral). <em>(📋 Decreto MGP 923/19)</em></li>
+<li><strong>Fundamento Normativo:</strong> Ley 14656, <strong>Artículo 80º y concordantes</strong> (Licencia Ordinaria Anual / Descanso) y Decreto MGP <strong>923/19</strong> (reglamentario local). La Licencia por Descanso Anual tiene carácter obligatorio y goce íntegro de haberes. Las vacaciones deben ser usufructuadas dentro del período respectivo; si por razones de servicio fundadas por el titular de la dependencia no pudieran gozarse, se transfieren al año siguiente. De no usufructuarse en dicho período prorrogado, expiran de pleno derecho sin dar derecho a indemnización pecuniaria (salvo cese de la relación laboral). <em>(📋 Ley 14656, Art. 80º - Decreto MGP 923/19)</em></li>
 </ul>
 <h3>3. Respuesta Correcta: <strong>a</strong></h3>
 <ul>
@@ -465,7 +219,7 @@ a) Calcule la <strong>Capacidad del Sprint (Sprint Capacity)</strong> real dispo
 </ul>
 <h3>7. Respuesta Correcta: <strong>b</strong></h3>
 <ul>
-<li><strong>Fundamento Normativo:</strong> Ley Provincial 14656 y reglamentaciones municipales (o Convenio Colectivo de Trabajo). La autoridad municipal competente está facultada para aplicar de forma directa sanciones correctivas menores de apercibimiento o de <strong>suspensión de hasta diez (10) días</strong> en el año calendario sin necesidad de sustanciar sumario administrativo previo. Sin embargo, para la validez de la sanción se debe respetar obligatoriamente el derecho a defensa del agente, otorgándole un plazo reglamentario previo para presentar su descargo antes de dictar la resolución. <em>(📋 Ley 14656, Artículo 107º, Inciso 5, Artículos 105º y 106º)</em></li>
+<li><strong>Fundamento Normativo:</strong> Ley 14656, <strong>Artículos 105º y 106º</strong>, y Decreto MGP <strong>1539/18, Art. 1º, Inciso c)</strong>. Las sanciones correctivas menores (llamado de atención, apercibimiento y suspensión de <strong>hasta cinco (5) días corridos</strong>) pueden ser aplicadas de forma directa por el Jefe de Departamento, previa sustanciación del descargo del agente y sin necesidad de sumario administrativo previo. Las suspensiones que excedan los 5 días y hasta 30 días requieren instrucción de sumario simplificado por la Dirección de Personal. <em>(📋 Ley 14656, Artículos 105º y 106º - Decreto MGP 1539/18, Art. 1º Inc. c)</em></li>
 </ul>
 <h3>8. Respuesta Correcta: <strong>a</strong></h3>
 <ul>
@@ -695,67 +449,7 @@ $$\text{SP Estimados} = 178.1 \text{ horas} \times 0.175 \text{ SP/hora} = \math
     </div>
 </div>
 
-            
-            <div class="score-calculator">
-                <h3>Calculadora de Puntaje (Autoevaluación)</h3>
-                <p>Ingresa los puntos obtenidos en cada sección para calcular tu nota final (Puntaje de aprobación: 25 puntos / 70%):</p>
-                <div class="score-row">
-                    <span>Cuestión 1 (Normativa - Máx 10 pts):</span>
-                    <input type="number" min="0" max="10" step="0.5" class="score-input" id="q1" oninput="calcScore()">
-                </div>
-                <div class="score-row">
-                    <span>Cuestión 2 (Higiene y ART - Máx 1.5 pts):</span>
-                    <input type="number" min="0" max="1.5" step="0.25" class="score-input" id="q2" oninput="calcScore()">
-                </div>
-                <div class="score-row">
-                    <span>Cuestión 3 (Caso Disciplinario - Máx 4 pts):</span>
-                    <input type="number" min="0" max="4" step="0.5" class="score-input" id="q3" oninput="calcScore()">
-                </div>
-                <div class="score-row">
-                    <span>Cuestión 4 (Perspectiva de Género - Máx 4.5 pts):</span>
-                    <input type="number" min="0" max="4.5" step="0.25" class="score-input" id="q4" oninput="calcScore()">
-                </div>
-                <div class="score-row">
-                    <span>Cuestión 5 (Evaluación Técnica - Máx 15 pts):</span>
-                    <input type="number" min="0" max="15" step="0.5" class="score-input" id="q5" oninput="calcScore()">
-                </div>
-                <div class="score-total">
-                    <span>Puntaje Total (Máximo 35):</span>
-                    <span id="total-score">0.0 / 35.0 (<span id="result-status" style="font-weight: bold; color: var(--text-muted);">Sin evaluar</span>)</span>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <script>
-        function toggleAnswers(show) {
-            const details = document.querySelectorAll('details');
-            details.forEach(d => {
-                d.open = show;
-            });
-        }
-
-        function calcScore() {
-            const q1 = parseFloat(document.getElementById('q1').value) || 0;
-            const q2 = parseFloat(document.getElementById('q2').value) || 0;
-            const q3 = parseFloat(document.getElementById('q3').value) || 0;
-            const q4 = parseFloat(document.getElementById('q4').value) || 0;
-            const q5 = parseFloat(document.getElementById('q5').value) || 0;
-            
-            const total = q1 + q2 + q3 + q4 + q5;
-            const totalFixed = Math.min(35, total).toFixed(2);
-            
-            const statusSpan = document.getElementById('result-status');
-            if (total >= 25) {
-                statusSpan.innerHTML = "APROBADO";
-                statusSpan.style.color = "var(--success)";
-            } else {
-                statusSpan.innerHTML = "DESAPROBADO";
-                statusSpan.style.color = "red";
-            }
-            
-            document.getElementById('total-score').innerHTML = totalFixed + " / 35.0 (" + statusSpan.outerHTML + ")";
-        }
-    </script>
+    <hr>
+    <p style="text-align:center;color:#888;font-size:0.85em">Material de estudio para el Concurso de Jefe de Departamento de Sistemas — MGP</p>
 </body>
 </html>

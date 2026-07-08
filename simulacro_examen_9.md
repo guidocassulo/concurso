@@ -21,7 +21,7 @@
 
 ### 2. De acuerdo con la Ley Provincial Nº 14656 (Estatuto Marco de Empleo Municipal) y las reglamentaciones vigentes en la MGP, la licencia especial por paternidad (nacimiento de hijo para el progenitor no gestante) posee las siguientes características de base en la ley provincial marco y de extensión a nivel local:
 *   a) Otorga un máximo de 2 días corridos según la Ley 14656 y no admite extensión a nivel municipal.
-*   b) Otorga un piso mínimo de cinco (5) días hábiles según la Ley 14656 (Artículo 92º), habiéndose extendido en el ámbito de la MGP a quince (15) días corridos por reglamentación local y Convenio Colectivo de Trabajo.
+*   b) Otorga un piso mínimo según la Ley 14656 (**Artículo 64º** - Licencia por Nacimiento de Hijo), habiéndose extendido en el ámbito de la MGP a **quince (15) días corridos** por reglamentación local y Convenio Colectivo de Trabajo.
 *   c) Otorga diez (10) días hábiles automáticos en toda la provincia de Buenos Aires sin distinción del municipio.
 *   d) Ninguna de las anteriores.
 
@@ -120,7 +120,7 @@
 <details>
 <summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary>
 
-### 1. Procedimiento y Plazos Formales (Ley 14656, Artículos 105º, 106º y 108º y Decreto MGP 1539/18, Artículo 1º)
+### 1. Procedimiento y Plazos Formales (Ley 14656, Artículos 105º y 106º, y Decreto MGP 1539/18, Artículo 1º, Inciso c)
 *   **Debido Proceso / Descargo Previo:** Antes de dictar la sanción de suspensión (que es correctiva menor por ser menor a 5 días y no requerir sumario formal), el Jefe de Departamento debe cumplir con la garantía del debido proceso. Se debe correr formal traslado de los cargos imputados y de las pruebas (el acta de inconducta con testigos y el reporte del servidor de staging) al agente R.D. para que formule su descargo por escrito dentro del plazo de **cinco (5) días hábiles** (Ley 14656, Art. 106).
 *   **Dictamen Jurídico:** Al tratarse de una sanción correctiva directa de 4 días de suspensión (atribución delegada a los Jefes de Departamento por el Decreto 1539/18), **no es obligatoria la intervención ni el dictamen previo** de la Dirección General de Asuntos Jurídicos de la MGP, salvo que existan dudas sobre el procedimiento. Sin embargo, para la validez formal del acto, basta con la sustanciación del descargo y el dictado de la Disposición fundada.
 
@@ -240,7 +240,7 @@ Se solicita:
     2.  *Perfil Técnico:* Analistas funcionales, especialistas en aseguramiento de calidad (QA Testing) y los propios usuarios finales.
     3.  *Fase del SDLC:* Se ejecutan en fases más avanzadas del desarrollo (Pruebas del Sistema, Pruebas de Integración y Pruebas de Aceptación del Usuario - UAT).
 
-*(📖 Kendall & Kendall, Cap. 16, págs. 526-528)*
+*(📖 Kendall & Kendall, Cap. 18, págs. 526-530)*
 
 ### 3. Estimación Ágil y Dinámica de Planning Poker (Scrum Manager)
 *   **Planning Poker (Póquer de Estimación):** Es una dinámica de estimación colaborativa y consensual basada en el conocimiento colectivo del equipo. Cada miembro cuenta con un mazo de cartas con valores de estimación y, tras debatir el alcance de una Historia de Usuario, todos muestran su carta simultáneamente para estimar su esfuerzo relativo.
