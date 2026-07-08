@@ -49,18 +49,57 @@
 
 ---
 
-### 5. Ajuste del Flujo y Desperdicios en Lean/Kanban (Scrum Manager)
-*   **Muda (Desperdicio):** Cualquier actividad, proceso o recurso que consume tiempo o dinero pero no aporta valor directo al producto final ni al cliente.
-*   **Mura (Variabilidad / Discrepancia):** Irregularidad o falta de uniformidad en el volumen y ritmo de trabajo, que provoca alternancia entre picos de saturación y periodos de inactividad (tiempos muertos).
-*   **Muri (Sobrecarga / Cuello de Botella):** Exigir al sistema, a los procesos o a las personas un rendimiento superior a sus capacidades nominales, lo que genera bloqueos, cansancio y fallos de calidad.
-*   **Ejemplos prácticos de "Muda" (Desperdicios) en desarrollo de software municipal:**
-    1.  **Código o funcionalidades no utilizadas:** Desarrollar módulos complejos (ej. un generador de reportes con múltiples filtros) que los contribuyentes o agentes municipales nunca llegan a utilizar en la práctica.
-    2.  **Esperas y demoras administrativas:** Retrasar el avance del desarrollo debido a la espera prolongada de firmas jerárquicas o autorizaciones de infraestructura para desplegar un servidor de pruebas.
-    3.  **Procesamiento extra:** Realizar reuniones de trabajo excesivamente largas o innecesarias, u obligar a documentar en exceso detalles obvios de código en lugar de enfocarse en entregar software funcional.
+## CUESTION Nº 2: HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)
+*Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.*
 
-*(📖 Scrum Manager v2.6, Parte II, págs. 71-72)*
+> Un agente del área de soporte técnico de su dependencia, siguiendo instrucciones verbales de traslado de equipamiento, intenta levantar y mover en solitario un rack de servidores de 50 kg de peso desde el taller hasta el Data Center municipal. Durante el movimiento, sufre un esfuerzo lumbar agudo que le provoca una lesión de columna (lumbalgia aguda invalidante), debiendo ser asistido en el lugar y trasladado a un centro asistencial.
+> 
+> Se solicita:
+> 1. Indique si el siniestro califica formalmente como un Accidente de Trabajo cubierto bajo el régimen de la Ley 24557 y en qué artículo se fundamenta. (0.75 Puntos)
+> 2. Determine qué pautas de ergonomía y levantamiento seguro de cargas, bajo la Ley de Higiene y Seguridad Laboral Nº 19587 (Artículo 9º), debieron observarse, y qué medidas preventivas inmediatas debe adoptar el Jefe de Sistemas de Software para el traslado seguro de equipamiento informático pesado. (0.75 Puntos)
 
-</details>
+---
+
+## CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)
+*Consigna: Resuelva el caso disciplinario planteado y redacte el acto administrativo correspondiente.*
+
+> Durante un control de seguridad técnica de accesos lógicos y auditoría de logs del reloj biométrico municipal, la Dirección de Personal detecta que el agente de soporte informático A.T. (Legajo Nº 44.444, Categoría Técnico I) utilizó sin autorización las credenciales de administración del superior jerárquico para acceder al servidor de control horario y adulterar fraudulentamente las fichadas de asistencia (ingresos y egresos) propias y de terceros, intentando encubrir ausencias injustificadas.
+> 
+> Al tomar conocimiento, usted como Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software debe iniciar los procedimientos correctivos obligatorios.
+> 
+> Se solicita:
+> 1. Analice fundadamente de conformidad con la Ley 14656 qué tipo de sanción disciplinaria definitiva corresponde ante la gravedad del hecho y si usted posee facultades para aplicarla de forma directa, detallando qué medida de seguridad preventiva lógica e inmediata debe adoptar respecto a los accesos del agente A.T. (1.5 Puntos)
+> 2. Redacte la parte dispositiva y de fundamentación (`VISTO`, `CONSIDERANDO` y `DISPONE` o `ELEVA`) de la Disposición formal mediante la cual usted, en su carácter de Jefe de Departamento, informa el caso a la Dirección General de TIC y a la Dirección de Personal para promover el sumario y ordenar preventivamente el bloqueo lógico del agente. (2.5 Puntos)
+
+---
+
+## CUESTION Nº 4: Perspectiva de Género y Violencia Laboral
+*Consigna: Responda las siguientes preguntas sobre la Ley Micaela (Leyes Nacional 27499 y Provincial 15134) y su aplicación jerárquica municipal.*
+
+1. Defina qué obligaciones legales en materia de formación y perspectiva de género impone la Ley Micaela al Jefe de Departamento y al personal a su cargo en el ámbito de la Municipalidad de General Pueyrredón. (1.5 Puntos)
+2. Explique qué medidas de organización del trabajo y flexibilidad puede adoptar la Jefatura para garantizar que todo el equipo del área de desarrollo de software realice la capacitación obligatoria sin afectar la prestación de servicios críticos de soporte. (1.5 Puntos)
+3. De acuerdo al Artículo 3º de la Ley Provincial 15134, ¿cuál es la consecuencia directa de carrera administrativa para el propio Jefe de Departamento si este omitiera realizar y acreditar la capacitación obligatoria Ley Micaela? (1.5 Puntos)
+
+---
+
+## CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)
+*Consigna: Responda de forma precisa y fundada conceptualmente las siguientes preguntas basadas en la bibliografía oficial del cargo.*
+
+1. **Usabilidad UX/UI y Accesibilidad Web (Kendall & Kendall):** Defina el concepto de usabilidad web y explique brevemente el propósito de tres (3) heurísticas de Nielsen aplicables al diseño del portal tributario municipal. Asimismo, detalle el principio fundamental de la accesibilidad web bajo los estándares WCAG 2.1.
+2. **Estimaciones Ágiles vs. Tradicionales (Scrum Manager):** Diferencie conceptualmente los "Puntos de Historia" (Story Points) en Scrum de los "Puntos de Función" (Function Points) en métricas de software tradicionales. Indique en qué escenarios resulta más recomendable utilizar cada una de estas métricas en la administración pública.
+3. **Modelado Conceptual de Sistemas (Kendall & Kendall):** Establezca la distinción teórica y práctica entre un "Caso de Uso de Negocio" y un "Caso de Uso de Sistema". Proponga un ejemplo municipal para cada uno.
+4. **Seguridad y Vulnerabilidades Web (Inyección SQL):** Explique técnicamente en qué consiste la vulnerabilidad de Inyección SQL (SQLi) y describa dos (2) estrategias técnicas eficaces a nivel de codificación para su mitigación o prevención en sistemas municipales.
+5. **Métricas de Flujo en Kanban (Scrum Manager):**
+   > Una incidencia en la mesa de ayuda de desarrollo del municipio registró los siguientes tiempos de tránsito en el tablero Kanban:
+   > - Tiempo de procesamiento o trabajo activo (*Touch Time*): **12 horas**.
+   > - Tiempo de espera improductivo en columnas de bloqueo (*Waiting Time*): **36 horas**.
+   > 
+   > Se solicita:
+   > a) Calcule el *Lead Time* total de la incidencia y determine el porcentaje de Eficiencia del Flujo (*Flow Efficiency*). Muestre la fórmula empleada.
+   > b) Realice una interpretación ágil del porcentaje obtenido e indique qué tres (3) acciones concretas de gestión debe adoptar el Jefe de Sistemas de Software para optimizar este flujo.
+
+---
+
 
 <details>
 <summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary>
