@@ -6,7 +6,7 @@
     <style>
 @page {
     size: A4 portrait;
-    margin: 15mm 15mm 15mm 15mm;
+    margin: 20mm 20mm 20mm 20mm;
 }
 
 *, *:before, *:after {
@@ -14,15 +14,15 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Calibri, Arial, sans-serif;
     width: 100%;
     max-width: 100%;
     margin: 0;
     padding: 0;
-    line-height: 1.4;
-    color: #111827;
+    line-height: 1.35;
+    color: #000000;
     background-color: #ffffff;
-    font-size: 10.5pt;
+    font-size: 11pt;
 }
 
 .page-break {
@@ -35,106 +35,104 @@ h1.main-title {
     border-bottom: 2px solid #000000;
     padding-bottom: 6px;
     margin: 0 0 25px 0;
-    font-size: 1.6rem;
+    font-size: 18pt;
+    font-weight: bold;
 }
 
 h1.exam-title {
-    font-size: 1.35rem;
+    font-size: 16pt;
     color: #000000;
     border-bottom: 1.5px solid #000000;
     padding-bottom: 4px;
     margin: 0 0 15px 0;
+    font-weight: bold;
 }
 
 h2 {
-    font-size: 1.15rem;
-    color: #111827;
-    border-bottom: 1px solid #d1d5db;
-    padding-bottom: 3px;
-    margin: 18px 0 10px 0;
+    font-size: 13pt;
+    color: #000000;
+    border-bottom: 1px solid #000000;
+    padding-bottom: 2px;
+    margin: 20px 0 10px 0;
+    font-weight: bold;
 }
 
 h3 {
-    font-size: 1.05rem;
-    color: #1f2937;
+    font-size: 11pt;
+    color: #000000;
     margin: 12px 0 6px 0;
+    font-weight: bold;
 }
 
 p {
-    margin: 6px 0;
+    margin: 0 0 8px 0;
 }
 
-ul {
+ul, ol {
     padding-left: 24px;
     margin: 8px 0;
 }
 
 li {
     margin-bottom: 6px;
-    font-size: 10pt;
-    list-style-type: disc;
+    font-size: 11pt;
 }
 
-/* Force details block to act as standard div for seamless printing splits */
-details {
-    display: block !important;
-    border: 1px solid #d1d5db !important;
-    background: #ffffff !important;
-    margin: 12px 0 !important;
-    padding: 10px 15px !important;
-    border-radius: 4px !important;
+/* Word Answers Styling - No interactive web boxes */
+.word-answers-container {
+    margin-top: 15px;
+    padding-left: 10px;
+    border-left: 2px solid #cccccc;
 }
 
-summary {
-    font-weight: 700;
+h3.word-answers-title {
+    font-size: 12pt;
+    font-weight: bold;
     color: #000000;
-    margin-bottom: 8px;
-    border-bottom: 1px dashed #d1d5db;
+    margin: 25px 0 10px 0;
+    border-bottom: 1px solid #cccccc;
     padding-bottom: 4px;
-    font-size: 10pt;
 }
 
 blockquote {
-    border-left: 3px solid #000000;
-    background: #f9fafb;
-    margin: 10px 0;
+    border-left: 3px solid #7f7f7f;
+    background: #f9f9f9;
+    margin: 10px 0 10px 20px;
     padding: 8px 15px;
-    color: #374151;
+    color: #333333;
+    font-style: italic;
 }
 
 pre {
-    background: #f3f4f6;
-    color: #1f2937;
-    padding: 8px 15px;
-    border: 1px solid #d1d5db;
+    background: #f2f2f2;
+    color: #000000;
+    padding: 10px 15px;
+    border: 1px solid #d3d3d3;
     border-radius: 4px;
     overflow-x: auto;
-    font-size: 9pt;
-    margin: 8px 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 9.5pt;
+    margin: 10px 0;
+    white-space: pre-wrap;
 }
 
 @media print {
     body {
-        font-size: 10.5pt;
+        font-size: 11pt;
     }
     
     .score-calculator, .no-print {
         display: none !important;
-    }
-    
-    details {
-        border: 1px solid #9ca3af !important;
-        background: #ffffff !important;
     }
 }
 </style>
 </head>
 <body>
     
-<h1 class="main-title no-print">Compilación de Simulacros Seleccionados para Impresión (Edición Optimizada Legible)</h1>
+<h1 class="main-title no-print">Compilación de Simulacros Seleccionados para Impresión (Formato Word Legible)</h1>
 
 <div class="">
-    <h1 class="exam-title">Simulacro Nº 8</h1>
+    <h1 class="exam-title">Simulacro de Examen Nº 8</h1>
     <h1>SIMULACRO DE EXAMEN Nº 8</h1>
 <p><strong>Cargo:</strong> Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
 <hr>
@@ -272,8 +270,8 @@ $\text{Esfuerzo Total Backlog} = 35 \text{ (HU A)} + 42 \text{ (HU B)} + 28 \tex
 <li><em>Nota del Jefe de Sistemas:</em> En caso de que el esfuerzo hubiera superado la capacidad de 180 horas ideales, el Jefe de Sistemas debería coordinar con el Product Owner para retirar historias de menor prioridad del backlog del sprint antes del cierre de la reunión de planificación.</li>
 </ul>
 <p><em>(📖 Scrum Manager v2.6, Parte I, págs. 37-41)</em></p>
-<details open>
-<summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary><h3>1. Respuesta Correcta: <strong>a</strong></h3>
+<div class="word-answers-container">
+<h3 class="word-answers-title">Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</h3><h3>1. Respuesta Correcta: <strong>a</strong></h3>
 <ul>
 <li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículos 151º a 156º</strong> (Régimen de contrataciones). Las compras y contrataciones municipales de bienes y servicios (como equipamiento de servidores) que superen los límites económicos fijados anualmente por la Ley de Presupuesto de la Provincia de Buenos Aires para Licitaciones Privadas deben encuadrarse obligatoriamente en un llamado a <strong>Licitación Pública</strong>. El fraccionamiento del gasto para eludir este procedimiento constituye una falta grave pasible de sanción por el Honorable Tribunal de Cuentas. <em>(📋 LOM - Art. 151º)</em></li>
 </ul>
@@ -313,8 +311,8 @@ $\text{Esfuerzo Total Backlog} = 35 \text{ (HU A)} + 42 \text{ (HU B)} + 28 \tex
 <ul>
 <li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículos 241º y 242º</strong>. Todo agente municipal de nivel jerárquico que tenga a su cargo la custodia, administración o supervisión directa de bienes municipales (como servidores o redes) responderá patrimonial y pecuniariamente con su propio sueldo y patrimonio ante el Tribunal de Cuentas por el deterioro, robo o pérdida del equipamiento si el suceso fue producto de su negligencia grave, omisión de controles elementales o incumplimiento de sus deberes jerárquicos de supervisión. <em>(📋 LOM - Arts. 241º y 242º)</em></li>
 </ul>
-</details><details open>
-<summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary><h3>1. Configuración de Accidente Laboral (Ley 24557):</h3>
+</div><div class="word-answers-container">
+<h3 class="word-answers-title">Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</h3><h3>1. Configuración de Accidente Laboral (Ley 24557):</h3>
 <p><strong>Sí, el hecho configura un Accidente de Trabajo.</strong></p>
 <ul>
 <li><strong>Fundamento Jurídico:</strong> Se trató de un acontecimiento de carácter súbito y violento (descarga eléctrica seguida de caída de altura) que ocurrió <em>en ocasión del trabajo</em> (desarrollando tareas de cableado de red para el municipio) dentro del ámbito físico municipal y durante la jornada laboral (Artículo 6º de la Ley 24557). La ART debe brindar cobertura integral de salud, kinesiología, internación y salarios caídos de la licencia laboral.</li>
@@ -333,8 +331,8 @@ $\text{Esfuerzo Total Backlog} = 35 \text{ (HU A)} + 42 \text{ (HU B)} + 28 \tex
 </li>
 <li><strong>Medidas Correctivas de la Jefatura de Sistemas:</strong> Disponer de inmediato un protocolo interno de &quot;Trabajo Seguro en Altura y Riesgo Eléctrico&quot;, prohibir tareas en caliente en servidores o tendidos eléctricos, y exigir formalmente al área de compras la provisión inmediata de los EPP homologados correspondientes.</li>
 </ul>
-</details><details open>
-<summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary><h3>1. Procedimiento Disciplinario y Cese de Haberes por Abandono de Servicio</h3>
+</div><div class="word-answers-container">
+<h3 class="word-answers-title">Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</h3><h3>1. Procedimiento Disciplinario y Cese de Haberes por Abandono de Servicio</h3>
 <ul>
 <li><strong>Procedimiento Formal Obligatorio:</strong> Al acumularse inasistencias injustificadas consecutivas que excedan de 5 días (configurando abandono de cargo), se debe cursar intimación fehaciente al agente en su domicilio legal bajo apercibimiento de cesantía. Cumplido el plazo de intimación (48 horas hábiles) sin reintegro ni justificación, se procede a sustanciar el expediente administrativo para declarar formalmente la <strong>cesantía del agente por abandono de servicio</strong> (<strong>Artículo 108º, Inciso f) de la Ley 14656</strong>: <em>&quot;inasistencias injustificadas que excedan de cinco (5) días hábiles administrativos en el año o de tres (3) días hábiles consecutivos en el mes, previo apercibimiento.&quot;</em>).</li>
 <li><strong>Medidas de la Jefatura de Sistemas:</strong> <ul>
@@ -361,8 +359,8 @@ $\text{Esfuerzo Total Backlog} = 35 \text{ (HU A)} + 42 \text{ (HU B)} + 28 \tex
 <strong>ARTÍCULO 2º.-</strong> Disponer el <strong>bloqueo preventivo inmediato de los accesos lógicos (VPN, Active Directory, bases de datos)</strong> del agente a la infraestructura de red municipal.
 <strong>ARTÍCULO 3º.-</strong> Registrar, notificar según el Art. 62º de la Ordenanza 26348, elevar copias para el cese de haberes y archivar.</p>
 <p>[Firma Jefe de Departamento]</p>
-</details><details open>
-<summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</b></summary><h3>1. Encuadre de la Situación (Ordenanza Nº 24.271 MGP):</h3>
+</div><div class="word-answers-container">
+<h3 class="word-answers-title">Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</h3><h3>1. Encuadre de la Situación (Ordenanza Nº 24.271 MGP):</h3>
 <p><strong>Sí, configura Violencia Laboral de Género.</strong></p>
 <ul>
 <li><strong>Fundamento:</strong> La Ordenanza 24271, Anexo I, Punto 3 define la violencia laboral con perspectiva de género como toda conducta, manifestación o acoso que atente contra la dignidad, la integridad física o psíquica del agente en el lugar de trabajo, basada en su género. En este caso, el hostigamiento verbal persistente, comentarios descalificatorios sistemáticos y gestos obscenos configuran violencia psicológica y acoso sexual ambiental, afectando gravemente la salud psíquica de la agente y forzándola a licencias médicas por estrés.</li>
@@ -380,8 +378,8 @@ $\text{Esfuerzo Total Backlog} = 35 \text{ (HU A)} + 42 \text{ (HU B)} + 28 \tex
 <li>Dar intervención formal a la <strong>Dirección de Personal</strong> de la MGP a fin de registrar y auditar las inasistencias en el marco del Protocolo y de la Ley 14656, y solicitar el cambio de puesto de trabajo o de tareas físicas del presunto agresor para evitar perjuicios o pérdidas de presentismo de la agente (pág. 7).</li>
 <li>Remitir el informe de los hechos y la conclusión de la investigación a la <strong>Dirección de Sumarios</strong> del municipio por intermedio de la Asesoría Confidencial para que se inicie el trámite sumarial disciplinario de celeridad, evaluando la aplicación de sanciones por faltas graves o muy graves de acuerdo al nomenclador del Protocolo (pág. 7 y 8).</li>
 </ul>
-</details><details open>
-<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (Bases de Datos, Prototipos, Kanban y Capacidad)</b></summary><h3>1. Integridad Referencial y Esquema Relacional de Multas (Kendall &amp; Kendall)</h3>
+</div><div class="word-answers-container">
+<h3 class="word-answers-title">Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (Bases de Datos, Prototipos, Kanban y Capacidad)</h3><h3>1. Integridad Referencial y Esquema Relacional de Multas (Kendall &amp; Kendall)</h3>
 <ul>
 <li><strong>Integridad Referencial:</strong> Es una regla de diseño de bases de datos relacionales que asegura que las relaciones entre tablas permanezcan consistentes. Establece que un valor de una llave foránea en una tabla hija debe corresponder exactamente con un valor existente de la llave primaria de la tabla padre, o bien ser nulo. Esto evita la existencia de registros huérfanos.</li>
 <li><strong>Diferencia de Llaves:</strong><ul>
@@ -524,7 +522,7 @@ $$\text{Flow Efficiency (LT)} = \left( \frac{1.6 \text{ días}}{12 \text{ días}
 </ul>
 </li>
 </ol>
-</details><div class="score-calculator">
+</div><div class="score-calculator">
     <h3>Calculadora de Puntaje (Autoevaluación)</h3>
     <p>Ingresa los puntos obtenidos en cada sección para calcular tu nota final (Puntaje de aprobación: 25 puntos / 70%):</p>
     <div class="score-row">
@@ -556,7 +554,7 @@ $$\text{Flow Efficiency (LT)} = \left( \frac{1.6 \text{ días}}{12 \text{ días}
 </div>
     
 <div class="page-break">
-    <h1 class="exam-title">Simulacro Nº 12</h1>
+    <h1 class="exam-title">Simulacro de Examen Nº 12</h1>
     <h1>SIMULACRO DE EXAMEN Nº 12</h1>
 <p><strong>Cargo:</strong> Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
 <hr>
@@ -718,8 +716,8 @@ El equipo ágil de desarrollo de software del municipio ha registrado los siguie
 </ol>
 <hr>
 <h2>GUÍA DE RESPUESTAS Y SOLUCIONES EXPLICADAS (INFORMACIÓN OCULTA PARA AUTOEVALUACIÓN)</h2>
-<details open>
-<summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary><h3>1. Respuesta Correcta: <strong>a</strong></h3>
+<div class="word-answers-container">
+<h3 class="word-answers-title">Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</h3><h3>1. Respuesta Correcta: <strong>a</strong></h3>
 <ul>
 <li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículo 156º, Inciso 4</strong> (Urgencia declarada por el DE). La adquisición directa está exceptuada de la licitación pública de forma excepcional en casos de urgencia declarada por resolución fundada del intendente, cuando el retardo del trámite ordinario de compras ponga en peligro inminente la prestación del servicio público (ej. caída o ciberataques en la infraestructura del Data Center municipal). <em>(📋 LOM - Art. 156º inc. 4)</em></li>
 </ul>
@@ -759,8 +757,8 @@ El equipo ágil de desarrollo de software del municipio ha registrado los siguie
 <ul>
 <li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículos 108º y 165º</strong>. El Departamento Ejecutivo municipal (Intendente) tiene la obligación legal improrrogable de elevar las cuentas del ejercicio financiero vencido (Memoria y Balance General del ejercicio municipal) al Honorable Concejo Deliberante (HCD) y al Honorable Tribunal de Cuentas (HTC) antes del 31 de marzo de cada año. <em>(📋 LOM - Art. 108º)</em></li>
 </ul>
-</details><details open>
-<summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary><h3>1. Configuración de Accidente de Trabajo (Ley 24557)</h3>
+</div><div class="word-answers-container">
+<h3 class="word-answers-title">Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</h3><h3>1. Configuración de Accidente de Trabajo (Ley 24557)</h3>
 <ul>
 <li><strong>Sí, el siniestro vial califica formalmente como un Accidente de Trabajo.</strong></li>
 <li><strong>Fundamento Jurídico:</strong> Se cumplen los requisitos del Artículo 6º, Inciso 1 de la Ley 24557:<ol>
@@ -785,8 +783,8 @@ El equipo ágil de desarrollo de software del municipio ha registrado los siguie
 <li><strong>Rol de la Ley 19587 en Vehículos:</strong> El empleador (el Municipio) posee la obligación preventiva de controlar y garantizar las condiciones de seguridad vial de los vehículos oficiales o del personal autorizado utilizados para tareas de servicio técnico (Artículo 9º). Exige proveer casco dieléctrico homologado y verificar que la motocicleta cuente con seguro contra terceros y verificación técnica en regla.</li>
 </ul>
 <p><em>(📋 Ley 19587 - Art. 9º; Ley 24557 - Art. 6º)</em></p>
-</details><details open>
-<summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary><h3>1. Resolución Disciplinaria y Sanción Correctiva Aplicable</h3>
+</div><div class="word-answers-container">
+<h3 class="word-answers-title">Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</h3><h3>1. Resolución Disciplinaria y Sanción Correctiva Aplicable</h3>
 <ul>
 <li><strong>Encuadre Legal y Falta:</strong> La conducta del agente J.F. (utilizar equipamiento de impresión de plotter y tintas del municipio de forma no autorizada para realizar folletería de propaganda política partidaria privada) constituye la comisión de faltas administrativas disciplinarias de índole ética y fiscal (violación al <strong>Artículo 107º, Incisos 2, 3 y 5 de la Ley Provincial 14656</strong>).</li>
 <li><strong>Sanción Disciplinaria y Antecedentes:</strong> Considerando el desvío intencional y masivo de insumos del estado de gran costo presupuestario (tintas de plotter) y valorando la existencia de un antecedente disciplinario previo registrado en su legajo (llamado de atención), corresponde aplicar una sanción correctiva de <strong>suspensión de cinco (5) días sin goce de haberes</strong>.</li>
@@ -814,8 +812,8 @@ El equipo ágil de desarrollo de software del municipio ha registrado los siguie
 <p><strong>ARTÍCULO 3º.-</strong> Registrar, notificar de manera formal en el Domicilio Electrónico Constituido del agente de conformidad con el Artículo 62º de la Ordenanza General 26348, remitir copia digital certificada a la Dirección de Personal municipal a efectos del descuento de haberes y su registro en el legajo único del agente, y archivar.</p>
 <p><strong>ARTÍCULO 4º.-</strong> Regístrese, comuníquese y archívese.</p>
 <p>[Firma Jefe de Departamento]</p>
-</details><details open>
-<summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</b></summary><h3>1. Encuadre de la Situación y Deberes del Jefe de Departamento</h3>
+</div><div class="word-answers-container">
+<h3 class="word-answers-title">Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</h3><h3>1. Encuadre de la Situación y Deberes del Jefe de Departamento</h3>
 <ul>
 <li><strong>Encuadre Formal de Violencia de Género:</strong> La situación constituye <strong>Violencia de Género Digital y Violencia Psicológica Laboral por Acoso Tecnológico</strong> (Ordenanza MGP 24.271, Anexo I, Punto 3). La difusión no consentida de material íntimo de un agente en un grupo de mensajería laboral (WhatsApp/Teams) seguido de burlas sexistas persistentes configura acoso hostil de género.</li>
 <li><strong>Responsabilidades Jerárquicas del Jefe de Departamento:</strong> El Jefe de Departamento debe actuar de inmediato de forma confidencial y célere. Debe labrar un acta reservada con la agente, resguardar las capturas de pantalla presentadas como pruebas físicas digitales, y elevar las actuaciones en sobre cerrado ante la <strong>Asesoría Confidencial</strong> municipal en un plazo no mayor a 24 horas para garantizar el secreto del sumario (pág. 6 y 7 del protocolo).</li>
@@ -837,8 +835,8 @@ El equipo ágil de desarrollo de software del municipio ha registrado los siguie
 <li><strong>Procuración Municipal y Sumarios:</strong> Tramitar el sumario formal abreviado para la aplicación de sanciones expulsivas al programador denunciado.</li>
 </ul>
 <p><em>(📋 Ordenanza MGP 24.271, Anexo I, Puntos 3, 4 y 7)</em></p>
-</details><details open>
-<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación Técnica (Diccionario, UML, Pruebas, Scrum y Cálculo)</b></summary><h3>1. Diccionario de Datos (Kendall &amp; Kendall)</h3>
+</div><div class="word-answers-container">
+<h3 class="word-answers-title">Desplegar Solución - CUESTION Nº 5: Evaluación Técnica (Diccionario, UML, Pruebas, Scrum y Cálculo)</h3><h3>1. Diccionario de Datos (Kendall &amp; Kendall)</h3>
 <ul>
 <li><strong>Diccionario de Datos:</strong> Es un catálogo de base o base de datos que almacena metadatos detallados y estructurados sobre los datos contenidos en el sistema de información (entradas, salidas, almacenes y flujos de datos). Su importancia radica en proveer una referencia centralizada de terminología, estandarizar las descripciones de datos lógicas y guiar el diseño físico de las bases de datos para analistas y programadores.</li>
 <li><strong>Componentes de metadatos del registro <code>Contribuyente MGP</code> (obligatorios):</strong><ol>
@@ -910,7 +908,7 @@ $$\text{Capacidad Viable} = 3 \text{ sprints} \times 27 \text{ SP/sprint} = \mat
 <li><strong>Medida de Renegociación del Jefe de Sistemas:</strong> Si el Product Owner decide incrementar de forma repentina el backlog sumando nuevos requerimientos por encima de 81 SP, el Jefe de Sistemas de Software debe reunirse con él y presentar los datos históricos de velocidad empírica (27 SP). Debe acordar el <strong>despliegue del MVP (Mínimo Producto Viable)</strong> para el plazo de 6 semanas, posponiendo el desarrollo de las historias de menor prioridad para sprints subsiguientes.</li>
 </ul>
 <p><em>(📖 Scrum Manager v2.6, Parte I, págs. 37-41)</em></p>
-</details><div class="score-calculator">
+</div><div class="score-calculator">
     <h3>Calculadora de Puntaje (Autoevaluación)</h3>
     <p>Ingresa los puntos obtenidos en cada sección para calcular tu nota final (Puntaje de aprobación: 25 puntos / 70%):</p>
     <div class="score-row">
