@@ -71,7 +71,7 @@
 
 ### 7. Conforme al régimen de notificaciones de la plataforma de trámites municipal (MDQ Digital), las notificaciones practicadas en el Domicilio Electrónico Constituido del contribuyente:
 *   a) Exigen que el destinatario abra obligatoriamente el documento electrónico para considerarse perfeccionadas.
-*   b) Se consideran perfeccionadas legalmente de forma automática transcurrido el plazo reglamentario desde su depósito en la bandeja del portal.
+*   b) Se consideran perfeccionadas el primer día hábil posterior a su emisión (o puesta a disposición), siendo válidas independientemente de si el destinatario ingresa a su cuenta o no.
 *   c) Son meramente informativas y deben ser validadas posteriormente mediante cédula en papel.
 *   d) Ninguna de las anteriores.
 
@@ -171,7 +171,7 @@
 *   **Fundamento Normativo:** Ley Nacional de Identidad de Género Nº 26.743, **Artículo 12º** (Trato digno). Rige el derecho de toda persona a ser identificada por su nombre de pila autopercibido e identidad de género en todos los registros administrativos. El área de desarrollo de sistemas de software debe diseñar las bases de datos y la interfaz de usuario de modo tal que, a solo requerimiento del interesado, se rectifiquen y registren de forma inmediata y automática sus datos identificatorios respetando su nombre de pila autopercibido, aun si este no ha realizado el cambio en el documento nacional de identidad (DNI). *(📋 Ley 26.743 - Art. 12º)*
 
 ### 7. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto regulador de la Plataforma MDQ Digital (**DECFC-2024-2050-E**). El Domicilio Electrónico Constituido es jurídicamente equivalente al domicilio físico especial constituido. La notificación se considera perfeccionada legalmente transcurrido el plazo automático fijado por el decreto (generalmente 10 días hábiles) desde el depósito del acto en la bandeja de notificaciones del portal web, aun si el contribuyente no ingresó al sistema o no abrió el documento enviado. Esto evita la paralización de los plazos administrativos por inacción del usuario. *(📋 DECFC-2024-2050-E)*
+*   **Fundamento Normativo:** **Decreto MGP Nº 2050/24 (DECFC-2024-2050-E), Artículo 7º y Anexo II**, en concordancia con la **Ordenanza Municipal Nº 26.348, Artículos 24º y 63º** (que modifican la Ordenanza General Nº 267/80). El Artículo 7º del Decreto 2050/24 establece de forma taxativa que la notificación por vía electrónica queda perfeccionada el primer día hábil posterior a la emisión de la misma. Asimismo, el Artículo 63º de la Ordenanza Municipal 26.348 (incorporado al Anexo II del decreto) determina que el hecho de no ingresar al medio digital no obsta a la validez de las notificaciones allí practicadas. *(📋 Decreto 2050/24 - Ordenanza 26.348)*
 
 ### 8. Respuesta Correcta: **a**
 *   **Fundamento Normativo:** Decretos MGP **397/01 y 3080/01** (Reglamento del Premio por Presentismo). El premio presentismo (licencia con goce de haberes) no se pierde por inasistencias derivadas de la licencia anual ordinaria (vacaciones) ni por licencias extraordinarias por maternidad, paternidad, adopción, duelo familiar o accidente de trabajo. En cambio, cualquier inasistencia por enfermedad común (corto tratamiento), inasistencias injustificadas, o sanciones disciplinarias por impuntualidad, interrumpen y anulan el beneficio del cuatrimestre correspondiente. *(📋 Decretos MGP 397/01 y 3080/01)*
