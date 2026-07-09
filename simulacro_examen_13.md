@@ -39,10 +39,10 @@
 
 ---
 
-### 4. Conforme al Estatuto de Empleo Público Municipal (Ley Provincial 14656), el agente que ha adquirido la estabilidad en su puesto de trabajo:
-*   a) Puede solicitar su reencasillamiento condicional aun si se encuentra sumariado o sometido a proceso penal, supeditado a las resultas del sumario.
-*   b) Queda excluido del derecho a solicitar reencasillamiento o ascensos hasta tanto se cierre de manera definitiva cualquier expediente administrativo que lo mencione.
-*   c) Pierde de forma automática la estabilidad si es imputado en un sumario, antes del dictado de la resolución final.
+### 4. Según el Estatuto de Empleo Público Municipal (Ley Provincial 14656), la instrucción de un sumario administrativo a un agente con estabilidad:
+*   a) No obsta sus derechos escalafonarios (como ascensos), pero estos no se harán efectivos hasta la resolución definitiva del sumario, reservándosele la vacante correspondiente.
+*   b) Suspende automáticamente su estabilidad y permite su cese inmediato por decisión del Intendente antes de concluir la investigación.
+*   c) Impide que conserve o acumule antigüedad a los fines del pago de adicionales salariales durante el tiempo que dure el sumario.
 *   d) Ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
@@ -177,7 +177,7 @@
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 243º**. El Tribunal de Cuentas posee la facultad de auditar y sancionar las irregularidades administrativas o contables de los agentes y funcionarios municipales mediante: 1. Llamado de atención; 2. Amonestación; 3. Multa (de hasta el tope legal); y 4. Cargo pecuniario (obligación de resarcir el daño económico al erario). *(📋 LOM - Art. 243º)*
 
 ### 4. Respuesta Correcta: **a**
-*   **Fundamento Normativo:** Ley Provincial 14.656 (Estatuto Municipal), **Artículo 25º**. El agente sometido a sumario administrativo o a proceso penal conserva el derecho a solicitar su reencasillamiento escalonario de carrera, el cual se le concederá con carácter condicional y supeditado a las resultas finales del sumario o causa judicial. *(📋 Ley 14.656 - Art. 25º)*
+*   **Fundamento Normativo:** Ley Provincial 14.656 (Estatuto Municipal), **Artículo 25º**. La instrucción del sumario no obsta a los derechos escalafonarios del trabajador (como ascensos y promociones), aunque los mismos no se harán efectivos hasta la resolución definitiva de las actuaciones sumarias, reservándosele para tal fin la correspondiente vacante. *(📋 Ley 14.656 - Art. 25º)*
 
 ### 5. Respuesta Correcta: **a**
 *   **Fundamento Normativo:** **Decreto MGP Nº 966/19 (Manual de Redacción Administrativa), Anexo I, Punto 88**, en concordancia con el **Artículo 181º de la Ley Orgánica de las Municipalidades**. El Manual de Redacción municipal establece que en los proyectos de Decreto deberá incluirse de forma obligatoria un artículo de refrendo en el cual constarán el o los Secretarios que deban firmar la norma según su área de competencia, para que el acto administrativo sea legalmente válido de conformidad con la LOM. *(📋 Decreto MGP 966/19 - Punto 88)*
