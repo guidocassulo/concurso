@@ -238,7 +238,7 @@
 
 ### 1. Plazos de Defensa y de Recursos (Ordenanza General 26348)
 1.  **Defensa (Descargo):** El agente cuenta con un plazo mínimo de **cinco (5) días hábiles** (tras ser notificado del traslado de la imputación) para presentar su descargo por escrito, ofrecer pruebas y justificaciones.
-2.  **Recurso de Revocatoria:** Contra el acto administrativo de sanción (Disposición del Jefe de Departamento), el agente puede interponer un **Recurso de Revocatoria** ante el mismo emisor en el plazo de **diez (10) días hábiles** contados a partir del día siguiente al de la notificación formal. Lleva implícito el recurso jerárquico en subsidio si la revocatoria fuera rechazada (Artículo 86º de la Ordenanza General 26348).
+2.  **Recurso de Revocatoria:** Contra el acto administrativo de sanción (Disposición del Jefe de Departamento), el agente puede interponer un **Recurso de Revocatoria** ante el mismo emisor en el plazo de **diez (10) días hábiles** contados a partir del día siguiente al de la notificación formal. Lleva implícito el recurso jerárquico en subsidio si la revocatoria fuera rechazada (Artículos 89º y 91º de la Ordenanza General 26348).
 
 ---
 
