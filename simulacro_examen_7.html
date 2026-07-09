@@ -3,198 +3,272 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simulacro Nº 7 - Concurso Jefatura de Sistemas MGP</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <title>Simulacro de Examen Nº 7 - Municipalidad de Gral. Pueyrredón</title>
+    <!-- MathJax for rendering LaTeX formulas -->
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <style>
-:root {
-    --primary: #0077c2;
-    --primary-dark: #005b94;
-    --primary-light: #e8f4fd;
-    --bg: #f8fafc;
-    --surface: #ffffff;
-    --text: #1e293b;
-    --text-muted: #64748b;
-    --border: #e2e8f0;
-    --success: #10b981;
-    --success-light: #ecfdf5;
-}
+        :root {
+            --primary: #0077c2;
+            --primary-dark: #005b94;
+            --accent: #e3f2fd;
+            --text: #333333;
+            --text-muted: #666666;
+            --bg: #f5f7fa;
+            --card-bg: #ffffff;
+            --border: #e0e0e0;
+            --success: #2e7d32;
+            --shadow: 0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.1);
+        }
 
-body {
-    font-family: 'Outfit', 'Inter', system-ui, sans-serif;
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 40px 20px;
-    line-height: 1.75;
-    color: var(--text);
-    background-color: var(--bg);
-}
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primary: #4fc3f7;
+                --primary-dark: #0288d1;
+                --accent: #1a237e;
+                --text: #e0e0e0;
+                --text-muted: #aaaaaa;
+                --bg: #121212;
+                --card-bg: #1e1e1e;
+                --border: #333333;
+                --success: #81c784;
+                --shadow: 0 4px 6px rgba(0,0,0,0.3);
+            }
+        }
 
-h1 {
-    background: linear-gradient(135deg, var(--primary), var(--primary-dark));
-    color: white;
-    padding: 30px 40px;
-    border-radius: 12px;
-    margin: -40px -20px 40px;
-    font-size: 2.2rem;
-    box-shadow: 0 10px 15px -3px rgba(0, 119, 194, 0.1), 0 4px 6px -4px rgba(0, 119, 194, 0.1);
-}
+        body {
+            font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+            color: var(--text);
+            background-color: var(--bg);
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
 
-h2 {
-    color: var(--primary-dark);
-    border-bottom: 3px solid var(--primary-light);
-    padding-bottom: 10px;
-    margin-top: 50px;
-    font-size: 1.6rem;
-}
+        header {
+            background-color: var(--primary-dark);
+            color: white;
+            padding: 20px 40px;
+            box-shadow: var(--shadow);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
 
-h3 {
-    border-left: 5px solid var(--primary);
-    padding-left: 16px;
-    color: var(--text);
-    margin-top: 30px;
-    font-size: 1.25rem;
-}
+        header h1 {
+            margin: 0;
+            font-size: 1.5rem;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
 
-h4 {
-    color: var(--primary-dark);
-    margin-top: 25px;
-}
+        header .subtitle {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
 
-hr {
-    border: 0;
-    height: 1px;
-    background: var(--border);
-    margin: 40px 0;
-}
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
 
-details {
-    border: 1px solid var(--border);
-    background: var(--surface);
-    margin: 25px 0;
-    padding: 20px 25px;
-    border-radius: 8px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.02);
-    transition: all 0.25s ease;
-}
+        .exam-card {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: var(--shadow);
+            padding: 40px;
+            border: 1px solid var(--border);
+            margin-bottom: 20px;
+        }
 
-details[open] {
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -4px rgba(0, 0, 0, 0.05);
-    border-color: #cbd5e1;
-}
+        h1, h2, h3 {
+            color: var(--primary-dark);
+        }
 
-summary {
-    font-weight: 600;
-    color: var(--primary-dark);
-    cursor: pointer;
-    outline: none;
-    user-select: none;
-    font-size: 1.05rem;
-}
+        h2 {
+            color: var(--primary);
+            border-bottom: 2px solid var(--primary);
+            padding-bottom: 8px;
+            margin-top: 40px;
+        }
 
-summary:hover {
-    color: var(--primary);
-}
+        h3 {
+            color: var(--text);
+            margin-top: 30px;
+            border-left: 4px solid var(--primary);
+            padding-left: 12px;
+        }
 
-.score-calculator {
-    background: linear-gradient(135deg, #f1f5f9, #e2e8f0);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 30px;
-    margin-top: 50px;
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
-}
+        ul {
+            padding-left: 20px;
+        }
 
-.score-calculator h3 {
-    border: none;
-    padding: 0;
-    margin-top: 0;
-    color: var(--primary-dark);
-}
+        li {
+            margin-bottom: 8px;
+        }
 
-.score-row {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 15px 0;
-}
+        details {
+            background-color: var(--accent);
+            border-left: 4px solid var(--primary);
+            border-radius: 4px;
+            margin: 20px 0;
+            padding: 15px;
+            transition: all 0.3s ease;
+        }
 
-.score-row span {
-    font-weight: 500;
-}
+        details[open] {
+            box-shadow: var(--shadow);
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            border-left: 4px solid var(--primary);
+        }
 
-.score-input {
-    width: 80px;
-    padding: 8px 12px;
-    border: 1.5px solid var(--border);
-    border-radius: 6px;
-    font-size: 1rem;
-    text-align: center;
-    background: var(--surface);
-    color: var(--text);
-    outline: none;
-    transition: border-color 0.2s;
-}
+        summary {
+            font-weight: bold;
+            cursor: pointer;
+            outline: none;
+            user-select: none;
+            color: var(--primary-dark);
+            padding: 5px 0;
+        }
 
-.score-input:focus {
-    border-color: var(--primary);
-}
+        summary:hover {
+            color: var(--primary);
+        }
 
-.score-total {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 25px;
-    padding-top: 20px;
-    border-top: 2px dashed #cbd5e1;
-    font-size: 1.2rem;
-    font-weight: 700;
-}
+        details p, details ul {
+            margin-top: 15px;
+        }
 
-#total-score {
-    color: var(--primary);
-}
+        .actions {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            justify-content: flex-end;
+        }
 
-.status-badge {
-    padding: 4px 10px;
-    border-radius: 6px;
-    font-size: 0.85rem;
-    font-weight: 600;
-}
+        .btn {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            text-decoration: none;
+            transition: background-color 0.2s;
+            font-size: 0.9rem;
+        }
 
-.status-pass {
-    background-color: var(--success-light);
-    color: var(--success);
-}
+        .btn:hover {
+            background-color: var(--primary-dark);
+        }
 
-.status-fail {
-    background-color: #fef2f2;
-    color: #ef4444;
-}
+        .btn-secondary {
+            background-color: transparent;
+            color: var(--primary);
+            border: 1px solid var(--primary);
+        }
 
-pre {
-    background: #1e293b;
-    color: #f8fafc;
-    padding: 20px;
-    border-radius: 8px;
-    overflow-x: auto;
-    font-family: 'Fira Code', monospace;
-    font-size: 0.9rem;
-}
+        .btn-secondary:hover {
+            background-color: var(--accent);
+            color: var(--primary-dark);
+        }
 
-blockquote {
-    border-left: 4px solid var(--primary);
-    background: var(--primary-light);
-    margin: 25px 0;
-    padding: 15px 25px;
-    border-radius: 0 8px 8px 0;
-    color: #0f172a;
-}
-</style>
+        .score-calculator {
+            margin-top: 40px;
+            padding: 20px;
+            background-color: var(--accent);
+            border-radius: 6px;
+            border: 1px solid var(--border);
+        }
+
+        .score-input {
+            width: 60px;
+            padding: 5px;
+            border-radius: 4px;
+            border: 1px solid var(--border);
+            text-align: center;
+            font-weight: bold;
+            background: var(--card-bg);
+            color: var(--text);
+        }
+
+        .score-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .score-total {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-top: 15px;
+            border-top: 1px dashed var(--border);
+            padding-top: 15px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        blockquote {
+            background: var(--accent);
+            border-left: 4px solid var(--primary);
+            margin: 1.5em 10px;
+            padding: 10px 20px;
+            font-style: italic;
+        }
+
+        @media print {
+            body {
+                background-color: white;
+                color: black;
+            }
+            header, .actions, .score-calculator, summary::-webkit-details-marker, details summary {
+                display: none !important;
+            }
+            .exam-card {
+                box-shadow: none !important;
+                border: none !important;
+                padding: 0 !important;
+            }
+            details {
+                background-color: transparent !important;
+                border: none !important;
+                border-left: 2px solid #333 !important;
+                page-break-inside: avoid;
+            }
+            details[open] {
+                border: none !important;
+                border-left: 2px solid #333 !important;
+            }
+            h2, h3 {
+                page-break-after: avoid;
+            }
+        }
+    </style>
 </head>
 <body>
-    <h1>SIMULACRO DE EXAMEN Nº 7</h1>
+    <header>
+        <div>
+            <h1>MUNICIPALIDAD DE GENERAL PUEYRREDON</h1>
+            <div class="subtitle">Sistemas de Software - MGP</div>
+        </div>
+        <div>
+            <span class="subtitle">Simulacro de Examen Nº 7</span>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="actions">
+            <button class="btn btn-secondary" onclick="window.print()">Imprimir Examen / PDF</button>
+            <button class="btn btn-secondary" onclick="toggleAnswers(true)">Mostrar Respuestas</button>
+            <button class="btn btn-secondary" onclick="toggleAnswers(false)">Ocultar Respuestas</button>
+        </div>
+
+        <div class="exam-card">
+            <h1>SIMULACRO DE EXAMEN Nº 7</h1>
 <p><strong>Cargo:</strong> Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
 <hr>
 <h2>CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)</h2>
@@ -217,11 +291,11 @@ blockquote {
 </ul>
 <p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
 <hr>
-<h3>3. De acuerdo al régimen de control horario y asistencia de la MGP (Decreto Nº 121/18 y 122/18), si un programador de su departamento omite realizar el fichado de entrada o salida biométrico sin justificación médica o jerárquica en los plazos vigentes:</h3>
+<h3>3. De acuerdo al régimen de control de asistencia de la MGP (Decreto Nº 121/18), si un agente omite registrar su ingreso o egreso biométrico sin causa de fuerza mayor autorizada por escrito por su jefe de dependencia (dentro de los límites mensuales y anuales permitidos):</h3>
 <ul>
-<li>a) La omisión es considerada inasistencia injustificada sujeta a descuento de haberes y sanción disciplinaria, debiendo el agente justificar dicha omisión dentro de las 48 horas hábiles del hecho mediante los canales de GDE correspondientes.</li>
-<li>b) Puede reemplazar la omisión mediante una planilla de firmas en papel que el Jefe de Departamento puede archivar de forma interna sin informar al Departamento de Recursos Humanos.</li>
-<li>c) El sistema liquida de forma automática el día como &quot;trabajado&quot; si el supervisor directo certifica mediante correo electrónico que el agente estuvo en su oficina.</li>
+<li>a) La primera omisión injustificada dará lugar a un llamado de atención, la segunda a un apercibimiento y la tercera y subsiguientes a un (1) día de suspensión por cada una.</li>
+<li>b) El Jefe de Departamento puede autorizar de forma verbal e ilimitada cualquier cantidad de omisiones de fichado sin necesidad de informar a Personal.</li>
+<li>c) Se produce la cesantía directa del agente por considerarse abandono de servicio.</li>
 <li>d) Ninguna de las anteriores.</li>
 </ul>
 <p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
@@ -359,15 +433,15 @@ a) Calcule la <strong>Capacidad del Sprint (Sprint Capacity)</strong> real dispo
 <details>
 <summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary><h3>1. Respuesta Correcta: <strong>b</strong></h3>
 <ul>
-<li><strong>Fundamento Normativo:</strong> Ley Nacional de Firma Digital Nº 25.506, <strong>Artículos 3º, 5º, 6º y 9º</strong>. La diferencia jurídica fundamental radica en que la firma digital posee una presunción de autoría y de integridad asignada directamente por ley: se presume que el documento firmado pertenece al titular del certificado digital y que no ha sido alterado, trasladando al impugnante la carga de probar lo contrario (<em>carga invertida</em>). En cambio, la firma electrónica carece de estas presunciones, de modo que si es desconocida en juicio, es quien la invoca quien debe probar su validez mediante pericia informática u otros medios de prueba. <em>(📋 Ley 25.506)</em></li>
+<li><strong>Fundamento Normativo:</strong> Ley Nacional de Firma Digital Nº 25.506, <strong>Artículos 2º, 5º, 7º y 8º</strong>. La diferencia jurídica fundamental radica en que la firma digital posee una presunción de autoría y de integridad asignada directamente por ley (Arts. 7º y 8º): se presume que el documento firmado pertenece al titular del certificado digital y que no ha sido alterado, trasladando al impugnante la carga de probar lo contrario (<em>carga invertida</em>). En cambio, la firma electrónica carece de estas presunciones (Art. 5º), de modo que si es desconocida en juicio, es quien la invoca quien debe probar su validez mediante pericia informática u otros medios de prueba. <em>(📋 Ley 25.506)</em></li>
 </ul>
 <h3>2. Respuesta Correcta: <strong>b</strong></h3>
 <ul>
-<li><strong>Fundamento Normativo:</strong> Ley 14656, <strong>Artículo 80º y concordantes</strong> (Licencia Ordinaria Anual / Descanso) y Decreto MGP <strong>923/19</strong> (reglamentario local). La Licencia por Descanso Anual tiene carácter obligatorio y goce íntegro de haberes. Las vacaciones deben ser usufructuadas dentro del período respectivo; si por razones de servicio fundadas por el titular de la dependencia no pudieran gozarse, se transfieren al año siguiente. De no usufructuarse en dicho período prorrogado, expiran de pleno derecho sin dar derecho a indemnización pecuniaria (salvo cese de la relación laboral). <em>(📋 Ley 14656, Art. 80º - Decreto MGP 923/19)</em></li>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>923/19</strong> (Reglamento de Licencia por Descanso Anual para el ámbito local) y Ley Provincial 14.656, <strong>Artículo 79º</strong> (carácter obligatorio del descanso anual). La Licencia por Descanso Anual tiene carácter obligatorio y goce íntegro de haberes. Las vacaciones deben ser usufructuadas dentro del período respectivo; si por razones de servicio fundadas por el titular de la dependencia no pudieran gozarse, se transfieren al año siguiente. De no usufructuarse en dicho período prorrogado, expiran de pleno derecho sin dar derecho a indemnización pecuniaria (salvo cese de la relación laboral). <em>(📋 Ley 14656, Art. 79º - Decreto MGP 923/19)</em></li>
 </ul>
 <h3>3. Respuesta Correcta: <strong>a</strong></h3>
 <ul>
-<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>121/18 y 122/18 (Régimen de Control Horario)</strong>. La falta de registro de asistencia (entrada o salida) en los dispositivos biométricos sin mediar justificación documentada (formulario de comisión de servicio, salida autorizada o licencia médica) equivale a una inasistencia injustificada con el consecuente descuento de haberes del día. Las omisiones de fichado por desperfectos del equipo o descuidos del agente deben ser informadas e iniciadas por el agente a través del sistema GDE municipal dentro de las 48 horas hábiles del hecho para su validación jerárquica, no teniendo el Jefe de Departamento facultades para archivar planillas manuales informales paralelas. <em>(📋 Decretos MGP 121/18 y 122/18)</em></li>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>121/18</strong>. El reglamento municipal de control de asistencia establece que los agentes que omitan registrar su marca biométrica de ingreso o egreso sin justificación autorizada por escrito por su jefe de dependencia (el cual puede avalar hasta 1 omisión mensual y 6 anuales por causas fundadas) incurrirán en omisión de fichado injustificada. Las sanciones disciplinarias correspondientes son graduales: 1º omisión: llamado de atención; 2º omisión: apercibimiento; y 3º omisión y subsiguientes: un (1) día de suspensión por cada una. <em>(📋 Decreto MGP 121/18)</em></li>
 </ul>
 <h3>4. Respuesta Correcta: <strong>c</strong></h3>
 <ul>
@@ -535,30 +609,30 @@ a) Calcule la <strong>Capacidad del Sprint (Sprint Capacity)</strong> real dispo
 <li><p><strong>Cálculo del Tiempo Nominal Total en horas:</strong></p>
 <ul>
 <li>Para los $3$ desarrolladores sin licencias:
-$$\text{Horas}_{3} = 3 \text{ desarrolladores} \times 10 \text{ días} \times 7 \text{ hs/día} = 210 \text{ horas}$$</li>
+$\text{Horas}_{3} = 3 \text{ desarrolladores} \times 10 \text{ días} \times 7 \text{ hs/día} = 210 \text{ horas}$</li>
 <li>Para el desarrollador con licencia ($10$ días - $2$ días = $8$ días trabajados):
-$$\text{Horas}_{1} = 1 \text{ desarrollador} \times 8 \text{ días} \times 7 \text{ hs/día} = 56 \text{ horas}$$</li>
+$\text{Horas}_{1} = 1 \text{ desarrollador} \times 8 \text{ días} \times 7 \text{ hs/día} = 56 \text{ horas}$</li>
 <li>Tiempo Nominal Total del Equipo:
-$$\text{Tiempo Nominal} = 210 \text{ horas} + 56 \text{ horas} = \mathbf{266 \text{ horas}}$$</li>
+$\text{Tiempo Nominal} = 210 \text{ horas} + 56 \text{ horas} = \mathbf{266 \text{ horas}}$</li>
 </ul>
 </li>
 <li><p><strong>Deducción de la reserva del 15% para Soporte e Imprevistos:</strong></p>
 <ul>
 <li>La reserva del $15%$ se calcula sobre el tiempo nominal disponible del equipo:
-$$\text{Tiempo Soporte} = 266 \text{ horas} \times 0.15 = \mathbf{39.9 \text{ horas}}$$</li>
+$\text{Tiempo Soporte} = 266 \text{ horas} \times 0.15 = \mathbf{39.9 \text{ horas}}$</li>
 </ul>
 </li>
 <li><p><strong>Deducción de horas de Reuniones Scrum fijas:</strong></p>
 <ul>
 <li>Cada desarrollador asiste a las reuniones ágiles de su jornada laboral efectiva. Las reuniones fijas son $12$ horas por persona. Para los 4 integrantes:
-$$\text{Tiempo Reuniones} = 4 \text{ desarrolladores} \times 12 \text{ horas} = \mathbf{48 \text{ horas}}$$</li>
+$\text{Tiempo Reuniones} = 4 \text{ desarrolladores} \times 12 \text{ horas} = \mathbf{48 \text{ horas}}$</li>
 </ul>
 </li>
 <li><p><strong>Cálculo de la Capacidad de Sprint (Sprint Capacity) Neta:</strong></p>
 <ul>
 <li>Se restan al tiempo nominal total las horas destinadas a soporte/imprevistos y a reuniones de Scrum:
-$$\text{Sprint Capacity} = \text{Tiempo Nominal} - \text{Tiempo Soporte} - \text{Tiempo Reuniones}$$
-$$\text{Sprint Capacity} = 266 \text{ horas} - 39.9 \text{ horas} - 48 \text{ horas} = \mathbf{178.1 \text{ horas}}$$</li>
+$\text{Sprint Capacity} = \text{Tiempo Nominal} - \text{Tiempo Soporte} - \text{Tiempo Reuniones}$
+$\text{Sprint Capacity} = 266 \text{ horas} - 39.9 \text{ horas} - 48 \text{ horas} = \mathbf{178.1 \text{ horas}}$</li>
 <li><em>Resultado:</em> La capacidad real del equipo para desarrollar Historias de Usuario durante este Sprint es de <strong>178.1 horas</strong> (o aproximadamente <strong>178 horas</strong>).</li>
 </ul>
 </li>
@@ -569,13 +643,13 @@ $$\text{Sprint Capacity} = 266 \text{ horas} - 39.9 \text{ horas} - 48 \text{ ho
 <ul>
 <li>Datos históricos: El equipo completa $35$ SP en Sprints con una capacidad de desarrollo neta de $200$ horas de desarrollo.</li>
 <li>Rendimiento productivo:
-$$\text{Rendimiento} = \frac{35 \text{ SP}}{200 \text{ horas}} = 0.175 \text{ SP por hora de desarrollo}$$</li>
+$\text{Rendimiento} = \frac{35 \text{ SP}}{200 \text{ horas}} = 0.175 \text{ SP por hora de desarrollo}$</li>
 </ul>
 </li>
 <li><p><strong>Proyección para el Sprint Actual:</strong></p>
 <ul>
 <li>Multiplicando la capacidad calculada en (a) por el rendimiento productivo histórico:
-$$\text{SP Estimados} = 178.1 \text{ horas} \times 0.175 \text{ SP/hora} = \mathbf{31.17 \text{ SP}}$$</li>
+$\text{SP Estimados} = 178.1 \text{ horas} \times 0.175 \text{ SP/hora} = \mathbf{31.17 \text{ SP}}$</li>
 </ul>
 </li>
 <li><p><strong>Conclusión / Recomendación del Jefe de Sistemas:</strong></p>
@@ -613,55 +687,67 @@ $$\text{SP Estimados} = 178.1 \text{ horas} \times 0.175 \text{ SP/hora} = \math
     </div>
 </div>
 
-<div class="score-calculator">
-    <h3>Calculadora de Puntaje (Autoevaluación)</h3>
-    <p>Ingresa los puntos obtenidos en cada sección para calcular tu nota final (Puntaje de aprobación: 25 puntos / 70%):</p>
-    <div class="score-row">
-        <span>Cuestión 1 (Normativa - Máx 10 pts):</span>
-        <input type="number" min="0" max="10" step="0.5" class="score-input" id="q1" oninput="calcScore()">
+            
+            <div class="score-calculator">
+                <h3>Calculadora de Puntaje (Autoevaluación)</h3>
+                <p>Ingresa los puntos obtenidos en cada sección para calcular tu nota final (Puntaje de aprobación: 25 puntos / 70%):</p>
+                <div class="score-row">
+                    <span>Cuestión 1 (Normativa - Máx 10 pts):</span>
+                    <input type="number" min="0" max="10" step="0.5" class="score-input" id="q1" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 2 (Higiene y ART - Máx 1.5 pts):</span>
+                    <input type="number" min="0" max="1.5" step="0.25" class="score-input" id="q2" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 3 (Caso Disciplinario - Máx 4 pts):</span>
+                    <input type="number" min="0" max="4" step="0.5" class="score-input" id="q3" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 4 (Perspectiva de Género - Máx 4.5 pts):</span>
+                    <input type="number" min="0" max="4.5" step="0.25" class="score-input" id="q4" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 5 (Evaluación Técnica - Máx 15 pts):</span>
+                    <input type="number" min="0" max="15" step="0.5" class="score-input" id="q5" oninput="calcScore()">
+                </div>
+                <div class="score-total">
+                    <span>Puntaje Total (Máximo 35):</span>
+                    <span id="total-score">0.0 / 35.0 (<span id="result-status" style="font-weight: bold; color: var(--text-muted);">Sin evaluar</span>)</span>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="score-row">
-        <span>Cuestión 2 (Higiene y ART - Máx 1.5 pts):</span>
-        <input type="number" min="0" max="1.5" step="0.25" class="score-input" id="q2" oninput="calcScore()">
-    </div>
-    <div class="score-row">
-        <span>Cuestión 3 (Caso Disciplinario - Máx 4 pts):</span>
-        <input type="number" min="0" max="4" step="0.5" class="score-input" id="q3" oninput="calcScore()">
-    </div>
-    <div class="score-row">
-        <span>Cuestión 4 (Perspectiva de Género - Máx 4.5 pts):</span>
-        <input type="number" min="0" max="4.5" step="0.25" class="score-input" id="q4" oninput="calcScore()">
-    </div>
-    <div class="score-row">
-        <span>Cuestión 5 (Evaluación Técnica - Máx 15 pts):</span>
-        <input type="number" min="0" max="15" step="0.5" class="score-input" id="q5" oninput="calcScore()">
-    </div>
-    <div class="score-total">
-        <span>Puntaje Total (Máximo 35):</span>
-        <span id="total-score">0.0 / 35.0 <span class="status-badge status-fail" style="background:#cbd5e1; color:#475569">Sin evaluar</span></span>
-    </div>
-</div>
-        
+
     <script>
-function calcScore() {
-    const q1 = parseFloat(document.getElementById('q1')?.value || 0);
-    const q2 = parseFloat(document.getElementById('q2')?.value || 0);
-    const q3 = parseFloat(document.getElementById('q3')?.value || 0);
-    const q4 = parseFloat(document.getElementById('q4')?.value || 0);
-    const q5 = parseFloat(document.getElementById('q5')?.value || 0);
-    
-    const total = q1 + q2 + q3 + q4 + q5;
-    const isPass = total >= 25;
-    
-    const totalElem = document.getElementById('total-score');
-    if (totalElem) {
-        totalElem.innerHTML = total.toFixed(1) + ' / 35.0 ' + 
-            (isPass 
-                ? '<span class="status-badge status-pass">APROBADO</span>' 
-                : '<span class="status-badge status-fail">DESAPROBADO</span>');
-    }
-}
-window.calcScore = calcScore;
-</script>
+        function toggleAnswers(show) {
+            const details = document.querySelectorAll('details');
+            details.forEach(d => {
+                d.open = show;
+            });
+        }
+
+        function calcScore() {
+            const q1 = parseFloat(document.getElementById('q1').value) || 0;
+            const q2 = parseFloat(document.getElementById('q2').value) || 0;
+            const q3 = parseFloat(document.getElementById('q3').value) || 0;
+            const q4 = parseFloat(document.getElementById('q4').value) || 0;
+            const q5 = parseFloat(document.getElementById('q5').value) || 0;
+            
+            const total = q1 + q2 + q3 + q4 + q5;
+            const totalFixed = Math.min(35, total).toFixed(2);
+            
+            const statusSpan = document.getElementById('result-status');
+            if (total >= 25) {
+                statusSpan.innerHTML = "APROBADO";
+                statusSpan.style.color = "var(--success)";
+            } else {
+                statusSpan.innerHTML = "DESAPROBADO";
+                statusSpan.style.color = "red";
+            }
+            
+            document.getElementById('total-score').innerHTML = totalFixed + " / 35.0 (" + statusSpan.outerHTML + ")";
+        }
+    </script>
 </body>
 </html>

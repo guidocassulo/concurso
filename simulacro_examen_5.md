@@ -39,11 +39,11 @@
 
 ---
 
-### 4. De acuerdo con la reglamentación de control horario de la MGP (Decreto 121/18), si un agente de su departamento olvida registrar su ingreso mediante el reloj biométrico, el plazo máximo que posee para justificar dicha omisión presentando la planilla de excepción ante su superior inmediato es de:
-*   a) Veinticuatro (24) horas hábiles.
-*   b) Cuarenta y ocho (48) horas hábiles a partir de producido el olvido del registro.
-*   c) Cinco (5) días corridos.
-*   d) Debe esperar a la liquidación de haberes mensual para realizar el descargo de descuento.
+### 4. De acuerdo con el régimen de control de asistencia de la MGP (Decreto 121/18), la facultad del Jefe de Dependencia para autorizar por escrito omisiones de fichado justificadas de un agente a su cargo está limitada a un máximo de:
+*   a) Una (1) omisión por mes y seis (6) por año calendario.
+*   b) Tres (3) omisiones por mes y doce (12) por año calendario.
+*   c) Dos (2) omisiones por mes y diez (10) por año calendario.
+*   d) Ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
@@ -178,8 +178,8 @@
 ### 3. Respuesta Correcta: **c**
 *   **Fundamento Normativo:** Ordenanza General 26348, **Artículo 79º**: El silencio de la administración de efectos denegatorios (silencio negativo) se produce de pleno derecho transcurrido el plazo máximo de **treinta (30) días hábiles administrativos** desde que las actuaciones se encuentren en condiciones de ser resueltas por el funcionario competente (ej. con dictámenes y pruebas cerradas) sin que haya recaído resolución definitiva. *(📋 Verificar en texto oficial de Ordenanza General 26348 - Art. 79º)*
 
-### 4. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** **Decreto MGP 121/18 y Reglamento de Control de Asistencia y Puntualidad**: La justificación de la falta de registro o fichada biométrica por olvido debe tramitarse mediante planilla de excepción con firma del superior jerárquico inmediato dentro de un plazo perentorio de hasta **cuarenta y ocho (48) horas hábiles** desde la producción del hecho, de acuerdo con el marco regulatorio del control horario municipal. *(📋 Verificar en texto oficial de Decreto MGP 121/18 y Manual de Procedimientos de Control de Asistencia)*
+### 4. Respuesta Correcta: **a**
+*   **Fundamento Normativo:** **Decreto MGP 121/18**: El reglamento municipal establece que los jefes de dependencia pueden autorizar omisiones de fichado o firma en los registros de ingreso o egreso por motivos debidamente fundados y por escrito, con un límite máximo de una (1) omisión por mes y seis (6) por año calendario. *(📋 Decreto MGP 121/18)*
 
 ### 5. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades y RAFAM. La adjudicación de las compras municipales tramitadas mediante Concurso de Precios es facultad del **Departamento Ejecutivo (Intendente Municipal)**, instrumentada mediante el dictado de un Decreto de adjudicación previo dictamen de la comisión permanente de compras del municipio. *(📋 Verificar en texto oficial de LOM y RAFAM)*

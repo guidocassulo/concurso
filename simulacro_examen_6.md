@@ -27,10 +27,10 @@
 
 **Fundamento Normativo:** __________________________________________________________________
 
-### 3. Conforme a las disposiciones del Decreto de Control Horario de la Municipalidad (la reglamentación municipal de control de asistencia), el agente municipal que por olvido o fuerza mayor haya omitido registrar su fichada biométrica de ingreso o egreso debe:
-*   a) Justificar la omisión de forma verbal ante su superior jerárquico el mismo día en que ocurrió el suceso.
-*   b) Presentar formalmente la correspondiente planilla de excepción con la firma avalada de su superior jerárquico dentro del plazo perentorio de hasta cuarenta y ocho (48) horas hábiles posteriores al suceso.
-*   c) Presentar un descargo por escrito ante la Dirección de Personal al cierre del período mensual de liquidación.
+### 3. De acuerdo al régimen de sanciones establecido por el Decreto MGP 121/18 para las omisiones de fichado injustificadas, la tercera (3º) omisión injustificada en la que incurra el agente dará lugar a la aplicación de:
+*   a) Un llamado de atención por escrito.
+*   b) Un apercibimiento formal de la Dirección de Personal.
+*   c) Un (1) día de suspensión por cada omisión.
 *   d) Ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
@@ -168,8 +168,8 @@
 ### 2. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Ley 14656, **Artículo 94º, inciso a** (y reglamentaciones locales MGP). Para la preparación y rendición de exámenes correspondientes a carreras de nivel terciario o universitario con reconocimiento oficial, el agente goza de licencia con goce de haberes por hasta un máximo de quince (15) días hábiles por año, acordada en fracciones de hasta cinco (5) días por examen, más el día de examen. *(📋 Verificar en texto oficial de Ley 14656 - Art. 94º)*
 
-### 3. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto MGP **121/18, Artículo 5º**. El agente municipal que por olvido o razones de fuerza mayor omita registrar su fichada biométrica de ingreso o egreso debe presentar la correspondiente planilla de excepción, firmada y avalada por su superior jerárquico inmediato, dentro de un plazo perentorio de hasta cuarenta y ocho (48) horas hábiles posteriores al suceso. *(📋 Verificar en texto oficial de Decreto MGP 121/18, Artículo 5º)*
+### 3. Respuesta Correcta: **c**
+*   **Fundamento Normativo:** Decreto MGP **121/18**: El régimen sancionatorio para las omisiones de fichado injustificadas (o no autorizadas) contempla: 1º omisión: llamado de atención; 2º omisión: apercibimiento; y 3º omisión y subsiguientes: un (1) día de suspensión por cada una. *(📋 Decreto MGP 121/18)*
 
 ### 4. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 156º, Inciso 4** (excepciones de compra directa): La adquisición directa es legalmente factible cuando la prestación del servicio técnico de mantenimiento de hardware posee exclusividad de patente o representación de marca oficial certificada por el fabricante extranjero sin existir proveedores alternativos homologados en el mercado. *(📋 Verificar en texto oficial de LOM - Art. 156º inc. 4)*
