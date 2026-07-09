@@ -69,10 +69,10 @@
 
 ---
 
-### 7. Según el Estatuto de Empleo Público Municipal (Ley Provincial 14656) y las garantías del debido proceso, ¿cuál es el plazo máximo de suspensión disciplinaria que puede aplicar la autoridad competente (Intendente Municipal) a un agente sin necesidad de iniciar un Sumario Administrativo previo, garantizando el derecho a ser oído y formular descargo?
+### 7. Según el Estatuto de Empleo Público Municipal (Ley Provincial 14656) y el régimen de delegación de facultades disciplinarias de la MGP (Decreto 1539/18), ¿cuál es el plazo máximo de suspensión disciplinaria que puede aplicar de forma directa un Jefe de Departamento a un agente a su cargo sin necesidad de iniciar un Sumario Administrativo previo, garantizando el derecho a descargo del agente?
 *   a) Hasta dos (2) días hábiles.
-*   b) Hasta diez (10) días de suspensión en el año calendario.
-*   c) Ninguno. Cualquier sanción de suspensión, sin importar su duración, exige obligatoriamente la instrucción de un sumario administrativo previo para ser válida.
+*   b) Hasta cinco (5) días corridos.
+*   c) Hasta diez (10) días de suspensión en el año calendario.
 *   d) Ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
@@ -197,7 +197,7 @@
 *   **Fundamento Normativo:** Ordenanza General Nº 26.348 (Procedimiento Administrativo Municipal), **Artículo 86º**. El interesado o agente afectado podrá interponer el Recurso de Revocatoria (ante el mismo funcionario que dictó el acto) en el plazo perentorio de **diez (10) días hábiles administrativos** contados desde el día siguiente a la notificación fehaciente del acto administrativo impugnado. *(📋 Ord. Gral. 26.348 - Art. 86º)*
 
 ### 7. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley 14656, **Artículos 105º y 106º**, y Decreto MGP **1539/18, Art. 1º, Inciso c)**. Las sanciones correctivas menores (llamado de atención, apercibimiento y suspensión de **hasta cinco (5) días corridos**) pueden ser aplicadas de forma directa por el Jefe de Departamento, previa sustanciación del descargo del agente y sin necesidad de sumario administrativo previo. Las suspensiones que excedan los 5 días y hasta 30 días requieren instrucción de sumario simplificado por la Dirección de Personal. *(📋 Ley 14656, Artículos 105º y 106º - Decreto MGP 1539/18, Art. 1º Inc. c)*
+*   **Fundamento Normativo:** Ley Provincial 14.656, **Artículos 24º y 110º**, y Decreto MGP **1539/18, Artículo 1º, Inciso c)**. Conforme al Artículo 24º de la Ley 14.656, las suspensiones de hasta diez (10) días no requieren sumario previo (solo descargo). No obstante, el Artículo 110º de la misma ley y el Decreto MGP 1539/18 delegan esta potestad disciplinaria de manera escalonada en la MGP, facultando al Jefe de Departamento a aplicar directamente suspensiones de **hasta cinco (5) días corridos** (las suspensiones de más de 5 días y hasta 10 días quedan reservadas a Directores y Secretarios). *(📋 Ley 14656, Arts. 24º y 110º - Decreto MGP 1539/18)*
 
 ### 8. Respuesta Correcta: **a**
 *   **Fundamento Normativo:** Decretos MGP **397/01, 3080/01 y 2490/05** (Estatuto del Premio Estímulo al Presentismo). El premio presentismo es de carácter restrictivo y premia la asistencia perfecta. Se pierde en su totalidad por inasistencias injustificadas, suspensiones disciplinarias o por registrar más de 3 llegadas tarde en el mes (que no se encuadren en las tolerancias reglamentarias), o por salidas de carácter particular no compensadas. Quedan exceptuadas de la pérdida del premio las licencias extraordinarias por maternidad, exámenes de estudio autorizados, o licencias ordinarias. *(📋 Decretos MGP 397/01, 3080/01 y 2490/05)*
