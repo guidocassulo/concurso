@@ -19,10 +19,10 @@
 
 ---
 
-### 2. De acuerdo con el patrimonio de la comuna definido por la L.O.M. (Decreto-Ley 6769/58), constituyen bienes de dominio público municipal:
-*   a) Las calles, plazas, caminos, canales, puentes y demás obras públicas construidas para utilidad y comodidad común, siempre que no sean de propiedad de la Nación o de la Provincia.
-*   b) Las tierras fiscales baldías ubicadas dentro del ejido urbano municipal que pertenezcan a la comuna por dominio privado del Estado.
-*   c) El equipamiento informático, servidores and mobiliario de oficina adquiridos por compras centralizadas del municipio.
+### 2. De acuerdo con el patrimonio de la comuna definido por la Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), este se encuentra constituido por:
+*   a) Los bienes inmuebles, muebles, semovientes, créditos, títulos y acciones adquiridos o financiados con fondos municipales, las donaciones y legados aceptados, y todas las parcelas del área urbana del Estado por dominio eminente o de propietario ignorado.
+*   b) Únicamente los edificios públicos municipales y las plazas habilitadas en el ejido urbano.
+*   c) Las tasas, derechos, licencias, contribuciones de mejoras y multas recaudadas por la Dirección de Ingresos Públicos.
 *   d) Ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
@@ -171,7 +171,7 @@
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), **Artículo 108º, incisos 2º y 18º**. El Intendente Municipal (Departamento Ejecutivo) tiene el deber de promulgar y dar a publicidad en el Boletín Oficial Municipal tanto las disposiciones del Concejo como las Ordenanzas, siendo este acto de publicación oficial indispensable para su vigencia y obligatoriedad en el territorio del Partido. *(📋 LOM - Art. 108º incs. 2º y 18º)*
 
 ### 2. Respuesta Correcta: **a**
-*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 226º, Inciso 1**. El patrimonio de la comuna se integra por bienes de dominio público municipal que comprenden calles, plazas, canales, puentes y paseos públicos destinados al usufructo común de los habitantes, a menos que correspondan a la jurisdicción de la Nación o de la Provincia. Las tierras fiscales baldías sin destino público formal integran el dominio privado del Estado municipal (Artículo 226º inc. 2). *(📋 LOM - Art. 226º)*
+*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), **Artículo 225º**. El patrimonio de la comuna se encuentra integrado por la totalidad de los bienes muebles, inmuebles, semovientes, créditos, títulos y acciones que sean adquiridos o financiados con recursos municipales, las donaciones y legados aceptados por el HCD, y todas aquellas parcelas de tierra en el ejido urbano que correspondan al dominio eminente del Estado o de dueño desconocido. *(📋 LOM - Art. 225º)*
 
 ### 3. Respuesta Correcta: **c**
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 243º**. El Tribunal de Cuentas posee la facultad de auditar y sancionar las irregularidades administrativas o contables de los agentes y funcionarios municipales mediante: 1. Llamado de atención; 2. Amonestación; 3. Multa (de hasta el tope legal); y 4. Cargo pecuniario (obligación de resarcir el daño económico al erario). *(📋 LOM - Art. 243º)*
