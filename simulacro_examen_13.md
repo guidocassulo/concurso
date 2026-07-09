@@ -168,7 +168,7 @@
 <summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary>
 
 ### 1. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), **Artículo 228º**. Las ordenanzas y disposiciones sancionadas por el Honorable Concejo Deliberante son obligatorias para todo el Partido a partir de su publicación en el Boletín Oficial, o bien desde la fecha de vigencia específica contemplada en su propio articulado. *(📋 LOM - Art. 228º)*
+*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), **Artículo 108º, incisos 2º y 18º**. El Intendente Municipal (Departamento Ejecutivo) tiene el deber de promulgar y dar a publicidad en el Boletín Oficial Municipal tanto las disposiciones del Concejo como las Ordenanzas, siendo este acto de publicación oficial indispensable para su vigencia y obligatoriedad en el territorio del Partido. *(📋 LOM - Art. 108º incs. 2º y 18º)*
 
 ### 2. Respuesta Correcta: **a**
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 226º, Inciso 1**. El patrimonio de la comuna se integra por bienes de dominio público municipal que comprenden calles, plazas, canales, puentes y paseos públicos destinados al usufructo común de los habitantes, a menos que correspondan a la jurisdicción de la Nación o de la Provincia. Las tierras fiscales baldías sin destino público formal integran el dominio privado del Estado municipal (Artículo 226º inc. 2). *(📋 LOM - Art. 226º)*
