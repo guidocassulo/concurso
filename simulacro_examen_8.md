@@ -89,9 +89,9 @@
 
 ---
 
-### 9. Conforme a las incompatibilidades y prohibiciones fijadas en el nomenclador de cargos informáticos municipal (Grupo Ocupacional Computación), el personal de sistemas de la comuna:
+### 9. Conforme a las prohibiciones e incompatibilidades aplicables a los agentes municipales bajo el Estatuto de Empleo Público Municipal (Ley Provincial 14656), el personal de sistemas de la comuna:
 *   a) Puede prestar servicios profesionales de consultoría técnica privada a empresas de software que contraten con la Municipalidad fuera de su horario laboral.
-*   b) Posee incompatibilidad absoluta para prestar servicios profesionales remunerados a empresas de software o tecnología que contraten con la Municipalidad.
+*   b) Tiene prohibido por ley ser dependiente, asociado, asesor o representante de empresas de software o tecnología que sean proveedoras o contratistas de la Municipalidad.
 *   c) Puede participar libremente en proyectos privados de software con proveedores locales siempre que no utilice equipamiento municipal.
 *   d) Ninguna de las anteriores.
 
@@ -177,7 +177,7 @@
 *   **Fundamento Normativo:** Decretos MGP **397/01 y 3080/01** (Reglamento del Premio por Presentismo). El premio presentismo (licencia con goce de haberes) no se pierde por inasistencias derivadas de la licencia anual ordinaria (vacaciones) ni por licencias extraordinarias por maternidad, paternidad, adopción, duelo familiar o accidente de trabajo. En cambio, cualquier inasistencia por enfermedad común (corto tratamiento), inasistencias injustificadas, o sanciones disciplinarias por impuntualidad, interrumpen y anulan el beneficio del cuatrimestre correspondiente. *(📋 Decretos MGP 397/01 y 3080/01)*
 
 ### 9. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto MGP **2.250/13 (Régimen de Computación)**. El personal informático municipal del grupo computación posee incompatibilidad absoluta para asesorar, representar, programar o prestar cualquier tipo de servicio profesional de carácter remunerado a empresas de software, consultoras de tecnología o proveedores de hardware que contraten con la Municipalidad de General Pueyrredón o mantengan litigios administrativos o judiciales con el fisco municipal. *(📋 Decreto MGP 2.250/13)*
+*   **Fundamento Normativo:** Ley Provincial 14.656, **Artículo 104º, incisos c), d) y k)** (Prohibiciones). El Estatuto de Empleo Público Municipal establece de forma taxativa la prohibición de ser directa o indirectamente proveedor o contratista habitual u ocasional de la administración municipal, así como de ser dependiente o asociado de ellos (inciso c). Asimismo, prohíbe prestar servicios remunerados, asociarse, dirigir o asesorar a personas físicas o jurídicas que gestionen o exploten privilegios o mantengan contratos con la municipalidad (incisos d y k). Esto imposibilita legalmente al personal informático municipal a prestar servicios privados para empresas proveedoras de tecnología de la comuna. *(📋 Ley Provincial 14.656 - Art. 104º)*
 
 ### 10. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículos 241º y 242º**. Todo agente municipal de nivel jerárquico que tenga a su cargo la custodia, administración o supervisión directa de bienes municipales (como servidores o redes) responderá patrimonial y pecuniariamente con su propio sueldo y patrimonio ante el Tribunal de Cuentas por el deterioro, robo o pérdida del equipamiento si el suceso fue producto de su negligencia grave, omisión de controles elementales o incumplimiento de sus deberes jerárquicos de supervisión. *(📋 LOM - Arts. 241º y 242º)*
