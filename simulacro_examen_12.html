@@ -407,9 +407,9 @@
 </li>
 <li><p><strong>UML y Diagramas de Transición de Estados (Kendall &amp; Kendall):</strong> Explique el propósito técnico de un Diagrama de Transición de Estados en el modelado orientado a objetos. Defina brevemente los conceptos de <strong>Estado</strong>, <strong>Evento</strong> y <strong>Acción</strong> y ejemplifique su aplicación práctica dibujando/describiendo el flujo de estados lógicos de un <em>Expediente Electrónico impositivo municipal</em> en la plataforma GDE (desde su creación hasta su archivo final).</p>
 </li>
-<li><p><strong>Pruebas de Calidad del Software (Kendall &amp; Kendall):</strong> Describa las diferencias conceptuales y propósitos de las <strong>Pruebas de Aceptación del Usuario (UAT)</strong> y las <strong>Pruebas de Regresión</strong>. Explique por qué el Jefe de Sistemas de Software debe exigir la ejecución de pruebas de regresión automáticas antes de autorizar el pasaje a producción de un parche correctivo del portal municipal de pagos.</p>
+<li><p><strong>Pruebas de Sistemas (Kendall &amp; Kendall):</strong> Describa las diferencias conceptuales y propósitos de la <strong>Prueba de sistemas completos con datos de prueba</strong> y la <strong>Prueba de sistemas completa con datos reales</strong>. Enumere además los cuatro (4) factores a considerar al probar sistemas con datos de prueba según la bibliografía oficial.</p>
 </li>
-<li><p><strong>Scrum y Gestión de Deuda Técnica (Scrum Manager):</strong> Defina el concepto de &quot;Deuda Técnica&quot; en el desarrollo de software y explique cómo se origina en los equipos ágiles. Indique qué rol desempeña la Definition of Done (DoD) para mitigar la acumulación de deuda técnica y qué medidas debe adoptar el Jefe de Sistemas si el Product Owner insiste sistemáticamente en priorizar nuevas funcionalidades sacrificando la calidad de refactorización del código.</p>
+<li><p><strong>Artefactos de Scrum (Scrum Manager):</strong> Defina los tres (3) artefactos oficiales del marco de trabajo estándar de Scrum (<strong>Pila del Producto</strong>, <strong>Pila del Sprint</strong> y <strong>El Incremento</strong>). Detalle quién es el responsable exclusivo de gestionar la Pila del Producto y cómo se constituye la Pila del Sprint.</p>
 </li>
 <li><p><strong>Caso Práctico de Velocidad Promedio y Lanzamiento (Scrum Manager):</strong>
 El equipo ágil de desarrollo de software del municipio ha registrado los siguientes datos reales de entrega de puntos de historia en sus últimos cuatro sprints de 2 semanas de duración:</p>
@@ -575,22 +575,27 @@ El equipo ágil de desarrollo de software del municipio ha registrado los siguie
 </ul>
 <p><em>(📖 Kendall &amp; Kendall, Cap. 10, pág. 310)</em></p>
 <hr>
-<h3>3. Pruebas de Calidad del Software (Kendall &amp; Kendall)</h3>
+<h3>3. Pruebas de Sistemas (Kendall &amp; Kendall)</h3>
+<p><em>(📋 Kendall &amp; Kendall, Cap. 16, págs. 514-515)</em></p>
 <ul>
-<li><strong>Pruebas de Aceptación del Usuario (UAT - User Acceptance Testing):</strong> Pruebas de caja negra realizadas por los usuarios reales del negocio (Secretaría de Hacienda y contribuyentes) para verificar que el sistema cumpla con las especificaciones del negocio y sea apto para la operación diaria real.</li>
-<li><strong>Pruebas de Regresión:</strong> Pruebas que consisten en volver a ejecutar un subconjunto de pruebas de software previamente aprobadas sobre el código modificado, con la finalidad de asegurar que los cambios, actualizaciones o parches de seguridad nuevos no hayan introducido errores colaterales (bugs) en funcionalidades existentes que operaban correctamente.</li>
-<li><strong>Por qué exigirlas de forma automática en parches impositivos:</strong> El Jefe de Sistemas debe exigirlas obligatoriamente porque cualquier cambio en el motor de cálculo tributario para corregir un bug de seguridad puede degradar el backend y alterar de forma colateral el cálculo de intereses de las tasas de otros módulos preexistentes, paralizando la recaudación municipal.</li>
+<li><strong>Prueba de sistemas completos con datos de prueba:</strong> De acuerdo al libro, es la etapa donde <em>&quot;los operadores y usuarios finales se involucran de manera activa en la prueba&quot;</em> utilizando <em>&quot;datos de prueba creados por el equipo de análisis de sistemas con el propósito específico de probar los objetivos del sistema&quot;</em> (Pág. 515).</li>
+<li><strong>Prueba de sistemas completa con datos reales:</strong> Consiste en <em>&quot;probar el nuevo sistema con varias corridas de datos reales, es decir, usando datos satisfactoriamente procesados por el sistema anterior&quot;</em> (Pág. 515), lo que <em>&quot;permite una comparación precisa de la salida del nuevo sistema con lo que sabemos que es una salida procesada en forma correcta&quot;</em> (Pág. 515).</li>
+<li><strong>Cuatro factores a considerar al probar sistemas con datos de prueba:</strong><ol>
+<li><em>&quot;Examinar si los operadores tienen la documentación adecuada en los manuales de procedimiento (impresos o en línea) para lograr una operación correcta y eficiente&quot;</em> (Pág. 515).</li>
+<li><em>&quot;Verificar si los manuales de procedimientos son lo bastante claros para comunicar la forma en que se deben preparar los datos para la entrada&quot;</em> (Pág. 515).</li>
+<li><em>&quot;Averiguar si los flujos de trabajo requeridos por el sistema nuevo o modificado realmente &#39;fluyen&#39;&quot;</em> (Pág. 515).</li>
+<li><em>&quot;Determinar si la salida es correcta y si los usuarios comprenden que esta salida es casi idéntica a la apariencia que tendrá en su forma final&quot;</em> (Pág. 515).</li>
+</ol>
+</li>
 </ul>
-<p><em>(📖 Kendall &amp; Kendall, Cap. 16, págs. 526-528)</em></p>
 <hr>
-<h3>4. Scrum y Gestión de Deuda Técnica (Scrum Manager)</h3>
+<h3>4. Artefactos de Scrum (Scrum Manager)</h3>
+<p><em>(📋 Scrum Manager v2.6, Primera Parte, págs. 21-25)</em></p>
 <ul>
-<li><strong>Deuda Técnica:</strong> Es el costo diferido y acumulado que asume un equipo de desarrollo de software al priorizar la entrega rápida de código simplificado o de baja calidad técnica por encima del diseño robusto, refactorización y pruebas automatizadas.</li>
-<li><strong>Cómo se origina:</strong> Presiones de tiempo, estimaciones incorrectas o requerimientos mal analizados que obligan a codificar &quot;atajos&quot; lógicos temporales que deberán ser reescritos posteriormente.</li>
-<li><strong>Rol del Definition of Done (DoD):</strong> El DoD actúa como un estándar de calidad mínimo y estricto (ej. &quot;Todo código debe tener cobertura del 100% de pruebas unitarias locales&quot;). Si el DoD se cumple de manera firme en cada sprint, se restringe la acumulación de código inestable reduciendo el crecimiento de la deuda técnica.</li>
-<li><strong>Medidas del Jefe de Sistemas ante la presión del Product Owner:</strong> El Jefe de Sistemas debe fundamentar de forma cuantitativa la existencia de la deuda técnica (ej. mostrando el incremento de incidencias y caídas del portal), y negociar que un porcentaje fijo de la capacidad del sprint (ej. un 20% del total de Puntos de Historia) se dedique de forma exclusiva a refactorización y tareas de calidad técnica de la infraestructura, bloqueando el pasaje a producción de nuevos releases si el DoD está comprometido.</li>
+<li><strong>Pila del Producto (Product Backlog):</strong> Es la lista que contiene <em>&quot;los requisitos del cliente&quot;</em> (Pág. 21). El <strong>Propietario del Producto (Product Owner)</strong> es el responsable de su gestión, priorización y evolución continua, definiendo qué elementos aportan mayor valor.</li>
+<li><strong>Pila del Sprint (Sprint Backlog):</strong> Es el documento o lista que <em>&quot;contiene las tareas asignadas a cada miembro del equipo y el estado de cada una&quot;</em> (Pág. 24) para la iteración actual. Se constituye durante la reunión de planificación del sprint por el equipo de desarrollo a partir de los elementos seleccionados de la Pila del Producto.</li>
+<li><strong>El Incremento:</strong> Es <em>&quot;una parte de producto operativa, que se puede usar, inspeccionar y evaluar&quot;</em> al final de cada iteración o sprint (Pág. 25). Representa la suma de todos los elementos del Product Backlog completados durante el Sprint que cumplen con los estándares de calidad establecidos.</li>
 </ul>
-<p><em>(📖 Scrum Manager v2.6, Parte I, págs. 21-25)</em></p>
 <hr>
 <h3>5. Caso Práctico de Velocidad Promedio y Lanzamiento (Scrum Manager)</h3>
 <h4><strong>a) Cálculo de la velocidad promedio y viabilidad del plazo de 6 semanas:</strong></h4>

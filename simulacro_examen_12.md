@@ -154,8 +154,8 @@
 
 1.  **Diccionario de Datos (Kendall & Kendall):** Defina qué es el Diccionario de Datos en el análisis de sistemas estructurado y explique su importancia. Describa qué componentes de metadatos deben definirse de forma obligatoria para documentar las estructuras de datos lógicas de un registro de `Contribuyente MGP` (que contenga CUIT, Razón Social y Domicilio Fiscal).
 2.  **UML y Diagramas de Transición de Estados (Kendall & Kendall):** Explique el propósito técnico de un Diagrama de Transición de Estados en el modelado orientado a objetos. Defina brevemente los conceptos de **Estado**, **Evento** y **Acción** y ejemplifique su aplicación práctica dibujando/describiendo el flujo de estados lógicos de un *Expediente Electrónico impositivo municipal* en la plataforma GDE (desde su creación hasta su archivo final).
-3.  **Pruebas de Calidad del Software (Kendall & Kendall):** Describa las diferencias conceptuales y propósitos de las **Pruebas de Aceptación del Usuario (UAT)** y las **Pruebas de Regresión**. Explique por qué el Jefe de Sistemas de Software debe exigir la ejecución de pruebas de regresión automáticas antes de autorizar el pasaje a producción de un parche correctivo del portal municipal de pagos.
-4.  **Scrum y Gestión de Deuda Técnica (Scrum Manager):** Defina el concepto de "Deuda Técnica" en el desarrollo de software y explique cómo se origina en los equipos ágiles. Indique qué rol desempeña la Definition of Done (DoD) para mitigar la acumulación de deuda técnica y qué medidas debe adoptar el Jefe de Sistemas si el Product Owner insiste sistemáticamente en priorizar nuevas funcionalidades sacrificando la calidad de refactorización del código.
+3.  **Pruebas de Sistemas (Kendall & Kendall):** Describa las diferencias conceptuales y propósitos de la **Prueba de sistemas completos con datos de prueba** y la **Prueba de sistemas completa con datos reales**. Enumere además los cuatro (4) factores a considerar al probar sistemas con datos de prueba según la bibliografía oficial.
+4.  **Artefactos de Scrum (Scrum Manager):** Defina los tres (3) artefactos oficiales del marco de trabajo estándar de Scrum (**Pila del Producto**, **Pila del Sprint** y **El Incremento**). Detalle quién es el responsable exclusivo de gestionar la Pila del Producto y cómo se constituye la Pila del Sprint.
 5.  **Caso Práctico de Velocidad Promedio y Lanzamiento (Scrum Manager):**
     El equipo ágil de desarrollo de software del municipio ha registrado los siguientes datos reales de entrega de puntos de historia en sus últimos cuatro sprints de 2 semanas de duración:
     *   Sprint 1: **30 Puntos de Historia (SP)** entregados.
@@ -325,22 +325,23 @@ Por ello,
 
 ---
 
-### 3. Pruebas de Calidad del Software (Kendall & Kendall)
-*   **Pruebas de Aceptación del Usuario (UAT - User Acceptance Testing):** Pruebas de caja negra realizadas por los usuarios reales del negocio (Secretaría de Hacienda y contribuyentes) para verificar que el sistema cumpla con las especificaciones del negocio y sea apto para la operación diaria real.
-*   **Pruebas de Regresión:** Pruebas que consisten en volver a ejecutar un subconjunto de pruebas de software previamente aprobadas sobre el código modificado, con la finalidad de asegurar que los cambios, actualizaciones o parches de seguridad nuevos no hayan introducido errores colaterales (bugs) en funcionalidades existentes que operaban correctamente.
-*   **Por qué exigirlas de forma automática en parches impositivos:** El Jefe de Sistemas debe exigirlas obligatoriamente porque cualquier cambio en el motor de cálculo tributario para corregir un bug de seguridad puede degradar el backend y alterar de forma colateral el cálculo de intereses de las tasas de otros módulos preexistentes, paralizando la recaudación municipal.
-
-*(📖 Kendall & Kendall, Cap. 16, págs. 526-528)*
+### 3. Pruebas de Sistemas (Kendall & Kendall)
+*(📋 Kendall & Kendall, Cap. 16, págs. 514-515)*
+*   **Prueba de sistemas completos con datos de prueba:** De acuerdo al libro, es la etapa donde *"los operadores y usuarios finales se involucran de manera activa en la prueba"* utilizando *"datos de prueba creados por el equipo de análisis de sistemas con el propósito específico de probar los objetivos del sistema"* (Pág. 515).
+*   **Prueba de sistemas completa con datos reales:** Consiste en *"probar el nuevo sistema con varias corridas de datos reales, es decir, usando datos satisfactoriamente procesados por el sistema anterior"* (Pág. 515), lo que *"permite una comparación precisa de la salida del nuevo sistema con lo que sabemos que es una salida procesada en forma correcta"* (Pág. 515).
+*   **Cuatro factores a considerar al probar sistemas con datos de prueba:**
+    1.  *"Examinar si los operadores tienen la documentación adecuada en los manuales de procedimiento (impresos o en línea) para lograr una operación correcta y eficiente"* (Pág. 515).
+    2.  *"Verificar si los manuales de procedimientos son lo bastante claros para comunicar la forma en que se deben preparar los datos para la entrada"* (Pág. 515).
+    3.  *"Averiguar si los flujos de trabajo requeridos por el sistema nuevo o modificado realmente 'fluyen'"* (Pág. 515).
+    4.  *"Determinar si la salida es correcta y si los usuarios comprenden que esta salida es casi idéntica a la apariencia que tendrá en su forma final"* (Pág. 515).
 
 ---
 
-### 4. Scrum y Gestión de Deuda Técnica (Scrum Manager)
-*   **Deuda Técnica:** Es el costo diferido y acumulado que asume un equipo de desarrollo de software al priorizar la entrega rápida de código simplificado o de baja calidad técnica por encima del diseño robusto, refactorización y pruebas automatizadas.
-*   **Cómo se origina:** Presiones de tiempo, estimaciones incorrectas o requerimientos mal analizados que obligan a codificar "atajos" lógicos temporales que deberán ser reescritos posteriormente.
-*   **Rol del Definition of Done (DoD):** El DoD actúa como un estándar de calidad mínimo y estricto (ej. "Todo código debe tener cobertura del 100% de pruebas unitarias locales"). Si el DoD se cumple de manera firme en cada sprint, se restringe la acumulación de código inestable reduciendo el crecimiento de la deuda técnica.
-*   **Medidas del Jefe de Sistemas ante la presión del Product Owner:** El Jefe de Sistemas debe fundamentar de forma cuantitativa la existencia de la deuda técnica (ej. mostrando el incremento de incidencias y caídas del portal), y negociar que un porcentaje fijo de la capacidad del sprint (ej. un 20% del total de Puntos de Historia) se dedique de forma exclusiva a refactorización y tareas de calidad técnica de la infraestructura, bloqueando el pasaje a producción de nuevos releases si el DoD está comprometido.
-
-*(📖 Scrum Manager v2.6, Parte I, págs. 21-25)*
+### 4. Artefactos de Scrum (Scrum Manager)
+*(📋 Scrum Manager v2.6, Primera Parte, págs. 21-25)*
+*   **Pila del Producto (Product Backlog):** Es la lista que contiene *"los requisitos del cliente"* (Pág. 21). El **Propietario del Producto (Product Owner)** es el responsable de su gestión, priorización y evolución continua, definiendo qué elementos aportan mayor valor.
+*   **Pila del Sprint (Sprint Backlog):** Es el documento o lista que *"contiene las tareas asignadas a cada miembro del equipo y el estado de cada una"* (Pág. 24) para la iteración actual. Se constituye durante la reunión de planificación del sprint por el equipo de desarrollo a partir de los elementos seleccionados de la Pila del Producto.
+*   **El Incremento:** Es *"una parte de producto operativa, que se puede usar, inspeccionar y evaluar"* al final de cada iteración o sprint (Pág. 25). Representa la suma de todos los elementos del Product Backlog completados durante el Sprint que cumplen con los estándares de calidad establecidos.
 
 ---
 
