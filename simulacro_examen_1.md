@@ -292,13 +292,13 @@ Al recibir una denuncia de violencia laboral o acoso por razones de género, el 
 <summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (Kendall & Kendall y Scrum)</b></summary>
 
 ### 1. SDLC tradicional vs Enfoque Ágil/XP (Kendall & Kendall)
-*   **Ciclo de Vida de Desarrollo de Sistemas (SDLC) tradicional:** Es un enfoque sistemático y secuencial en fases estructuradas: 1) Identificación de problemas, 2) Determinación de requerimientos humanos de información, 3) Análisis de necesidades del sistema, 4) Diseño del sistema recomendado, 5) Desarrollo y documentación del software, 6) Pruebas y mantenimiento, 7) Implantación y evaluación. Es altamente rígido: cada fase debe cerrarse antes de pasar a la siguiente (Cascada).
+*   **Ciclo de Vida de Desarrollo de Sistemas (SDLC) tradicional:** Es un enfoque estructurado y secuencial en fases específicas: 1) Identificación de problemas, 2) Determinación de requerimientos humanos de información, 3) Análisis de necesidades del sistema, 4) Diseño del sistema recomendado, 5) Desarrollo y documentación del software, 6) Pruebas y mantenimiento, 7) Implantación y evaluación. Se sigue una progresión lógica rígida donde se documenta y aprueba cada fase antes de avanzar a la siguiente.
 *   **Enfoque Ágil/XP (Programación Extrema):** Se basa en valores como comunicación, simplicidad, retroalimentación y valor. Las fases son iterativas y superpuestas. Los ciclos de desarrollo son muy cortos (entregas en semanas).
 *   **Diferencias Clave:**
     *   **Respuesta al cambio:** El SDLC tradicional asume que los requerimientos se congelan al inicio y cambiar el diseño más tarde es muy costoso. El enfoque Ágil/XP abraza el cambio y asume que los requerimientos evolucionan conforme avanza el proyecto.
     *   **Involucramiento del cliente:** En el SDLC el cliente participa activamente al principio (requerimientos) y al final (entrega). En Ágil/XP, el cliente (u "On-site customer") forma parte activa y cotidiana del equipo de desarrollo, proporcionando retroalimentación continua en cada iteración.
 
-*(📖 Kendall & Kendall, Cap. 1, págs. 8-11 — SDLC Cascada; Cap. 6, págs. 143-160 — Programación Extrema/XP)*
+*(📖 Kendall & Kendall, Cap. 1, págs. 10-12 — SDLC tradicional; Cap. 6, págs. 143-160 — Programación Extrema/XP)*
 
 ---
 
