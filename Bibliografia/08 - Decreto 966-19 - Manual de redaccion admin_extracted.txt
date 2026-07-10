@@ -1,0 +1,783 @@
+13844 8 1997
+0
+Mar del Plata, 25-04-2019
+VISTO, el Decreto Nº 3131/99, a través del cual
+se aprobó el Manual para la confección y redacción de la documentación administrativa, y
+CONSIDERANDO:
+Que esta norma concentra procedimientos para la
+redacción de documentación administrativa, la cual ayuda a unificar criterios, favoreciendo a
+una mayor eficacia y agilidad de las actuaciones administrativas.
+Que atento el tiempo transcurrido desde su puesta
+en vigencia (año 1999), se hace necesario actualizar diversos contenidos del citado Manual,
+como así también proceder a ampliar otros con el fin de ilustrar de forma más adecuada los
+procedimientos y normas descriptas.
+Que la importancia del presente texto – en el
+marco de la Ordenanza General 267/80 - radica en que constituye la base normativa principal
+sobre la cual los agentes municipales elaboran la documentación administrativa, siendo éste de
+aplicación obligatoria en todo el Municipio.
+Que la Subsecretaría Legal y Técnica emite
+opinión del proyecto de decreto a fojas 35, considerando oportuna la adecuación del mismo.
+Que atento lo expuesto es necesario sustituir el
+texto contenido en el Anexo I del Decreto nº 3131/99, denominado Manual para la Confección
+y Redacción Administrativa, y mantener la referencia legislativa dada por dicho decreto.
+Por todo ello, y en uso de las atribuciones que le
+son propias,
+EL INTENDENTE MUNICIPAL
+D E C R E T A
+ARTÍCULO 1º: Sustituyese el texto del Anexo del Decreto 3131/99 correspondiente al
+Manual Municipal para la Confección y Redacción de la Documentación Administrativa, el
+cual como Anexo I forma parte del presente.
+ARTICULO 2º: El presente Decreto será refrendado por el señor Secretario de Gobierno.
+ARTICULO 3º: Regístrese, dése al Boletín Municipal y, por la Dirección de Personal efectuar
+las comunicaciones pertinentes.
+VICENTE ARROYO
+REGISTRADO BAJO Nº 966
+
+-- 1 of 16 --
+
+ANEXO I
+MANUAL MUNICIPAL PARA LA CONFECCIÓN Y REDACCIÓN DE LA
+DOCUMENTACIÓN ADMINISTRATIVA
+CAPITULO I
+PRESCRIPCIONES GENERALES
+DEFINICIONES:
+1. A los fines de unificar el empleo de los términos se entenderá por:
+1) ACTUADO
+Conjunto de documentos compaginados cronológicamente, que informan sobre un mismo
+asunto o cuestión cuya resolución se procura, Ejemplo: cuerpo, anexo, alcance, registro de
+nota, etc.
+a) EXPEDIENTE:
+Conjunto de documentos o actuaciones administrativas, originados a solicitud de parte
+interesada o de oficio y ordenados cronológicamente, en el se acumulan informaciones,
+dictámenes y todo otro dato o antecedente relacionado con la cuestión tratada a efectos de
+lograr los elementos de juicio necesarios para arribar a conclusiones que darán sustento a la
+resolución definitiva.
+b) CUERPO:
+Actuado principal y sucesivos que se conforman cuando alcanzan un volumen excesivo
+(Ver foliatura). Todos los cuerpos conforman un mismo actuado por lo que- bajo ningún
+concepto-se podrá agregar fojas al anterior cuerpo una vez conformado el siguiente. Mesa
+General de Entradas proveerá de un sello mediante el cual cerrará las actuaciones. La
+división de cuerpos es al solo efecto de ordenarlos por su volumen, pero siempre
+conformarán el mismo actuado.
+c) ANEXO:
+Actuado formado con antecedentes que corresponden a un expediente, y que por su
+volumen, resulta conveniente manejarlo por separado, También se compagina en cuerpos.
+d) ALCANCE:
+Actuado formado con documentación relacionada con un expediente principal en trámite y
+el que por motivos de diversa índole conviene tramitarlo en forma independiente. También
+se puede compaginar en cuerpos.
+EJEMPLO:
+1) Para tramitar la reconstrucción de expedientes extraviados.
+2) Para tramitar la instrucción de sumario que se derive de su extravío
+3) Para tramitar un recurso relacionado con el expediente principal.
+El alcance sólo podrá formarse del cuerpo 1, de todas maneras para su mejor identificación
+convendrá indicar a que número de cuerpos se corresponde, en su caso.
+e) REGISTRO DE NOTAS:
+Actuado cuya iniciación es dispuesta por cada dependencia y se conforma para una más
+ágil tramitación cuando, a criterio de la oficina, no es menester la formación de un
+expediente.
+2) CIRCULAR:
+Ver Nota Circular
+3) DECRETO:
+Norma legal emanada del Intendente Municipal, del Honorable Concejo Deliberante como
+cuerpo o de su Presidente, en sus áreas de competencia y en ejercicio de sus funciones. Se
+registran con una nueva numeración cada año calendario.
+
+-- 2 of 16 --
+
+13844 8 1997
+0
+4) DICTAMEN:
+Actos de la Administración emitidos por órganos competentes que contienen opiniones e
+informes técnico-jurídicos preparatorios de la voluntad administrativa. No se requiere
+notificación.
+5) DISPOSICIÓN:
+Decisión sobre un determinado asunto que adopta un Subsecretario, Delegado, Director
+General o nivel jerárquico de Director, Jefe de Departamento o Jefe de División.
+6) DOCUMENTO:
+Nota, expediente, despacho, formulario, memorándum, acta, publicación, plano y cualquier
+otro escrito que informe o decida sobre un asunto.
+7) FOLIATURA:
+Numeración sucesiva que se asigna, por orden correlativo a las hojas o folios o croquis o
+planos que integran un actuado.
+8) INFORME:
+Opinión o dato fundado que se da sobre un asunto para hacer conocer las circunstancias
+que lo determinan o condiciones que se dirige de dependencia a dependencia o de
+subalterno a superior.
+9) MEMORANDO: (memorando o pl. memoranda)
+Comunicación escrita de uso interno que se cursa para solicitar informes, impartir
+instrucciones, comunicar decisiones y para que los elementos de juicio que en él se
+exponen constituyan una ayuda memoria para la solución de un asunto.
+10) MENSAJE:
+Nota de elevación de los proyectos de ordenanza o de informes al órgano que ejerce la
+función legislativa o deliberativa, en la cual el Intendente Municipal detalla los pormenores
+y fundamentos de la propuesta o la noticia, opinión o datos del informe.
+11) NOTA:
+Comunicación escrita referente a asuntos del servicio.
+a) NOTA CIRCULAR / MULTIPLE:
+Nota confeccionada en varios ejemplares de un mismo tenor y con un mismo contenido,
+que se dirige simultáneamente a distintos destinatarios.
+b) NOTA DE ESTILO:
+La cursada usualmente por las altas jerarquías del Estado (Nación, Provincias o
+Municipios) a reparticiones ajenas a la institución para trasmitirle solicitudes o diligenciar
+asuntos propios a la administración pública.
+c) NOTA EXTERNA:
+Lo que tiene destino fuera del límite de competencia de la autoridad que la emite
+consiguientemente, deberá realizarse en papel con membrete oficial y escudo municipal.
+d) NOTA INTERNA:
+La que tiene destino dentro del mismo organismo. Es sin membrete.
+12) ORDENANZA:
+Norma legal sancionada por el Departamento Deliberativo de acuerdo con las atribuciones de la
+Constitución Provincial y la Ley Orgánica de las Municipalidades.
+13) PARTE:
+Comunicación sintética para informar sobre un asunto determinado, puede omitir opinión o no.
+14) PROVIDENCIA:
+
+-- 3 of 16 --
+
+Escrito que impulsa trámites, da vista o traslados y solicita medida en los expedientes.
+15) PROYECTO:
+Proposición escrita y fundada, emanada de autoridad competente, cuyo contenido, en caso de
+ser aprobado, constituirá el texto completo de una ordenanza, reglamento, decreto, resolución
+o disposición.
+16) REGLAMENTO:
+Ordenamiento de reglas y preceptos, producido por autoridad competente, para la ejecución de
+un Decreto (a través de una Resolución) y la Ordenanza (por su lado, a través de un Decreto).
+17) RESOLUCION:
+Decisión sobre un asunto determinado que adopta un Secretario del Departamento Ejecutivo o
+Presidente de Ente Descentralizado, en virtud de sus atribuciones específicas o de las que le han
+sido delegadas mediante acto administrativo pertinente. Se registran con una numeración
+diferente cada año.
+Asimismo, el cuerpo deliberativo emite sus propias resoluciones en asunto de su competencia o
+expresando interés por alguna actividad o evento a tener lugar en la ciudad.
+CAPITULO II
+NORMAS GENERALES PARA LA CONFECCION Y REDACCION DE LA
+DOCUMENTACION ADMINISTRATIVA
+2. La documentación administrativa será escrita en procesador de textos, a máquina y/o
+similar, sólo excepcionalmente manuscrita, ajustándose su redacción y confección a las
+presentes normas generales.
+CARGO EN LAS NOTAS:
+3. En toda presentación deberá consignarse, indefectiblemente el cargo correspondiente, esto
+es, nombre de la dependencia que recibe, fecha de recepción, nombre y legajo del agente
+receptor y hora.
+REDACCIÓN:
+4. Se redactará en idioma castellano, con excepción de los vocablos extranjeros que carezcan
+de traducción, en términos concisos, claros e inequívocos. Las frases se construirán en forma
+que reflejen fielmente las ideas que se desean transmitir, para lo cual se evitarán las palabras
+superfluas, las figuras literarias, las formas rebuscadas de expresión y los párrafos
+excesivamente extensos.
+5. El lenguaje sencillo, en el que las se empleen con exacto significado, con frases cortas y de
+construcción correcta constituye la condición esencial que debe caracterizar a los escritos.
+6. También se tendrá presente que estos conceptos no lleguen al extremo de ser tan lacónicos
+que se dificulte el entendimiento de lo escrito.
+7. En la correspondencia oficial se suprimirá todo preámbulo o terminación que no se refiera al
+objeto de la comunicación, así como también al empleo de palabras de otro idioma que sean
+nombres propios o carezcan de traducción.
+8. Los términos empleados en la correspondencia será de respetuosa consideración tanto de
+subalterno al superior como de éste a aquel, evitándose las expresiones de mera cortesía.
+9. En los escritos es conveniente que se respete la premisa de ser claros, correctos, concisos,
+corteses y completos.
+
+-- 4 of 16 --
+
+13844 8 1997
+0
+TEXTO DESTACADO
+10. Cuando dentro de un texto (completo) se desee o sea necesario hacer resaltar el contenido
+de alguna frase o grupo de palabras, éstas serán subrayadas o indicadas a través de negrita o de
+otra clase de tipografía.
+FORMAS DE ESCRIBIR LA FECHA
+11. En el encabezamiento de toda nota se indicará la fecha, precediendo a ésta, el nombre de la
+ciudad “Mar del Plata”. La fecha se colocará el día en que el documento sea suscripto.
+En las providencias, se consignará al pie de las mismas la dependencia interviniente y la
+fecha.
+ADJUNTOS
+12. Cuando sea conveniente incorporar documentación a cualquier tipo de actuación, para dar
+claridad al asunto, se confeccionará la lista resumen de los mismos, bajo el título “Adjunto” la
+que se agregará antes del texto que así lo dispone o hace referencia.
+FORMA DE INDICAR LA HORA
+13. Cada vez que debe indicarse la hora, sólo se empleará la hora oficial que se halla en
+vigencia en la Nación, en el rango de 0 a 24 horas.
+FORMA DE INDICAR CANTIDADES
+14. Las cantidades de dinero y las de medida se escribirán en letras y dentro de paréntesis, se
+repetirán con números. Ejemplo: PESOS DOS MIL ($ 2.000,00).
+Si en un mismo texto existieran discrepancias entre cifras y letras se tendrá por válida la
+cantidad expresada en letras.
+FORMA DE INDICAR PESAS Y MEDIDAS
+15. Se escribirán siempre en el sistema métrico decimal, pudiendo agregarse entre paréntesis, si
+fuera necesario, su equivalencia en otros sistemas. Para abreviatura de medidas se empleará,
+tanto para el singular como para el plural la siguiente simbología.
+mm: milímetro
+cm: centímetro
+m: metro
+km: kilómetro
+m2: metro cuadrado
+m3: metro cúbico
+v: volumen
+kg: kilogramo
+t: tonelada
+l: litro
+seg: segundo (tiempo)
+min: minuto (tiempo)
+h: hora
+A: amperio
+V: voltio
+W: watio
+CV: Caballo Vapor
+HP: Caballo potencia
+E: espesor
+L: Longitud
+R: Radio
+D: Diámetro
+H: altura
+T: Temperatura
+ºC: Grado Centígrado
+NOMBRES DE PERSONAS
+
+-- 5 of 16 --
+
+16. Los nombres de personas, cualquiera sea su categoría, se escribirán completos con letras
+mayúsculas y siempre en un orden, es decir, primero los nombres y luego los apellidos, salvo
+cuando se citen en planillas, que se confeccionarán escribiendo primero los apellidos en
+estricto orden alfabético. Cuando se mencionan nombres de agentes municipales, se consignará
+a continuación del apellido, el número de legajo.
+NOMBRES DE INSTITUCIONES Y LUGARES, SITIOS WEB, CORREO
+ELECTRÓNICO Y REDES SOCIALES.
+17. Los nombres de instituciones, organismos, etc., lugares que se mencionan en el texto de un
+informe, nota, etc., se escribirán con mayúsculas.
+Las direcciones de los sitios Web en Internet se transcribirán precedidos de la palabra
+“https://”, por ejemplo: https://mardelplata.gov.ar, mientras que las direcciones de correo
+electrónico se indicarán a continuación de la palabra “e-mail:”.
+Redes sociales: las cuentas de usuarios serán precedidas del nombre identificatorio de las
+respectivas redes y a continuación el símbolo “@”, con su cuenta, por ejemplo: Twitter:
+@revistamunicipal, Facebook: @revistamunicipal, Instagram: @legislacion.
+ABREVIATURAS.
+18. Para las abreviaturas regirá lo establecido por la Academia Argentina de Letras y en su
+defecto, por el Diccionario de la Real Academia Española.
+TRANSCRIPCIONES.
+19. Las que figuren en el texto de la documentación aparecerán entre comillas y sin alterar en
+absoluto el texto original.
+USO DEL REVERSO DE LA HOJA.
+20. La documentación administrativa será escrita sobre ambos lados (anverso y reverso) de la
+hoja. Cada acto (providencia, pase, informe, dictamen, etc.) se consignará a continuación del
+precedente, salvo al dorso del texto original de ordenanzas o sobre fotocopias de cualquier
+documentación.
+Al continuar escribiendo en el reverso deberá dejarse en el izquierdo un margen de 10 mm
+como mínimo y de 40 mm en el derecho.
+MARGENES - SUGERENCIAS.
+21. La escritura se realizará dejando en la hoja un margen de cuarenta milímetros (40mm) a la
+izquierda, veinte milímetros (20mm) a la derecha; cuarenta milímetros (40mm) del borde
+superior de la hoja; veinticinco milímetros (25mm) del borde inferior de la hoja. En la hoja
+final será de sesenta milímetros (60 mm) como mínimo de fondo, margen suficiente para el
+refrendo o la firma del documento.
+SEPARACIÓN ENTRE LINEAS.
+22. En toda documentación administrativa la separación entre líneas de escritura será a un
+espacio, después de punto y aparte deberá dejarse dos interlíneas.
+CORRECCIONES, ENMIENDAS, ANOTACIONES MARGINALES, ETC.
+23. Cuando fuere imprescindible realizar correcciones o enmiendas, tales hechos deberán ser
+salvados al final del acto de que se trate (providencia, pase, informe, dictamen, etc. bajo firma
+del responsable del acto y de las correcciones o enmiendas. Por ejemplo: “Vale 2019”. Firma.
+24. La redacción y confección de un texto no podrá ser modificada por quien lo reciba,
+mediante subrayados, enmiendas o cualquier otra anotación.
+PASES E INFORMES.
+25. Los asuntos ingresados a las oficinas serán girados directamente a la dependencia que por
+sus funciones específicas le corresponde actuar, quien proyectará la respuesta que a aquella le
+corresponda expedir.
+
+-- 6 of 16 --
+
+13844 8 1997
+0
+26. Los informes deberán ser completos, abarcar todos los aspectos del asunto y
+fundamentarse en las disposiciones vigentes en el caso que correspondiera.
+27. Se evitará el uso de la formula “a sus efectos”, “a los fines que corresponda”, “que estime
+procedente”, etc. debiendo establecer con precisión cuál es el objeto del requerimiento,
+consulta o gestión que se impulsa a través de la Nota o Expediente respectivo.
+28. Cuando deba expresarse conformidad respecto de un informe, el funcionario se limitará a
+colocar la siguiente leyenda “Vº Bº” “Pase a…” De requerirse la toma de conocimiento se
+insertará la leyenda: “T.C.”, acompañada de fecha, firma y sello del funcionario.
+CLASIFICACION DE RESERVADO.
+29. Los Secretarios o titulares de Entes Descentralizados, en su caso, podrán mediante decisión
+fundada asignarle a la documentación administrativa carácter de reservado.
+CITAS Y MENCIONES.
+30. Las leyes, decretos, ordenanzas y demás normas se citarán la primera vez por su título
+completo a los fines de su mejor identificación, por ejemplo: Ley Nacional de Tránsito Nº
+24.449 En citas posteriores, dentro del mismo escrito se mencionará únicamente su
+identificación numérica (Ley Nº 24.449).
+DISTRIBUIDOR
+31. Toda vez que deba realizarse la distribución de directivas, órdenes, disposiciones, por
+ejemplo: Decretos, Ordenanzas, Memo) se hará según corresponda, de acuerdo a un
+“Distribuidor”, que contendrá el destino de cada una de las copias o ejemplares
+confeccionados, en las que se hará constar fecha, firma y legajo del agente receptor.
+IDENTIFICACION DE INMUEBLES
+32. Cuando se haga referencia a inmuebles se consignarán todos los datos que permitan su
+identificación: domicilio, designación catastral y, en su caso, linderos, medidas.
+FIRMA DE LA DOCUMENTACION
+33. Toda la documentación que implique órdenes, pases, pedidos, comunicaciones, elevaciones
+o consideración del superior, etc. Deberá ser firmada por los titulares de cada dependencia o
+área.
+34. En toda providencia o trabajos se deberá consignar las iniciales del o los responsables de su
+confección.
+35. En las copias de la documentación oficial, la firma original se reemplazará por el sello
+aclaratorio de firma, anteponiéndole la palabra “Firmado” o su abreviatura “Fdo.”. Ejemplo:
+testimonios, actos administrativos.
+36. La fidelidad de las copias será certificada por el Secretario, Director, Jefe de Departamento,
+Jefe de División, donde se encuentra radicado el documento. A fin de agilizar los trámites
+administrativos, cualquier agente podrá certificar las copias de documentación presentada por
+los interesados en su dependencia de origen.
+La certificación de actos administrativos la efectuará el titular de la División Ordenamiento de
+Actos Administrativos, el Departamento Legislación y Documentación y/o la Dirección de
+Administración del Departamento Ejecutivo.
+37. En las circulares y notas múltiples el promotor de las mismas firmará únicamente el
+original, que será archivado y se remitirán las copias debidamente autenticadas por la persona
+autorizada.
+
+-- 7 of 16 --
+
+38. Los documentos de más de una foja (convenios, actas, dictámenes), deberán ser inicialados
+en el margen inferior izquierdo de cada hoja.
+39. La firma será la habitual, escrita con tinta azul - negro.
+TRATAMIENTOS
+40. Los términos empleados tanto por el superior como el subalterno deben ser
+respetuosos. En las notas internas el destinatario será indicado exclusivamente por el cargo.
+41. Serán usuales en las notas oficiales, términos o fórmulas como las que siguen:
+ Del superior al subalterno: remito, pase, giro, comunico, se servirá.
+ Del subalterno al superior: elevo, llevo a conocimiento, informo, solicito, quiera tener a
+bien.
+ Entre cargos del mismo nivel se sumarán las fórmulas o términos indicados
+anteriormente.
+FORMULAS USUALES DE CORTESIA
+42. Para dirigirse a autoridades, funcionarios y eclesiásticos se emplearán las fórmulas de
+cortesía detalladas seguidamente:
+PERSONAS ENCABEZAMIENTO TEXTO ANTEFIRMAS
+Presidente de la Nación. SEÑOR PRESIDENTE DE LA
+NACIÓN:
+Señor
+Presidente
+Dios guarde al señor
+Presidente.
+Presidente de la Corte
+Suprema de Justicia.
+SEÑOR PRESIDENTE DE LA
+CORTE SUPREMA DE
+JUSTICIA:
+Señor
+Presidente.
+Dios guarde al señor
+Presidente.
+Presidente del H. Senado
+de la Nación.
+SEÑOR PRESIDENTE DEL H.
+SENADO DE LA NACIÓN:
+Señor
+Presidente.
+Dios guarde al señor
+Presidente.
+Presidente de la H. Cámara
+de Diputados.
+SEÑOR PRESIDENTE DE LA
+H. CÁMARA DE DIPUTADOS:
+Señor
+Presidente.
+Dios guarde al señor
+Presidente.
+Ministros, Secretarios y
+funcionarios con jerarquía
+equivalente.
+SEÑOR MINISTRO: SEÑOR
+SECRETARIO: (SEÑOR
+PRESIDENTE, etc.)
+Usted. Saludo a usted
+atentamente.
+Miembros del Poder
+Judicial.
+SEÑOR JUEZ DE LA CORTE
+SUPREMA DE JUSTICIA:
+Usted. Saludo a usted
+atentamente.
+Miembros del Poder
+Legislativo.
+SEÑOR SENADOR: o SEÑOR
+DIPUTADO:
+Usted. Saludo a usted
+atentamente.
+Procurador General de la
+Nación.
+SEÑOR PROCURADOR
+GENERAL DE LA NACIÓN:
+Usted. Saludo a usted
+atentamente.
+Demás jueces del Poder
+Judicial.
+SEÑOR JUEZ: Usted. Saludo a usted
+atentamente.
+Embajadores extranjeros. SEÑOR EMBAJADOR: V. E. Saludo a V. E.
+atentamente.
+
+-- 8 of 16 --
+
+13844 8 1997
+0
+Gobernadores y demás
+funcionarios provinciales.
+SEÑOR GOBERNADOR:
+(SEÑOR MINISTRO, etc.)
+Usted. Saludo a usted
+atentamente.
+Jefe de Gobierno de la
+Ciudad de Buenos Aires.
+SEÑOR JEFE DE GOBIERNO Usted. Saludo a usted
+atentamente.
+Subsecretarios y
+funcionarios con jerarquía
+equivalente.
+SEÑOR SUBSECRETARIO:
+(SEÑOR SUB-PROCURADOR
+DEL TESORO, etc.)
+Usted. Saludo a usted
+atentamente.
+ECLESIASTICOS
+Cardenales SU EMINENCIA
+Nuncios, Arzobispos,
+y Obispos SU EMINENCIA
+REVERENDISIMA
+43. A los restantes magistrados, dignatarios, miembros de las Fuerzas Armadas y
+funcionarios se los tratará por su cargo, anteponiéndole la palabra “Señor” y al nombre el titulo
+profesional o el grado, si lo tuviera, y la palabra “Don” o su abreviatura (D.).
+PRESENTACIONES
+44. Toda presentación escrita será redactada en procesador de texto a máquina y/o similar,
+solo excepcionalmente manuscrita, en idioma nacional y en forma legible, no obstante, esta
+norma no podrá ser motivo de rechazo de la misma.
+45. Los planos, croquis o láminas en general, deberán presentarse doblados en forma tal
+que la carátula ocupe la primera plana del legajo y con una pestaña en el margen izquierdo para
+poder ser agregado con comodidad al expediente de la Municipalidad.
+CARATULA DE LOS EXPEDIENTES
+46. Todo expediente deberá ser iniciado ante la Mesa General de Entradas. Para el supuesto
+que se inicien ante la Mesa de Entradas de los Entes Descentralizados, serán sólo para su
+tramitación interna. Cuando deban girarse a la Administración Central deberán nuevamente
+caratularse por la Mesa General de Entradas.
+47. La solicitud de pedido de formación de expediente deberá presentarse en la Mesa General
+de Entradas. Dicha providencia deberá detallar el iniciador y motivo y deberá estar firmada por
+el titular de la dependencia. Queda a consideración del mismo el anexo o no de documentación
+para ser incorporada al futuro expediente, debiendo en ese caso dejarlo indicado en la
+providencia.
+48. La carátula deberá contener número de expediente, año, fecha de iniciación, quien lo
+inicia y un extracto del motivo de la presentación, tales datos deberán ser conservados a través
+de las actuaciones sucesivas, cualesquiera sean los organismos que intervengan en su trámite
+(art. 40º Ordenanza General 267/80).
+49. Constituye exclusiva responsabilidad del jefe que solicita la formación del expediente, los
+datos que requiera incluir en la carátula del mismo.
+50. Los “Cuerpos”, “Alcances”, y “Anexos”, tendrán una carátula igual al expediente
+principal, con el agregado, después del número de identificación, del texto “CUERPO Nº…”,
+“ANEXO Nº…”, o “ALCANCE Nº…”, según corresponda.
+HOJA DE RUTA.
+51. Todo expediente deberá tener una “hoja de ruta”, que podrá estar impresa al dorso de la
+carátula, la cual deberá contener como mínimo los siguientes datos: fecha de entrada y de salida
+
+-- 9 of 16 --
+
+del expediente en la dependencia, dependencia a la cual ingresa y adonde se remite y firma del
+responsable con su número de legajo.
+FOLIATURA.
+52. Todas las actuaciones deberán foliarse por orden correlativo de incorporación incluso
+cuando, en el caso de expedientes, se integren con más de un cuerpo. Las copias de notas,
+informes o disposiciones que se agreguen junto a su original se foliarán también por orden
+correlativo.
+53. Los expedientes serán compaginados en cuerpos foliados que no excedan de doscientas
+fojas, salvo en los casos en que tal límite obligara a dividir documentos.
+54. Los cuerpos continuarán con la numeración correlativa y en cada uno de ellos se
+indicará su número de orden (segundo cuerpo, tercer cuerpo, etc.).
+55. En ningún caso se podrá alterar la foliatura de los expedientes, cuando deba ser
+corregida o anularse los sellos de unión de fojas, dichas operaciones deberán salvarse con
+media firma del responsable y sello aclaratorio de firma y fecha.
+AGREGADOS / ACUMULADOS
+56. Todos los agregados/acumulados de expedientes deberán hacerse- indefectiblemente-
+ante la Mesa General de Entradas.
+57. Cuando se incorporen al expediente piezas que constituyen una unidad se considerarán
+como una sola foja y se procederá como se indica en los párrafos siguientes.
+58. Cuando se agreguen expedientes, folletos o documentos que en su conjunto formen un
+cuadernillo, solamente se foliará la primera hoja.
+59. Cuando el expediente agregado se acumule al principal, se incorporará como una nueva
+foja, colocándose las siguientes constancias:
+En el expediente principal: “En la fecha se agrega a este actuado el expediente Nº……….. Díg
+… Letra ……. Año… que consta de ….... fojas utilizadas, como foja…..”.
+En el expediente acumulado: “En la fecha se agrega este actuado al expediente Nº………...
+Díg… Letra …… Año… como foja …… Consígnese próxima foja…….”.
+60. Una vez acumulados los actuados, la foja que se agregue a continuación del expediente
+incorporado llevara el número siguiente al de la última del expediente principal, es decir, la que
+se asignó al expediente agregado como foja.
+AGREGADOS NO ACUMULADOS
+61. Cuando se agregue un expediente a otro sin acumularlo, cada uno de ellos mantendrá
+su foliatura independiente, y se colocarán las siguientes constancias:
+En el expediente principal: “En la fecha se agrega al presente sin acumular el expediente
+Nº…………… que consta de …..…fojas útiles”.
+En el expediente agregado: “El presente, que consta de…..…fojas útiles, se agrega sin
+acumular al expediente Nº………….…”.
+DESGLOSE DE FOJAS
+62. Todos los desgloses se dispondrán por providencia expresa en el mismo expediente. No
+se anularán los medios sellos correspondientes a la unión de foja anterior.
+
+-- 10 of 16 --
+
+13844 8 1997
+0
+63. Cuando se realice el desglose de fojas que sean documentos separables, éstos serán
+sustituidos por una foja de “desglose” que será incorporada al final de las actuaciones y deberá
+constar: “La/s foja/s nº… ha/n sido desglosada/s en cumplimiento de lo dispuesto en la
+providencia de fojas…” con firma y sello del responsable de la oficina actuante, no pudiendo
+reemplazar los documentos originales por fotocopias.
+En el caso de considerar que deben resguardarse los contenidos desglosados, se agregará copia
+certificada de la documentación mediante providencia expresa a la altura de donde tramitan las
+actuaciones.
+DESGLOSE DE EXPEDIENTE
+64. Todo desglose de expedientes acumulados se deberá realizar – indefectiblemente – ante
+la Mesa General de Entradas.
+65. Cuando se desglose un expediente agregado, la constancia se dejará mediante la
+siguiente leyenda: “En la fecha ha sido desglosado el presente del expediente Nº…., año…, en
+cumplimiento de lo dispuesto a fojas...…del principal”.
+RECIBO DE EXPEDIENTE
+66. Los expedientes que pasen de una dependencia a otra serán enviados bajo recibo,
+utilizándose el formulario por triplicado que disponga la Mesa General de Entradas, cuyo
+“original” será entregado a esta última; el “duplicado” quedará en el libro de la dependencia
+remitente, sellado por aquella con el sello fechador, y el “triplicado” será entregado a la
+dependencia que recibe el actuado.
+67. El personal que remita o reciba documentación o expedientes, cualquiera fuere su
+jerarquía, deberá aclarar su firma con sello respectivo o número de legajo.
+CONTROL DE LAS ACTUACIONES
+68. En cada dependencia los encargados de la remisión o recepción de expedientes deberán
+controlar las actuaciones, cumplir las previsiones de la presente reglamentación y exigir su
+cumplimiento; la Mesa General de Entradas deberá rechazar toda actuación que no se ajuste a
+dichas previsiones.
+ARCHIVO DE EXPEDIENTES
+69. Agotado el procedimiento o producidas las caducidades que prevén los artículo 119º y
+127º de la Ordenanza General 267, previa notificación al interesado, si correspondiere, los
+funcionarios con jerarquía no inferior a Jefe de División podrán disponer el archivo de las
+actuaciones en los términos del Decreto Nº 797/92. Para solicitar expedientes archivados
+deberán los funcionarios revistar, como mínimo, la categoría de Jefe de Departamento.
+CLASIFICACION DE URGENTE
+70. Se dará carácter de “urgente” a la documentación que deba diligenciarse en un plazo
+prioritario y con antelación a cualquier otra que no tenga esa clasificación.
+TRAMITACION REGISTRO DE NOTAS
+71. Cada oficina iniciará sus registros de notas consignando en la carátula inicial los
+siguientes datos: número de registro de nota, fecha de su iniciación, quien la inicia y un
+extracto de su motivo. El número asignado se mantendrá durante toda su tramitación, debiendo
+dejar, durante la misma, constancia de sus pases y recepción.
+Cuando la entidad del registro de notas - a juicio del responsable de una dependencia - merezca
+la formación de un expediente, se remitirá a la Mesa General de Entradas como antecedente
+para su conformación, debiendo considerarse el registro de nota como una sola foja en carácter
+de antecedente, conforme Art. 58 del presente manual.
+
+-- 11 of 16 --
+
+CAPITULO III
+NORMAS GENERALES PARA LA CONFECCION Y REDACCION DE PROYECTOS
+DE ORDENANZA, DECRETO, RESOLUCION y DISPOSICION
+DECRETO, RESOLUCION Y DISPOSICION
+PARTES QUE COMPONEN EL TEXTO
+72. Los decretos, resoluciones y disposiciones se estructurarán en tres partes: Visto,
+Considerando y Dispositiva.
+73. En ningún caso se podrá prescindir de ninguna de las tres partes mencionadas en el
+ítem anterior.
+74. Visto: Se consignarán las normas o la documentación y/o demás antecedentes que
+sirvan de base o se vinculen con el proyecto de acto administrativo a elaborar.
+75. Considerando o expositiva: Contendrá una descripción de los principales aspectos,
+tanto fácticos como jurídicos, que permitan justificar debidamente la emisión del acto
+administrativo a dictar, conforme lo exigido por la Ordenanza General 267/80, art. 109 y cctes.
+Se subdividirá en tantos párrafos como aconsejen razones de claridad y comprensión. Su falta
+de inclusión en el texto del acto pondrá en juego su validez, por lo que deberá evitarse, bajo
+todo punto de vista, la omisión de tal recaudo.
+76. Calidad y formato de papel: El papel destinado para la impresión de Decretos y
+Resoluciones será de tamaño oficio, peso mínimo 80 grs., en folios suministrados por el
+Honorable Tribunal de Cuentas y debidamente rubricados por el citado organismo con la
+inscripción del membrete y escudo municipal en la margen superior izquerdo de la hoja.
+77. Escritura: Se confeccionará dentro de los márgenes preestablecidos por el Departamento
+Legislación y Documentación para decretos y resoluciones.
+78. Lugar y fecha: Se consignará arriba de la palabra “VISTO” el lugar y fecha: “Mar del
+Plata”,..... dejando espacio para la fecha completa que posteriormente se consignará el día que
+el proyecto sea suscripto.
+79. La palabra “VISTO” se escribirá en mayúscula y se consignará a la misma altura del
+comienzo del lugar y fecha y a tres (3) interlíneas de éste.
+80. La palabra “CONSIDERANDO” se escribirá con mayúscula y seguidamente del
+margen, a dos (2) interlíneas debajo de la última línea del “VISTO”. Cada considerando se
+comenzará a la misma altura del comienzo de la palabra VISTO, con la conjunción
+subordinativa “Que”, dejándose espacio entre cada uno de ellos de una interlínea. Al final de
+cada considerando se colocará el signo punto.
+Después del último considerando y a dos (2) interlíneas se consignará la frase “Por ello”,
+escrita también a la misma altura del inicio de cada considerando, consignándose seguidamente
+la fórmula indicada en el artículo siguiente.
+81. Dispositiva: Será precedida por la fórmula, según el caso corresponda de:
+“EN USO DE LAS FACULTADES QUE LE SON PROPIAS, EL INTENDENTE
+MUNICIPAL DECRETA”
+
+-- 12 of 16 --
+
+13844 8 1997
+0
+“EN USO DE LAS FACULTADES QUE LE SON PROPIAS, EL SECRETARIO
+DE...................... RESUELVE”
+“EN USO DE LAS FACULTADES DELEGADAS, EL SECRETARIO
+DE……….......................... RESUELVE”
+82. DECRETA o RESUELVE , se escribirá a una interlínea de la fórmula indicada
+precedentemente, centralizada dentro del espacio dispuesto para la escritura, con letras
+mayúsculas y a un espacio entre cada una de ellas.
+83. El articulado se consignará a dos interlíneas de la palabra DECRETA ó en su caso
+RESUELVE. Entre cada artículo se dejará dos interlíneas.
+84. La palabra “ARTÍCULO” al comienzo de cada uno, se escribirá con letras mayúsculas
+y sin subrayar. Cada artículo comenzará en la línea del margen. Los párrafos separados por
+punto y aparte, después del primero, se iniciarán dejando diez (10) espacios a partir del margen.
+85. Se subdividirá en tantos artículos como aconsejen razones de claridad y comprensión,
+evitándose tanto la inclusión de temas distintos en un mismo artículo, como la división de un
+asunto en dos (2) o más artículos cuando, por su naturaleza, sólo sea necesario dividirlo en
+párrafos o incisos.
+El articulado será estrictamente dispositivo y deberá bastarse a sí mismo para ilustrar
+concretamente acerca de la decisión que se adopte
+86. Los artículos se identificarán por numerales arábigos, ordinales hasta el noveno y
+cardinales en adelante seguidos de un punto y guión; podrán ser divididos en incisos, los cuales
+se identificarán por letras minúsculas, según el orden del abecedario, seguidas por el signo de
+cierre de paréntesis, si éstos superaran las letras del alfabeto o si las enunciaciones
+establecieran un orden sucesivo, se utilizará la numeración cardinal. Por excepción, en
+artículos necesariamente extensos, en cuyas subdivisiones se utilizaran letras y números
+arábigos, podrá recurrirse a cardinales romanos para identificar las subdivisiones más extensas
+y comprensivas.
+87. Los incisos a su vez podrán ser divididos en apartados, los cuales se individualizarán
+por números romanos. Estos mantendrán el margen del texto de los incisos y la escritura
+correspondiente seguirá la línea que fije la primera letra.
+ARTICULO DE REFRENDO
+88. En los Decretos deberá incluirse un artículo de refrendo en el cual constarán el o los
+Secretarios que deban firmar la norma, según la competencia.
+En los supuestos que un Secretario se encuentre reemplazando a otro, se consignará
+primeramente el cargo que revista en su calidad de titular y seguidamente la denominación de
+la Secretaría que tiene a su cargo temporalmente. El sello deberá contener las mismas
+características, ejemplo: “El señor Secretario de Gobierno A/C de Economía y Hacienda”.
+ARTÍCULO DE FORMA
+89. El último artículo del proyecto de Decreto establecerá:
+Regístrese, dése al Boletín Municipal, comuníquese.
+Para el caso del proyecto de Resolución:
+Registrar, dar al Boletín Municipal y comunicar.
+En este artículo deberá detallarse todos los trámites a cumplir previo al archivo, por ejemplo:
+“Intervenga, Notifíquese, etc.”
+
+-- 13 of 16 --
+
+90. Cuando se emplee más de una hoja en la confección de una norma, no debe incluirse en
+la última hoja el artículo de forma a solas, salvo que esté precedido de la última palabra del
+artículo anterior o que el mismo haya comenzado en la hoja precedente.
+LUGAR Y FECHA
+91. El lugar se colocará a dos interlíneas de la última línea del membrete y a partir del
+centro del espacio dispuesto para la escritura, dejando espacio para la fecha completa, que será
+colocada el día que la norma se suscriba.
+CITA DE EXPEDIENTES
+92. Cuando la norma sea dictada como consecuencia del trámite de un Expediente, se
+comenzará citándolo por su número, año y demás características que permitan su localización.
+ANEXOS
+93. Podrán utilizarse anexos para ampliar la información de la norma, los que serán parte
+integrante de la misma. Deberán ordenarse en forma correlativa.
+DEROGACIÓN O MODIFICACIÓN DE NORMAS
+94. La norma que se proyecte derogar o modificar se distinguirá con la cita expresa,
+evitando en lo posible la expresión “queda derogada cualquier disposición que se oponga a la
+presente” (Ver art. 122º Ordenanza General 267/80).
+MODIFICACIÓN DE ARTÍCULOS
+95. Se preferirá la sustitución de artículos vigentes en lugar de su modificación (Ver art.
+122º, primer párrafo, ORD. GRAL. 267/80).
+AUTORIZACIONES, RATIFICACIONES O APROBACIONES
+96. Cuando se proponga la autorización, ratificación o aprobación de actos administrativos,
+acuerdos, contratos, convenios, etc., el proyecto deberá estar redactado de manera que una
+fotocopia certificada del original de tales documentos forme parte integrante de la ordenanza
+respectiva. Además, en caso de que dichos convenios, tratados, etc., no hubieren sido escritos
+en español, se acompañará indefectiblemente la traducción a nuestro idioma.
+DEFINICIONES
+97. En leyes y ordenanzas se tratará de indicar, si la tuviese, su norma reglamentaria por
+organismo competente y sus modificatorias.
+ELABORACIÓN DE PROYECTOS
+98. La elaboración de proyectos se ajustará a lo dispuesto por los Art. 120º, 121º y 122º de
+la Ordenanza General 267.
+ELEVACIÓN DE PROYECTOS DE ORDENANZAS
+99. Se elevarán al Honorable Concejo Deliberante a través de la Dirección de
+Administración del Departamento Ejecutivo.
+100. Todo proyecto de ordenanza se elevará con su correspondiente mensaje de elevación.
+Ambos se confeccionarán en hoja de tamaño oficio con membrete oficial y escudo municipal.
+101. Los proyectos y sus mensajes se enviarán en dos originales visados por el o los
+Secretario/s del área respectiva o, en su caso, titulares de Entes Descentralizados y el Señor
+Intendente Municipal.
+102. Encabezamiento: en el centro de la hoja con el título, en letras mayúsculas de:
+“PROYECTO DE ORDENANZA”.
+103. Cada artículo se comenzará en la línea del margen y estará separado del siguiente por
+dos interlíneas.
+
+-- 14 of 16 --
+
+13844 8 1997
+0
+104. No tendrán artículo de refrendo y el último será de forma.
+105. Texto. Todo proyecto de ordenanza deberá observar:
+Las normas vigentes.
+Principios de coherencia, sistematización e integridad.
+En la construcción de la estructura formal del texto legal y de sus preceptos, se procurará
+ordenar metódicamente sus disposiciones a fin de conformar un cuerpo adecuadamente
+articulado y armónico.
+Las normas se irán correspondiendo lógicamente, a fin de dar una imagen coherente y armónica
+tanto de cada una de ellas como del funcionamiento del conjunto.
+La propuesta tenderá a reglar de manera íntegra la materia a efectos de abarcar la totalidad del
+tema de que se trata.
+106. El mensaje de elevación deberá ser suscripto por el o los Secretarios de las áreas
+competentes o, en su caso, titulares de Entes Descentralizados y el Señor Intendente Municipal.
+107. Encabezamiento: Comenzará con las palabras “AL HONORABLE CONCEJO
+DELIBERANTE”, las que se escribirán a partir del margen y a cuatro interlíneas del lugar y la
+fecha.
+108. La escritura será de los dos lados de la hoja con cinta de color negro fijo y se iniciará a
+dos interlíneas debajo del encabezamiento a partir del centro del espacio reservado para el
+texto.
+109. Terminación: Terminará con la frase: “Saludo a Vuestra Honorabilidad”.
+110. No serán utilizados otros sellos más que el foliador, el escalera y al aclaratorio de la
+firma.
+111. La redacción del texto será clara, concisa y en correcto español. El empleo de palabras
+en idiomas extranjeros sólo se admitirá cuando se trate de nombre propios o de vocablos
+intraducibles.
+112. No deberá contener enmiendas, raspaduras, interlineaciones, manchas, ni forma alguna
+de presentación desprolija.
+113. Texto: A fin de ayudar a interpretar el proyecto elevado, el texto del mensaje
+contendrá:
+Breve relación de sus propósitos.
+Razones determinantes.
+Medios propuestos y doctrina aplicada.
+Resultado que se espera alcanzar.
+Consideraciones políticas, si fuera el caso.
+114. La agregación del Proyecto de Ordenanza y su Mensaje corresponderá a la Dirección
+de Administración, quien le consignará su fecha de elevación al HCD.
+115. Devuelta la ordenanza sancionada por el Honorable Concejo Deliberante, ingresará al
+Departamento Ejecutivo a través de la Dirección de la Administración, quien consignará la
+fecha de su recepción a fin de instrumentar el trámite pertinente de promulgación, dándole
+intervención para su refrendo a la/s Secretaría/s o Entes competente/s, previo a la firma del
+Señor Intendente Municipal.
+CAPITULO IV
+REGISTRO DE ORDENANZAS, DECRETOS Y RESOLUCIONES
+116. Firmado el decreto de promulgación de la ordenanza, decreto o resolución, en su caso,
+se dará intervención al Departamento de Legislación y Documentación.
+
+-- 15 of 16 --
+
+117. El Departamento de Legislación y Documentación registrará la Ordenanza, Decreto o
+Resolución, consignándole fecha y número de registro. Cumplido, expedirá dos fotocopias, una
+autenticada que se incorporará al expediente y otra simple para la dependencia.
+CAPITULO V
+COMUNICACIONES, DECRETOS Y RESOLUCIONES DEL H.C.D.
+118. Las Comunicaciones sancionadas por el Honorable Concejo Deliberante, ingresarán al
+Departamento Ejecutivo a través de su Dirección de Administración, quien fechará su
+recepción y agregará los antecedentes pertinentes extraídos de las actuaciones remitidas por la
+Dirección de Administración del H.C.D., las que se ajustarán a las prescripciones de la
+Ordenanza Nº 9364 ú otra futura reglamentación que regule la materia.
+119. La respuesta a las Comunicaciones recibidas deberán ser remitidas en dos (2) copias a la
+Dirección de Administración, sin foliar ni adjuntar al expediente, y se elaborarán teniendo en
+cuenta las formalidades del Mensaje al HCD que acompaña a los proyectos de ordenanza.
+120. Las Resoluciones y Decretos sancionados por el Honorable Cuerpo ingresarán al
+Departamento Ejecutivo por la Dirección de Administración quien fechará su recepción y
+procederá a dar intervención y/o comunicar a las distintas dependencias competentes o con
+interés en el tema.
+121. Los Decretos dictados por la Presidencia del Honorable Concejo Deliberante que sean
+remitidos al Departamento Ejecutivo para su conocimiento e intervención serán remitidos a
+través de las Direcciones de Administración de ambos Departamentos.
+La Dirección de Administración (D.E.) procederá a dar intervención y/o comunicar a las
+distintas dependencias competentes o con interés en el tema.
+
+-- 16 of 16 --
+

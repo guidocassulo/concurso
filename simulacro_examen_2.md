@@ -236,9 +236,9 @@
 <details>
 <summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary>
 
-### 1. Plazos de Defensa y de Recursos (Ordenanza General 26348)
-1.  **Defensa (Descargo):** El agente cuenta con un plazo mínimo de **cinco (5) días hábiles** (tras ser notificado del traslado de la imputación) para presentar su descargo por escrito, ofrecer pruebas y justificaciones.
-2.  **Recurso de Revocatoria:** Contra el acto administrativo de sanción (Disposición del Jefe de Departamento), el agente puede interponer un **Recurso de Revocatoria** ante el mismo emisor en el plazo de **diez (10) días hábiles** contados a partir del día siguiente al de la notificación formal. Lleva implícito el recurso jerárquico en subsidio si la revocatoria fuera rechazada (Artículos 89º y 91º de la Ordenanza General 26348).
+### 1. Plazos de Defensa y de Recursos (Ley 14656)
+1.  **Defensa (Descargo):** El agente cuenta con un plazo mínimo de **cinco (5) días hábiles** (tras ser notificado del traslado de la imputación) para presentar su descargo por escrito, ofrecer pruebas y justificaciones (Ley 14.656).
+2.  **Recurso de Revocatoria:** Contra el acto administrativo de sanción (Disposición del Jefe de Departamento), el agente puede interponer un **Recurso de Revocatoria** ante el mismo emisor o el **Recurso Jerárquico** ante el superior. De acuerdo con el **Artículo 41º de la Ley Provincial 14.656 (Estatuto Municipal)**, el plazo perentorio para interponer cualquiera de los recursos es de **diez (10) días hábiles**, contados a partir del día siguiente al de la notificación formal del acto. Si se rechaza la revocatoria, el agente tiene entonces derecho a recurrir ante el superior por la vía del recurso jerárquico.
 
 ---
 

@@ -1,0 +1,1698 @@
+DISPOSICIONES DE
+ADMINISTRACION DE LOS
+RECURSOS FINANCIEROS
+Y REALES PARA LOS
+MUNICIPIOS PILOTO
+
+-- 1 of 60 --
+
+
+
+-- 2 of 60 --
+
+17
+CAPITULO I – DISPOSICIONES GENERALES
+ARTICULO 1.- El Intendente, o quien legalmente lo reemplace, tendrá a su cargo la
+Administración General de la Municipalidad y la ejecución de las ordenanzas. A tales
+efectos, y conforme a sus deberes y atribuciones, dispondrá lo necesario para el
+cumplimiento de la gestión que le compete.
+Por consiguiente, durante el desempeño de su mandato, el Intendente será administrador
+legal y único, no obstante cualquier forma indirecta de administrar que adopte.
+Exceptúase de lo expresado en el presente artículo al Concejo Deliberante, en cuanto
+concierne a la ejecución de su propio presupuesto, y a los organismos descentralizados,
+cuya administración estará a cargo de las autoridades designadas conforme a las normas
+vigentes.
+ARTICULO 2.- En todos los casos en que haya transmisión de la función ejecutiva,
+aunque fuese en forma transitoria, se labrará acta, a los fines de deslindar las
+responsabilidades que pudieren resultar.
+Si dicho requisito no se cumpliera en los términos expresados, se incurrirá en
+responsabilidad compartida por los funcionarios actuantes.
+Si el administrador saliente o el entrante no asistiera al acto de transmisión, el que esté
+presente hará labrar el acta con intervención del Contador y el Tesorero del Municipio.
+ARTICULO 3.- Cuando por cualquier causa se transfiera la Administración Municipal,
+deberá labrarse acta en la que conste:
+a) Fecha y lugar del acto;
+b) Nombre de las personas que necesariamente deben intervenir, a saber: Intendentes
+(saliente y entrante), Contador y Tesorero;
+c) Existencia de fondos y otros valores en Tesorería, Bancos e instituciones de crédito,
+con indicación de su afectación. Como anexo se agregarán actas de arqueo,
+certificaciones bancarias y estados conciliatorios de saldos;
+d) Estado de los rubros de los Recursos, indicando lo recaudado hasta la fecha del
+cambio de autoridades;
+
+-- 3 of 60 --
+
+18
+e) Estado del Presupuesto de Gastos a la misma fecha, consignando lo autorizado a
+gastar, los compromisos efectuados, los gastos devengados, los pagos, las deudas y
+el saldo disponible en cada inciso y partida;
+f) Monto detallado de las deudas municipales por todo concepto;
+g) Estado de las cuentas de valores al cobro en poder de los recaudadores; y
+h) Estado del Inventario General.
+Firmarán el acta las personas indicadas en el apartado b).
+ARTICULO 4.- En los casos de transmisión de funciones ejecutivas, los funcionarios que
+intervengan en el acto de traspaso no podrán ser remunerados en forma alguna por las
+tareas que tuvieren que desempeñar como consecuencia del mismo. Si alguno de ellos
+demandara asesoramiento de persona ajena a la Municipalidad, podrá requerir sus
+servicios atendiendo de su peculio los gastos y honorarios que el asesoramiento
+produzca.
+ARTICULO 5.- La administración de los recursos de los Municipios comprende al conjunto
+de sistemas, órganos, normas y procedimientos administrativos que hacen a la obtención
+y aplicación de los recursos financieros, así como la adquisición, administración y
+utilización de los recursos reales. La administración financiera estará integrada por los
+Sistemas de Presupuesto, Contabilidad, Tesorería, Crédito Público y Administración de
+Ingresos Públicos, en tanto que la administración de los recursos reales estará
+conformada por los Sistemas de Contrataciones, Administración de Bienes Físicos,
+Inversión Publica y Administración de Personal, los que deberán operar interrelacionados
+entre sí, cualquiera sea su distribución orgánica y dependencias jerárquicas en el
+Departamento Ejecutivo.
+Cada uno de los sistemas citados estará a cargo de un agente que actuará en calidad de
+órgano rector, asumiendo la responsabilidad del dictado y la observancia del cumplimiento
+de las normas y procedimientos establecidos en las presentes Disposiciones, así como de
+la aplicación de los formularios cuyos modelos e instructivos se adjuntan como anexos.
+ARTICULO 6.- La interrelación de los sistemas, enunciados en el artículo anterior,
+conformará un Macrosistema Integrado de Administración Municipal, con el fin de poner
+en funcionamiento y mantener, en cada municipio, procedimientos para registrar, generar
+
+-- 4 of 60 --
+
+19
+y proporcionar información adecuada, oportuna y confiable para la toma de decisiones y la
+evaluación de la gestión en cada una de las áreas operativas.
+El Departamento Ejecutivo será el órgano responsable de la coordinación de dicho
+Macrosistema y, como tal, supervisará la implantación y mantenimiento de los mismos.
+Dicha coordinación podrá ser ejercida por uno de los Secretarios de la gestión municipal.
+ARTICULO 7.- Facúltase a dicho Departamento Ejecutivo a interpretar y adecuar los
+formularios cuyos modelos e instructivos se adjuntan como anexos a las presentes
+Disposiciones. Las modificaciones que se propongan a los mismos deberán contar con la
+conformidad del Ministerio de Economía de la Provincia de Buenos Aires y ser
+comunicadas al Honorable Tribunal de Cuentas.
+ARTICULO 8.- Los organismos descentralizados deberán administrar sus recursos
+financieros y reales en función de las normas y procedimientos contenidos en las
+presentes disposiciones, así como de aquellas que dicten los órganos rectores, de modo
+de permitir la uniformidad e integralidad de la información referida a la gestión municipal.
+Los funcionarios titulares de los organismos descentralizados tendrán a su cargo la
+responsabilidad de la coordinación de los sistemas señalados en el artículo 5 de estas
+disposiciones, así como de su implantación y mantenimiento.
+
+-- 5 of 60 --
+
+
+
+-- 6 of 60 --
+
+21
+CAPITULO II – EL SISTEMA DE PRESUPUESTO
+ARTICULO 9.- El Sistema de Presupuesto está compuesto por el conjunto de principios,
+técnicas, métodos y procedimientos utilizados en las etapas de formulación, aprobación,
+modificación, programación de la ejecución y evaluación de la ejecución presupuestaria.
+ARTICULO 10.- El Presupuesto anual de los municipios comprenderá, para cada
+ejercicio, la totalidad de los recursos y gastos de carácter ordinario, extraordinario,
+afectados y especiales de todas las instituciones centralizadas y descentralizadas, así
+como del Departamento Deliberativo.
+Los recursos y los gastos figurarán por sus montos íntegros, sin compensaciones entre sí.
+Las denominaciones de los diferentes rubros de recursos deberán estar suficientemente
+especificadas como para identificar las fuentes de financiamiento.
+ARTICULO 11.- Los gastos se estructurarán de acuerdo a la técnica de presupuesto por
+programas, a los fines de demostrar el cumplimiento de los planes de acción, la
+producción de bienes y servicios para satisfacer las necesidades de la comunidad y los
+organismos responsables de llevar a cabo la misma.
+ARTICULO 12.- En la formulación del proyecto de Ordenanza de Presupuesto deberán
+definirse los siguientes aspectos:
+a) Las políticas presupuestarias de las jurisdicciones y entidades;
+b) La programación de los recursos y el Presupuesto analítico de los gastos de las
+jurisdicciones y entidades;
+c) La estructura programática;
+d) La descripción de los programas;
+e) La formulación de las metas en términos físicos;
+f) La programación física y financiera de los proyectos de inversión, sus obras y
+actividades;
+g) La asignación de los insumos (recursos humanos y materiales) a nivel de cada
+actividad u obra; y
+h) La programación de los servicios de la deuda;
+
+-- 7 of 60 --
+
+22
+Tales aspectos deberán abordarse en función de los formularios cuyos modelos e
+instructivos se adjuntan, como Anexos 1 al 11, al presente artículo.
+ARTICULO 13.- El proyecto de Ordenanza de Presupuesto deberá expresarse de
+acuerdo a las siguientes clasificaciones presupuestarias:
+a) Recursos: se presentarán institucionalmente, por rubros, por procedencia y por la
+naturaleza económica de los mismos;
+b) Gastos: se presentarán institucionalmente, por categorías programáticas, por objeto
+hasta el nivel de partida principal, por finalidades y funciones, por fuente de financiamiento
+y por la naturaleza económica de los mismos.
+Los catálogos, metodologías y descripciones de las clasificaciones enumeradas en los
+apartados precedentes se adjuntan, como Anexos 12 a 22, al presente artículo.
+ARTICULO 14.- Con anterioridad al 31 de octubre de cada año, el Departamento
+Ejecutivo remitirá al Concejo Deliberante el proyecto de Ordenanza de Presupuesto anual
+a regir desde el 1 de enero del año siguiente. En dicho proyecto no deberán incorporarse
+normas desvinculadas con la naturaleza del Presupuesto.
+ARTICULO 15.- En virtud de lo determinado en el artículo 14 de las presentes
+Disposiciones, el Departamento Deliberativo y los Organismos Descentralizados enviarán
+al Departamento Ejecutivo, antes del 1 de octubre de cada año, un anteproyecto de sus
+respectivos presupuestos, los que deberán sujetarse a las políticas definidas por el
+Intendente para el ejercicio que se presupuesta. En el caso de los organismos
+descentralizados, el Departamento Ejecutivo, sin perjuicio de sus facultades, tendrá en
+cuenta dichos anteproyectos al momento de formular el Presupuesto General del
+Municipio.
+Si al 1 de octubre de cada año el Departamento Ejecutivo no hubiese recibido los
+anteproyectos citados en el presente artículo, quedará facultado para elaborar los mismos
+de oficio.
+ARTICULO 16.- El cálculo de recursos a incluir en el proyecto de Ordenanza de
+
+-- 8 of 60 --
+
+23
+Presupuesto considerará todos los rubros que se estima ingresarán durante el ejercicio
+que se presupuesta, representen o no entradas de dinero en efectivo al Tesoro, así como
+los excedentes de ejercicios anteriores que se estimen existentes a la fecha de cierre del
+ejercicio anterior al que se presupuesta.
+La remisión del proyecto de Ordenanza de Presupuesto al Departamento Deliberativo,
+deberá acompañarse de una relación de los objetivos propuestos en materia de recursos,
+una explicación de la metodología aplicada para la estimación de los mismos, así como
+de toda otra información que se considere conveniente para brindar mayor claridad al
+proyecto.
+En la previsión de los gastos a incluir en dicho proyecto, deberán considerarse como
+gastos a todos aquellos que se prevé devengar en el período, se traduzcan o no en
+salidas de dinero en efectivo del Tesoro.
+ARTICULO 17.- La exigencia de equilibrio fiscal a que se refiere el artículo 31 de la Ley
+Orgánica de la Municipalidades debe considerarse referida al total consolidado del
+Presupuesto del Municipio, el cual incluye a los organismos descentralizados y excluye a
+las cuentas especiales, cuentas de terceros y las entidades bancarias municipales.
+Para la determinación del equilibrio aludido en dicho artículo 31, en la etapa de
+formulación del Presupuesto, deberá considerarse en los rubros de ingresos a aquellos de
+índole corriente y de capital, así como los provenientes del endeudamiento autorizado por
+ordenanza definitiva. En los gastos, deberán incluirse los de carácter corriente, de capital,
+así como los servicios de la deuda pública en concepto de amortización
+ARTICULO 18.- No se podrá destinar el producto de ningún rubro de ingresos para
+atender específicamente el pago de determinados gastos, con excepción de:
+a) Los provenientes de operaciones de crédito público;
+b) Los provenientes de donaciones, herencias o legados a favor del estado municipal; y
+c) Los que por ordenanzas y/o leyes especiales tengan afectación específica.
+ARTICULO 19.- Al momento de presentar sus anteproyectos de presupuesto, todos los
+organismos centralizados o descentralizados del municipio que requieran la contratación
+de obras y/o la adquisición de bienes y servicios, cuyo devengamiento se opere en más
+de un ejercicio financiero, deberán remitir al Departamento Ejecutivo la información
+
+-- 9 of 60 --
+
+24
+referida al monto total del gasto, su incidencia en cada ejercicio y el de su ejecución física.
+El Departamento Ejecutivo evaluará los requerimientos que reúnan tales condiciones y, en
+caso afirmativo, incorporará los créditos pertinentes con la información complementaria
+correspondiente a cada caso.
+La aprobación de los presupuestos con dicha información por parte del Concejo
+Deliberante, implica la autorización para realizar hasta el monto total del gasto, conforme
+a las normas de contratación vigentes, y a su automática inclusión en los presupuestos
+futuros que correspondan.
+Quedan exceptuados de este tratamiento los gastos en personal, o asimilables a ellos, y
+los servicios públicos, tales como agua, gas, luz y medios de comunicación.
+ARTICULO 20.- Si al iniciarse el nuevo ejercicio no estuviese aprobado el nuevo
+Presupuesto, el Departamento Ejecutivo pondrá en vigencia el del año anterior con las
+modificaciones introducidas en el mismo durante su ejecución e incorporando los
+siguientes ajustes:
+1) Para los recursos:
+a) Eliminará los rubros que no puedan ser recaudados nuevamente;
+b) Suprimirá los ingresos provenientes de operaciones de crédito público autorizadas, en
+la cuantía en que fueron utilizadas;
+c) Excluirá los excedentes de ejercicios anteriores correspondientes al ejercicio financiero
+anterior, en caso de que en el Presupuesto que se está ejecutando se hubiese previsto
+su utilización;
+d) Incorporará en los rubros de recursos las nuevas definiciones de política con relación a
+los ingresos, tales como la creación de obligaciones fiscales o cambios en las
+alícuotas de las mismas u otras modificaciones que se estima afectarán la recaudación
+de los ingresos públicos en el ejercicio que se presupuesta. Estos ajustes deberán
+estar fundamentados por la Oficina de Ingresos Públicos; e
+e) Incluirá los recursos provenientes de las operaciones de crédito público autorizadas
+por ordenanza definitiva, cuya percepción se ha previsto en el proyecto que ocurrirá en
+el ejercicio.
+
+-- 10 of 60 --
+
+25
+2) Para los gastos:
+a) Eliminará los créditos presupuestarios que no deban repetirse por haberse cumplido
+los fines para los que fueron previstos;
+b) Incluirá los créditos presupuestarios para el pago de los servicios de la deuda que se
+deban realizar en virtud del endeudamiento asumido;
+c) Incluirá los créditos presupuestarios necesarios para asegurar la continuidad de las
+obras autorizadas y prestación de servicios de interés público; y
+d) Adoptará los objetivos y cuantificaciones en unidades físicas de los bienes y servicios
+a producir por cada organismo, a los recursos y créditos presupuestarios que resulten
+de los ajustes anteriores.
+ARTICULO 21.- Conforme a lo establecido por el artículo 31 de la Ley Orgánica de las
+Municipalidades, el Departamento Ejecutivo deberá adecuar la programación de la
+ejecución física y financiera de los Presupuestos, tanto de sus dependencias
+centralizadas como descentralizadas, en función de la disponibilidad prevista en la
+recaudación de los recursos. A tal fin, deberá considerarse que el total de los
+compromisos autorizados para el ejercicio no deberá ser superior al total de los ingresos
+que se programen recaudar para igual período, incluyendo dentro de estos últimos a
+aquellos que provengan de los empréstitos autorizados mediante ordenanza definitiva de
+contratación, en los términos que establece el artículo 193, inciso 3, de la Constitución de
+la Provincia de Buenos Aires.
+ARTICULO 22.- A los efectos de garantizar una correcta ejecución de los presupuestos y
+de compatibilizar los resultados esperados con los recursos disponibles, en los términos
+que establece el artículo 31 de la Ley Orgánica de las Municipalidades y el artículo 17 de
+las presentes Disposiciones, todos los organismos municipales, centralizados y
+descentralizados, deberán programar, para cada ejercicio, la ejecución física y financiera
+de los presupuestos.
+Los formularios a completar por las jurisdicciones y entidades en la etapa de
+programación física y financiera de los presupuestos, cuyos modelos e instructivos se
+adjuntan, como Anexos 23 a 27, al presente artículo, serán consolidados por la Oficina de
+Presupuesto.
+
+-- 11 of 60 --
+
+26
+ARTICULO 23.- Toda ordenanza que autorice gastos no previstos en el Presupuesto
+deberá especificar las fuentes de los recursos a utilizar para su financiamiento.
+ARTICULO 24.- Las creaciones, ampliaciones o modificaciones de crédito en el
+Presupuesto de gastos sancionado deberán ser promovidas por el Departamento
+Ejecutivo y contar con la aprobación del Concejo Deliberante. Las excepciones a esta
+disposición son las que se mencionan en el artículo 119 de la Ley Orgánica de las
+Municipalidades.
+Las modificaciones al Presupuesto deberán ser presentadas en primer lugar ante la
+Oficina Municipal de Presupuesto, mediante la remisión del acto administrativo que
+corresponda, acompañado de la respectiva justificación y de acuerdo a las normas e
+instrucciones que dicha Oficina establezca.
+En todos los casos las solicitudes que se cursen al Concejo Deliberante deberán contar
+con la intervención previa de la Contaduría a los efectos de la elaboración del informe que
+exige el inciso 4° del artículo 187 de la mencionada Ley. Dicha intervención deberá
+realizarse también cuando sea el Concejo Deliberante el que requiera crédito
+suplementario.
+ARTICULO 25.- El Departamento Ejecutivo, conjuntamente con la solicitud de
+modificación presupuestaria, enviará al Concejo Deliberante el estado de ejecución del
+Presupuesto, las economías realizadas y/o excedentes de recaudación si los hubiere.
+Dicha información también deberá ser remitida en caso de solicitarse al Concejo
+Deliberante la compensación de excesos autorizada por el artículo 67 de la Ley Orgánica
+de las Municipalidades.
+ARTICULO 26.- El Departamento Ejecutivo podrá solicitar al Concejo Deliberante crédito
+suplementario recurriendo a la utilización de los recursos que considera el artículo 120º de
+la Ley Orgánica de las Municipalidades, a saber:
+a) Superávit de ejercicios anteriores, existente en el crédito de la cuenta de resultado
+acumulado del ejercicio.
+
+-- 12 of 60 --
+
+27
+El método para la determinación del resultado es el siguiente: total de fondos en caja
+y bancos, que no correspondan a cuentas afectadas, especiales y de terceros, menos
+el total de la deuda flotante.
+b) El excedente de la recaudación del total calculado para el ejercicio en concepto de
+recursos ordinarios no afectados.
+Para que el presente recurso se considere disponible es necesario que la recaudación
+efectiva supere el total calculado de recursos ordinarios. No podrán utilizarse los
+excedentes parciales obtenidos en uno o más recursos aisladamente, con excepción
+de aquellos que tengan afectación especial. En este caso, el Departamento Ejecutivo
+podrá reforzar por Decreto las correlativas partidas del Presupuesto.
+c) La suma que se calcula percibir en virtud del aumento o creación de obligaciones
+fiscales.
+Para la utilización de este arbitrio se estimará en forma fehaciente y mesurada el
+producto probable de las nuevas alícuotas, teniendo en cuenta la información que al
+respecto, y con los debidos fundamentos, proporcionen las respectivas oficinas
+técnicas.
+d) Las mayores participaciones de la Provincia o de la Nación comunicadas y no
+consideradas en el cálculo de recursos vigentes, y que correspondan al ejercicio.
+Podrá aumentarse el cálculo de recursos y presupuesto de gastos en la suma que se
+determine por diferencia entre la mayor participación comunicada al Municipio y la que
+éste hubiera considerado en el Presupuesto vigente. Para hacer uso de este recurso
+debe mediar comunicación oficial escrita por organismo competente.
+ARTICULO 27.- Para desafectar saldos disponibles en cuentas especiales y fondos
+afectados, habiéndose cumplido el objetivo impuesto en la ordenanza de creación, se
+deberá indicar el nuevo destino o su incorporación al Tesoro Municipal mediante
+ordenanza que dicte el Concejo Deliberante. Si los recursos no fuesen de origen
+municipal, deberá gestionarse la autorización pertinente para disponer su uso.
+
+-- 13 of 60 --
+
+28
+ARTICULO 28.- La Oficina Municipal de Presupuesto evaluará la ejecución de los
+presupuestos de la Administración Municipal tanto en forma periódica, durante el ejercicio,
+como al cierre del mismo. Para ello, los organismos centralizados y descentralizados del
+Municipio deberán registrar la información de la gestión presupuestaria en términos físicos
+y remitirla a dicha Oficina de acuerdo a los formularios cuyos modelos e instructivos se
+adjuntan, como Anexos 28 a 33, al presente artículo.
+ARTICULO 29.- Con base a la información a que se hace mención en el artículo 28 de las
+presentes disposiciones, más la que suministre el Sistema de Contabilidad y otras que se
+consideren pertinentes, la Oficina Municipal de Presupuesto realizará un análisis crítico de
+los resultados físicos y financieros obtenidos, determinará los efectos producidos por los
+mismos, cuantificará las variaciones operadas con respecto a lo programado, procurará
+determinar las causas de los desvíos y, por último, recomendará la instrumentación de las
+medidas correctivas que se consideren apropiadas.
+ARTICULO 30.- La Oficina Municipal de Presupuesto actuará en calidad de órgano rector
+del Sistema de Presupuesto con las siguientes competencias:
+a) Dictar las normas técnicas para la formulación, aprobación, modificación,
+programación de la ejecución y evaluación de los presupuestos de los organismos de
+la Administración Municipal;
+b) Analizar los anteproyectos de Presupuesto de los organismos que integran la
+Administración Municipal y proponer los ajustes que considere necesarios;
+c) Preparar el proyecto de Ordenanza de Presupuesto, fundamentar su contenido y
+elevarlo para su aprobación al Intendente;
+d) Elaborar, conjuntamente con la Tesorería y la Oficina de Ingresos Públicos, la
+programación de la ejecución del Presupuesto de la Administración Municipal;
+e) Coordinar el proceso de modificaciones en el Presupuesto sancionado y las
+reprogramaciones de la ejecución presupuestaria autorizada; y
+f) Evaluar la ejecución de los presupuestos.
+
+-- 14 of 60 --
+
+29
+CAPITULO III – EL SISTEMA DE CONTABILIDAD
+ARTICULO 31.- La contabilidad general, definida como un concepto integrador de la
+información del sistema de administración financiera, está compuesto por el conjunto de
+principios, órganos, normas y procedimientos técnicos, utilizados para recopilar, valuar,
+procesar y exponer la totalidad de los hechos económicos que afecten o puedan llegar a
+afectar el patrimonio de las administraciones municipales. Se consideran incluidos en este
+concepto, por lo tanto, todos los aspectos mencionados en el artículo 167 de la Ley
+Orgánica de las Municipalidades.
+ARTICULO 32.- La Contaduría General del Municipio será el órgano rector del Sistema de
+Contabilidad y, como tal, responsable del adecuado funcionamiento y mantenimiento de
+dicho sistema en todo el ámbito de la Administración Municipal.
+En tal sentido la Contaduría General del Municipio deberá:
+a) Llevar la contabilidad general de la administración centralizada del Municipio, realizando
+las operaciones de ajuste y cierre necesarios y producir anualmente los estados
+contables-financieros para su remisión al Concejo Deliberante y al Honorable Tribunal
+de Cuentas;
+b) Mantener actualizados los planes de cuenta de la contabilidad general de la
+Administración Municipal, debidamente armonizados con los clasificadores
+presupuestarios;
+c) Asegurar la confiabilidad de la información que las distintas unidades de registro
+ingresen a las bases de datos de la administración financiera, como así también los
+procedimientos contables utilizados por aquéllas, efectuando las recomendaciones e
+indicaciones que estime adecuadas para su funcionamiento;
+d) Dictar las normas y establecer los procedimientos apropiados para que la contabilidad
+gubernamental en el ámbito de la Administración Municipal cumpla con los fines
+establecidos en la normativa vigente, e impartir las instrucciones para su efectivo
+cumplimiento;
+e) Determinar las formalidades, características y metodologías de los registros que
+deberán habilitar las unidades de registro primario;
+f) Preparar anualmente la rendición de cuentas;
+
+-- 15 of 60 --
+
+30
+g) Coordinar un sistema de información que en forma permanente permita conocer la
+gestión presupuestaria, de caja y patrimonial, así como los resultados operativo,
+económico y financiero de la administración central, de cada organismo descentralizado
+y de la administración municipal en su conjunto;
+h) Consolidar la información necesaria para generar los estados de ejecución
+presupuestaria, el esquema de ahorro-inversión-financiamiento de la Administración
+Municipal y el balance general de la Administración Central que integre los patrimonios
+netos de los organismos descentralizados y empresas y sociedades del Estado
+Municipal; y
+i) Efectuar las tareas de control inherentes a su competencia.
+ARTICULO 33.- El Sistema de Contabilidad deberá producir como mínimo los siguientes
+estados contables financieros:
+a) Estado de ejecución presupuestaria de recursos y gastos de la Administración
+Municipal;
+b) Balance de sumas y saldos de la Administración central;
+c) Estado de recursos y gastos corrientes de la Administración Central;
+d) Estado de origen y aplicación de fondos de la Administración Central;
+e) Balance General de la Administración Central que integre los patrimonios netos de los
+organismos descentralizados;
+f) Cuenta Ahorro-Inversión-Financiamiento de la Administración Municipal.
+ARTICULO 34.- Los titulares de los Organismos Descentralizados, por su parte, harán
+llevar la contabilidad, de modo tal que se refleje claramente:
+a) El estado patrimonial a través de las evoluciones del activo y pasivo;
+b) El desenvolvimiento financiero en relación con el cálculo de recursos y presupuesto de
+gastos;
+c) Los resultados de los ejercicios mediante una adecuada exposición de la evolución de
+su patrimonio neto; y
+d) El estado de origen y aplicación de los fondos del ejercicio.
+
+-- 16 of 60 --
+
+31
+ARTICULO 35.- El Sistema de Contabilidad, tanto en los organismos centralizados como
+descentralizados, deberá ajustarse a los siguientes objetivos:
+a) Registrar sistemáticamente todas las transacciones que produzcan y afecten la
+situación económico-financiera de la Administración Municipal;
+b) Procesar y producir información financiera para la adopción de decisiones, por parte
+de los responsables de la gestión financiera pública, y para los terceros interesados en
+la misma;
+c) Presentar la información contable y la respectiva documentación de apoyo ordenadas,
+de forma tal que se faciliten las tareas de control y auditoría, sean éstas internas o
+externas; y
+d) Permitir que la información que se procese y produzca sobre la Administración
+Municipal, pueda integrarse al Sistema de Administración Financiera de la Provincia de
+Buenos Aires.
+ARTICULO 36.- Para cumplir los objetivos señalados en el artículo 35 de las presentes
+disposiciones, el Sistema de Contabilidad registrará las transacciones de acuerdo con los
+siguientes lineamientos básicos:
+a) Las operaciones se registrarán una sola vez en el sistema y, a partir de este registro
+único, se deberán obtener todas las salidas básicas de información financiera que
+produzca la Contaduría General del Municipio, en el ámbito de la Administración Central
+y de los Organismos Descentralizados; sean ellas de tipo presupuestario, patrimonial o
+económico.
+b) Los asientos de la contabilidad general de la Administración Central y de los organismos
+descentralizados, se registrarán en cuentas patrimoniales y de resultado, en el marco de
+la teoría contable y según los principios de contabilidad generalmente aceptados
+adaptados a las particulares del sector público municipal, utilizando el Catálogo Básico
+de Cuentas Contables, la Minuta Contable, el Libro Diario y el Libro Mayor que se
+adjuntan, con sus descripciones, como Anexos 34 a 37, al presente artículo.
+ARTICULO 37.- Teniendo como base los aspectos que debe abarcar el Sistema de
+Contabilidad, su integración tendrá las siguientes características generales:
+
+-- 17 of 60 --
+
+32
+a) Será común, único, uniforme y aplicable a todos los Municipios de la Provincia;
+b) Expondrá la ejecución presupuestaria, los movimientos y situación del Tesoro y las
+variaciones, composición y situación del patrimonio de las administraciones municipales;
+c) Estará orientado a determinar los costos de las operaciones públicas; y
+d) Estará basado en los principios y normas de contabilidad de aceptación general,
+aplicables en el Sector Público Municipal.
+ARTICULO 38.- La Contaduría General del Municipio estará a cargo de un Contador, que
+será asistido por un Subcontador, que suplantará al titular en los casos de ausencia
+transitoria. Regularmente las tareas del Subcontador serán asignadas por el Contador.
+ARTICULO 39.- El Contador General será personal y funcionalmente responsable por la
+exactitud y claridad de los estados contables que elabore la Contaduría General del
+Municipio en el marco de lo dispuesto por la Ley Orgánica de las Municipalidades y las
+presentes disposiciones.
+ARTICULO 40.- Los créditos del presupuesto de gastos, con los niveles de agregación que
+haya aprobado el Concejo Deliberante, constituyen el límite máximo de las autorizaciones
+disponibles para gastar.
+No se podrán adquirir compromisos para los cuales no queden saldos disponibles de
+créditos presupuestarios, ni disponer de los créditos para una finalidad distinta a la prevista.
+Se considera gastado un crédito, y por lo tanto ejecutado el presupuesto de dicho concepto,
+cuando queda afectado definitivamente al devengarse un gasto.
+Los registros de ejecución presupuestaria deberán dar cuenta de la liquidación o el momento
+en que se devenguen los recursos y su recaudación efectiva y, en materia de presupuesto
+de gastos, se registrarán la reserva preventiva o interna, el compromiso, el devengado y el
+pago.
+Las principales características de los momentos de las transacciones a registrarse, son las
+siguientes:
+a) En materia de recursos:
+
+-- 18 of 60 --
+
+33
+1) Los recursos se devengan cuando, por una relación jurídica, se establece un derecho de
+cobro a favor de la Administración Municipal y, simultáneamente, una obligación de
+pago por parte de personas físicas o jurídicas.
+2) La percepción o recaudación de los recursos se produce en el momento en que los
+fondos ingresan o se ponen a disposición de una oficina recaudadora, de un agente del
+Tesoro Municipal o de cualquier otro funcionario facultado para recibir los mismos.
+b) En materia de gastos:
+1) La reserva preventiva o interna implica la autorización para iniciar los trámites
+necesarios para la adquisición de bienes y/o servicios, o para iniciar la tramitación que
+correspondiere cumplir previo a la formalización de los compromisos.
+2) El compromiso implica:
+- el origen de una relación jurídica con terceros que dará lugar, en el futuro, a una
+eventual salida de fondos, sea para cancelar una deuda o para su inversión en un objeto
+determinado.
+- La aprobación, por parte de un funcionario competente, de la aplicación de recursos por
+conceptos e importe determinados, y de la tramitación administrativa cumplida.
+- La afectación preventiva del crédito presupuestario que corresponda, en razón de un
+concepto, y rebajando su importe del saldo disponible.
+- La identificación de la persona física o jurídica con la cual se establece la relación que
+da origen al compromiso, así como la especie y cantidad de los bienes o servicios a
+recibir o, en su caso, el carácter de los gastos sin contraprestación.
+3) El gasto devengado implica:
+- Una modificación cualitativa y cuantitativa en la composición del patrimonio de la
+Administración Municipal, originada por transacciones con incidencia económica y
+financiera.
+- El surgimiento de una obligación de pago por la recepción de conformidad de bienes o
+servicios oportunamente contratados, o bien por haberse cumplido los requisitos
+administrativos dispuestos para los casos de gastos sin contraprestación.
+
+-- 19 of 60 --
+
+34
+- La liquidación del gasto y la emisión de la respectiva orden de pago.
+- La afectación definitiva de los créditos presupuestarios correspondientes.
+4) El registro del pago se efectuará en la fecha en que se entregue el cheque, ya sea en
+forma directa o a través de orden de acreditación bancaria, o se materialice el pago
+por entrega de efectivo.
+Para la identificación de los distintas circunstancias que originan los momentos de registro
+del gasto deberán utilizarse las definiciones que se adjuntan, como Anexo 38, al presente
+artículo.
+ARTICULO 41.- Sin perjuicio de las atribuciones conferidas al Concejo Deliberante y al
+Tribunal de Cuentas, respectivamente, en los artículos 67 y 123 de la Ley Orgánica de las
+Municipalidades, el Departamento Ejecutivo deberá ejecutar el Presupuesto sin exceder el
+monto autorizado en las partidas de gasto, considerándose como excepción los casos
+previstos en el artículo 119 de dicha Ley. El incumplimiento de dicha obligación
+determinará las responsabilidades emergentes y podrá originar la aplicación de las
+sanciones previstas en la Ley Orgánica del Honorable Tribunal de Cuentas.
+ARTICULO 42.- El ejercicio financiero y patrimonial comenzará el 1 de enero y finalizará
+el 31 de diciembre de cada año. Al sólo efecto del ajuste de la contabilidad, durante el
+mes de enero inmediatamente posterior se podrá contabilizar el ingreso de las
+recaudaciones efectivamente realizadas hasta el 31 de diciembre y los devengamientos
+producidos con anterioridad a esa fecha.
+Después del 31 de diciembre de cada año los recursos que se recauden se considerarán
+parte del Presupuesto vigente al momento de su percepción, con independencia de la fecha
+que se hubiera originado el devengamiento de los mismos.
+Se entenderá por recaudaciones efectivamente realizadas a aquellas entradas de dinero o
+valores que al 31 de diciembre se hubieren producido en la Tesorería de la Municipalidad y
+organismos descentralizados, sus cajas de recaudación descentralizadas, agentes
+autorizados o instituciones financieras que tuvieren a su cargo la recaudación.
+Con posterioridad a dicha fecha no podrán asumirse compromisos ni devengarse gastos con
+cargo al ejercicio cerrado.
+
+-- 20 of 60 --
+
+35
+Los gastos comprometidos y no devengados al 31 de diciembre de cada año se afectarán al
+ejercicio siguiente, imputándolos a los créditos pertinentes disponibles para ese ejercicio,
+para lo que deberá mediar decreto del Intendente.
+Los gastos devengados y no pagados al 31 de diciembre de cada año se cancelarán en el
+transcurso del ejercicio siguiente con cargo a las disponibilidades de caja y banco existentes
+a la fecha señalada. Si tales disponibilidades no fueran suficientes como para cancelar los
+gastos devengados impagos a la fecha mencionada precedentemente, deberá dictarse
+decreto del Intendente en el cual deberán establecerse las economías que habrán de
+practicarse en las partidas aprobadas del nuevo Presupuesto a los efectos de generar los
+recursos correspondientes que permitan cancelar dichos impagos.
+La Contaduría General Municipal y los organismos descentralizados serán responsables de
+imputar a los créditos del nuevo Presupuesto los gastos comprometidos y no devengados al
+cierre del ejercicio anterior.
+ARTICULO 43.- El resultado presupuestario de un ejercicio se determinará, al cierre del
+mismo, por la diferencia entre los recursos corrientes y de capital percibidos y los gastos
+corrientes y de capital devengados durante su vigencia. Si dicho resultado es positivo, se
+afectará al pago de la deuda flotante existente, de conformidad con lo previsto por el
+artículo 174 de la Ley Orgánica de las Municipalidades, y si aún así se determina un
+nuevo excedente, el mismo podrá incorporarse al nuevo Presupuesto en ejecución para
+financiar la reapropiación de los gastos comprometidos y no devengados al cierre del
+anterior.
+ARTICULO 44.- El resultado ejecutado del ejercicio computable a los efectos de la
+exigencia emanada del artículo 31 de la Ley Orgánica de las Municipalidades, se obtendrá
+a partir del resultado presupuestario definido en el artículo 43 de las presentes
+disposiciones. Para ello, deberán adicionarse, a los recursos, los ingresos provenientes
+del endeudamiento autorizado por ordenanza definitiva, así como el saldo de caja y
+bancos existente al cierre del ejercicio anterior; en tanto que, en los gastos, deberán
+incorporarse los servicios de la deuda pública en concepto de amortización, así como la
+cancelación de los otros pasivos existentes al cierre del ejercicio anterior.
+ARTICULO 45.- La tramitación de la autorización y aprobación de gastos se
+instrumentarán de conformidad con los formularios cuyos modelos e instructivos se
+
+-- 21 of 60 --
+
+36
+adjuntan, como Anexos 39 a 44, al presente artículo.
+ARTICULO 46.- El Concejo Deliberante deberá suministrar la documentación e
+información necesaria que permita al Departamento Ejecutivo, la adecuada y oportuna
+registración de la ejecución presupuestaria.
+ARTICULO 47.- Las transacciones que se produzcan con motivo de la operatoria de las
+cuentas especiales se registrarán y expondrán, de acuerdo con los lineamientos
+establecidos en los clasificadores presupuestarios y el plan de cuentas contable, de modo
+que puedan ser individualizadas sin inconvenientes, aún cuando las mismas formaran
+parte de la contabilidad general, de conformidad con el criterio integrador previsto en el
+artículo 31 de las presentes disposiciones.
+Los saldos pasivos de tales cuentas deberán estar respaldados al cierre del ejercicio por
+existencias en caja, bancos u otras tenencias activas.
+ARTICULO 48.- En las cuentas de terceros se practicarán asientos de entrada y salida de
+las sumas que transitoriamente pasen por la Municipalidad constituida en agente de
+retención de aportes, depositaria de garantías y conceptos análogos. Sus saldos pasivos
+deberán ser siempre respaldados por existencias en caja, bancos u otras tenencias
+activas.
+Estas operaciones se registrarán y expondrán, de acuerdo con los lineamientos
+establecidos en el plan de cuentas contable, de modo que puedan ser individualizadas sin
+inconvenientes, aún cuando las mismas formaran parte de la contabilidad general de
+conformidad con el criterio integrador previsto en el artículo 31 de esta reglamentación.
+ARTICULO 49.- La Contaduría General del Municipio organizará y mantendrá en
+operación un sistema permanente de compensación de deudas de aquellos
+contribuyentes de la Municipalidad que a la vez sean acreedores de la misma por créditos
+impagos, resultantes de la venta de bienes o prestación de servicios. A los efectos
+presupuestarios y contables, estos recursos y gastos figurarán por separado y por sus
+montos íntegros, sin compensaciones entre sí.
+ARTICULO 50.- Toda entidad ajena a la Comuna que reciba de ésta sumas de dinero en
+concepto de aportes, subvenciones o subsidios, queda obligada a rendir cuentas de las
+
+-- 22 of 60 --
+
+37
+mismas. Las rendiciones se instrumentarán con documentos o, en su defecto, con
+balances donde conste el ingreso y la inversión o destino de los fondos recibidos. Dicha
+documentación, firmada por el presidente y el tesorero de la institución beneficiaria, será
+agregada a la orden de pago respectiva.
+ARTICULO 51.- La falta de rendición de cuentas constituye causa para privar a la entidad
+remisa del derecho a percibir nuevos beneficios. La Contaduría General observará, y no
+dará curso a disposiciones del Departamento Ejecutivo que ordenen nuevas entregas,
+mientras subsista la causal señalada. En caso de insistencia del Departamento Ejecutivo,
+éste será responsable.
+ARTICULO 52.- En todos los casos, el Departamento Ejecutivo estará obligado a exigir la
+presentación de la rendición de cuentas por cualquiera de los medios a su alcance y
+dentro del plazo que se fije a tal efecto. Vencido el mismo, quedará expedita la vía para
+demandar el cumplimiento de tal formalidad o, en su defecto, el reintegro de las sumas
+otorgadas a la institución con más los intereses que correspondan desde la fecha en que
+se efectivizó la transferencia, según la tasa vigente en el Banco de la Provincia de Buenos
+Aires para operaciones de crédito ordinario.
+ARTICULO 53.- Toda inversión indirecta de fondos municipales debe ser objeto de
+rendición de cuentas, la que se agregará a la respectiva orden de pago. Se considerará
+inversión indirecta la que la comuna realice con recursos propios por intermedio de
+comisiones especiales designadas para tal fin por autoridad competente (artículo 178,
+inciso 3 de la Ley Orgánica de las Municipalidades). Estas comisiones están obligadas al
+cumplimiento de los requisitos legales y reglamentarios que, en materia de compras y
+contrataciones, emanan de la Ley Orgánica de las Municipalidades y de las presentes
+disposiciones.
+ARTICULO 54.- El Departamento Ejecutivo no podrá reconocer deudas de ejercicios
+anteriores no registradas en la contabilidad municipal, sin previa comprobación – hecha
+en expediente especial – de la legitimidad del derecho invocado por el acreedor. Cumplido
+este paso, para abonar la deuda deberá requerir y obtener autorización del Concejo.
+En el precitado expediente se acumularán todas las constancias que posea la comuna
+(autoridades, funcionarios o empleados que dispusieron el gasto, fecha del compromiso,
+
+-- 23 of 60 --
+
+38
+etc.), y se le agregarán los pedidos de suministros, órdenes de compra y todo otro
+documento que permita fijar con exactitud la Administración que dio origen a la deuda;
+como, asimismo, la indudable recepción de los efectos adquiridos o la real prestación de
+los servicios cuyo pago se reclama. Además, se indicará la imputación que hubiera
+correspondido al gasto en el Presupuesto del año de origen.
+Cumplidos todos los requisitos precedentes, se dará vista a quien haya estado a cargo del
+Departamento Ejecutivo en la fecha de contratación del compromiso o, en su defecto, se
+documentará la imposibilidad de hacerlo. Cubierto estos recaudos, el Departamento
+Ejecutivo, solicitará del Concejo Deliberante autorización para registrar la deuda y
+efectuar el pago. Simultáneamente, se comunicará al Tribunal de Cuentas a los efectos
+que corresponda.
+ARTICULO 55.- El Departamento Ejecutivo deberá elevar al Tribunal de Cuentas, una vez
+sancionada la ordenanza preparatoria a que se refiere el artículo 47 de la Ley Orgánica de
+las Municipalidades (contratación de empréstitos), la siguiente información:
+a) Monto de lo recaudado durante el ejercicio anterior por cada rubro del cálculo de
+recursos;
+b) Importe de los recursos con afectación determinada que formen parte de aquella
+recaudación (tasas retributivas de servicios públicos, fondos para construcción de
+viviendas, caminos, coparticipación vial, etc.); y
+c) Monto de la deuda consolidada que la Comuna tenga ya contraído e importe de los
+servicios de la misma. En este último inciso se incluirá también la deuda consolidada
+que la Comuna hubiera contraído en virtud de la ejecución de ordenanzas
+sancionadas con arreglo al artículo 273 de la Ley Orgánica de las Municipalidades y el
+servicio anual de dicha deuda.
+ARTICULO 56.- La rendición de cuentas que deberá presentar anualmente el
+Departamento Ejecutivo al Concejo Deliberante y al Tribunal de Cuentas en los términos
+establecidos por los artículos 23 y 24 de la Ley Orgánica del Tribunal de Cuentas
+contendrá, además de lo señalado en dichos artículos, un informe que presente la gestión
+financiera consolidada de la Administración Municipal durante el ejercicio y muestre los
+respectivos resultados operativos, económicos y financieros.
+
+-- 24 of 60 --
+
+39
+La rendición de cuentas de los organismos descentralizados será presentada al
+Departamento Ejecutivo con una anticipación de 30 días a la fecha en que éste debe
+elevar al Concejo la rendición de cuentas anual.
+ARTICULO 57.- Corresponde al Concejo Deliberante: analizar, como mínimo, los estados
+demostrativos detallados por el art. 23 de la Ley Orgánica del Tribunal de Cuentas, que
+deberán ser remitidos por el Departamento Ejecutivo antes del 15 de abril de cada año, y
+pronunciarse sobre las cuentas antes del 15 de junio de ese año, conforme al art. 192
+inciso 5 de la Constitución de la Provincia de Buenos Aires. Antes del 30 de junio el
+Concejo Deliberante remitirá a la Delegación del Tribunal de Cuentas la Resolución
+dictada.
+ARTICULO 58.- La simple aprobación de las cuentas por el Concejo Deliberante llevará
+implícita la compensación de excesos a que se refiere el artículo 67 de la Ley Orgánica de
+las Municipalidades, cuando dicha compensación le hubiere sido solicitada. Si vencido el
+plazo establecido por el artículo 23 de la Ley Orgánica del Tribunal de Cuentas, el
+Concejo Deliberante no se pronunciase, la compensación de excesos se producirá de
+pleno derecho, hasta los límites establecidos por dicho artículo 67.
+ARTICULO 59.- Los decretos dictados en circunstancias excepcionales por el
+Departamento Ejecutivo, ad- referéndum del Concejo Deliberante, se considerarán
+convalidados con la simple aprobación de las cuentas siempre que el Departamento
+Ejecutivo hubiera solicitado expresamente su convalidación, en forma tal que el Concejo
+haya debido tenerlos presentes al dictar resolución.
+ARTICULO 60.- Las consultas que las Municipalidades efectúen al Tribunal de Cuentas
+sobre cuestiones administrativas o contables, deberán ser formuladas:
+a) Por el Intendente;
+b) Por el Presidente del Concejo Deliberante cuando se trate de actos de su
+competencia;
+c) Por los Contadores Municipales;
+d) Por resolución del Concejo Deliberante a pedido de cualquiera de sus integrantes;
+
+-- 25 of 60 --
+
+40
+e) Por los presidentes de los distintos bloques políticos que integre el Concejo
+Deliberante.
+Los organismos descentralizados podrán formular consultas por intermedio de su titular
+y/o contador.
+ARTICULO 61.- Todos los documentos relativos a una transacción deberán archivarse
+juntos o adecuadamente referenciados para su fácil ubicación. La documentación original
+deberá permanecer archivada por un período no inferior a tres (3) años y los registros
+durante cinco (5) años.
+Vencidos dichos plazos, la documentación podrá ser reemplazada por medios
+magnéticos, informáticos u otra tecnología que garantice la inmutabilidad de la
+reproducción del documento. La tecnología a ser utilizada deberá ser previamente
+autorizada por el Tribunal de Cuentas y, en tales casos, la reproducción tendrá el mismo
+valor probatorio que su original.
+ARTICULO 62.- Los archivos de la documentación motivada por la gestión del
+Departamento Ejecutivo a que se refiere el artículo 61 de las presentes Disposiciones, son
+elementos de respaldo de la responsabilidad de los funcionarios actuantes y, por lo tanto,
+no pueden ser removidos de las oficinas correspondientes salvo requerimiento escrito del
+Tribunal de Cuentas o de autoridad judicial.
+Las rendiciones de cuentas que deban efectuarse se podrán documentar con facturas y
+recibos duplicados que contengan los mismos requisitos que los originales o, en su caso,
+con copia autenticada del acto administrativo del organismo involucrado en la ejecución
+del gasto.
+
+-- 26 of 60 --
+
+41
+CAPITULO IV - EL SISTEMA DE TESORERIA
+ARTICULO 63.- El Sistema de Tesorería está compuesto por el conjunto de órganos,
+normas y procedimientos que regulan el proceso de percepción de los ingresos y de los
+pagos, cuyo conjunto configuran el flujo de fondos del sector público municipal, así como
+de la custodia de las disponibilidades, títulos, valores y demás documentos que ingresen
+a la Municipalidad.
+ARTICULO 64.- La Tesorería de la Municipalidad será el órgano rector del sistema y,
+como tal, coordinará el funcionamiento de todas las unidades de recaudación que puedan
+habilitarse en razón de facilitar la concurrencia de los contribuyentes, dictando las normas
+y procedimientos internos correspondientes.
+Los pagos a que de origen la gestión de todas las dependencias centralizadas de los
+municipios, deberán efectuarse únicamente a través de la Tesorería.
+ARTICULO 65.- La Tesorería estará a cargo de un Tesorero, que será asistido por un
+Subtesorero, que suplantará al titular en los casos de ausencia transitoria. Regularmente
+las tareas del Subtesorero serán asignadas por el Tesorero.
+ARTICULO 66.- La Tesorería tendrá competencia para:
+a) Centralizar el ingreso de los recursos generales del municipio;
+b) Elaborar, con la participación de la Oficina de Ingresos Públicos, el Presupuesto de
+caja del municipio y realizar el seguimiento y evaluación de su ejecución;
+c) Intervenir en la elaboración de la programación de gastos a que se refiere el artículo
+21 de las presentes disposiciones, a fin de permitir una adecuada articulación entre la
+gestión de caja y la ejecución del Presupuesto;
+d) Efectivizar las ordenes de pago que conformen los requisitos legales y le sean
+remitidas para su cancelación;
+e) Administrar la operatoria de fondo unificado o caja única, según sea el régimen vigente
+para el municipio;
+f) Custodiar los títulos y valores propiedad de la Administración Central o de terceros que
+se pongan a su cargo;
+g) Intervenir en la evaluación e instrumentación de préstamos u otro tipo de operaciones
+
+-- 27 of 60 --
+
+42
+para la cobertura de necesidades transitorias;
+h) Participar en la evaluación e instrumentación de inversiones temporarias de
+excedentes transitorios de disponibilidades;
+i) Disponer la apertura de cuentas bancarias que resulten necesarias según la
+naturaleza de los recursos, conforme al artículo 194 de la Ley Orgánica de las
+Municipalidades;
+j) Administrar el Registro General de Beneficiarios y Poderes; y
+k) Confeccionar, tal cual lo establece el artículo 81 de las presentes disposiciones, el
+parte diario de ingresos y egresos, el libro mayor de bancos, el libro auxiliar de bancos
+(en caso de aplicarle la modalidad de Cuenta Unica) y llevar a cabo la conciliación de
+las cuentas de “Bancos”.
+ARTICULO 67.- Las deudas que el Tesoro Municipal contraiga por un breve período de
+tiempo, para proveer a momentáneas deficiencias de caja provocadas por la falta de
+coincidencia de los ingresos con los gastos o por falta o retraso de los ingresos ordinarios
+calculados deberán considerarse excluidas de los procedimientos establecidos por los
+artículos 46 y 47 de la Ley Orgánica de las Municipalidades.
+Tales deudas son los siguientes:
+a) Los anticipos bancarios (adelantos de caja) o autorizaciones para girar en descubierto;
+b) La colocación de bonos, títulos u otras obligaciones de la Tesorería cuyos
+vencimientos operen dentro del ejercicio vigente al momento de formalización.
+ARTICULO 68.- La obtención del financiamiento transitorio para cubrir deficiencias
+estacionales de caja estará limitada al monto que establezca anualmente la ordenanza
+presupuestaria. De no existir previsión en tal sentido, deberá solicitarse la autorización
+correspondiente, y por monto definido, al Concejo Deliberante.
+En todos los casos, la devolución de dicho financiamiento deberá efectivizarse en el
+transcurso del mismo ejercicio fiscal.
+ARTICULO 69.- Previa autorización del Concejo Deliberante, el Intendente podrá
+autorizar al Tesorero para el uso transitorio de recursos del Municipio con afectación
+específica, cuando ello fuese necesario para hacer frente a apremios financieros
+
+-- 28 of 60 --
+
+43
+circunstanciales. Dicha autorización transitoria no significará cambio de financiación ni de
+destino de los recursos y deberá quedar normalizada en el transcurso del ejercicio.
+ARTICULO 70.- Los intereses que se originen por la utilización del financiamiento
+transitorio, como así también otros gastos que pudieran devengarse, deberán ser
+afectados a las previsiones presupuestarias existentes o que se habiliten para tal fin por el
+concepto de deuda pública.
+ARTICULO 71.- Las personas físicas o jurídicas que deban percibir fondos o valores del
+Municipio por la contratación de servicios o adquisición de bienes, con excepción del
+personal estable o transitorio del mismo con respecto a los pagos de haberes que se les
+efectúen, deberán estar inscriptas en el Registro General de Beneficiarios y Poderes,
+cuya administración llevará la Tesorería.
+Las altas, modificaciones o bajas del Registro General de Beneficiarios y Poderes se
+llevarán a cabo a solicitud de las personas físicas o jurídicas interesadas, debiendo para
+ello completarse los formularios cuyos modelos e instructivos se adjuntan, como Anexos
+45 y 46, al presente artículo.
+ARTICULO 72.- El Tesorero no dará curso a ninguna orden de pago o devolución en la
+que no conste la previa intervención de la Contaduría. Dichas órdenes deberán estar
+refrendadas por el Intendente y el Secretario encargado de las finanzas municipales.
+La efectivización de los pagos se deberá realizar mediante la entrega de cheques a la
+orden, en forma directa o a través de acreditaciones en cuentas bancarias de los
+acreedores. En ambos casos, deberá procederse con arreglo a lo dispuesto en el artículo
+191 de la Ley Orgánica de las Municipalidades. Para el primer caso el beneficiario de la
+orden de pago deberá presentar, certificada por el banco correspondiente, la autorización
+de la acreditación en la cuenta bancaria de los pagos que deba efectuar la Tesorería a los
+efectos de que los mismos tengan poder cancelatorio de las deudas asumidas por el
+Municipio. Dicha autorización requiere completar el formulario cuyo modelo e instructivo
+se adjunta, como Anexo 47, al presente artículo.
+ARTICULO 73.- El Tesorero está obligado a presentar comprobantes de todo pago que
+realice. En el caso de los pagos efectuados a los beneficiarios a través de cheques
+entregados en forma directa, o depósitos en bancos en concepto de embargos por
+
+-- 29 of 60 --
+
+44
+indicación de oficios judiciales, deberán ser documentados a través del recibo de pago,
+formulario cuyo modelo e instructivo se adjunta, como Anexo 48, al presente artículo.
+Los pagos realizados a los beneficiarios mediante instrucciones de acreditación bancaria
+por parte de la Tesorería a los Bancos pagadores que participen del sistema, deberán ser
+documentados a través del formulario cuyo modelo e instructivo se adjunta, como Anexo
+49, al presente artículo.
+ARTICULO 74.- La cesión de créditos que realice un beneficiario de los pagos que deba
+efectuar la Tesorería, con la excepción de aquellos originados en la prestación de
+servicios personales en relación de dependencia a la Comuna, así como la modificación
+o revocación de la misma, deberá ser comunicada formalmente al Municipio,
+acompañando el instrumento público o privado correspondiente que establece dicha
+cesión, e incorporarse en el Registro de Cesiones de Créditos en los términos
+establecidos en el formulario cuyo modelo e instructivo se adjunta, como Anexo 50, al
+presente artículo.
+ARTICULO 75.- Las órdenes de pago caducarán al cierre del ejercicio siguiente al de su
+fecha de emisión.
+ARTICULO 76.- El Ministerio de Economía de la Provincia de Buenos Aires informará
+periódicamente los importes que corresponden diariamente por coparticipación y los
+descuentos que se efectúan sobre tales remesas y los conceptos que las generan.
+Las Tesorerías de los municipios deberán recibir diariamente información de las
+respectivas sucursales bancarias, respecto de los importes ingresados en la cuenta
+“Recursos corrientes sin afectación específica”, para permitir su comparación con lo
+informado por el Ministerio de Economía al momento de efectuar la conciliación bancaria.
+La información que remita el Ministerio de Economía respecto de los conceptos que se
+debitan de la coparticipación, dará lugar a la regularización del destino específico de los
+recursos de la citada cuenta, normalizando la imputación presupuestaria de créditos y
+débitos.
+ARTICULO 77.- Los recursos con afectación específica, con origen en el Gobierno de la
+Provincia de Buenos Aires o en el Gobierno Nacional, serán recibidos en cuentas
+bancarias por cada concepto en los Bancos receptores hasta su aplicación.
+
+-- 30 of 60 --
+
+45
+ARTICULO 78.- La Tesorería General del Municipio llevará un Registro de Embargos en
+el cual se asentarán todos los oficios, de tal carácter, que remita el Poder Judicial, con la
+excepción de aquellos que representen embargos de haberes de personal en relación de
+dependencia. A tales efectos, deberá completarse el formulario cuyo modelo e instructivo
+se adjunta, como Anexo 51, al presente artículo
+ARTICULO 79.- Todos los agentes, apoderados o entidades que tuviesen autorización
+para recaudar recursos de pertenencia municipal, deberán procurar rendir en forma diaria
+lo percibido, salvo casos fundados en razones de distancia o reducido monto involucrado,
+para los que dicha rendición deberá ser obligatoriamente en forma semanal.
+Los comprobantes y valores recaudados deberán documentarse en la rendición, debiendo
+completar la Tesorería del Municipio, para ello, el formulario cuyo modelo e instructivo se
+adjunta, como Anexo 52, al presente artículo.
+ARTICULO 80.- Trimestralmente, el Departamento Ejecutivo hará publicar un balance de
+Tesorería en la Municipalidad y otro en el Juzgado de Paz, para conocimiento de los
+contribuyentes. Dicho balance estará rubricado por el Intendente, el Secretario
+competente, el Contador y el Tesorero.
+El balance deberá obtenerse como una agregación del libro diario de caja, debiendo hacer
+constar el saldo transferido del trimestre anterior, todas las operaciones de entradas y
+salidas de fondos y valores en el trimestre, y dejándose constancia del saldo a transferir al
+trimestre siguiente.
+ARTICULO 81.- El Sistema de Tesorería, a partir de la sistematización de los datos
+relativos a ingresos y egresos de fondos y valores, generará la siguiente información:
+a) Parte diario de ingresos de caja.
+b) Parte diario de egresos de caja.
+c) Libro de Caja.
+d) Libro Bancos.
+e) Libro Auxiliar de Bancos (en caso de aplicarse la Cuenta Unica del Tesoro).
+Dicha información se organizará de acuerdo a los formularios cuyos modelos e
+instructivos se adjuntan, como Anexos 53 a 57, al presente artículo.
+
+-- 31 of 60 --
+
+46
+ARTICULO 82.- Los gastos que demande la constitución de la fianza que deban constituir
+los funcionarios y empleados municipales conforme lo establecido por el artículo 218 de la
+Ley Orgánica de las Municipalidades, estarán a su exclusivo cargo.
+El importe de la fianza será fijado por el departamento ejecutivo en función de los valores
+que habitualmente deba manejar o custodiar el afianzado y del período durante el cual
+tenga legalmente dichos valores en su poder. Con respecto a los fondos asignados para
+“Caja Chica” la fianza deberá cubrir el total de los mismos.
+ARTICULO 83.- El Departamento Ejecutivo decidirá, para cada caso, si la fianza debe ser
+personal o real por cualquiera de las formas aceptadas por el artículo 219 de la Ley
+Orgánica de las Municipalidades y fijará su monto. La aceptación será comunicada por
+escrito al fiador.
+Las fianzas deberán ser extendidas a favor de la Municipalidad respectiva en dos
+ejemplares de igual tenor. Uno de ellos quedará en poder de la Tesorería y el otro será
+enviado al Tribunal de Cuentas debidamente autenticado.
+ARTICULO 84.- Cuando para la fianza real se ofrecieran bienes raíces, se practicará la
+respectiva anotación en el Registro de la Propiedad y se dejará constancia en el
+documento. Si la garantía se constituyera en dinero efectivo o en títulos, el importe de la
+misma se depositará en el Banco de la Provincia a la orden conjunta del Intendente
+Municipal y del fiador.
+Si la fianza fuera personal, el fiador será solidario con el afianzado, liso y llano pagador
+con renuncia al beneficio de excusión.
+ARTICULO 85.- Si el fiador llegara al estado de insolvencia o la autoridad municipal
+estimara que la solvencia ha disminuido hasta ser ineficaz el afianzado deberá sustituir la
+fianza.
+La sustitución será exigida por el Intendente inmediatamente después de tener
+conocimiento de la disminución de la responsabilidad del fiador, así como también en
+caso de incapacidad o muerte del fiador.
+ARTICULO 86.- El Municipio podrá instituir un sistema de caja única o de fondo
+unificado, según lo estime conveniente, que le permita disponer de las existencias de caja
+de todas las jurisdicciones y entidades de la Administración Municipal por un importe que
+
+-- 32 of 60 --
+
+47
+no podrá superar el 80% de los saldos de todas las cuentas bancarias, con cargo de
+devolución de las mismas con anterioridad a la finalización del ejercicio fiscal vigente.
+ARTICULO 87.- La constitución, ampliación, disminución y anulación de los anticipos de
+fondos para la atención de gastos menores en el sistema de "caja chica" deberá
+instrumentarse mediante decreto del Departamento Ejecutivo, previa aprobación del
+Honorable Tribunal de Cuentas. En dicho decreto deberá especificarse el monto
+constituido, el valor máximo de cada pago individual a realizar, los conceptos a atender, la
+periodicidad de la rendición de cuentas, y el funcionario responsable que podrá disponer
+gastos y pagos con cargo a la “caja chica”.
+ARTICULO 88.- Por lo menos una vez al mes, y cualquiera sea el monto del fondo que se
+encuentre utilizado, deberá procederse a la rendición de los gastos atendidos con los
+recursos constituidos en “cajas chicas”. El penúltimo día hábil del ejercicio, cualquiera sea
+el monto invertido hasta esa fecha con cargo a dichos fondos, deberá procederse a la
+rendición final de los gastos y a la devolución de los importes excedentes.
+El funcionario responsable de dichas rendiciones deberá completar el formulario, cuyo
+modelo e instructivo se adjunta, como Anexo 58, al presente artículo.
+ARTICULO 89.- En caso de ser necesario afrontar gastos en concepto de pasajes y/o
+viáticos con trámite urgente, podrán anticiparse fondos mediante la emisión de la
+respectiva orden de pago.
+ARTICULO 90.- Dentro de los cinco (5) días hábiles de haberse dispuesto los anticipos
+para el pago de pasaje y/o viáticos, contados a partir de haberse reintegrado a sus tareas
+ordinarias el personal destacado en comisión, deberá realizarse la rendición de cuentas,
+utilizando el formulario e instructivo adjuntado como anexo al artículo 88 de las presentes
+disposiciones.
+ARTICULO 91.- A los efectos de contribuir a garantizar una correcta ejecución de los
+gastos, la compatibilización de los resultados esperados con los recursos disponibles y la
+detección en forma oportuna de las brechas de financiamiento o la constitución de
+excedentes transitorios de caja, la Tesorería y todos los organismos municipales
+descentralizados, deberán elaborar la planificación financiera de los respectivos
+
+-- 33 of 60 --
+
+48
+presupuestos.
+Los formularios a completar por las jurisdicciones y entidades, cuyos modelos e
+instructivos se adjuntan, como Anexos 59 a 60, al presente artículo, serán consolidados
+por la Tesorería del Municipio.
+
+-- 34 of 60 --
+
+49
+CAPITULO V - EL SISTEMA DE CREDITO PUBLICO
+ARTICULO 92.- El Sistema de Crédito Público está compuesto por el conjunto de
+órganos, normas y procedimientos que intervienen en las operaciones de crédito público y
+en la programación y atención de los servicios de la deuda de la Administración Municipal.
+Considérase como empréstito, en los términos del artículo 46 de la Ley Orgánica de las
+Municipalidades, toda operación de endeudamiento cuyo reembolso supere el ejercicio
+vigente al momento de la formalización.
+ARTICULO 93.- El endeudamiento que resulte de los empréstitos que contraiga el
+Municipio formará parte de la deuda consolidada municipal y puede originarse en:
+a) La emisión y colocación de títulos, bonos u obligaciones;
+b) La contratación de préstamos con organismos gubernamentales;
+c) La contratación de préstamos con instituciones financieras;
+d) La contratación de obras, servicios o adquisiciones cuyo pago total o parcial se
+estipule realizar en el transcurso de más de un ejercicio financiero posterior al de la
+contratación; siempre y cuando los conceptos que se financien se hayan devengado
+anteriormente; y
+e) La reestructuración, consolidación y renegociación de deudas.
+ARTICULO 94.- La Ordenanza definitiva que autorice la contratación de un empréstito a
+que se refiere el artículo 50 de la Ley Orgánica de las Municipalidades, deberá determinar
+fehacientemente la fuente de financiamiento para atender el gasto de las partidas que se
+incorporen al Presupuesto destinadas al pago del servicio de la deuda.
+ARTICULO 95.- Se considera deuda flotante a los montos devengados e impagos al
+cierre de cada ejercicio financiero de las distintas partidas de gastos autorizadas por el
+respectivo Presupuesto.
+ARTICULO 96.- El área responsable de la administración del crédito público actuará en
+calidad de órgano rector con las siguientes competencias:
+
+-- 35 of 60 --
+
+50
+a) Asesorar y asistir al gobierno municipal en el análisis y negociación de las ofertas de
+financiamiento recibidas por el municipio, como así también en la fijación de
+condiciones financieras de nuevos empréstitos o de eventuales renegociaciones que se
+efectúen con los acreedores;
+b) Tramitar las carpetas de capacidad financiera y las solicitudes de autorización para
+contraer empréstitos;
+c) Mantener un registro actualizado sobre el endeudamiento municipal, debidamente
+integrado al sistema de contabilidad municipal;
+d) Emitir, registrar y administrar certificados de deuda u otros documentos para la
+instrumentación de acuerdos de reconocimiento y renegociación de deudas
+preexistentes;
+e) Gestionar en tiempo y forma el pago de los servicios de la deuda municipal,
+coordinadamente con las distintas áreas de competencia Contabilidad, Tesorería y el
+Banco de la Provincia de Buenos Aires;
+f) Informar las operaciones de financiamiento público municipal, como así también la
+imputación presupuestaria de sus pagos y desembolsos;
+g) Confeccionar las estimaciones y proyecciones presupuestarias de los servicios y
+desembolsos de la deuda pública municipal y efectuar el seguimiento de su efectivo
+cumplimiento; y
+h) Confeccionar la información del endeudamiento municipal que requieran autoridades
+provinciales y organismos de control.
+
+-- 36 of 60 --
+
+51
+CAPITULO VI – EL SISTEMA DE CONTRATACIONES
+ARTICULO 97.- El Sistema de Contrataciones está compuesto por el conjunto de
+órganos, normas y procedimientos que regulan el proceso para los contratos de provisión
+de bienes y servicios y de realización de obras.
+ARTICULO 98.- Las disposiciones de este capítulo serán de aplicación a todas las
+contrataciones de bienes, servicios, obras, concesiones de obras y servicios, consultorías,
+locaciones y licencias que se efectúen por los organismos centrales o descentralizados de
+los municipios.
+Quedan excluidos los servicios personales, tanto permanentes como transitorios, los
+contratos interadministrativos, las contrataciones que se realicen bajo el régimen de Caja
+Chica, los que se celebren con otros estados o entidades de derecho público internacional
+o instituciones multilaterales o que se financien con recursos de ellos, para los cuales las
+presentes disposiciones solo tendrán carácter supletorio.
+ARTICULO 99.- Quedan también excluidos los contratos relativos a actividades
+específicas de las entidades que tengan objeto comercial, industrial o financiero, cuando
+se rija por el derecho privado.
+ARTICULO 100.- Las contrataciones detalladas en el primer párrafo del artículo 98 de las
+presentes disposiciones, se deberán ajustar a los principios generales que se detallan a
+continuación:
+a) Razonabilidad de la propuesta para cumplir con el interés público y económico;
+b) Responsabilidad de los agentes que promuevan, autoricen, dirijan o ejecuten las
+contrataciones;
+c) Publicidad y transparencia que garantice la confianza de la sociedad;
+d) Promoción de la concurrencia y competencia;
+e) Trato igualitario de los oferentes;
+f) Selección de las adjudicaciones atendiendo justificadamente al concepto de oferta
+más conveniente al interés público, considerando calidad, costo y oportunidad; y
+g) Eficiencia y eficacia en el proceso de la contratación.
+
+-- 37 of 60 --
+
+52
+ARTICULO 101.- La decisión de adjudicar en los concursos de precios y en las
+licitaciones solamente puede ser efectuada por el Intendente, el Presidente del Concejo y
+los titulares de los organismos descentralizados, según su ámbito de competencia, los
+cuales podrán eventualmente ser auxiliados por comisiones de preadjudicación, las que
+deberán elaborar un informe recomendando la oferta más conveniente. Cuando no haga
+falta la constitución de dichas comisiones, el Director de la Oficina de Contrataciones
+actuará directamente realizando las recomendaciones del caso, excepto cuando se
+establezcan especificaciones técnicas particulares, situación en la que podrá intervenir la
+máxima autoridad del organismo solicitante.
+ARTICULO 102.- La Oficina Municipal de Contrataciones deberá llevar un Registro de
+Proveedores, Consultores Expertos en Evaluación y Dirección de Proyectos de Inversión
+y Licitadores de Obras Públicas, el cual deberá incluirse en el Registro General de
+Beneficiarios y Poderes administrado por la Tesorería del Municipio. Dicho registro deberá
+contener los datos requeridos por el formulario adjuntado como anexo al artículo 71 de las
+presentes disposiciones. Adicionalmente, deberán identificarse aquellos proveedores,
+consultores y contratistas que hayan sido objeto de observaciones por alguna forma de
+incumplimiento de sus obligaciones contractuales, antecedentes que podrán servir de
+base para su exclusión de las convocatorias.
+ARTICULO 103.- La Oficina Municipal de Contrataciones tendrá las siguientes
+competencias:
+a) Dictar las normas y procedimientos específicos en materia de compras de bienes y
+servicios;
+b) Coordinar con la Oficina de Presupuesto la elaboración del presupuesto anual de
+gastos de bienes y servicios en términos físicos y financieros a incluirse en el proyecto
+de Ordenanza del Presupuesto y la determinación de las cuotas trimestrales de
+compromiso de dicho gasto;
+c) Evaluar el funcionamiento global del sistema, a través del análisis de indicadores de
+eficiencia en las contrataciones que permitan involucrar variables tales como la
+oportunidad de la obtención de los bienes y servicios, la calidad y el costo de los
+mismos;
+
+-- 38 of 60 --
+
+53
+d) Actualizar el listado de Proveedores, Consultores Expertos en Evaluación y Dirección
+de Proyectos de Inversión y Licitadores de Obras Públicas que debe formar parte del
+Registro General de Beneficiarios y Poderes;
+e) Detectar los desvíos en el programa anual de adquisiciones respecto de lo
+efectivamente ejecutado, tanto en sus términos físicos como financieros, y sugerir las
+acciones correctivas necesarias;
+f) Establecer las modalidades de contratación más adecuadas con arreglo a lo dispuesto
+en el artículo 151 de la Ley Orgánica de las Municipalidades; y
+g) Realizar los trámites inherentes a la contratación y recepción de los bienes adquiridos.
+SECCION I - CONTRATACION DE BIENES Y SERVICIOS
+ARTICULO 104.- Los Municipios deberán constituir y actualizar un catálogo en el que se
+detallen las características de todos y cada uno de los bienes de consumo y servicios que
+son insumos habituales en las tareas y prestación de servicios municipales, así como de
+los bienes de capital de utilización generalizada, consignando para cada caso el último
+precio conocido de mercado.
+Los precios que se incluyan en dicho catálogo deberán servir de base para la
+programación de contrataciones, la evaluación para las adjudicaciones y la formulación y
+evaluación de los presupuestos.
+ARTICULO 105.- En las compras de bienes, cualquiera sea el procedimiento a seguir,
+será necesaria la fijación previa de un valor base estimado con intervención de las
+reparticiones técnicas que sean competentes y acreditando aproximación a los precios de
+mercado, pudiendo existir excepciones fundadas en causas que se harán constar bajo
+responsabilidades solidarias del Intendente y el Director de la Oficina de Contrataciones.
+ARTICULO 106.- Al formular sus presupuestos, las dependencias municipales
+comunicarán a la Oficina Municipal de Contrataciones el detalle de sus necesidades de
+insumos en términos físicos, así como el valor de los mismos que surjan de aplicar los
+precios de referencia incluidos en el catálogo mencionado en el artículo 104 de las
+presentes disposiciones.
+En la etapa de ejecución, dichas dependencias deberán completar la solicitud de pedido
+de adquisición correspondiente, debiendo para ello procederse conforme a lo estipulado
+
+-- 39 of 60 --
+
+54
+por el formulario cuyo modelo e instructivo se adjunta, como Anexo 61, al presente
+artículo.
+ARTICULO 107.- Las licitaciones públicas se regirán por las cláusulas generales del
+pliego de bases y condiciones que adopte el Departamento Ejecutivo conforme a la Ley
+Orgánica de las Municipalidades y a las presentes disposiciones. Para las licitaciones
+privadas serán aplicables, en cuanto no resulten incompatibles con la contratación, las
+disposiciones referidas a las licitaciones públicas
+ARTICULO 108.- Las cláusulas particulares que integrarán también el pliego de bases y
+condiciones serán confeccionadas por el Secretario del Area y aprobadas por el
+Departamento Ejecutivo. Deberá consignarse lo siguiente:
+a) Lugar de presentación de las propuestas y lugar, día y hora del acto de apertura de las
+mismas;
+b) Obligación de consignar el domicilio real y legal del proponente, fijando como requisito
+indispensable que éste último se establezca en la Provincia de Buenos Aires;
+c) La jurisdicción de los tribunales de justicia ordinaria de la Provincia de Buenos Aires;
+d) Detalle de las características, calidad y/o condiciones especiales del objeto de la
+licitación, las que serán indicadas en forma precisa e inconfundible, con la
+nomenclatura y datos científicos técnicos que correspondan. Salvo los casos
+especiales, originados en razones científicas o técnicas, no deberá pedirse marca
+determinada. Queda entendido que si se menciona "marca" o "tipo" será al solo efecto
+de señalar características generales del objeto, sin que ello implique que no puedan
+proponerse artículos similares de otras marcas o tipos;
+e) Requerimiento de presentación de muestras, cuando se considere conveniente con
+indicación de cantidad, tamaño, etc.;
+f) Plazo de mantenimiento de la propuesta;
+g) Plazo de cumplimiento del contrato;
+h) Lugar de entrega, debiendo aclararse a cargo de quién estarán los gastos de flete,
+acarreo y descarga; y
+i) La obligación de cotizar con arreglo a las cláusulas generales y particulares,
+especificando el precio unitario y total de cada renglón y el total de la propuesta en
+
+-- 40 of 60 --
+
+55
+números y letras, así como la de indicar en forma clara y concreta el precio neto que
+se cotice.
+ARTICULO 109.- Las constancias que prueben el cumplimiento de las publicaciones de
+licitaciones públicas se agregarán a las actuaciones correspondientes. Además, se
+acumularán los comprobantes de envío de invitaciones por carta certificada o en forma
+personal y se registrarán las firmas que han sido invitadas a participar, debiendo en estos
+casos completarse los formularios cuyos modelos e instructivos se adjuntan, como
+Anexos 62 a 64, al presente artículo.
+ARTICULO 110.- Las propuestas en las licitaciones públicas serán presentadas en sobre
+cerrado y se admitirán hasta el día y hora fijados para la apertura de las mismas.
+Con cada propuesta se acompañará:
+a) El documento de garantía, cuando se imponga este requisito;
+b) La descripción del objeto de la contratación, cuando la comuna la exija y catálogo o
+prospecto si correspondiera; y
+c) El recibo de la muestra, cuando hubiera sido presentada por separado.
+ARTICULO 111.- La Municipalidad podrá exigir garantía en las licitaciones públicas, en
+cuyo caso el pliego de bases y condiciones establecerá el monto y forma de la misma
+dentro de las modalidades siguientes o de otras análogas que señale:
+a) Dinero efectivo, depósito a la orden de la Municipalidad, giro o cheque certificado
+contra una entidad bancaria;
+b) Títulos de la deuda pública provincial o nacional que se tomarán por su valor nominal.
+Los intereses de los mismos pertenecen al titular y no acrecentarán la garantía;
+c) Fianza o aval bancario;
+d) Pagaré a la vista suscrito por el oferente, por quienes tengan uso de la razón social o
+por quienes actúen con poderes suficientes para suscribirlo.
+Los oferentes deberán acompañar a sus respectivas propuestas los comprobantes de los
+depósitos efectuados o agregarán en su caso los correspondientes documentos de
+
+-- 41 of 60 --
+
+56
+garantía. Tales garantías serán desglosadas en la forma que establece el formulario cuyo
+modelo e instructivo se adjunta, como Anexo 65, al presente artículo.
+Resuelta la adjudicación, por el mismo decreto se dispondrá la devolución de las
+garantías que correspondan a las propuestas no aceptadas.
+ARTICULO 112.- Cuando las cláusulas particulares de la licitación pública exigieran la
+constitución de garantía de contrato, se cumplirá este requisito en forma igual a la del
+artículo 111 de las presentes disposiciones. Cumplido el contrato sin observaciones, se
+devolverán de oficio las garantías de los adjudicatarios.
+ARTICULO 113.- En el local, día y hora fijados para realizar la licitación pública, se
+procederá a abrir las propuestas en presencia de las autoridades que corresponda, de los
+proponentes o interesados que deseen presenciar el acto y del Director de la Oficina de
+Contrataciones en los casos de adquisiciones o suministros. Dicha apertura constará en
+un acta que será completada tal como se establece en el formulario cuyo modelo e
+instructivo se adjunta, como Anexo 66, al presente artículo.
+ARTICULO 114.- Abiertas las propuestas en las licitaciones públicas, se efectuará el
+examen de las mismas al solo efecto de verificar el cumplimiento de los requisitos
+formales establecidos en el pliego respectivo y dejar constancia de las observaciones que
+se formulen.
+El carácter de la oferta solo será conferido a las que se ajusten a las condiciones de la
+licitación pública. Las que no se ajusten no se considerarán como tales.
+Para el examen de las ofertas se confeccionará un cuadro comparativo de precios y
+condiciones. Además se hará mención de las que deban ser rechazadas puntualizando en
+cada caso los motivos del rechazo, conforme al formulario cuyo modelo e instructivo se
+adjunta, como Anexo 67, al presente artículo.
+ARTICULO 115.- Al sólo efecto de su comparación en un mismo plano y para determinar
+la oferta más baja en las licitaciones públicas, se adicionarán fletes y otros gastos a los
+precios cotizados, cuando tales expensas deban correr por cuenta del Municipio.
+ARTICULO 116.- La adjudicación en las contrataciones recaerá en la propuesta de menor
+precio. No obstante, podrá adjudicarse excepcionalmente por razones de mejor calidad,
+
+-- 42 of 60 --
+
+57
+dentro de las características o condiciones mínimas que deba reunir el objeto de la
+contratación, siempre que se determine con fundamento que la mejor calidad compensa
+la diferencia de precios.
+ARTICULO 117.- En los concursos de precios, la invitación a presentar ofertas deberá
+realizarse de acuerdo a lo que se establece en el formulario cuyo modelo e instructivo se
+adjunta, como Anexo 68 al presente artículo.
+ARTICULO 118.- Resuelta la adjudicación por la autoridad competente, el contrato
+quedará perfeccionado mediante constancia de recepción de la orden de compra. Dicha
+orden se formalizará a través del formulario cuyo modelo e instructivo se adjunta, como
+Anexo 40, al artículo 45 de las presentes disposiciones.
+ARTICULO 119.- El incumplimiento de las obligaciones contraídas por los proponentes o
+adjudicatarios, dará lugar a la aplicación de las penalidades que a continuación se
+detallan:
+1) A los proponentes, por desistimiento parcial o total de la oferta dentro del plazo de
+mantenimiento: le corresponderá la pérdida total o proporcional de la garantía, estando
+además a su cargo, las diferencias de precios entre su propuesta y la que resulta
+adjudicada en la misma contratación;
+2) A los adjudicatarios:
+a) Por entrega fuera de término: le corresponderá una multa por mora, consistente en
+una vez y medio el promedio de la tasa nominal anual adelantada para operaciones de
+crédito a 30 días, utilizada por el Banco de la Provincia de Buenos Aires;
+b) Por incumplimiento total o parcial del contrato: le corresponderá la pérdida
+proporcional o total de la garantía y diferencia de precio a su cargo por la ejecución del
+contrato por un tercero; y
+c) Por transferencia del contrato sin autorización de la autoridad competente: le
+corresponderá la pérdida de la garantía, sin perjuicio de las demás acciones a que
+hubiere lugar.
+
+-- 43 of 60 --
+
+58
+ARTICULO 120.- Las penalidades establecidas en el artículo anterior, no serán de
+aplicación cuando el incumplimiento de la obligación obedezca a caso fortuito o fuerza
+mayor debidamente comprobada por la autoridad que aprobó la contratación.
+ARTICULO 121.- La mora se considerará producida por el simple vencimiento del plazo
+contractual sin necesidad de interpelación judicial o extrajudicial, y será de aplicación
+automática, sin necesidad de pronunciamiento expreso.
+SECCION II - CONTRATACION DE OBRAS PUBLICAS
+ARTICULO 122.- La contratación de insumos necesarios para la ejecución de obras por
+administración se llevará a cabo de acuerdo a lo que establece el capítulo referido a la
+contratación de bienes y servicios.
+ARTICULO 123.- El Registro de Proveedores, Consultores Expertos en Evaluación y
+Dirección de Proyectos de Inversión y Licitadores de Obras Públicas que debe actualizar
+el Director de la Oficina de Contrataciones, además de los datos que se requieren en el
+artículo 102 de las presentes disposiciones, deberá como mínimo contener, para el caso
+de los contratistas de obras públicas, la siguiente información:
+a) Capital declarado;
+b) Constancia de institución bancaria referente a la capacidad económica reconocida;
+c) Especialidad si la tiene;
+d) Cantidad de personal permanente;
+e) Detalle de trabajos realizados para la Municipalidad y ajenos a ella; y
+f) Tiempo de existencia de la empresa.
+Para el caso de los consultores deberá contener como mínimo lo siguiente:
+a) Especialidad, si la tiene; y
+b) Antecedentes de trabajos realizados en la materia realizados para el Municipio y
+ajenos a ella.
+ARTICULO 124.- La Oficina de Contrataciones deberá entregar a cada consultor experto
+
+-- 44 of 60 --
+
+59
+en evaluación y dirección de proyectos de inversión y contratista de obra pública un
+certificado que acredite la inscripción en los registros mencionados en el artículo anterior.
+Dicho certificado, o la tramitación del mismo, habilitará a los mismos a participar de las
+licitaciones en los términos que establecen los artículos 141, 143 y 148 de la Ley
+Orgánica de las Municipalidades.
+Los consultores y contratistas tendrán derecho a presentar actualizaciones de sus
+antecedentes mediante constancias. Por su parte, el Municipio podrá dar de baja del
+registro a aquellos que tuvieran antecedentes por incumplimientos de contratos, por
+inhibiciones o por deudas que mantengan con el Municipio.
+ARTICULO 125.- Son aplicables a las licitaciones que se realicen para obras públicas los
+artículos 108, 110, 111, 113, 114 y 116 de las presentes disposiciones.
+ARTICULO 126.- El pliego de Bases y Condiciones que el Municipio elabore para licitar
+las obras públicas deberán detallar las penalidades previstas en caso de incumplimiento
+por parte del contratista. Dicho pliego deberá incluir, asimismo, una cláusula que
+establezca que de cada certificado de obra pública ejecutada o en ejecución se retendrá
+un cinco por ciento (5%) como mínimo en concepto de garantía. Dicha garantía podrá ser
+conformada por fianza o aval bancario o por valores equivalentes en títulos provinciales o
+nacionales.
+Las retenciones conformarán un depósito de garantía por eventuales incumplimiento o
+vicios en la ejecución del contrato, el cual se constituirá hasta el momento en que se
+opere la recepción definitiva de las obras. En tanto existan observaciones a los trabajos
+realizados por el contratista, con respecto a las especificaciones generales y particulares
+del pliego que sirviese de base para la contratación, no podrá extenderse la constancia de
+la recepción definitiva.
+
+-- 45 of 60 --
+
+
+
+-- 46 of 60 --
+
+61
+CAPITULO VII – EL SISTEMA DE ADMINISTRACION DE BIENES FISICOS
+ARTICULO 127.- El Sistema de Administración de Bienes Físicos está compuesto por el
+conjunto de órganos, normas y procedimientos que establecen los movimientos de los
+bienes que tienen lugar en el ámbito municipal a los efectos de ingresar, registrar,
+conservar, mantener, custodiar, reasignar y eventualmente dar de baja a los mismos.
+ARTICULO 128.- Considérase bienes físicos, dentro del contexto de la definición de
+Patrimonio Municipal a que alude el artículo 225 de la Ley Orgánica de las
+Municipalidades, los bienes de uso inmuebles, muebles, semovientes e intangibles que
+son adquiridos a terceros a título gratuito u oneroso, o bien elaborados por el propio
+Municipio, que sirven para producir otros bienes y servicios, no se agotan en el primer uso
+que de ellos se hace, tienen una duración superior a un (1) año y están sujetos a
+depreciación.
+ARTICULO 129.- Los bienes físicos comprendidos en el artículo 128 de las presentes
+disposiciones cuando correspondan al dominio privado, deberán ser inventariados y
+valuados en función de los criterios que se establezca el órgano rector del Sistema, para
+poder incorporarlos en el activo del Municipio.
+ARTICULO 130.- Los bienes físicos comprendidos en el artículo 128 de las presentes
+disposiciones que, por su naturaleza, estén destinados al uso común o general de todos
+los habitantes, deberán estar incluidos en un Registro de Bienes Públicos, el cual deberá
+proporcionar información sobre la ocupación de los mismos, su utilización y
+mantenimiento, así como la inversión realizada en ellos. Los bienes contenidos en dicho
+Registro no formarán parte del activo del Municipio.
+ARTICULO 131.- Se establecerán los siguientes registros patrimoniales:
+a) De segundo orden. Centralizan la información patrimonial de cada dependencia hasta
+el nivel de Departamento o equivalente.
+b) De primer orden. Centralizan la información patrimonial de cada dependencia hasta el
+nivel de Dirección o equivalente. Ejerce la supervisión sobre los de segundo orden.
+
+-- 47 of 60 --
+
+62
+c) Registro Central. Los registros que realiza el órgano rector del Sistema de
+Administración de Bienes Físicos, centralizando la información al nivel del Municipio.
+Ejerce la supervisión sobre los dos registros anteriores.
+ARTICULO 132.- Los registros patrimoniales de distinto orden, descriptos en el artículo
+131 de las presentes disposiciones, intervendrán en los movimientos de altas y bajas de
+bienes, según sean provisorias o definitivas.
+El alta provisoria la efectuará la Unidad de Registro de Segundo o Primer orden de
+acuerdo con el nivel jerárquico de la dependencia o institución que administre el bien.
+El alta definitiva la realiza el órgano rector del Sistema.
+En ambos casos deberá procederse conforme al formulario cuyo modelo e instructivo se
+adjunta, como Anexo 69, al presente artículo.
+ARTICULO 133.- Todas las unidades de registro patrimonial deberán realizar el recuento
+físico de los bienes a su cargo al cierre de cada ejercicio fiscal. El órgano rector del
+Sistema de Administración de Bienes Físicos ejercerá la supervisión de las tareas,
+estableciendo las pautas para ello, conforme a los requerimientos del Sistema de
+Contabilidad del Municipio y a las normas que en tal sentido dicte el órgano de control.
+ARTICULO 134.- El Departamento Ejecutivo establecerá, con intervención de la
+Contaduría General del Municipio, en su carácter de órgano rector del Sistema de
+Contabilidad, los criterios de valuación de los bienes físicos que deberán aplicarse al
+cierre del primer ejercicio fiscal correspondiente a la puesta en vigencia de la presente
+reglamentación.
+ARTICULO 135.- La Oficina Municipal de Bienes Físicos actuará en calidad de órgano
+rector del Sistema de Administración de Bienes Físicos con las siguientes funciones:
+a) Centralizar la información de los bienes que integran el patrimonio municipal, tanto del
+dominio privado como público;
+b) Registrar en forma definitiva las existencias y movimientos de los bienes;
+c) Determinar los registros patrimoniales necesarios en todo el ámbito del Municipio, de
+acuerdo con el volumen de los bienes y la complejidad del área al cual estén
+afectados;
+
+-- 48 of 60 --
+
+63
+d) Otorgar a los distintos registros patrimoniales la categoría o nivel que deberán asumir
+en los procedimientos que se establezcan;
+e) Ejercer la superintendencia sobre todos los registros patrimoniales que se encuentren
+bajo su supervisión;
+f) Supervisar el cumplimiento de las normas que rijan en materia de administración de
+bienes;
+g) Realizar las inspecciones que permitan verificar el correcto manejo y preservación de
+los bienes del Municipio; y
+h) Organizar anualmente el recuento físico de los bienes existentes en el Municipio.
+
+-- 49 of 60 --
+
+
+
+-- 50 of 60 --
+
+65
+CAPITULO VIII - EL SISTEMA DE INVERSION PUBLICA
+ARTICULO 136.- El Sistema de Inversión Pública está compuesto por el conjunto de
+órganos, normas, procedimientos y metodologías que regulan las actividades de
+captación, estudio, selección, ejecución y evaluación de los proyectos de inversión
+pública, así como la creación y actualización permanente de un banco de proyectos de
+inversión pública municipal.
+ARTICULO 137.- El concepto de inversión pública municipal comprende toda aplicación
+de recursos provenientes del Presupuesto Municipal destinado a incrementar, mejorar o
+reponer las existencias de capital físico, a través de la compra o de la construcción, con
+el objeto de ampliar la capacidad del Municipio, por sí o a través de entidades de bien
+público, para la prestación de servicios o producción de bienes.
+ARTICULO 138.- Cada Municipio designará una oficina o un responsable, en calidad de
+órgano rector, que deberá coordinar el proceso de captación, formulación, selección,
+ejecución y evaluación ex post de los proyectos de inversión, así como la incorporación de
+los mismos en un Banco de Proyectos que deberá informar el grado de avance de cada
+uno de ellos.
+ARTICULO 139.- El Departamento Ejecutivo elaborará y presentará al Concejo
+Deliberante, simultáneamente con el Proyecto de Presupuesto, el Programa Plurianual de
+Proyectos de Inversión, el cual estará constituido por aquellos proyectos que, una vez
+concluidos satisfactoriamente los estudios correspondientes, hayan sido seleccionados
+para su realización por haberse ajustado a las prioridades del Gobierno Municipal y contar
+con las previsiones de recursos necesarios para su ejecución.
+ARTICULO 140.- El gasto que demande el primer año del Programa Plurianual de
+Inversión deberá coincidir con el Presupuesto Anual de Inversión Pública incluido en el
+proyecto de ordenanza de Presupuesto a ser remitido al Concejo Deliberante. Los gastos
+que deban realizarse con motivo de la formulación, evaluación y dirección de los
+proyectos, así como los gastos de funcionamiento necesarios para la operación de los
+proyectos serán incluidos dentro de la mencionada ordenanza como gastos corrientes.
+
+-- 51 of 60 --
+
+66
+ARTICULO 141.- La oficina o el responsable de la gestión de la inversión pública deberá
+promover la presentación de iniciativas de proyectos en todos los ámbitos públicos y
+privados del Municipio. Dicha información deberá sistematizarse de acuerdo al formulario
+cuyo modelo e instructivo se adjunta, como Anexo 70, al presente artículo.
+ARTICULO 142.- Las iniciativas incluidas en el Banco de Proyectos que vayan a formar
+parte del Programa Plurianual de Inversión deberán contar, al menos, con un análisis que
+abarquen el nivel de factibilidad, de modo tal que toda inversión se base en un proyecto
+estudiado y evaluado con metodologías adecuadas y homogéneas entre sí.
+ARTICULO 143.- El gasto asignado a las actividades de formulación y análisis de los
+proyectos deberá programarse y evaluarse de acuerdo a lo establecido en los formularios
+cuyos modelos e instructivos se adjuntan, como Anexos 71 a 77, al presente artículo.
+ARTICULO 144.- Los nuevos proyectos que resulten seleccionados para integrar el
+Programa Plurianual de Inversión Pública deberán especificar el responsable de la
+ejecución, las fechas programadas para licitar, adjudicar y contratar las obras y
+adquisición de equipos, las fuentes de financiamiento que deben solventar los gastos y el
+impacto de los mismos en el presupuesto de los gastos corrientes de los ejercicios
+futuros. La información correspondiente deberá sistematizarse de acuerdo a lo que se
+establecen en los formularios cuyos modelos e instructivos se adjuntan, como Anexos 78
+a 80, al presente artículo.
+ARTICULO 145.- Las licitaciones y adjudicaciones que deban llevarse a cabo para
+ejecutar los proyectos de inversión incluidos en el Programa Plurianual de Inversiones se
+regirán de acuerdo a lo establecido en la sección II del capitulo VI de las presentes
+disposiciones.
+ARTICULO 146.- El responsable de la ejecución de las obras deberá realizar las
+actividades que hacen al seguimiento físico y financiero del proyecto, el análisis de los
+desvíos, la reprogramación de las obras, si correspondiera, y la evaluación de la ejecución
+del proyecto al verificarse la recepción definitiva de las obras de acuerdo a los formularios
+cuyos modelos e instructivos se adjuntan, como Anexos 81 a 84, al presente artículo.
+
+-- 52 of 60 --
+
+67
+ARTICULO 147.- Una vez finalizada las obras, el área encargada de la operación del
+mismo designará el responsable de la evaluación ex post, quien trimestralmente
+recopilará información sobre el proyecto y la volcará en un informe anual, durante un
+período de cinco años, en los términos que establecen los Anexos 85 y 86 al presente
+artículo.
+ARTICULO 148.- La oficina o el responsable que actúe en calidad de órgano rector del
+Sistema de Inversión Pública tendrá las siguientes competencias:
+a) Dictar las normas y procedimientos a utilizar en la identificación, formulación,
+selección, ejecución y evaluación de los proyectos de inversión pública;
+b) Identificar, registrar y mantener actualizado un inventario de proyectos de inversión
+pública de cada área de gobierno municipal en los distintos grados de avance;
+c) Supervisar las actividades concernientes a la licitación y adjudicación de los estudios
+de preinversión;
+d) Identificar las posibles fuentes de financiamiento disponibles para solventar los
+proyectos de inversión;
+e) Elaborar las propuestas de Programas Plurianuales de Inversión Pública y someterlas
+a consideración del Gabinete del Departamento Ejecutivo;
+f) Coordinar conjuntamente con la Oficina Municipal de Presupuesto la formulación del
+presupuesto de gastos de inversión pública, el presupuesto de gastos de preinversión
+y de los gastos operativos para el funcionamiento de los nuevos proyectos, así como
+la programación trimestral de dichos gastos;
+g) Supervisar las actividades desarrolladas en la etapa de ejecución de los proyectos
+referidas a la licitación, adjudicación y contratación de las obras, así como las tareas
+relativas al control físico y financiero de las mismas; y
+h) Supervisar el cumplimiento de las tareas referidas a la evaluación ex post de los
+proyectos de inversión.
+
+-- 53 of 60 --
+
+
+
+-- 54 of 60 --
+
+69
+CAPITULO IX - EL SISTEMA DE ADMINISTRACION DE PERSONAL
+ARTICULO 149.- El Sistema de Administración de Personal está compuesto por el
+conjunto de órganos, técnicas, métodos y procedimientos utilizados para captar, registrar,
+procesar, exponer y regular el movimiento de cargos y agentes, así como la aplicación de
+los recursos humanos al proceso productivo de la administración centralizada y
+descentralizada del Municipio.
+ARTICULO 150.- El Sistema de Administración de Personal proporcionará información
+relativa a:
+a) Formulación del presupuesto de los gastos en personal;
+b) Ejecución de las partidas presupuestarias de los gastos en personal y la liquidación de
+los haberes; y
+c) Evaluación de la ejecución presupuestaria de los gastos en personal.
+La información relativa al apartado b) se conformará en función de los formularios cuyos
+modelos e instructivos se adjuntan, como Anexos 87 a 90, al presente artículo.
+ARTICULO 151.- En la etapa de formulación del presupuesto de los gastos en personal
+deberán estimarse los recursos humanos en términos físicos, con el objeto de determinar
+los planteles básicos y la dotación requerida para llevar a cabo los programas y
+actividades planeados, así como los valores retributivos para los cargos que se incluyan
+en los respectivos escalafones.
+ARTICULO 152.- En la etapa de ejecución de los gastos en personal, el Sistema de
+Administración de Personal tendrá las siguientes responsabilidades:
+a) Captar las novedades referidas al movimiento de cargos y agentes, aplicación de
+personal y escalas retributivas, con repercusión tanto estadística como así en las
+liquidaciones de los haberes;
+b) Elaborar y supervisar la confección de informes estadísticos sobre recursos humanos;
+c) Efectuar las liquidaciones de las retribuciones del personal.
+
+-- 55 of 60 --
+
+70
+ARTICULO 153.- En la etapa de la evaluación de la ejecución presupuestaria de los
+gastos en personal, deberán producirse informes en los cuales se reflejen los desvíos
+incurridos entre los niveles presupuestados y ejecutados de tales gastos, se identifiquen
+las causas de los mismos y se sugieran las correcciones pertinentes.
+ARTICULO 154.- La Dirección Municipal de Personal será el órgano rector del Sistema y
+como tal coordinará el funcionamiento de todas las unidades o dependencias vinculadas
+con la administración de los recursos humanos del Municipio.
+ARTICULO 155.- La Dirección Municipal de Personal tendrá las siguientes
+responsabilidades:
+a) Participar en la elaboración de los objetivos y políticas sobre recursos humanos que
+para la Administración Municipal elabore el Departamento Ejecutivo, así como en la
+determinación del presupuesto de los gastos en personal;
+b) Captar, procesar y exponer los movimientos que afectan los recursos humanos tanto
+en sus aspectos físicos como retributivos;
+c) Controlar la asistencia y prestación de los servicios de los agentes empleados por el
+Municipio;
+d) Coordinar y ejecutar el proceso de liquidación de las retribuciones del personal del
+Municipio;
+e) Evaluar la ejecución presupuestaria del gasto en personal mediante el seguimiento de
+los planes y programas en su ámbito de incumbencia;
+f) Elaborar los anteproyectos que regulen los deberes y derechos del personal afectado
+al servicio de la Municipalidad, incluyendo en los mismos los requisitos e
+impedimentos para su ingreso, la naturaleza de la relación de empleo, y el régimen
+disciplinario;
+g) Atender la demanda de capacitación en el ámbito del Municipio y coordinar el dictado
+de cursos sobre temas de su competencia; y
+h) Elaborar informes y estadísticas consolidados sobre los movimientos y aplicación de
+los recursos humanos.
+
+-- 56 of 60 --
+
+71
+CAPITULO X – EL SISTEMA DE ADMINISTRACION DE INGRESOS PUBLICOS
+ARTICULO 156.- El Sistema de Administración de Ingresos Públicos está compuesto por
+el conjunto de órganos, normas y procedimientos que regulan las operatorias derivadas
+de las obligaciones fiscales de los contribuyentes establecidas en las ordenanzas
+correspondientes.
+ARTICULO 157.- La Oficina de Ingresos Públicos será el órgano rector del sistema de
+Administración de Ingresos Públicos. Dicha Oficina tendrá las siguientes competencias:
+a) Brindar la información que el Departamento Ejecutivo requiera, a los efectos de
+confeccionar el proyecto de Ordenanza Fiscal y de Ordenanza Impositiva para su
+consideración y posterior sanción, por parte del Concejo Deliberante y la Asamblea de
+Mayores Contribuyentes;
+b) Realizar las estimaciones del cálculo de recursos, en lo concerniente a la percepción
+de los recursos municipales emergentes de las obligaciones fiscales de los
+contribuyentes, a incluir en el proyecto de Presupuesto para su consideración por
+parte del Concejo Deliberante;
+c) Participar, conjuntamente con la Oficina de Presupuesto en la elaboración de la
+programación de los gastos de compromiso, y conjuntamente con la Tesorería en la
+programación de caja, proporcionando las estimaciones de aquellos recursos que
+estén bajo su administración;
+d) Realizar el cálculo del devengado de cada una de las obligaciones fiscales, según los
+períodos establecidos, que permita la impresión de los comprobantes, de modo tal que
+los contribuyentes los reciban en tiempo y forma como para poder realizar sus pagos;
+e) Estudiar y desarrollar propuestas de modificaciones a los procedimientos generales y
+particulares de la gestión de los sistemas administrativos de la percepción de las
+rentas municipales;
+f) Llevar a cabo todo lo concerniente a la organización, gestión y seguimiento de los
+procedimientos de cobranzas de las obligaciones fiscales;
+g) Conciliar y registrar, en una base de datos, los pagos informados por la Tesorería,
+imputando los valores ingresados, cancelando total o parcialmente los montos de los
+períodos devengados por las obligaciones fiscales;
+h) Desarrollar líneas de acción para el establecimiento de regímenes especiales de pago
+
+-- 57 of 60 --
+
+72
+tendientes al recupero de deudas de los contribuyentes;
+i) Desarrollar y ejecutar propuestas de fiscalización del cumplimiento de las obligaciones
+fiscales;
+j) Suministrar toda información que sea requerida, a los efectos de que el área
+correspondiente pueda gestionar y controlar los procesos de cobranzas mediante la
+vía de apremio.
+ARTICULO 158.- El Municipio deberá confeccionar, para cada uno de los contribuyentes,
+una Cuenta Corriente que exponga en forma permanente la situación de los mismos
+respecto de todas las obligaciones fiscales que mantenga con la Comuna. En dicha
+Cuenta deberá individualizarse al contribuyente mediante una clave única de identificación
+en todo el ámbito municipal (CUIM), que utilice la clave de identificación tributaria o laboral
+del mismo en el ámbito nacional (C.U.I.T. o C.U.I.L.), y asentarse los débitos y créditos
+que reflejen, respectivamente, la emisión de dichas obligaciones y la cancelación de las
+mismas.
+ARTICULO 159.- En la percepción de los ingresos que administre el Sistema de
+Administración de Ingresos Públicos deberá utilizarse un comprobante de pago, conforme
+al formulario cuyo modelo e instructivo se adjunta, como Anexo 91, al presente artículo. A
+los efectos de facilitar el reparto de dichos comprobantes, los mismos se ordenarán por
+Lotes de Reparto, en los cuales deberá registrarse la composición de cada lote
+identificando individualmente los comprobantes que lo integran.
+Cuando por necesidades operativas se requiera la utilización de comprobantes sin
+valorización previa, los mismos deberán identificarse con códigos de lote e individualizar
+el agente recaudador.
+ARTICULO 160.- La Oficina de Ingresos Públicos tendrá en su base de datos un registro
+o padrón de los hechos imponibles, por cada una de las obligaciones de carácter fiscal,
+consistentes en tasas, derechos y demás contribuciones que cada Municipalidad
+establezca. Dicha base contendrá toda la información necesaria para el cálculo de las
+obligaciones fiscales.
+ARTICULO 161.- La Oficina de Ingresos Públicos deberá determinar en forma
+permanente el monto actualizado de deuda fiscal que mantengan los contribuyentes con
+
+-- 58 of 60 --
+
+73
+la Comuna, a los efectos de contar con la información necesaria para hacer uso de las
+facultades otorgadas por el artículo 130 bis de la Ley Orgánica de las Municipalidades.
+ARTICULO 162.- El Municipio deberá notificar a los contribuyentes, con una periodicidad
+mínima de 6 (seis) meses, el estado de deuda que éstos mantengan con la Comuna a los
+efectos de procurar la disminución de las obligaciones fiscales impagas e interrumpir la
+prescripción por el transcurso de los plazos establecidos en el artículo 278 de la Ley
+Orgánica de las Municipalidades.
+En dicha notificación deberá incluirse:
+a) Los conceptos, períodos y montos de las deudas que el Municipio reclama.
+b) El detalle de accesorios, si así correspondiere (multas, recargos e intereses).
+c) Las normas legales aplicables.
+d) Un texto por el cual se intime al contribuyente a presentarse al Municipio, dentro de un
+plazo estipulado, a fin de cumplir con las obligaciones fiscales reclamadas o, en su
+defecto, para aportar pruebas sobre aquellos cargos y/o períodos sobre los que se
+considere que no debe registrarse deuda alguna.
+e) La comunicación de que, ante la falta de presentación del contribuyente, se iniciará el
+procedimiento de cobro por vía de apremio.
+La notificación deberá cursarse al domicilio fiscal del contribuyente o, en su defecto, al
+domicilio real del mismo.
+ARTICULO 163.- El documento utilizado para proceder a la ejecución de las deudas de
+los contribuyentes deberá generarse sobre la base de las liquidaciones realizadas a partir
+de la base de datos obrante en la Oficina de Ingresos Públicos. Dicho documento deberá
+estar certificado por el Contador y autorizado por el Intendente o el funcionario que, a
+tales efectos, éste designe.
+ARTICULO 164.- La Oficina de Ingresos Públicos tendrá en su base de datos un registro
+o padrón de Contribuyentes responsables del pago de cada una de las Obligaciones
+Fiscales establecidas por Ordenanza Municipal. Dicha base deberá contener todos los
+datos identificatorios personales y postales de cada uno de ellos.
+
+-- 59 of 60 --
+
+74
+ARTICULO 165.- Las devoluciones de sumas pagadas indebidamente por los
+contribuyentes serán resueltas por el Departamento Ejecutivo previa intervención de la
+Oficina de Ingresos Públicos.
+Los egresos que dieren origen dichas devoluciones, serán imputados a las pertinentes
+cuentas del cálculo de recursos, cuando se trate de sumas percibidas en el ejercicio
+corriente. Las devoluciones correspondientes a sumas ingresadas en ejercicios vencidos,
+serán imputadas a la partida que al efecto contenga el presupuesto vigente o a la que se
+le incorpore con financiación ajustada a los artículos 119 y/o 120 de la Ley Orgánica de
+las Municipalidades
+Cuando el contribuyente tenga saldos adeudados de ejercicios anteriores se deberá
+considerar la imputación de dichas sumas como cancelación total o pagos a cuenta de los
+períodos adeudados.
+ARTICULO 166.- Al finalizar cada año la Oficina de Ingresos Públicos elaborará un plan
+de fiscalización, del debido cumplimiento de las Obligaciones Fiscales, a ser
+implementado durante el ejercicio siguiente.
+
+-- 60 of 60 --
+

@@ -1,0 +1,85 @@
+Municipalidad de General Pueyrredon
+2026
+Decreto Firma Conjunta
+Número:
+Referencia: DECRETO - Sistema Digital de Licencias Médicas - EX-2024-00780042- -MUNIMDP-DVA#SLTH
+VISTO el presente expediente electrónico EX-2024-00780042- -MUNIMDP-DVA#SLTH, y
+CONSIDERANDO
+Que ha sido ratificada la “Plataforma de Novedades Diarias del Personal” aprobada oportunamente mediante
+RESOL-2024-161-E-MUNIMDP-SLTH y se formalizó su implementación a partir del 01 de junio de 2026, en el
+ámbito de la Administración Central y los Entes Municipales de Deportes y Recreación, de Turismo y Cultura, de
+Vialidad y Alumbrado Público y de Servicios Urbanos.
+Que la referida plataforma fue creada con el objeto de modernizar la Administración Pública Municipal mejorando
+la celeridad en los trámites y gestiones administrativas, reduciendo costos y tiempos, facilitando el acceso a la
+información, constituyendo de este modo una herramienta de fundamental importancia.
+Que su arquitectura funcional permite la incorporación de nuevos módulos integrados por lo que se ha impulsado el
+desarrollo del “Sistema Digital de Licencias Médicas de la Municipalidad de General Pueyrredon” – “SDLM-
+MGP”.
+
+-- 1 of 5 --
+
+Que la implementación de este módulo permitirá la gestión integral de las licencias médicas de todo el personal
+municipal, garantizando un proceso expeditivo, auditable, con plena integridad de datos, resguardando la
+confidencialidad de la información.
+Que la nueva funcionalidad dota al sistema de una mayor trazabilidad, permitiendo que la tramitación de las
+licencias médicas se efectúe bajo estándares de rigurosidad técnica, transparencia administrativa, asegurando que el
+otorgamiento de las mismas sea un procedimiento dinámico, seguro y verificable en tiempo real.
+Que la puesta en marcha del nuevo módulo “SDLM-MGP” requiere del dictado de una reglamentación específica
+que establezca las normas de procedimiento, determine las responsabilidades de uso por parte de los agentes
+municipales y las condiciones de operatividad, garantizando su correcta aplicación administrativa de acuerdo a lo
+normado en la Ley 14.656.
+Que en tal sentido se procedió a la elaboración del “Manual Reglamentario, Técnico-Operativo - Sistema Digital de
+Licencias Médicas Municipalidad de General Pueyrredon”, el cual como Anexo I se embebe al presente.
+Que en consecuencia corresponde derogar el Decreto Nº 848/2000 y toda normativa interna previa que resulte
+incompatible con el régimen digital implementado mediante el presente Decreto.
+Que obran en el presente expediente las notas elevadas por el Departamento Medicina del Trabajo dependiente de la
+Dirección Recursos Humanos de la Dirección General de Recursos Humanos, a fin de incorporar la información
+técnica necesaria para la tramitación de las diversas licencias médicas a través de la mencionada plataforma.
+Que en orden 57 la Subsecretaría de Gobierno Digital y Mejoras de Procesos informa respecto a la funcionalidad y
+validaciones operativas del Sistema Digital de Licencias Médicas.
+Que el Departamento de Planificación y Monitoreo en PV-2026-00321684-MUNIMDP-DTPM#SASG de orden 59,
+informa que se ha capacitado a todo el personal del Departamento Medicina del Trabajo, como así también sobre las
+pruebas realizadas con el personal jerárquico de los Entes Descentralizados.
+Que la Dirección Dictámenes interviene en orden 64 emitiendo dictamen legal correspondiente.
+
+-- 2 of 5 --
+
+Que resulta procedente aprobar el nuevo módulo “Sistema Digital de Licencias Médicas de la Municipalidad de
+General Pueyrredon” incorporado en la Plataforma de Novedades Diarias de Personal, y su Manual Reglamentario,
+Técnico-Operativo.
+Que se considera oportuno implementar la prueba piloto de ambos a partir del 01 de junio de 2026 en el ámbito de
+la Administración Central y sus entes descentralizados
+Por ello, en uso de las facultades que le son propias,
+EL INTENDENTE MUNICIPAL
+D E C R E T A
+ARTÍCULO 1°.- Apruébase el módulo “Sistema Digital de Licencias Médicas de la Municipalidad de General
+Pueyrredon” – “SDLM-MGP” incorporado en la Plataforma de Novedades Diarias del Personal en virtud de los
+fundamentos expuestos en el exordio.
+ARTICULO 2º.- Impleméntase la prueba piloto del módulo mencionado precedentemente a partir del 01 de junio de
+2026, en el ámbito de la Administración Central, y los Entes Municipales de Deportes y Recreación, de Turismo y
+Cultura, de Vialidad y Alumbrado Público y de Servicios Urbanos.
+ARTÍCULO 3°.- Apruébase el “Manual Reglamentario, Técnico-Operativo - Sistema Digital de Licencias Médicas
+Municipalidad de General Pueyrredon” que como Anexo I forma parte integrante del presente.
+ARTICULO 4º.- Impleméntase la prueba piloto del Manual mencionado precedentemente a partir del 01 de junio de
+2026, en el ámbito de la Administración Central, y los Entes Municipales de Deportes y Recreación, de Turismo y
+Cultura, de Vialidad y Alumbrado Público y de Servicios Urbanos.
+ARTÍCULO 5°.- Desígnase a la Dirección General de Recursos Humanos como autoridad de aplicación en la
+materia, la que quedará habilitada para promover el dictado de los actos administrativos pertinentes, fijar plazos y
+fechas a los fines de dar continuidad a la iniciativa, auditar, controlar el funcionamiento, y toda otra acción
+necesaria para la concreción de la propuesta.
+
+-- 3 of 5 --
+
+ARTÍCULO 6º.- Derógase, el Decreto N° 0848/2000 y toda normativa interna previa que resulte incompatible con
+el régimen digital implementado mediante el presente Decreto a partir del 01 de junio de 2026.
+ARTÍCULO 7º.- El presente Decreto será refrendado por señores Secretarios Legal, Técnico y de Hacienda, de
+Participación Ciudadana y Descentralización, y los señores Presidentes de los Entes Municipales de Deportes y
+Recreación, de Turismo y Cultura, de Vialidad y Alumbrado Público y de Servicios Urbanos.
+ARTÍCULO 8°.- Regístrese, dese al Boletín Municipal y comuníquese por la Dirección de Recursos Humanos.
+
+-- 4 of 5 --
+
+
+
+-- 5 of 5 --
+
