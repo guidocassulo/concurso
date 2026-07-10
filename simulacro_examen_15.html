@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulacro de Examen Nº 15 - Municipalidad de Gral. Pueyrredón</title>
+    <!-- MathJax for rendering LaTeX formulas -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <style>
+        :root {
+            --primary: #0077c2;
+            --primary-dark: #005b94;
+            --accent: #e3f2fd;
+            --text: #333333;
+            --text-muted: #666666;
+            --bg: #f5f7fa;
+            --card-bg: #ffffff;
+            --border: #e0e0e0;
+            --success: #2e7d32;
+            --shadow: 0 4px 6px rgba(0,0,0,0.05), 0 1px 3px rgba(0,0,0,0.1);
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primary: #4fc3f7;
+                --primary-dark: #0288d1;
+                --accent: #1a237e;
+                --text: #e0e0e0;
+                --text-muted: #aaaaaa;
+                --bg: #121212;
+                --card-bg: #1e1e1e;
+                --border: #333333;
+                --success: #81c784;
+                --shadow: 0 4px 6px rgba(0,0,0,0.3);
+            }
+        }
+
+        body {
+            font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+            color: var(--text);
+            background-color: var(--bg);
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: var(--primary-dark);
+            color: white;
+            padding: 20px 40px;
+            box-shadow: var(--shadow);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 1.5rem;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
+
+        header .subtitle {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        .exam-card {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: var(--shadow);
+            padding: 40px;
+            border: 1px solid var(--border);
+            margin-bottom: 20px;
+        }
+
+        h1, h2, h3 {
+            color: var(--primary-dark);
+        }
+
+        h2 {
+            color: var(--primary);
+            border-bottom: 2px solid var(--primary);
+            padding-bottom: 8px;
+            margin-top: 40px;
+        }
+
+        h3 {
+            color: var(--text);
+            margin-top: 30px;
+            border-left: 4px solid var(--primary);
+            padding-left: 12px;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        details {
+            background-color: var(--accent);
+            border-left: 4px solid var(--primary);
+            border-radius: 4px;
+            margin: 20px 0;
+            padding: 15px;
+            transition: all 0.3s ease;
+        }
+
+        details[open] {
+            box-shadow: var(--shadow);
+            background-color: var(--card-bg);
+            border: 1px solid var(--border);
+            border-left: 4px solid var(--primary);
+        }
+
+        summary {
+            font-weight: bold;
+            cursor: pointer;
+            outline: none;
+            user-select: none;
+            color: var(--primary-dark);
+            padding: 5px 0;
+        }
+
+        summary:hover {
+            color: var(--primary);
+        }
+
+        details p, details ul {
+            margin-top: 15px;
+        }
+
+        .actions {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            justify-content: flex-end;
+        }
+
+        .btn {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            text-decoration: none;
+            transition: background-color 0.2s;
+            font-size: 0.9rem;
+        }
+
+        .btn:hover {
+            background-color: var(--primary-dark);
+        }
+
+        .btn-secondary {
+            background-color: transparent;
+            color: var(--primary);
+            border: 1px solid var(--primary);
+        }
+
+        .btn-secondary:hover {
+            background-color: var(--accent);
+            color: var(--primary-dark);
+        }
+
+        .score-calculator {
+            margin-top: 40px;
+            padding: 20px;
+            background-color: var(--accent);
+            border-radius: 6px;
+            border: 1px solid var(--border);
+        }
+
+        .score-input {
+            width: 60px;
+            padding: 5px;
+            border-radius: 4px;
+            border: 1px solid var(--border);
+            text-align: center;
+            font-weight: bold;
+            background: var(--card-bg);
+            color: var(--text);
+        }
+
+        .score-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .score-total {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-top: 15px;
+            border-top: 1px dashed var(--border);
+            padding-top: 15px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        blockquote {
+            background: var(--accent);
+            border-left: 4px solid var(--primary);
+            margin: 1.5em 10px;
+            padding: 10px 20px;
+            font-style: italic;
+        }
+
+        @media print {
+            body {
+                background-color: white;
+                color: black;
+            }
+            header, .actions, .score-calculator, summary::-webkit-details-marker, details summary {
+                display: none !important;
+            }
+            .exam-card {
+                box-shadow: none !important;
+                border: none !important;
+                padding: 0 !important;
+            }
+            details {
+                background-color: transparent !important;
+                border: none !important;
+                border-left: 2px solid #333 !important;
+                page-break-inside: avoid;
+            }
+            details[open] {
+                border: none !important;
+                border-left: 2px solid #333 !important;
+            }
+            h2, h3 {
+                page-break-after: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div>
+            <h1>MUNICIPALIDAD DE GENERAL PUEYRREDON</h1>
+            <div class="subtitle">Sistemas de Software - MGP</div>
+        </div>
+        <div>
+            <span class="subtitle">Simulacro de Examen Nº 15</span>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="actions">
+            <button class="btn btn-secondary" onclick="window.print()">Imprimir Examen / PDF</button>
+            <button class="btn btn-secondary" onclick="toggleAnswers(true)">Mostrar Respuestas</button>
+            <button class="btn btn-secondary" onclick="toggleAnswers(false)">Ocultar Respuestas</button>
+        </div>
+
+        <div class="exam-card">
+            <h1>SIMULACRO DE EXAMEN Nº 15 (IDÉNTICO AL EXAMEN DE PRUEBA OFICIAL)</h1>
+<p><strong>Cargo:</strong> Jefe de Departamento de Soporte de Tecnologías de Información<br><strong>Puntaje Máximo:</strong> 35 Puntos<br><strong>Tiempo Límite:</strong> 3 Horas  </p>
+<hr>
+<h2>CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)</h2>
+<p><em>Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.</em></p>
+<h3>1. La Administración local de los Partidos que forman la Provincia estará a cargo de una Municipalidad compuesta por los siguientes poderes:</h3>
+<ul>
+<li>a) un Departamento Ejecutivo, desempeñado por un ciudadano con el título de Intendente, un Departamento Deliberativo, desempeñado por ciudadanos con el título de Concejal, y un Departamento Judicial desempeñado por ciudadanos con el título de Jueces de Faltas.</li>
+<li>b) un Departamento Ejecutivo, desempeñado por un ciudadano con el título de Intendente, un Departamento Deliberativo, desempeñado por ciudadanos con el título de Concejal.</li>
+<li>c) un Departamento Ejecutivo, desempeñado por un ciudadano con el título de Intendente.</li>
+<li>d) ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>2. El patrimonio municipal está constituido exclusivamente por:</h3>
+<ul>
+<li>a) bienes muebles e inmuebles, y donaciones y legados aceptados.</li>
+<li>b) bienes inmuebles, muebles, semovientes, créditos, títulos y acciones, y donaciones y legados aceptados.</li>
+<li>c) bienes inmuebles, muebles, donaciones y legados aceptados, y todas las parcelas comprendidas en el área urbana que pertenezcan al Estado por dominio eminente o cuyo propietario se ignore.</li>
+<li>d) ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>3. El Tribunal de Cuentas podrá imponer a funcionarios y empleados, según la L.O.M., las siguientes sanciones:</h3>
+<ul>
+<li>a) solamente llamados de atención y amonestaciones.</li>
+<li>b) solamente inhabilitación para el ejercicio de empleo municipal.</li>
+<li>c) solamente cargos pecuniarios.</li>
+<li>d) cargos pecuniarios y multas exclusivamente.</li>
+<li>e) cargos pecuniarios, llamados de atención, amonestaciones, y otros.</li>
+<li>f) ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>4. Una Ordenanza es una norma legal:</h3>
+<ul>
+<li>a) emanada del Intendente Municipal, del Honorable Concejo Deliberante como cuerpo o de su Presidente, en sus áreas de competencia y en ejercicio de sus funciones, se registran con una nueva numeración cada año calendario.</li>
+<li>b) sobre un determinado asunto que adopta un Subsecretario, Delegado, Director General o nivel jerárquico de Director, Jefe de Departamento o Jefe de División.</li>
+<li>c) sancionada por el Departamento Deliberativo de acuerdo con las atribuciones de la Constitución Provincial y la Ley Orgánica de las Municipalidades.</li>
+<li>d) Sancionada por el Departamento Deliberativo de acuerdo con las atribuciones de la Constitución Provincial y la Ley Orgánica de las Municipalidades, se registran con una nueva numeración cada año calendario.</li>
+<li>e) decisión sobre un asunto determinado que adopta un Secretario del Departamento Ejecutivo o Presidente de Ente Descentralizado, en virtud de sus atribuciones específicas o de las que le han sido delegadas mediante acto administrativo pertinente, se registran con una numeración diferente cada año.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>5. Para la redacción de documentación administrativa, según la normativa vigente, los nombres de las personas cualquiera sea su categoría, se escriben de la siguiente manera:</h3>
+<ul>
+<li>a) se escribirán completos con letras mayúsculas y siempre en un orden, es decir, primero los apellidos y luego los nombres, cuando se mencionan nombres de agentes municipales, se consignará delante, el número de legajo.</li>
+<li>b) se escribirán completos con letras mayúsculas y siempre en un orden, es decir, primero los apellidos y luego los nombres, cuando se mencionan nombres de agentes municipales, se consignará a continuación, el número de legajo.</li>
+<li>c) se escribirán completos con letras mayúsculas y siempre en un orden, es decir, primero los nombres y luego los apellidos, cuando se mencionan nombres de agentes municipales, se consignará a continuación, el número de legajo.</li>
+<li>d) ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>6. En relación a los expedientes digitales:</h3>
+<ul>
+<li>a) podrán abarcar un número de orden que no excedan de doscientos (200). Cada uno de ellos, además, podrá tener tantos documentos adjuntos como soporte el tipo de documento seleccionado. Los mismos formarán parte de la actuación principal y tendrán el mismo valor legal.</li>
+<li>b) podrán abarcar un número de orden ilimitado. Cada uno de ellos, además, podrá tener tantos documentos adjuntos como soporte el tipo de documento seleccionado. Los mismos formarán parte de la actuación principal y tendrán el mismo valor legal.</li>
+<li>c) podrán abarcar un número de orden ilimitado. Cada uno de ellos, además, podrá tener tantos documentos adjuntos como soporte el tipo de documento seleccionado. Los mismos formarán parte de la actuación principal y tendrán el mismo valor legal (pero limitando a 10 documentos).</li>
+<li>d) ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>7. Un empleado a su cargo se encuentra sumariado, pero dicho sumario se encuentra a la fecha sin resolución definitiva. Le presenta una solicitud de reencasillamiento de su cargo de técnico II a técnico III. Usted como jefe:</h3>
+<ul>
+<li>a) rechaza la solicitud que le presenta.</li>
+<li>b) acepta la solicitud que le presenta y le da curso.</li>
+<li>c) acepta la solicitud que le presenta, pero no le da curso hasta la resolución del sumario.</li>
+<li>d) ninguna de las anteriores.</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>8. Un empleado a su cargo que está designado para la atención del soporte del CEMA, tiene una discusión con un empleado administrativo y le falta el respeto, lo cual se encuentra debidamente acreditado con testigos. Usted como Jefe del Área qué sanciones posibles puede aplicarle:</h3>
+<ul>
+<li>a) llamado de atención</li>
+<li>b) llamado de atención o apercibimiento</li>
+<li>c) suspensión hasta 10 días</li>
+<li>d) suspensión hasta 5 días</li>
+<li>e) llamado de atención, apercibimiento o suspensión hasta 5 días</li>
+<li>f) descuento del día trabajado de sus haberes</li>
+<li>g) ninguna de las anteriores</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>9. Un empleado a su cargo llega 12 minutos tarde posteriores al horario de inicio de su jornada laboral por primera vez desde su ingreso al municipio. Usted como Jefe del Área qué sanciones posibles puede aplicarle:</h3>
+<ul>
+<li>a) llamado de atención</li>
+<li>b) llamado de atención o apercibimiento</li>
+<li>c) suspensión hasta 30 días</li>
+<li>d) descuento del día trabajado de sus haberes</li>
+<li>e) ninguna de las anteriores</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h3>10. Un empleado a su cargo llega 40 minutos tarde posteriores al horario de inicio de su jornada laboral. Dicho agente:</h3>
+<ul>
+<li>a) puede quedarse a prestar servicios</li>
+<li>b) puede quedarse a prestar servicios siempre que la situación sea por fuerza mayor y debidamente justificada</li>
+<li>c) no puede quedarse a prestar servicios</li>
+<li>d) ninguna de las anteriores</li>
+</ul>
+<p><strong>Fundamento Normativo:</strong> __________________________________________________________________</p>
+<hr>
+<h2>CUESTION Nº 2: HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)</h2>
+<p><em>Consigna: Lea atentamente la situación planteada, responda los interrogantes y fundamente jurídicamente su respuesta.</em></p>
+<blockquote>
+<p>Un agente del Departamento de Sistemas se encuentra trasladando equipamiento informático por un pasillo recién limpiado y húmedo dentro de las oficinas del municipio. El agente resbala debido a la falta de señalización de piso mojado, cayendo fuertemente al suelo y sufriendo una <strong>fractura cerrada de cadera</strong>. Es trasladado de urgencia por los servicios médicos.</p>
+</blockquote>
+<p><strong>Se solicita:</strong></p>
+<ol>
+<li>Indique si la situación descrita configura un accidente de trabajo y fundamente su respuesta citando la norma correspondiente.</li>
+<li>Indique qué entidad u organismo es el responsable directo de brindar y financiar la cobertura médica integral, la rehabilitación y el pago de los haberes durante el período de incapacidad temporal del agente.</li>
+</ol>
+<hr>
+<h2>CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)</h2>
+<p><em>Consigna: Lea detenidamente el caso planteado y responda a los requerimientos.</em></p>
+<blockquote>
+<p>El Jefe de Departamento de Soporte de Tecnologías de la Información constata de forma fehaciente que un agente de su dependencia (Legajo Nº 88.888) no se encontraba en su puesto de trabajo en la oficina. Posteriormente, tras averiguaciones, se comprueba que el agente se había retirado sin autorización ni boleta de salida para realizar una tarea docente arancelada en un centro educativo universitario privado durante su horario laboral municipal. </p>
+<p>Teniendo en cuenta que la falta cometida es grave, pero que el agente no registra antecedentes desfavorables en toda su carrera municipal, usted decide aplicarle la sanción disciplinaria máxima que se encuentra facultado a disponer de forma directa.</p>
+</blockquote>
+<p><strong>Se solicita:</strong></p>
+<ol>
+<li>Indique el procedimiento a seguir a partir de la constatación de la falta y sus plazos (para descargo e interposición de recursos) bajo la Ley Provincial 14656. (1.5 Puntos)</li>
+<li>Redacte el acto administrativo (tipo <strong>Disposición</strong>) aplicando la sanción correspondiente al agente, respetando la estructura formal estándar. Indique además si la medida requiere dictamen legal previo obligatorio. (2.5 Puntos)</li>
+</ol>
+<hr>
+<h2>CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA LABORAL (4.5 Puntos)</h2>
+<p><em>Consigna: Responda los siguientes puntos fundamentando jurídicamente de acuerdo a la normativa vigentes.</em></p>
+<ol>
+<li><strong>Capacitación en Género y Promoción:</strong> Indique qué implicancias posee la capacitación obligatoria en género (Ley Micaela) sobre la carrera administrativa de los agentes municipales y fundamente con la norma correspondiente. (1.5 Puntos)</li>
+<li><strong>Sanciones por Incumplimiento:</strong> Indique si la afirmación <em>&quot;En todos los casos en que un agente municipal se niegue a realizar la capacitación obligatoria de la Ley Micaela es pasible de sanciones disciplinarias directas automáticas por el superior inmediato&quot;</em> es verdadera o falsa, y fundamente su respuesta con la norma correspondiente. (1.5 Puntos)</li>
+<li><strong>Diligencias del Superior ante Violencia de Género:</strong> Indique qué tres (3) principios de aplicación e interpretación y qué diligencias debe adoptar usted como superior jerárquico si recepciona una denuncia de una agente a su cargo motivada en violencia laboral por razón de género de acuerdo a la Ordenanza 24.271. (1.5 Puntos)</li>
+</ol>
+<hr>
+<h2>CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 Puntos c/u)</h2>
+<p><em>Consigna: Responda a los siguientes requerimientos basados en la bibliografía oficial del cargo.</em></p>
+<ol>
+<li><strong>Planificación de Procesos en la CPU:</strong> Explique qué es la planificación de procesos por parte del microprocesador y describa detalladamente el funcionamiento de los siguientes 5 algoritmos: <strong>FCFS</strong>, <strong>SJF</strong>, <strong>SRTF</strong>, <strong>Algoritmo por Prioridades</strong> y <strong>Round Robin (R.R.)</strong>.</li>
+<li><strong>Implantación de Software:</strong> Detalle y explique los 11 pasos del ciclo de implantación de un programa informático para su puesta en servicio en una organización.</li>
+<li><strong>Mantenimiento Informático:</strong> Explique los tres tipos de mantenimiento que deben realizarse en el parque informático de una organización (<strong>Predictivo</strong>, <strong>Preventivo</strong> y <strong>Correctivo</strong>), detallando sus subtipos o técnicas asociadas.</li>
+<li><strong>Modelo TCP/IP y Protocolos:</strong> Explique la función del modelo TCP/IP en la comunicación de red, describa sus cuatro capas lógicas y enumere los protocolos más utilizados en cada una de ellas.</li>
+<li><strong>Cálculo de Capacidad WLAN:</strong> Calcule el máximo número de usuarios que se pueden conectar de forma simultánea a una red inalámbrica WLAN con norma IEEE 802.11ac que funciona a 5 Ghz con ancho de banda de 80 Mhz, una tasa de transferencia de <strong>800 Mbps</strong>, si se quiere asegurar a cada usuario un ancho de banda medio dedicado de <strong>5 Mbps</strong>. Muestre la fórmula y cálculos empleados.</li>
+</ol>
+<hr>
+<hr>
+<h2>GUÍA DE RESPUESTAS Y SOLUCIONES EXPLICADAS (INFORMACIÓN OCULTA PARA AUTOEVALUACIÓN)</h2>
+<details>
+<summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary><h3>1. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), <strong>Artículo 1º</strong>. La administración local de los Partidos que forman la Provincia estará a cargo de una Municipalidad compuesta de un Departamento Ejecutivo, desempeñado por un ciudadano con el título de Intendente, y un Departamento Deliberativo, desempeñado por ciudadanos con el título de Concejal. La función judicial recae sobre la justicia de faltas local, pero esta no forma parte de los poderes de la municipalidad según la definición orgánica del Artículo 1º. <em>(📋 LOM - Art. 1º)</em></li>
+</ul>
+<h3>2. Respuesta Correcta: <strong>d</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículo 225º</strong>. Ninguna de las opciones anteriores es correcta porque la definición literal del Artículo 225º establece que el patrimonio se compone de los bienes muebles, inmuebles, semovientes, créditos, títulos y acciones adquiridos con fondos municipales, donaciones y legados aceptados, y parcelas urbanas de dueño desconocido. La adición de la palabra &quot;exclusivamente&quot; invalida las otras opciones al no ajustarse de manera taxativa a la ley. <em>(📋 LOM - Art. 225º)</em></li>
+</ul>
+<h3>3. Respuesta Correcta: <strong>e</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículo 243º</strong>. El Honorable Tribunal de Cuentas de la Provincia de Buenos Aires posee la facultad constitucional de auditar las cuentas municipales e imponer a los funcionarios y agentes las siguientes sanciones ante irregularidades: 1. Llamado de atención; 2. Amonestación; 3. Multa (de hasta el tope legal); y 4. Cargo pecuniario. <em>(📋 LOM - Art. 243º)</em></li>
+</ul>
+<h3>4. Respuesta Correcta: <strong>c</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Orgánica de las Municipalidades, <strong>Artículo 24º</strong>. Una Ordenanza es la norma de carácter general sancionada por el Departamento Deliberativo (Concejo Deliberante) en ejercicio de sus funciones legislativas locales delegadas por la Constitución Provincial y la LOM. <em>(📋 LOM - Art. 24º)</em></li>
+</ul>
+<h3>5. Respuesta Correcta: <strong>c</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>966/19 (Manual de Redacción Administrativa), Anexo I, Capítulo II, Inciso 16</strong>. Los nombres de las personas en las piezas documentales de la comuna se escribirán de forma completa con letras mayúsculas en el orden: nombres primero y luego los apellidos. En caso de agentes municipales, se colocará a continuación el número de legajo personal. <em>(📋 Decreto MGP 966/19)</em></li>
+</ul>
+<h3>6. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ordenanza Municipal Nº 26.348 (Procedimiento Administrativo), <strong>Anexo I, Capítulo III, Artículo 41º</strong>. Los expedientes digitales municipales no tienen límite físico de folios o cantidad de órdenes de documentos (número de orden ilimitado). Asimismo, los documentos adjuntos firmados digitalmente forman parte de la actuación principal con idéntica validez jurídica. <em>(📋 Ord. Municipal 26.348 - Art. 41º)</em></li>
+</ul>
+<h3>7. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Provincial 14.656 (Estatuto Municipal), <strong>Artículo 25º</strong>. El agente sometido a sumario administrativo o a proceso penal conserva el derecho a solicitar su reencasillamiento escalonario de carrera, el cual se le concederá con carácter condicional y supeditado a las resultas finales del sumario o causa judicial. <em>(📋 Ley 14.656 - Art. 25º)</em></li>
+</ul>
+<h3>8. Respuesta Correcta: <strong>e</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Ley Provincial 14.656, <strong>Artículos 105º y 106º</strong> en concordancia con el <strong>Decreto MGP 1539/18, Artículo 1º, Inciso c)</strong>. Ante una falta de respeto debidamente acreditada en servicio, el Jefe de Departamento se encuentra facultado para aplicar de forma directa amonestaciones, apercibimientos y suspensiones de hasta cinco (5) días corridos. <em>(📋 Ley 14.656 - Decreto MGP 1539/18)</em></li>
+</ul>
+<h3>9. Respuesta Correcta: <strong>e</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>121/18, Artículo 4º</strong>. La Dirección de Personal justifica de manera automática hasta un máximo de tres (3) franquicias mensuales de llegada tarde de hasta 15 minutos cada una. Al ser la primera tardanza de 12 minutos en el mes, no configura inasistencia ni es pasible de sanción disciplinaria directa. <em>(📋 Decreto MGP 121/18 - Art. 4º)</em></li>
+</ul>
+<h3>10. Respuesta Correcta: <strong>b</strong></h3>
+<ul>
+<li><strong>Fundamento Normativo:</strong> Decreto MGP <strong>121/18, Artículo 3º</strong>. La tolerancia máxima de ingreso biométrico tardío es de 30 minutos. Excedido ese plazo, el agente tiene prohibido ingresar a trabajar, computándosele inasistencia injustificada, a menos que existan causas de fuerza mayor debidamente justificadas y aceptadas por escrito por el superior jerárquico. <em>(📋 Decreto MGP 121/18 - Art. 3º)</em></li>
+</ul>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 2: Higiene, Seguridad y Riesgos del Trabajo</b></summary><h3>1. Configuración de Accidente de Trabajo:</h3>
+<p><strong>Sí, configura un Accidente de Trabajo.</strong></p>
+<ul>
+<li><strong>Fundamento Jurídico:</strong> De acuerdo con la <strong>Ley Nacional Nº 24.557 (Riesgos del Trabajo), Artículo 6º, Inciso 1</strong>, se considera accidente de trabajo a todo acontecimiento súbito y violento ocurrido por el hecho o en ocasión del trabajo. En este caso, el resbalón en el pasillo y la consecuente fractura de cadera ocurrieron de forma súbita mientras el agente realizaba tareas para el municipio en su lugar y horario laboral, reuniendo todos los extremos legales del accidente de trabajo en ocasión.</li>
+</ul>
+<h3>2. Responsabilidad de la Cobertura Médica:</h3>
+<ul>
+<li>El responsable de brindar de forma directa e integral las prestaciones médicas, quirúrgicas, farmacéuticas, la rehabilitación kinesiológica, la provisión de prótesis y la indemnización dineraria (pago de haberes durante la Incapacidad Laboral Temporaria) es la <strong>Aseguradora de Riesgos del Trabajo (ART)</strong> contratada por la Municipalidad de General Pueyrredón, de conformidad con lo establecido en la Ley 24.557.</li>
+</ul>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 3: Procedimiento Disciplinario y Acto Administrativo</b></summary><h3>Parte 1: Procedimiento y plazos</h3>
+<p>Para aplicar legalmente la sanción correctiva menor de suspensión de forma directa por parte de la jefatura, debe sustanciarse el siguiente procedimiento breve que garantiza el debido proceso (Estatuto Municipal Ley 14.656):</p>
+<ol>
+<li><strong>Constatación e Imputación:</strong> El Jefe de Departamento labra un informe detallado con las marcas de ausencia biométrica y la verificación de la tarea docente privada no autorizada en horario municipal.</li>
+<li><strong>Traslado para Descargo:</strong> Se notifica al agente la falta imputada para que en un plazo perentorio de <strong>cinco (5) días hábiles</strong> presente su descargo escrito y justificaciones (Ley 14.656).</li>
+<li><strong>Vías de Recurso (Estatuto Municipal - Ley 14.656):</strong> Una vez dictada y notificada la Disposición, el agente puede interponer el <strong>Recurso de Revocatoria</strong> (ante la misma Jefatura de Departamento) o el <strong>Recurso Jerárquico</strong> (ante el superior) en el plazo de <strong>diez (10) días hábiles</strong> contados a partir del día siguiente al de la notificación formal (Artículo 41º de la Ley 14.656).</li>
+</ol>
+<ul>
+<li><strong>Soporte Normativo del Procedimiento y Atribuciones:</strong> Ley Provincial 14.656 (Artículos 24º, 25º, 105º, 106º, 107º y 110º) y Decreto MGP 1539/18 (Artículo 1º, Inciso c).</li>
+</ul>
+<hr>
+<h3>Parte 2: Redacción de la Disposición</h3>
+<p>MAR DEL PLATA, 10 de Julio de 2026.</p>
+<p><strong>VISTO</strong> las presentes actuaciones de control de asistencia referentes a la inconducta registrada por el Agente ........, Legajo Nº 88.888, Categoría Técnico de Sistemas de este Departamento; y</p>
+<p><strong>CONSIDERANDO:</strong></p>
+<ul>
+<li>Que se ha constatado fehacientemente la ausencia de dicho agente en su puesto de trabajo en la oficina del sector, sin que el mismo haya registrado su marcación de egreso ni portado boleta de salida por hora autorizada.</li>
+<li>Que se ha verificado que la ausencia obedeció a la realización de tareas docentes remuneradas de carácter privado en un centro educativo en horario laboral municipal.</li>
+<li>Que a fin de garantizar el debido proceso adjetivo regulado por la Ley 14.656 y dar cumplimiento al derecho a ser oído, se corrió traslado al agente para formular descargo, no aportando justificaciones de fuerza mayor que eximan su conducta.</li>
+<li>Que la inconducta del agente configura un grave incumplimiento de las obligaciones y prohibiciones del personal previstas en el Artículo 104º de la Ley Provincial Nº 14.656.</li>
+<li>Que el Decreto MGP Nº 1539/18 delega en su Artículo 1º, inciso c), en los Jefes de Departamento la facultad de aplicar de forma directa amonestaciones, apercibimientos y suspensiones de hasta cinco (5) días de suspensión sin goce de haberes.</li>
+<li>Que atenta a la gravedad de los hechos y la falta de antecedentes disciplinarios, corresponde graduar la sanción en el tope máximo de atribuciones del emisor.</li>
+<li>Por ello, en ejercicio de las atribuciones delegadas mediante la Ley Provincial 14.656 (Artículo 110º, inciso c) y el Decreto MGP 1539/18,</li>
+</ul>
+<p><strong>EL JEFE DE DEPARTAMENTO DE SOPORTE DE TECNOLOGÍAS DE LA INFORMACIÓN</strong></p>
+<p><strong>D I S P O N E :</strong></p>
+<p><strong>Artículo 1º.-</strong> Aplicar la sanción disciplinaria de cinco (5) días de suspensión sin goce de haberes al Agente ........, Legajo Nº 88.888, por haber incurrido en el quebrantamiento de las obligaciones de asistencia y prohibiciones de la Ley Provincial Nº 14.656.
+<strong>Artículo 2º.-</strong> Disponer que la sanción aplicada en el Artículo 1º se hará efectiva transcurrido el plazo perentorio de diez (10) días hábiles a partir de la notificación fehaciente del presente acto administrativo.
+<strong>Artículo 3º.-</strong> Notifíquese legalmente en el Domicilio Electrónico Constituido del agente en los términos del Artículo 63º de la Ordenanza Municipal 26.348. Comuníquese a la Dirección de Personal para su registro en el legajo individual y, oportunamente, archívese.</p>
+<p>[Firma y Sello del Jefe de Departamento]</p>
+<hr>
+<p><strong>¿Requiere Dictamen Legal Previo de la Procuración?:</strong> 
+<strong>No.</strong> Las sanciones correctivas menores aplicadas de forma directa por la jefatura del área (apercibimiento, llamado de atención o suspensiones de hasta 5 días) no requieren de manera obligatoria dictamen legal previo de la Procuración Municipal, facultad que se reserva únicamente para sanciones expulsivas que exijan sumario administrativo formal previo.</p>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 4: Perspectiva de Género y Violencia Laboral</b></summary><h3>1. Implicancia de la Capacitación de Género en la Carrera (Ley 27499 y Ley Provincial 15134):</h3>
+<p>La formación y capacitación obligatoria en temática de género y prevención de la violencia contra las mujeres (Ley Micaela) posee carácter de <strong>requisito obligatorio</strong> en la MGP. El cumplimiento de dicha capacitación y la correspondiente acreditación en el legajo es condición obligatoria para la promoción a niveles superiores por concurso o la progresión en el desempeño de la función pública. <em>(📋 Ley Provincial 15.134, Art. 3º - Ley 27.499, Art. 1º)</em></p>
+<h3>2. Consecuencia de la Negativa a Capacitarse (Ley Micaela, Artículo 8º):</h3>
+<p>La afirmación es <strong>Falsa</strong>.</p>
+<ul>
+<li><strong>Procedimiento Legal:</strong> De acuerdo con el Artículo 8º de la Ley 27.499, ante la negativa injustificada de un agente a realizar las capacitaciones previstas, se debe proceder a la <strong>intimación en forma fehaciente</strong> por la autoridad de aplicación a través del organismo pertinente. No habilita de forma directa ni automática a que el superior jerárquico aplique una sanción disciplinaria de suspensión sin mediar este procedimiento formal.</li>
+</ul>
+<h3>3. Diligencias y Abordaje de Denuncias (Ordenanza 24.271):</h3>
+<p>Al recepcionar una denuncia de violencia de género laboral en la dependencia, el Jefe de Departamento debe garantizar obligatoriamente los siguientes principios y diligencias:</p>
+<ol>
+<li><strong>Derecho a la Intimidad (Confidencialidad):</strong> Garantizar el resguardo absoluto de las declaraciones y actas labradas durante todo el proceso.</li>
+<li><strong>No Revictimización (Evitar la reiteración innecesaria del relato):</strong> Garantizar que la denunciante no sea sometida a reiterar su relato ante múltiples oficinas o careos con el presunto agresor.</li>
+<li><strong>Medidas de Protección Inmediatas:</strong> Disponer de inmediato la separación física de los puestos de trabajo del presunto agresor y la víctima (reasignando tareas o turnos) a fin de proteger la integridad física y mental de la denunciante, canalizando la denuncia formalmente de acuerdo al protocolo aprobado por la Ordenanza 24.271.</li>
+</ol>
+</details><details>
+<summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos</b></summary><h3>1. Planificación de Procesos en la CPU:</h3>
+<p>La planificación es la forma en la que el microprocesador distribuye el tiempo de CPU para ejecutar los procesos en espera. Los 5 algoritmos principales son:</p>
+<ul>
+<li><strong>Algoritmo FCFS (First Come First Served):</strong> Los procesos se ejecutan estrictamente en el orden en que llegan a la cola de listos (no expulsivo).</li>
+<li><strong>Algoritmo SJF (Shortest Job First):</strong> Selecciona de la cola el proceso que requiere menor tiempo de ejecución. En caso de empate, se decide por FCFS (no expulsivo).</li>
+<li><strong>Algoritmo SRTF (Shortest Remaining Time First):</strong> Variante expulsiva de SJF. Selecciona el proceso al que le quede menos tiempo para finalizar. Si llega un nuevo proceso con menor tiempo restante que el que se ejecuta, desaloja a este último de la CPU.</li>
+<li><strong>Algoritmo por Prioridades:</strong> Asocia una prioridad a cada proceso, ejecutando primero los de mayor prioridad. Puede ser expulsivo o no expulsivo, y en caso de empate se aplica FCFS.</li>
+<li><strong>Algoritmo Round Robin (R.R.):</strong> Diseñado para sistemas de tiempo compartido. Asigna a cada proceso un pequeño intervalo de tiempo de CPU (Quantum). Expirado este tiempo, el proceso es desalojado y colocado al final de la cola de listos siguiendo el orden FCFS.</li>
+</ul>
+<h3>2. Pasos para la Implantación de Software:</h3>
+<ol>
+<li><strong>Verificación de compatibilidad:</strong> Comprobar si se cumplen los requisitos mínimos de hardware y software y la plataforma de destino.</li>
+<li><strong>Verificación de la integridad:</strong> Asegurar que el paquete de software es original y libre de malware.</li>
+<li><strong>Ejecución del archivo de instalación.</strong></li>
+<li><strong>Creación de los directorios requeridos:</strong> Ubicar los archivos bajo el estándar del sistema operativo (ej. Archivos de Programa).</li>
+<li><strong>Concesión de uso a los usuarios apropiados:</strong> Definir qué usuarios tienen permisos de acceso al software en sistemas multiusuario.</li>
+<li><strong>Copia y descompresión de los archivos:</strong> Descomprimir el paquete y copiar los binarios al directorio final.</li>
+<li><strong>Compilación y enlace con bibliotecas:</strong> Enlazar el software con las librerías dinámicas existentes del sistema.</li>
+<li><strong>Configuración:</strong> Establecer los parámetros iniciales de ejecución.</li>
+<li><strong>Definir variables de entorno:</strong> Configurar dinámicamente las variables requeridas por el sistema.</li>
+<li><strong>Registro:</strong> Verificar la licencia del distribuidor.</li>
+<li><strong>Reiniciar el sistema:</strong> Arrancar el sistema operativo o servicio para cargar las bibliotecas modificadas.</li>
+</ol>
+<h3>3. Mantenimiento del Parque Informático:</h3>
+<ul>
+<li><strong>Predictivo:</strong> Consiste en pronosticar cuándo fallará un componente del sistema a través de herramientas de monitoreo y diagnóstico periódico para reemplazarlo antes del fallo.</li>
+<li><strong>Preventivo:</strong> Técnicas aplicadas para minimizar la probabilidad de fallo. Tiene dos enfoques:<ul>
+<li><em>Activo:</em> Limpieza física del hardware y desfragmentación/optimización del software de forma periódica.</li>
+<li><em>Pasivo:</em> Proteger los equipos frente a factores ambientales extremos (uso de estabilizadores, UPS, control de temperatura).</li>
+</ul>
+</li>
+<li><strong>Correctivo:</strong> Reparación o reemplazo del componente que ya falló. Se clasifica en:<ul>
+<li><em>A plazo fijo:</em> Programar la reparación en un momento que no interfiera con la operación ordinaria.</li>
+<li><em>A plazo variable:</em> Reparar de inmediato ante un fallo imprevisto y crítico del sistema.</li>
+</ul>
+</li>
+</ul>
+<h3>4. Capas y Protocolos del Modelo TCP/IP:</h3>
+<p>El modelo TCP/IP es una pila de protocolos que permite la intercomunicación entre equipos remotos. Sus capas y protocolos son:</p>
+<ul>
+<li><strong>Capa de acceso a la red:</strong> Define la transmisión física y eléctrica a través del medio. Protocolo principal: <strong>ETHERNET</strong>.</li>
+<li><strong>Capa de Internet:</strong> Direcciona los paquetes de datos y define la ruta óptima de extremo a extremo. Protocolos principales: <strong>IP, ARP, RARP</strong>.</li>
+<li><strong>Capa de transporte:</strong> Garantiza la entrega libre de errores entre sistemas finales. Protocolos principales: <strong>TCP</strong> (orientado a conexión) y <strong>UDP</strong> (no orientado a conexión).</li>
+<li><strong>Capa de aplicación:</strong> Permite interactuar a las aplicaciones de software con los servicios de red. Protocolos principales: <strong>HTTP, HTTPS, FTP, SFTP, DNS, DHCP, SMTP, POP, POP3</strong>.</li>
+</ul>
+<h3>5. Caso Práctico de Capacidad WLAN:</h3>
+<ul>
+<li><strong>Ancho de banda máximo de la tasa de transferencia:</strong> 800 Mbps.</li>
+<li><strong>Ancho de banda medio requerido por usuario:</strong> 5 Mbps.</li>
+<li><strong>Fórmula utilizada:</strong>
+$\text{Clientes WLAN} = \frac{\text{Tasa de transferencia máxima}}{\text{Ancho de banda medio deseado}}$</li>
+<li><strong>Cálculo detallado:</strong>
+$\text{Clientes WLAN} = \frac{800\text{ Mbps}}{5\text{ Mbps}} = \mathbf{160\text{ Clientes}}$</li>
+<li><strong>Resultado:</strong> El número máximo de usuarios que se pueden conectar simultáneamente asegurándoles 5 Mbps es de <strong>160 Clientes</strong>.</li>
+</ul>
+</details>
+
+            
+            <div class="score-calculator">
+                <h3>Calculadora de Puntaje (Autoevaluación)</h3>
+                <p>Ingresa los puntos obtenidos en cada sección para calcular tu nota final (Puntaje de aprobación: 25 puntos / 70%):</p>
+                <div class="score-row">
+                    <span>Cuestión 1 (Normativa - Máx 10 pts):</span>
+                    <input type="number" min="0" max="10" step="0.5" class="score-input" id="q1" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 2 (Higiene y ART - Máx 1.5 pts):</span>
+                    <input type="number" min="0" max="1.5" step="0.25" class="score-input" id="q2" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 3 (Caso Disciplinario - Máx 4 pts):</span>
+                    <input type="number" min="0" max="4" step="0.5" class="score-input" id="q3" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 4 (Perspectiva de Género - Máx 4.5 pts):</span>
+                    <input type="number" min="0" max="4.5" step="0.25" class="score-input" id="q4" oninput="calcScore()">
+                </div>
+                <div class="score-row">
+                    <span>Cuestión 5 (Evaluación Técnica - Máx 15 pts):</span>
+                    <input type="number" min="0" max="15" step="0.5" class="score-input" id="q5" oninput="calcScore()">
+                </div>
+                <div class="score-total">
+                    <span>Puntaje Total (Máximo 35):</span>
+                    <span id="total-score">0.0 / 35.0 (<span id="result-status" style="font-weight: bold; color: var(--text-muted);">Sin evaluar</span>)</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleAnswers(show) {
+            const details = document.querySelectorAll('details');
+            details.forEach(d => {
+                d.open = show;
+            });
+        }
+
+        function calcScore() {
+            const q1 = parseFloat(document.getElementById('q1').value) || 0;
+            const q2 = parseFloat(document.getElementById('q2').value) || 0;
+            const q3 = parseFloat(document.getElementById('q3').value) || 0;
+            const q4 = parseFloat(document.getElementById('q4').value) || 0;
+            const q5 = parseFloat(document.getElementById('q5').value) || 0;
+            
+            const total = q1 + q2 + q3 + q4 + q5;
+            const totalFixed = Math.min(35, total).toFixed(2);
+            
+            const statusSpan = document.getElementById('result-status');
+            if (total >= 25) {
+                statusSpan.innerHTML = "APROBADO";
+                statusSpan.style.color = "var(--success)";
+            } else {
+                statusSpan.innerHTML = "DESAPROBADO";
+                statusSpan.style.color = "red";
+            }
+            
+            document.getElementById('total-score').innerHTML = totalFixed + " / 35.0 (" + statusSpan.outerHTML + ")";
+        }
+    </script>
+</body>
+</html>
