@@ -278,12 +278,12 @@ Al recepcionar la queja formal por discriminación y trato indigno, el Jefe de D
 <summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos</b></summary>
 
 ### 1. Normalización de Bases de Datos (Kendall & Kendall):
-*(📋 Kendall & Kendall, Cap. 13, págs. 413-423)*
+*(📋 Kendall & Kendall, Cap. 13, págs. 413-421)*
 La Normalización es un proceso de análisis y optimización de estructuras de datos relacionales cuyo objetivo es descomponer tablas complejas en tablas más pequeñas y lógicas, a fin de evitar la redundancia de datos, mitigar anomalías de inserción, actualización y borrado, y asegurar la integridad referencial.
 *   **Reglas de Formas Normales:**
-    1.  **Primera Forma Normal (1NF):** Todas las celdas de la tabla deben contener valores atómicos (únicos e indivisibles) y no deben existir grupos de campos repetidos ni multivalores en una misma fila.
-    2.  **Segunda Forma Normal (2NF):** Debe estar en 1NF y todos los atributos que no forman parte de la clave primaria deben tener una dependencia funcional completa de dicha clave, eliminando dependencias parciales (aplica a claves compuestas).
-    3.  **Tercera Forma Normal (3NF):** Debe estar en 2NF y no debe existir ninguna dependencia transitiva entre los campos (es decir, ningún campo que no sea clave puede depender de otro campo que tampoco sea clave).
+    1.  **Primera Forma Normal (1NF) (Cap. 13, pág. 417):** El primer paso consiste en *"eliminar los grupos repetidos"* (Pág. 417), asegurando que todas las celdas de la tabla contengan valores atómicos (indivisibles) y que no existan grupos multivaluados ni campos repetitivos en una misma fila.
+    2.  **Segunda Forma Normal (2NF) (Cap. 13, pág. 419):** Debe cumplir con la 1NF y, de acuerdo al libro, *"todos los atributos serán funcionalmente dependientes de la clave primaria"* (Pág. 419), lo que requiere *"eliminar todos los atributos parcialmente dependientes y colocarlos en otra relación"* (Pág. 419) (aplica a tablas con claves primarias concatenadas).
+    3.  **Tercera Forma Normal (3NF) (Cap. 13, pág. 420):** Una relación está en 3NF si cumple con la 2NF y *"todos los atributos que no son claves son completa y funcionalmente dependientes de la clave primaria y no hay dependencias transitivas (no claves)"* (Pág. 420). Es decir, ningún atributo que no sea clave puede depender de otro atributo que tampoco sea clave.
 *   **Importancia en Tasas Municipales:** El Jefe de Sistemas debe exigir la normalización de la base de datos de tasas para asegurar la integridad de la facturación y cobranza (evitar que un cambio en la razón social o CUIT del contribuyente requiera modificar múltiples registros inconsistentes, lo cual podría provocar pérdidas fiscales o liquidaciones erróneas).
 
 ### 2. DFD de Contexto vs. Diagrama 0 de DFD (Kendall & Kendall):

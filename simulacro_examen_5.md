@@ -280,10 +280,11 @@ El Jefe de Departamento debe garantizar que la justificación administrativa de 
 <summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (Normalización, Kanban, Pruebas y GDE)</b></summary>
 
 ### 1. Normalización de Bases de Datos Relacionales (Kendall & Kendall)
+*(📋 Kendall & Kendall, Cap. 13, págs. 413-421)*
 La normalización es el proceso de organizar las tablas y relaciones de una base de datos para minimizar la redundancia y evitar anomalías al insertar, actualizar o borrar datos.
-*   **Primera Forma Normal (1NF):** Elimina los grupos repetitivos o atributos multivalores. Todos los campos de una tabla deben contener valores atómicos (indivisibles) y debe definirse una Clave Primaria (Primary Key - PK) única para la tabla.
-*   **Segunda Forma Normal (2NF):** Debe cumplir con la 1NF y, además, todos los atributos que no forman parte de la Clave Primaria deben depender funcionalmente de manera completa de toda la Clave Primaria (eliminando dependencias parciales en claves compuestas).
-*   **Tercera Forma Normal (3NF):** Debe cumplir con la 2NF y, además, se deben eliminar las dependencias transitivas (ningún atributo no clave puede depender funcionalmente de otro atributo no clave).
+*   **Primera Forma Normal (1NF) (Cap. 13, pág. 417):** El primer paso consiste en *"eliminar los grupos repetidos"* (Pág. 417), de manera que todos los campos contengan valores atómicos (indivisibles) y se defina una Clave Primaria (PK) única.
+*   **Segunda Forma Normal (2NF) (Cap. 13, pág. 419):** Debe cumplir con la 1NF y *"todos los atributos serán funcionalmente dependientes de la clave primaria"* (Pág. 419), eliminando dependencias parciales donde atributos no clave dependan solo de parte de una clave compuesta.
+*   **Tercera Forma Normal (3NF) (Cap. 13, pág. 420):** Debe cumplir con la 2NF y *"todos los atributos que no son claves son completa y funcionalmente dependientes de la clave primaria y no hay dependencias transitivas (no claves)"* (Pág. 420).
 
 #### **Ejemplo de Normalización Municipal (Contribuyentes y Tasas):**
 *   *Tabla en Estado Inicial (Sin normalizar):*
@@ -297,7 +298,7 @@ La normalización es el proceso de organizar las tablas y relaciones de una base
     3.  **Tabla LIQUIDACIONES (PK compuesta: CUIT_Contribuyente, ID_Tasa):**
         `[CUIT_Contribuyente (FK), ID_Tasa (FK), Categoria_Mesa]` (Registra la relación sin dependencias parciales ni transitivas).
 
-*(📖 Kendall & Kendall, Cap. 13, págs. 413-426)*
+*(📋 Kendall & Kendall, Cap. 13, págs. 413-421)*
 
 ---
 

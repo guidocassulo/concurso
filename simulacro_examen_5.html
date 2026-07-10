@@ -522,11 +522,12 @@ a) Calcule la capacidad total del Sprint del equipo expresada en <strong>Horas d
 </ul>
 </details><details>
 <summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos (Normalización, Kanban, Pruebas y GDE)</b></summary><h3>1. Normalización de Bases de Datos Relacionales (Kendall &amp; Kendall)</h3>
-<p>La normalización es el proceso de organizar las tablas y relaciones de una base de datos para minimizar la redundancia y evitar anomalías al insertar, actualizar o borrar datos.</p>
+<p><em>(📋 Kendall &amp; Kendall, Cap. 13, págs. 413-421)</em>
+La normalización es el proceso de organizar las tablas y relaciones de una base de datos para minimizar la redundancia y evitar anomalías al insertar, actualizar o borrar datos.</p>
 <ul>
-<li><strong>Primera Forma Normal (1NF):</strong> Elimina los grupos repetitivos o atributos multivalores. Todos los campos de una tabla deben contener valores atómicos (indivisibles) y debe definirse una Clave Primaria (Primary Key - PK) única para la tabla.</li>
-<li><strong>Segunda Forma Normal (2NF):</strong> Debe cumplir con la 1NF y, además, todos los atributos que no forman parte de la Clave Primaria deben depender funcionalmente de manera completa de toda la Clave Primaria (eliminando dependencias parciales en claves compuestas).</li>
-<li><strong>Tercera Forma Normal (3NF):</strong> Debe cumplir con la 2NF y, además, se deben eliminar las dependencias transitivas (ningún atributo no clave puede depender funcionalmente de otro atributo no clave).</li>
+<li><strong>Primera Forma Normal (1NF) (Cap. 13, pág. 417):</strong> El primer paso consiste en <em>&quot;eliminar los grupos repetidos&quot;</em> (Pág. 417), de manera que todos los campos contengan valores atómicos (indivisibles) y se defina una Clave Primaria (PK) única.</li>
+<li><strong>Segunda Forma Normal (2NF) (Cap. 13, pág. 419):</strong> Debe cumplir con la 1NF y <em>&quot;todos los atributos serán funcionalmente dependientes de la clave primaria&quot;</em> (Pág. 419), eliminando dependencias parciales donde atributos no clave dependan solo de parte de una clave compuesta.</li>
+<li><strong>Tercera Forma Normal (3NF) (Cap. 13, pág. 420):</strong> Debe cumplir con la 2NF y <em>&quot;todos los atributos que no son claves son completa y funcionalmente dependientes de la clave primaria y no hay dependencias transitivas (no claves)&quot;</em> (Pág. 420).</li>
 </ul>
 <h4><strong>Ejemplo de Normalización Municipal (Contribuyentes y Tasas):</strong></h4>
 <ul>
@@ -543,7 +544,7 @@ Se descompone en tres tablas lógicas independientes:<ol>
 </ol>
 </li>
 </ul>
-<p><em>(📖 Kendall &amp; Kendall, Cap. 13, págs. 413-426)</em></p>
+<p><em>(📋 Kendall &amp; Kendall, Cap. 13, págs. 413-421)</em></p>
 <hr>
 <h3>2. Lead Time vs Cycle Time en Kanban (Scrum Manager)</h3>
 <ul>
