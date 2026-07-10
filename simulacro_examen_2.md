@@ -240,6 +240,8 @@
 1.  **Defensa (Descargo):** El agente cuenta con un plazo mínimo de **cinco (5) días hábiles** (tras ser notificado del traslado de la imputación) para presentar su descargo por escrito, ofrecer pruebas y justificaciones (Ley 14.656).
 2.  **Recurso de Revocatoria:** Contra el acto administrativo de sanción (Disposición del Jefe de Departamento), el agente puede interponer un **Recurso de Revocatoria** ante el mismo emisor o el **Recurso Jerárquico** ante el superior. De acuerdo con el **Artículo 41º de la Ley Provincial 14.656 (Estatuto Municipal)**, el plazo perentorio para interponer cualquiera de los recursos es de **diez (10) días hábiles**, contados a partir del día siguiente al de la notificación formal del acto. Si se rechaza la revocatoria, el agente tiene entonces derecho a recurrir ante el superior por la vía del recurso jerárquico.
 
+*   **Soporte Normativo del Procedimiento y Atribuciones:** Ley Provincial 14.656 (Artículos 24º, 25º, 105º, 106º, 107º y 110º) y Decreto MGP 1539/18 (Artículo 1º, Inciso c).
+
 ---
 
 ### 2. Redacción de la Disposición (Estructura Base)

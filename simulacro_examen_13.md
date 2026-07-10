@@ -226,6 +226,8 @@ Para garantizar las garantías constitucionales del debido proceso y el derecho 
 2.  **Traslado e Intimación de Descargo (Defensa):** Se notifica formalmente al agente la imputación de la falta por escrito, dándole traslado para que presente su descargo y justificaciones. El agente goza de un plazo perentorio de **cinco (5) días hábiles** contados desde el día siguiente al de la notificación para presentar su informe de descargo (Estatuto Ley 14.656).
 3.  **Vías de Recurso (Estatuto Municipal - Ley 14656):** Contra el acto administrativo de sanción (la Disposición), el agente puede interponer el **Recurso de Revocatoria** ante la misma Jefatura de Departamento o directamente el **Recurso Jerárquico** ante el superior. De acuerdo con el **Artículo 41º de la Ley Provincial 14.656**, el plazo perentorio para interponer cualquiera de estos recursos es de **diez (10) días hábiles**, contados a partir del día siguiente al de la notificación formal del acto. Si se rechaza la revocatoria, el agente cuenta entonces con el derecho de interponer el recurso jerárquico ante el superior.
 
+*   **Soporte Normativo del Procedimiento y Atribuciones:** Ley Provincial 14.656 (Artículos 24º, 25º, 105º, 106º, 107º y 110º) y Decreto MGP 1539/18 (Artículo 1º, Inciso c).
+
 ---
 
 ### Parte 2: Redacción del Acto Administrativo (Disposición)
