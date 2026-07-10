@@ -326,14 +326,14 @@ Por ello,
 ---
 
 ### 3. Pruebas de Sistemas (Kendall & Kendall)
-*(📋 Kendall & Kendall, Cap. 16, págs. 514-515)*
-*   **Prueba de sistemas completos con datos de prueba:** De acuerdo al libro, es la etapa donde *"los operadores y usuarios finales se involucran de manera activa en la prueba"* utilizando *"datos de prueba creados por el equipo de análisis de sistemas con el propósito específico de probar los objetivos del sistema"* (Pág. 515).
-*   **Prueba de sistemas completa con datos reales:** Consiste en *"probar el nuevo sistema con varias corridas de datos reales, es decir, usando datos satisfactoriamente procesados por el sistema anterior"* (Pág. 515), lo que *"permite una comparación precisa de la salida del nuevo sistema con lo que sabemos que es una salida procesada en forma correcta"* (Pág. 515).
+*(📋 Kendall & Kendall, Cap. 16, págs. 527-528)*
+*   **Prueba de sistemas completos con datos de prueba:** De acuerdo al libro, es la etapa donde *"los operadores y usuarios finales se involucran de manera activa en la prueba"* utilizando *"datos de prueba creados por el equipo de análisis de sistemas con el propósito específico de probar los objetivos del sistema"* (Pág. 527-528).
+*   **Prueba de sistemas completa con datos reales:** Consiste en *"probar el nuevo sistema con varias corridas de datos reales, es decir, usando datos satisfactoriamente procesados por el sistema anterior"* (Pág. 528), lo que *"permite una comparación precisa de la salida del nuevo sistema con lo que sabemos que es una salida procesada en forma correcta"* (Pág. 528).
 *   **Cuatro factores a considerar al probar sistemas con datos de prueba:**
-    1.  *"Examinar si los operadores tienen la documentación adecuada en los manuales de procedimiento (impresos o en línea) para lograr una operación correcta y eficiente"* (Pág. 515).
-    2.  *"Verificar si los manuales de procedimientos son lo bastante claros para comunicar la forma en que se deben preparar los datos para la entrada"* (Pág. 515).
-    3.  *"Averiguar si los flujos de trabajo requeridos por el sistema nuevo o modificado realmente 'fluyen'"* (Pág. 515).
-    4.  *"Determinar si la salida es correcta y si los usuarios comprenden que esta salida es casi idéntica a la apariencia que tendrá en su forma final"* (Pág. 515).
+    1.  *"Examinar si los operadores tienen la documentación adecuada en los manuales de procedimiento (impresos o en línea) para lograr una operación correcta y eficiente"* (Pág. 528).
+    2.  *"Verificar si los manuales de procedimientos son lo bastante claros para comunicar la forma en que se deben preparar los datos para la entrada"* (Pág. 528).
+    3.  *"Averiguar si los flujos de trabajo requeridos por el sistema nuevo o modificado realmente 'fluyen'"* (Pág. 528).
+    4.  *"Determinar si la salida es correcta y si los usuarios comprenden que esta salida es casi idéntica a la apariencia que tendrá en su forma final"* (Pág. 528).
 
 ---
 
