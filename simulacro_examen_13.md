@@ -285,6 +285,7 @@ Al recepcionar una denuncia de violencia de género laboral en la dependencia, e
 <summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos</b></summary>
 
 ### 1. Diseño Conjunto de Aplicaciones (JAD) vs. Entrevistas Tradicionales (Kendall & Kendall):
+*(📋 Kendall & Kendall, Cap. 4, págs. 111-113)*
 El JAD es una metodología de relevamiento y diseño colaborativo que reúne en sesiones estructuradas de trabajo al equipo de análisis de sistemas, a los usuarios finales clave y a los tomadores de decisiones de la organización en una misma sala, moderados por un facilitador neutral.
 *   **Condiciones para Recomendar JAD en el Municipio:**
     1.  **Alta Complejidad y Ambigüedad de Requerimientos:** Cuando el nuevo sistema afecta a múltiples secretarías municipales con procesos interrelacionados y lógicas contables/tributarias diversas.
@@ -292,11 +293,13 @@ El JAD es una metodología de relevamiento y diseño colaborativo que reúne en 
     3.  **Conflictos de Intereses o Culturas Organizacionales Diversas:** Cuando existen visiones contrapuestas entre los usuarios operativos y la gerencia sobre cómo debe funcionar el flujo del sistema. JAD fomenta el consenso y la aprobación inmediata de los requerimientos base en pocas sesiones.
 
 ### 2. SDLC Tradicional vs. Enfoque Ágil en la Migración de Tasas (Kendall & Kendall):
+*(📋 Kendall & Kendall, Cap. 1, págs. 10-12)*
 *   **SDLC Cascada (Tradicional):** Es un proceso lineal secuencial dividido en etapas rígidas (Relevamiento, Diseño, Codificación, Pruebas e Implantación). No se entrega software funcional hasta el final del proyecto. Cualquier cambio de requerimiento a mitad del proceso tiene un costo económico y de tiempo muy elevado.
 *   **Enfoque Ágil:** Se basa en el desarrollo incremental iterativo de software (entregas parciales en Sprints de 2 a 4 semanas). Prioriza la adaptabilidad al cambio y la retroalimentación continua del usuario por sobre la rigidez de planes de análisis detallados iniciales.
 *   **Generación de Valor en la Migración de Tasas:** El enfoque ágil genera el mayor valor para la municipalidad en los **sprints iniciales y medios**, ya que permite poner a disposición de los contribuyentes un **módulo básico funcional de autogestión de pagos** (un Producto Mínimo Viable o MVP) en pocas semanas. Posteriormente, se incorporan de manera incremental las lógicas impositivas complejas de habilitación o exenciones especiales. En el modelo cascada, los contribuyentes y la municipalidad no obtendrían ninguna utilidad hasta finalizar la migración completa del mainframe, pudiendo pasar meses sin valor real.
 
 ### 3. Casos de Uso UML y Relaciones de Inclusión y Extensión (Kendall & Kendall):
+*(📋 Kendall & Kendall, Cap. 2, págs. 35-38)*
 Un Caso de Uso describe una secuencia de interacciones entre un actor (usuario) y el sistema para lograr un objetivo de negocio.
 *   **Relación `<<include>>` (Inclusión):** Representa un comportamiento común y obligatorio que siempre debe ejecutarse como parte del caso de uso base.
     *   *Ejemplo en Pago de Multas:* El Caso de Uso "Pagar Multa Online" incluye de forma obligatoria (`<<include>>`) el Caso de Uso "Validar Identidad / CUIT del Usuario" antes de proceder a la pasarela de pagos.
@@ -304,6 +307,7 @@ Un Caso de Uso describe una secuencia de interacciones entre un actor (usuario) 
     *   *Ejemplo en Pago de Multas:* El Caso de Uso "Pagar Multa Online" se extiende opcionalmente (`<<extend>>`) al Caso de Uso "Solicitar Plan de Facilidades / Pago en Cuotas" si el monto total de la multa excede un determinado tope arancelario y el usuario opta por dicha financiación.
 
 ### 4. Planning Poker y Escala de Fibonacci (Scrum Manager):
+*(📋 Scrum Manager v2.6, Primera Parte, págs. 47-48)*
 El Planning Poker es una técnica de estimación grupal de esfuerzo relativo para historias de usuario. Los desarrolladores evalúan el esfuerzo utilizando tarjetas con la secuencia de Fibonacci modificada (0, 1, 2, 3, 5, 8, 13, 20, 40, 100).
 *   **Por qué se utiliza Fibonacci:** Los números no secuenciales reflejan la incertidumbre inherente a medida que aumenta la escala del software (es más fácil discernir la diferencia de esfuerzo entre una tarea de 3 puntos y una de 5 puntos, que entre una tarea de 20 y otra de 21). Fomenta el debate sobre tareas de gran volumen antes de comprometerlas.
 *   **Rol del Scrum Master ante dispersión:** El Scrum Master debe actuar como facilitador neutral del debate:
@@ -312,6 +316,7 @@ El Planning Poker es una técnica de estimación grupal de esfuerzo relativo par
     3.  Realizar una segunda votación. El Scrum Master nunca debe promediar las estimaciones o imponer un número de forma discrecional.
 
 ### 5. Caso Práctico de Capacidad del Sprint (Scrum Manager):
+*(📋 Scrum Manager v2.6, Primera Parte, págs. 35-41)*
 #### **a) Cálculo de Capacidad en Tiempo Real y Capacidad Efectiva (Tiempo Ideal):**
 *   **Integrantes del equipo de desarrollo:** 4 programadores y 1 analista = **5 agentes**.
 *   **Jornada diaria:** 6 horas de desarrollo efectivas por agente.

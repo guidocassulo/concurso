@@ -278,6 +278,7 @@ Al recepcionar la queja formal por discriminación y trato indigno, el Jefe de D
 <summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos</b></summary>
 
 ### 1. Normalización de Bases de Datos (Kendall & Kendall):
+*(📋 Kendall & Kendall, Cap. 13, págs. 413-423)*
 La Normalización es un proceso de análisis y optimización de estructuras de datos relacionales cuyo objetivo es descomponer tablas complejas en tablas más pequeñas y lógicas, a fin de evitar la redundancia de datos, mitigar anomalías de inserción, actualización y borrado, y asegurar la integridad referencial.
 *   **Reglas de Formas Normales:**
     1.  **Primera Forma Normal (1NF):** Todas las celdas de la tabla deben contener valores atómicos (únicos e indivisibles) y no deben existir grupos de campos repetidos ni multivalores en una misma fila.
@@ -286,6 +287,7 @@ La Normalización es un proceso de análisis y optimización de estructuras de d
 *   **Importancia en Tasas Municipales:** El Jefe de Sistemas debe exigir la normalización de la base de datos de tasas para asegurar la integridad de la facturación y cobranza (evitar que un cambio en la razón social o CUIT del contribuyente requiera modificar múltiples registros inconsistentes, lo cual podría provocar pérdidas fiscales o liquidaciones erróneas).
 
 ### 2. DFD de Contexto vs. Diagrama 0 de DFD (Kendall & Kendall):
+*(📋 Kendall & Kendall, Cap. 7, págs. 195-196)*
 Un Diagrama de Flujo de Datos (DFD) representa gráficamente el flujo de los datos a través de un sistema de información y los procesos de transformación aplicados.
 *   **Diagrama de Contexto (Nivel 0):** Es la representación más abstracta del sistema. Muestra un único proceso central que representa a todo el sistema, rodeado por las entidades externas (actores) que interactúan con él, indicando los flujos de entrada y salida globales. No incluye almacenes de datos (archivos/bases de datos) internos.
     *   *Mesa de Entradas y Turnos:* Muestra el proceso central "Sistema de Mesa de Entradas y Turnos", recibiendo del actor "Contribuyente" la solicitud de turno e interactuando con el actor "Agente de Turnos" para notificar el cronograma del día.
@@ -293,7 +295,8 @@ Un Diagrama de Flujo de Datos (DFD) representa gráficamente el flujo de los dat
     *   *Mesa de Entradas y Turnos:* Desglosa el sistema en procesos específicos: `1.0 Registrar Usuario`, `2.0 Seleccionar Trámite`, `3.0 Agendar Turno` e interactúa con los almacenes de datos `D1: Contribuyentes` y `D2: Agenda de Turnos`.
 
 ### 3. Estrategia de Prototipos Rápidos (Kendall & Kendall):
-Un prototipo es una versión preliminar, funcional e interactiva de un sistema de software que se desarrolla rápidamente con el propósito de validar los requerimientos con los usuarios finales y asegurar que la interfaz responda a las necesidades reales.
+*(📋 Kendall & Kendall, Cap. 6, págs. 156-160)*
+Un prototipo es una versión preliminar, functional e interactiva de un sistema de software que se desarrolla rápidamente con el propósito de validar los requerimientos con los usuarios finales y asegurar que la interfaz responda a las necesidades reales.
 *   **Cuatro Lineamientos para Diseñar Prototipos Efectivos:**
     1.  *Trabajar en módulos manejables:* Dividir el sistema y prototipar solo las secciones críticas (ej. pantalla de inicio de autogestión y pasarela de pago).
     2.  *Construir el prototipo rápidamente:* Desarrollar la maqueta en plazos acotados para acelerar el feedback del usuario.
@@ -302,6 +305,7 @@ Un prototipo es una versión preliminar, funcional e interactiva de un sistema d
 *   **Agilidad en el Municipio:** Prototipar la interfaz de pago de multas permite que el contribuyente interactúe visualmente desde el inicio con la carga del acta y la tarjeta de crédito, lo cual evita que el equipo de sistemas programe backend complejo basado en requerimientos malinterpretados en papel.
 
 ### 4. Desperdicios Lean en Kanban: Muda, Mura y Muri (Scrum Manager):
+*(📋 Scrum Manager v2.6, Segunda Parte, págs. 71-73)*
 Son conceptos provenientes del sistema de producción Lean aplicados al desarrollo ágil de software:
 *   **Muda (Desperdicio):** Cualquier tarea o proceso que consume recursos y tiempo sin agregar valor real al software (ej. burocracia excesiva en reportes, programar funcionalidades que el usuario no solicitó o corrección repetitiva de bugs).
 *   **Mura (Inconsistencia / Variabilidad):** Irregularidad o variabilidad extrema en el flujo de trabajo (ej. periodos de total inactividad seguidos de sprints de sobreesfuerzo debido a mala planificación).
@@ -312,6 +316,7 @@ Son conceptos provenientes del sistema de producción Lean aplicados al desarrol
     3.  *Redistribuir Tareas de Forma Cruzada:* Facilitar que programadores con conocimientos de testing colaboren temporalmente en la validación a fin de disolver el cuello de botella.
 
 ### 5. Roles en Scrum y Prohibición de Duplicación PO/SM (Scrum Manager):
+*(📋 Scrum Manager v2.6, Primera Parte, págs. 31-33)*
 *   **Product Owner (PO):** Representa el negocio y la voz del cliente/usuario municipal. Es el responsable exclusivo de maximizar el valor del producto y de gestionar el Product Backlog (crear, ordenar y refinar las historias de usuario).
 *   **Scrum Master (SM):** Es el facilitador y líder servicial del marco ágil. Su función es asegurar el cumplimiento del proceso Scrum, eliminar los impedimentos que obstaculizan el trabajo del equipo y protegerlo de interferencias externas.
 *   **Equipo de Desarrollo (Developers):** Equipo autogestionado y multidisciplinario responsable de transformar las historias de usuario del Sprint Backlog en un incremento de software utilizable y de alta calidad técnica al final del sprint.

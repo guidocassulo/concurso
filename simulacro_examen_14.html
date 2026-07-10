@@ -522,7 +522,8 @@
 </ol>
 </details><details>
 <summary><b>Desplegar Solución - CUESTION Nº 5: Evaluación de Conocimientos Técnicos</b></summary><h3>1. Normalización de Bases de Datos (Kendall &amp; Kendall):</h3>
-<p>La Normalización es un proceso de análisis y optimización de estructuras de datos relacionales cuyo objetivo es descomponer tablas complejas en tablas más pequeñas y lógicas, a fin de evitar la redundancia de datos, mitigar anomalías de inserción, actualización y borrado, y asegurar la integridad referencial.</p>
+<p><em>(📋 Kendall &amp; Kendall, Cap. 13, págs. 413-423)</em>
+La Normalización es un proceso de análisis y optimización de estructuras de datos relacionales cuyo objetivo es descomponer tablas complejas en tablas más pequeñas y lógicas, a fin de evitar la redundancia de datos, mitigar anomalías de inserción, actualización y borrado, y asegurar la integridad referencial.</p>
 <ul>
 <li><strong>Reglas de Formas Normales:</strong><ol>
 <li><strong>Primera Forma Normal (1NF):</strong> Todas las celdas de la tabla deben contener valores atómicos (únicos e indivisibles) y no deben existir grupos de campos repetidos ni multivalores en una misma fila.</li>
@@ -533,7 +534,8 @@
 <li><strong>Importancia en Tasas Municipales:</strong> El Jefe de Sistemas debe exigir la normalización de la base de datos de tasas para asegurar la integridad de la facturación y cobranza (evitar que un cambio en la razón social o CUIT del contribuyente requiera modificar múltiples registros inconsistentes, lo cual podría provocar pérdidas fiscales o liquidaciones erróneas).</li>
 </ul>
 <h3>2. DFD de Contexto vs. Diagrama 0 de DFD (Kendall &amp; Kendall):</h3>
-<p>Un Diagrama de Flujo de Datos (DFD) representa gráficamente el flujo de los datos a través de un sistema de información y los procesos de transformación aplicados.</p>
+<p><em>(📋 Kendall &amp; Kendall, Cap. 7, págs. 195-196)</em>
+Un Diagrama de Flujo de Datos (DFD) representa gráficamente el flujo de los datos a través de un sistema de información y los procesos de transformación aplicados.</p>
 <ul>
 <li><strong>Diagrama de Contexto (Nivel 0):</strong> Es la representación más abstracta del sistema. Muestra un único proceso central que representa a todo el sistema, rodeado por las entidades externas (actores) que interactúan con él, indicando los flujos de entrada y salida globales. No incluye almacenes de datos (archivos/bases de datos) internos.<ul>
 <li><em>Mesa de Entradas y Turnos:</em> Muestra el proceso central &quot;Sistema de Mesa de Entradas y Turnos&quot;, recibiendo del actor &quot;Contribuyente&quot; la solicitud de turno e interactuando con el actor &quot;Agente de Turnos&quot; para notificar el cronograma del día.</li>
@@ -545,7 +547,8 @@
 </li>
 </ul>
 <h3>3. Estrategia de Prototipos Rápidos (Kendall &amp; Kendall):</h3>
-<p>Un prototipo es una versión preliminar, funcional e interactiva de un sistema de software que se desarrolla rápidamente con el propósito de validar los requerimientos con los usuarios finales y asegurar que la interfaz responda a las necesidades reales.</p>
+<p><em>(📋 Kendall &amp; Kendall, Cap. 6, págs. 156-160)</em>
+Un prototipo es una versión preliminar, functional e interactiva de un sistema de software que se desarrolla rápidamente con el propósito de validar los requerimientos con los usuarios finales y asegurar que la interfaz responda a las necesidades reales.</p>
 <ul>
 <li><strong>Cuatro Lineamientos para Diseñar Prototipos Efectivos:</strong><ol>
 <li><em>Trabajar en módulos manejables:</em> Dividir el sistema y prototipar solo las secciones críticas (ej. pantalla de inicio de autogestión y pasarela de pago).</li>
@@ -557,7 +560,8 @@
 <li><strong>Agilidad en el Municipio:</strong> Prototipar la interfaz de pago de multas permite que el contribuyente interactúe visualmente desde el inicio con la carga del acta y la tarjeta de crédito, lo cual evita que el equipo de sistemas programe backend complejo basado en requerimientos malinterpretados en papel.</li>
 </ul>
 <h3>4. Desperdicios Lean en Kanban: Muda, Mura y Muri (Scrum Manager):</h3>
-<p>Son conceptos provenientes del sistema de producción Lean aplicados al desarrollo ágil de software:</p>
+<p><em>(📋 Scrum Manager v2.6, Segunda Parte, págs. 71-73)</em>
+Son conceptos provenientes del sistema de producción Lean aplicados al desarrollo ágil de software:</p>
 <ul>
 <li><strong>Muda (Desperdicio):</strong> Cualquier tarea o proceso que consume recursos y tiempo sin agregar valor real al software (ej. burocracia excesiva en reportes, programar funcionalidades que el usuario no solicitó o corrección repetitiva de bugs).</li>
 <li><strong>Mura (Inconsistencia / Variabilidad):</strong> Irregularidad o variabilidad extrema en el flujo de trabajo (ej. periodos de total inactividad seguidos de sprints de sobreesfuerzo debido a mala planificación).</li>
@@ -570,6 +574,7 @@
 </li>
 </ul>
 <h3>5. Roles en Scrum y Prohibición de Duplicación PO/SM (Scrum Manager):</h3>
+<p><em>(📋 Scrum Manager v2.6, Primera Parte, págs. 31-33)</em></p>
 <ul>
 <li><strong>Product Owner (PO):</strong> Representa el negocio y la voz del cliente/usuario municipal. Es el responsable exclusivo de maximizar el valor del producto y de gestionar el Product Backlog (crear, ordenar y refinar las historias de usuario).</li>
 <li><strong>Scrum Master (SM):</strong> Es el facilitador y líder servicial del marco ágil. Su función es asegurar el cumplimiento del proceso Scrum, eliminar los impedimentos que obstaculizan el trabajo del equipo y protegerlo de interferencias externas.</li>
