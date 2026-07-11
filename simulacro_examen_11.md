@@ -241,7 +241,7 @@ Se infringieron los deberes preventivos de seguridad del **Artículo 9º de la L
 
 **MAR DEL PLATA,** 8 de Julio de 2026
 
-**VISTO** las actuaciones administrativas registradas en el expediente electrónico municipal referidas al altercado y alteración del orden protagonizado por el agente informático G.M., Legajo Nº 66.666, Categoría Técnico II del Departamento de Sistemas de Software de la comuna; y
+**VISTO** las actuaciones administrativas registradas en el expediente electrónico municipal referidas al altercado y alteración del orden protagonizado por el agente G.M., Legajo Nº 66.666; y
 
 **CONSIDERANDO:**
 
@@ -258,7 +258,7 @@ Por ello,
 
 **DISPONE:**
 
-**ARTÍCULO 1º.-** Aplicar al agente G.M., Legajo Nº 66.666, Categoría Técnico II del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software municipal, la sanción correctiva de apercibimiento formal por escrito, debido a la infracción a los deberes de respeto y trato decoroso establecidos en el Artículo 107º, Incisos 1 y 2 de la Ley Provincial Nº 14656.
+**ARTÍCULO 1º.-** Aplicar al agente G.M., Legajo Nº 66.666, la sanción correctiva de apercibimiento formal por escrito, debido a la infracción a los deberes de respeto y trato decoroso establecidos en el Artículo 107º, Incisos 1 y 2 de la Ley Provincial Nº 14656.
 
 **ARTÍCULO 2º.-** La presente medida correctiva entrará en vigencia a partir del día siguiente al de su notificación formal, asentándose la sanción en el legajo del agente a los efectos pertinentes.
 

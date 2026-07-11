@@ -240,7 +240,7 @@ De acuerdo a la **Ley 14656 (Artículos 105, 106 y concordantes)** y el procedim
 
 [Fecha del día]
 
-VISTO: la ausencia injustificada del Agente M.A., Legajo Nº 99.999, Categoría Técnico II, constatada el día [Fecha del hecho] por la Jefatura del Departamento; y
+VISTO: la ausencia injustificada del Agente M.A., Legajo Nº 99.999, constatada el día [Fecha del hecho] por la Jefatura del Departamento; y
 
 CONSIDERANDO:
 * Que se constató la inasistencia física del citado agente de su puesto habitual de tareas en este Departamento, sin que conste en el sistema biométrico de control horario registro de egreso alguno ni autorización escrita de salida.

@@ -248,7 +248,7 @@
 
 [Fecha del día]
 
-VISTO: las actuaciones referentes al incidente de inconducta cometido por el Agente J.P., Legajo Nº 88.888, Categoría Técnico I, de este Departamento; y
+VISTO: las actuaciones referentes al incidente de inconducta cometido por el Agente J.P., Legajo Nº 88.888, de este Departamento; y
 
 CONSIDERANDO:
 * Que con fecha [Fecha del hecho], el agente de mención incurrió en agresiones verbales e insultos manifiestamente ofensivos contra un contribuyente en la Mesa de Ayuda y contra otro agente municipal que intervino para mediar.

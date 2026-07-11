@@ -238,7 +238,7 @@ Se infringieron de forma directa las pautas y obligaciones contempladas en los *
 
 **MAR DEL PLATA,** 8 de Julio de 2026
 
-**VISTO** las actuaciones administrativas registradas en el expediente electrónico correspondientes a la auditoría de consumos de ancho de banda y logs de firewall del Departamento de Sistemas de Software municipal, que involucran al Agente R.P., Legajo Nº 55.555, Categoría Técnico III de Planta Permanente; y
+**VISTO** las actuaciones administrativas registradas en el expediente electrónico correspondientes a la auditoría de consumos de ancho de banda y logs de firewall del Departamento de Sistemas de Software municipal, que involucran al Agente R.P., Legajo Nº 55.555; y
 
 **CONSIDERANDO:**
 
@@ -255,7 +255,7 @@ Por ello,
 
 **DISPONE:**
 
-**ARTÍCULO 1º.-** Aplicar al agente R.P., Legajo Nº 55.555, Categoría Técnico III de Planta Permanente del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, la sanción correctiva de siete (7) días de suspensión sin goce de haberes, por infracción a los deberes de conducta y custodia de bienes establecidos en el Artículo 107º, Incisos 1, 2, 3 y 5 de la Ley Provincial Nº 14656.
+**ARTÍCULO 1º.-** Aplicar al agente R.P., Legajo Nº 55.555, la sanción correctiva de siete (7) días de suspensión sin goce de haberes, por infracción a los deberes de conducta y custodia de bienes establecidos en el Artículo 107º, Incisos 1, 2, 3 y 5 de la Ley Provincial Nº 14656.
 
 **ARTÍCULO 2º.-** La presente medida disciplinaria entrará en vigencia y comenzará a cumplirse de manera efectiva transcurrido el plazo legal de diez (10) días hábiles administrativos a partir de la fecha de su notificación formal, a fin de posibilitar la interposición de los recursos administrativos de ley por el agente.
 

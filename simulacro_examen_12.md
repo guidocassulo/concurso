@@ -245,7 +245,7 @@
 
 **MAR DEL PLATA,** 8 de Julio de 2026
 
-**VISTO** las actuaciones administrativas registradas en el expediente electrónico municipal correspondientes al desvío de insumos y recursos públicos del Departamento de Sistemas de Software, que involucran al Agente J.F., Legajo Nº 77.777, Categoría Técnico IV de Planta Permanente; y
+**VISTO** las actuaciones administrativas registradas en el expediente electrónico municipal correspondientes al desvío de insumos y recursos públicos del Departamento de Sistemas de Software, que involucran al Agente J.F., Legajo Nº 77.777; y
 
 **CONSIDERANDO:**
 
@@ -263,7 +263,7 @@ Por ello,
 
 **DISPONE:**
 
-**ARTÍCULO 1º.-** Aplicar al agente J.F., Legajo Nº 77.777, Categoría Técnico IV de Planta Permanente del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software municipal, la sanción correctiva de cinco (5) días de suspensión sin goce de haberes, por infracción a las prohibiciones y deberes de conducta establecidos en el Artículo 107º, Incisos 2, 3 y 5 de la Ley Provincial Nº 14656.
+**ARTÍCULO 1º.-** Aplicar al agente J.F., Legajo Nº 77.777, la sanción correctiva de cinco (5) días de suspensión sin goce de haberes, por infracción a las prohibiciones y deberes de conducta establecidos en el Artículo 107º, Incisos 2, 3 y 5 de la Ley Provincial Nº 14656.
 
 **ARTÍCULO 2º.-** La presente medida disciplinaria entrará en vigencia y comenzará a cumplirse de manera efectiva transcurrido el plazo legal de diez (10) días hábiles administrativos a partir de la fecha de su notificación formal, a fin de posibilitar la interposición de los recursos administrativos de ley por el agente.
 
