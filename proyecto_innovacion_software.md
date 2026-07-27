@@ -33,24 +33,24 @@ Para cumplir con estas funciones normativas frente a la realidad operativa del s
 ### Fortalezas
 
 * Personal Técnico Capacitado:
-El Departamento dispone de un plantel técnico capacitado capaz de realizar tareas de relevamiento analítico, desarrollo y pruebas de aplicaciones, con un amplio conocimiento del negocio, las normativas y los circuitos administrativos municipales.
+El Departamento dispone de un plantel técnico capacitado que pueden realizar tareas de relevamiento analítico, desarrollo y testing de aplicaciones además de conocer las normativas, circuitos administrativos, trámites y reglas operativas de la administración pública local.
 
 * Disponibilidad de medios:
-Se cuenta con el suficiente mobiliario y herramientas técnicas suficientes para llevar a cabo la Misión y Funciones del Departamento.
+Se cuenta con el suficiente mobiliario y herramientas técnicas para llevar a cabo la Misión y Funciones del Departamento.
 
 ### Debilidades
 
 * Fragmentación Tecnológica:
-Coexistencia caótica de tecnologías obsoletas y sin soporte actual (WebForms con SQL 2005) junto a tecnologías modernas (.NET, React, Angular, PHP, PostgreSQL), dificultando el mantenimiento continuo.
+Coexistencia caótica de tecnologías obsoletas y sin soporte actual (WebForms con SQL 2005) junto a tecnologías modernas (.NET, React, Angular, PHP, PostgreSQL).
 
 * Falta de una Arquitectura Base Estandarizada:
-Ausencia de un template de arquitectura oficial de cumplimiento obligatorio para uniformar las aplicaciones, dificultando la construcción homogénea de sistemas y la rotación de programadores entre proyectos.
+Ausencia de una arquitectura base de cumplimiento obligatorio a modo de "template" para uniformar las aplicaciones y de esta forma facilitar el desarrollo de los sistemas y la rotación de programadores entre distintos sistemas.
 
 * Multitarea Extrema y Conocimiento Concentrado:
-La escasa dotación frente a la alta demanda obliga al personal a atender simultáneamente emergencias de sistemas antiguos de diversas áreas y desarrollos nuevos. Esto genera saltos de contexto constantes y un alto riesgo operativo: la existencia de sistemas críticos que dependen del conocimiento exclusivo de una sola persona.
+La escasa dotación frente a la alta demanda obliga al personal a atender simultáneamente emergencias de sistemas antiguos de diversas áreas y desarrollos nuevos. Esto genera saltos de contextos constantes y un alto riesgo operativo: la existencia de sistemas críticos que dependen del conocimiento exclusivo de una sola persona.
 
 * Aislamiento Operativo entre Dependencias:
-La distribución física del personal en dos oficinas distintas sin una figura de coordinación transversal genera descoordinación, aislamiento en silos de información y el riesgo de desarrollar funcionalidades duplicadas por falta de comunicación.
+La distribución física del personal en dos oficinas distintas y sin un agente que coordine ambas, genera descoordinación, aislamiento en silos de información y el riesgo de desarrollar funcionalidades duplicadas por falta de comunicación.
 
 * Estimación y Seguimiento Caóticos:
 Uso fragmentado de herramientas para documentar el avance de los proyectos (algunos agentes usan Redmine, otros planillas desactualizadas en Excel o registros informales), impidiendo conocer la capacidad operativa real del departamento.
@@ -61,36 +61,30 @@ Falta de manuales de relevamiento, técnicos o registros de arquitectura, profun
 * Pruebas de Software Reactivas:
 Al no existir el rol de QA (Quality Assurance) ni herramientas de testeo estandarizadas, la verificación de errores depende de los propios desarrolladores o de los usuarios de los aplicativos.
 
-* Resistencia Interna al Cambio:
-Cierta reticencia de algunos agentes a aprender nuevas tecnologías y estándares de desarrollo, insistiendo en utilizar lenguajes o esquemas obsoletos y generando dificultades en la optimización de bases de datos.
+* Resistencia al cambio:
+Algunos agentes se rehúsan a aprender nuevas tecnologías y mejorar las formas de desarrollo, insistiendo en utilizar lenguajes o arquitecturas obsoletas, generando conflictos en la optimización de las bases de datos.
 
 ### Oportunidades
 
-* Gestión Política favorable:
-La gestión actual tiene intención de optimizar y modernizar las funciones del Departamento.
-
 * Adopción de Inteligencia Artificial para Agilizar la Producción:
-Oportunidad de incorporar herramientas asistidas por IA (asistentes en los IDEs) para acelerar la codificación, automatizar tareas repetitivas de documentación y aumentar la productividad general del departamento.
-
-* Capacitaciones disponibles y accesibles:
-Hay una gran cantidad de ofertas de capacitaciones técnicas tanto de nuevas tecnologías, metodologías ágiles e IDEs de inteligencia artificial que pueden ser aprovechadas para mejorar las tareas del área.
+Oportunidad de incorporar herramientas asistidas por IA (asistentes en los IDEs) para acelerar la codificación, automatizar tareas repetitivas de documentación, y aumentar la productividad general del departamento.
 
 * Adopción de Marcos Ágiles Híbridos:
 Implementación de metodologías ágiles adaptadas a la realidad municipal a costo cero para mejorar y agilizar los procesos de desarrollo.
 
-* Estandarización mediante una Arquitectura Base:
-Oportunidad de definir e instituir una arquitectura base a modo de template como norma obligatoria para unificar las metodologías y mantener una coherencia en las tecnologías utilizadas.
+* Estandarización mediante la Arquitectura Base:
+Implementar una arquitectura base a modo de “template” como norma obligatoria para todos los desarrollos y de esa manera unificar las metodologías y mantener una coherencia en las tecnologías utilizadas.
+
+* Gestión Política favorable:
+La gestión actual tiene intención de optimizar y modernizar las funciones del Departamento.
+
+* Capacitaciones disponibles y accesibles:
+Hay una gran cantidad de ofertas de capacitaciones técnicas tanto de nuevas tecnologías, metodologías ágiles e IDEs de inteligencia artificial que pueden ser aprovechadas para mejorar las tareas del área.
 
 ### Amenazas
 
-* Demandas Institucionales Cambiantes e Imprevistas:
-Variación rápida en las prioridades de las distintas Secretarías que exigen respuestas inmediatas y desordenan la planificación del área.
-
-* Dificultad de Integración Técnica con Sistemas y Bases Legacy:
-Complejidad para consumir o integrar datos de aplicaciones antiguas que carecen de APIs o servicios web unificados, generando duplicación de funciones al no contar con interfaces modernas de integración.
-
-* Riesgos de Ciberseguridad y Fuga de Información:
-Vulnerabilidades en código antiguo no actualizado o uso de herramientas externas que pongan en riesgo la información municipal.
+* Falta de una óptima integración entre sistemas legacy y nuevos aplicativos:
+Algunos sistemas duplican funciones debido a la imposibilidad de integrar la forma en que acceden a las bases de datos más antiguas con nuevos aplicativos, generando duplicación de funciones al no haber APIs o sistemas que unifiquen la consumición de estos datos.
 
 ---
 
