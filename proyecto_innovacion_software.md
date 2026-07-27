@@ -30,66 +30,66 @@ Para cumplir con estas funciones normativas frente a la realidad operativa del s
 
 ## 3. Diagnóstico (Análisis FODA)
 
-Fortalezas
+### Fortalezas
 
-Personal Técnico Capacitado:
+* Personal Técnico Capacitado:
 El Departamento dispone de un plantel técnico capacitado capaz de realizar tareas de relevamiento analítico, desarrollo y pruebas de aplicaciones, con un amplio conocimiento del negocio, las normativas y los circuitos administrativos municipales.
 
-Disponibilidad de medios:
+* Disponibilidad de medios:
 Se cuenta con el suficiente mobiliario y herramientas técnicas suficientes para llevar a cabo la Misión y Funciones del Departamento.
 
-Debilidades
+### Debilidades
 
-Fragmentación Tecnológica:
+* Fragmentación Tecnológica:
 Coexistencia caótica de tecnologías obsoletas y sin soporte actual (WebForms con SQL 2005) junto a tecnologías modernas (.NET, React, Angular, PHP, PostgreSQL), dificultando el mantenimiento continuo.
 
-Falta de una Arquitectura Base Estandarizada:
+* Falta de una Arquitectura Base Estandarizada:
 Ausencia de un template de arquitectura oficial de cumplimiento obligatorio para uniformar las aplicaciones, dificultando la construcción homogénea de sistemas y la rotación de programadores entre proyectos.
 
-Multitarea Extrema y Conocimiento Concentrado:
+* Multitarea Extrema y Conocimiento Concentrado:
 La escasa dotación frente a la alta demanda obliga al personal a atender simultáneamente emergencias de sistemas antiguos de diversas áreas y desarrollos nuevos. Esto genera saltos de contexto constantes y un alto riesgo operativo: la existencia de sistemas críticos que dependen del conocimiento exclusivo de una sola persona.
 
-Aislamiento Operativo entre Dependencias:
+* Aislamiento Operativo entre Dependencias:
 La distribución física del personal en dos oficinas distintas sin una figura de coordinación transversal genera descoordinación, aislamiento en silos de información y el riesgo de desarrollar funcionalidades duplicadas por falta de comunicación.
 
-Estimación y Seguimiento Caóticos:
+* Estimación y Seguimiento Caóticos:
 Uso fragmentado de herramientas para documentar el avance de los proyectos (algunos agentes usan Redmine, otros planillas desactualizadas en Excel o registros informales), impidiendo conocer la capacidad operativa real del departamento.
 
-Documentación Inexistente o Desigual:
+* Documentación Inexistente o Desigual:
 Falta de manuales de relevamiento, técnicos o registros de arquitectura, profundizando la dependencia de programadores específicos.
 
-Pruebas de Software Reactivas:
+* Pruebas de Software Reactivas:
 Al no existir el rol de QA (Quality Assurance) ni herramientas de testeo estandarizadas, la verificación de errores depende de los propios desarrolladores o de los usuarios de los aplicativos.
 
-Resistencia Interna al Cambio:
+* Resistencia Interna al Cambio:
 Cierta reticencia de algunos agentes a aprender nuevas tecnologías y estándares de desarrollo, insistiendo en utilizar lenguajes o esquemas obsoletos y generando dificultades en la optimización de bases de datos.
 
-Oportunidades
+### Oportunidades
 
-Gestión Política favorable:
+* Gestión Política favorable:
 La gestión actual tiene intención de optimizar y modernizar las funciones del Departamento.
 
-Adopción de Inteligencia Artificial para Agilizar la Producción:
+* Adopción de Inteligencia Artificial para Agilizar la Producción:
 Oportunidad de incorporar herramientas asistidas por IA (asistentes en los IDEs) para acelerar la codificación, automatizar tareas repetitivas de documentación y aumentar la productividad general del departamento.
 
-Capacitaciones disponibles y accesibles:
+* Capacitaciones disponibles y accesibles:
 Hay una gran cantidad de ofertas de capacitaciones técnicas tanto de nuevas tecnologías, metodologías ágiles e IDEs de inteligencia artificial que pueden ser aprovechadas para mejorar las tareas del área.
 
-Adopción de Marcos Ágiles Híbridos:
+* Adopción de Marcos Ágiles Híbridos:
 Implementación de metodologías ágiles adaptadas a la realidad municipal a costo cero para mejorar y agilizar los procesos de desarrollo.
 
-Estandarización mediante una Arquitectura Base:
+* Estandarización mediante una Arquitectura Base:
 Oportunidad de definir e instituir una arquitectura base a modo de template como norma obligatoria para unificar las metodologías y mantener una coherencia en las tecnologías utilizadas.
 
-Amenazas
+### Amenazas
 
-Demandas Institucionales Cambiantes e Imprevistas:
+* Demandas Institucionales Cambiantes e Imprevistas:
 Variación rápida en las prioridades de las distintas Secretarías que exigen respuestas inmediatas y desordenan la planificación del área.
 
-Dificultad de Integración Técnica con Sistemas y Bases Legacy:
+* Dificultad de Integración Técnica con Sistemas y Bases Legacy:
 Complejidad para consumir o integrar datos de aplicaciones antiguas que carecen de APIs o servicios web unificados, generando duplicación de funciones al no contar con interfaces modernas de integración.
 
-Riesgos de Ciberseguridad y Fuga de Información:
+* Riesgos de Ciberseguridad y Fuga de Información:
 Vulnerabilidades en código antiguo no actualizado o uso de herramientas externas que pongan en riesgo la información municipal.
 
 ---
