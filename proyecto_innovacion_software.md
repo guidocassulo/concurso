@@ -86,6 +86,9 @@ Hay una gran cantidad de ofertas de capacitaciones técnicas tanto de nuevas tec
 • Falta de una óptima integración entre sistemas legacy y nuevos aplicativos:
 Algunos sistemas duplican funciones debido a la imposibilidad de integrar la forma en que acceden a las bases de datos más antiguas con nuevos aplicativos, generando duplicación de funciones al no haber APIs o sistemas que unifiquen la consumición de estos datos.
 
+• Falta de coordinación entre equipos de trabajo:
+Al no haber un agente que actúe como coordinador entre los proyectos ni documentación accesible de los sistemas existentes, los distintos equipos de trabajo desconocen las tareas que realizan los demás generando una duplicación de funcionalidades innecesaria.
+
 ---
 
 ## 4. Objetivos
