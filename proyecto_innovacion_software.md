@@ -63,9 +63,8 @@ Fortalecer la capacidad institucional del Departamento de Gestión, Desarrollo e
 
 ---
 
-## 5. Propuestas de Mejoras sin Presupuesto (Optimización con Recursos Actuales - Escenario REAL)
-
-Estas acciones constituyen la nueva columna vertebral del departamento y pueden ejecutarse de inmediato reorganizando los procedimientos existentes a costo $0:
+## 5. Propuesta de Mejora y Optimización con Recursos Actuales (SIN PRESUPUESTO - Plan Realista)
+Esta sección constituye el corazón operativo del plan a corto plazo. Agrupa todas las iniciativas procedimentales y organizacionales que se implementarán **utilizando exclusivamente el capital humano y las herramientas existentes (Costo $0)**, transformando los procedimientos en la columna vertebral del departamento:
 
 ### 1. Implementación de Agilidad Adaptativa y Liderazgo Híbrido de la Jefatura
 *   **Modelo Híbrido (Kanban + Iteraciones Cortas):** Se aplicará *Kanban* para ordenar el mantenimiento continuo e incidencias de sistemas *legacy*, e *iteraciones cortas* (Sprints) para nuevos desarrollos. No se impondrá Scrum de forma rígida a todo el personal.
@@ -95,9 +94,8 @@ Estas acciones constituyen la nueva columna vertebral del departamento y pueden 
 
 ---
 
-## 6. Propuestas de Mejoras con Presupuesto (Proyección con Incorporación de Recursos - Escenario IDEAL)
-
-Para escalar el departamento hacia la excelencia tecnológica, se planifica la inversión presupuestaria en:
+## 6. Proyección con Incorporación de Recursos (CON PRESUPUESTO - Plan Proyectado a Mediano/Largo Plazo)
+Esta sección contempla la evolución tecnológica y la innovación del departamento a través de una inversión presupuestaria escalonada y justificada en necesidades concretas:
 
 ### 1. Herramientas Tecnológicas y Licencias Corporativas
 *   **Licencias Corporativas de IA para IDEs (ej. GitHub Copilot / Tabnine):** Adquisición de licencias corporativas oficiales administradas por el Municipio, garantizando entornos seguros, privados y con tokens oficiales para aumentar drásticamente la productividad del equipo.
