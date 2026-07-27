@@ -11,14 +11,29 @@ Atendiendo al perfil del cargo concursado, el abordaje central radica en **optim
 ---
 
 ## 2. Introducción
-El Departamento enfrenta el desafío de administrar un ecosistema tecnológico heterogéneo que combina aplicaciones heredadas (*legacy*) con soluciones modernas, operando con una dotación de personal acotada y distribuida en distintas dependencias físicas. Para dar respuesta a las crecientes demandas de digitalización municipal, la Jefatura debe orquestar estos recursos con una visión gerencial y pragmática.
 
-El plan se divide metodológicamente en:
-1. **Un Diagnóstico Integral (FODA):** Identificación de fortalezas, cuellos de botella y deudas técnicas reales.
-2. **Definición de Objetivos Estratégicos:** Alineados a la gobernanza del software municipal.
-3. **Propuestas de Optimización con Recursos Actuales (Escenario REAL - Costo $0):** Centradas en la agilidad adaptativa, estandarización de arquitectura y buenas prácticas.
-4. **Proyección con Incorporación de Recursos (Escenario IDEAL - Con Presupuesto):** Inversión escalonada en herramientas tecnológicas, capacitación formal y licencias.
-5. **Modelo de Gestión, Implementación por Etapas e Indicadores:** Hoja de ruta por fases y métricas de riesgo operacional.
+### 2.1. Pertenencia Institucional y Ubicación Orgánica
+El Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software se encuentra integrado orgánicamente dentro de la **Subsecretaría de Gobierno Digital y Mejora de Procesos**, dependiente de la **Secretaría de Participación Ciudadana y Descentralización** de la Municipalidad de General Pueyrredon (C.F. 1-31-00-01, N° de Orden 6733). Su ubicación en la estructura municipal lo posiciona como el área técnica responsable de posibilitar la transformación digital y soportar operativamente a la totalidad de las Secretarías y dependencias comunales.
+
+### 2.2. Misión del Departamento
+La misión institucional del Departamento es **diseñar, construir, mantener, integrar y evolucionar las soluciones de software y aplicaciones municipales**, garantizando la continuidad operativa de los servicios, la soberanía sobre el patrimonio informático del Municipio, la protección de los datos de la ciudadanía y la adopción con sentido de innovaciones tecnológicas para responder con agilidad a las demandas de las gestiones presentes y futuras.
+
+### 2.3. Funciones Normativas del Departamento (según Decreto / Ordenanza Vigente)
+De acuerdo con la normativa municipal que rige la estructura orgánica y el nomenclador de funciones del área (citada en la bibliografía oficial del concurso), el Departamento tiene encomendadas las siguientes funciones primarias:
+1. **Relevamiento y Análisis de Necesidades:** Relevar, analizar y sistematizar los requerimientos informáticos y funcionales de las distintas dependencias de la administración municipal.
+2. **Planificación y Desarrollo de Software:** Planificar, diseñar, codificar, implementar y mantener los sistemas de software, bases de datos y aplicaciones móviles de uso institucional.
+3. **Modelos de Desarrollo y Documentación:** Definir y homogenizar los modelos de ciclo de vida de desarrollo de software, dictando pautas de documentación técnica, diccionarios de datos y manuales operativos.
+4. **Estándares Técnicos y Calidad:** Establecer y auditar los estándares de codificación, el uso del *template* de arquitectura base municipal, las pautas de *testing* y la seguridad desde la etapa de análisis (*Security by Design*).
+5. **Investigación, Evaluación e Innovación:** Investigar, evaluar e institucionalizar de manera fundamentada nuevas tecnologías, lenguajes de programación, herramientas de desarrollo, marcos ágiles e Inteligencia Artificial.
+6. **Gobierno Técnico de Tercerizaciones:** Participar activamente en la formulación de pliegos, seguimiento técnico, control de entregables, pruebas de aceptación y recepción de código fuente de las soluciones de software desarrolladas por proveedores externos.
+7. **Interoperabilidad e Integración:** Garantizar la integración, reutilización de componentes y comunicación entre los diferentes sistemas municipales para evitar silos aislados de información.
+
+### 2.4. Enfoque Metodológico del Plan
+Para cumplir con estas funciones normativas frente a la realidad operativa del sector, el presente Plan de Trabajo parte de un diagnóstico exhaustivo de la situación actual y se articula en torno al tema oficial del concurso, estructurándose en:
+* **Diagnóstico Integral (FODA):** Identificación de fortalezas, deudas técnicas y riesgos operacionales reales.
+* **Propuesta de Mejora con Recursos Actuales (SIN PRESUPUESTO - Plan Realista):** Soluciones procedimentales, organizacionales y ágiles a costo $0.
+* **Proyección con Incorporación de Recursos (CON PRESUPUESTO - Plan Proyectado):** Inversión escalonada en herramientas tecnológicas, licencias corporativas e infraestructura.
+* **Modelo de Gestión, Hoja de Ruta en Etapas e Indicadores:** Implementación progresiva y medición de riesgo institucional.
 
 ---
 
