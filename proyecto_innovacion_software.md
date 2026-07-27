@@ -21,7 +21,7 @@ De acuerdo con la normativa municipal que rige la estructura orgánica y el nome
 *   **Modelos de Desarrollo y Documentación:** Definir y homogenizar los modelos de ciclo de vida de desarrollo de software, dictando pautas de documentación técnica, diccionarios de datos y manuales operativos.
 *   **Estándares Técnicos y Calidad:** Establecer y auditar los estándares de codificación, el uso del *template* de arquitectura base municipal, las pautas de *testing* y la seguridad desde la etapa de análisis (*Security by Design*).
 *   **Investigación, Evaluación e Innovación:** Investigar, evaluar e institucionalizar de manera fundamentada nuevas tecnologías, lenguajes de programación, herramientas de desarrollo, marcos ágiles e Inteligencia Artificial.
-*   **Gobierno Técnico de Tercerizaciones:** Participar activamente en la formulación de pliegos, seguimiento técnico, control de entregables, pruebas de aceptación y recepción de código fuente de las soluciones de software desarrolladas por proveedores externos.
+*   **Control y Recepción Técnica de Software Tercerizado:** Participar activamente en el seguimiento técnico, control de entregables, pruebas de aceptación y recepción de código fuente de las soluciones desarrolladas por proveedores externos.
 *   **Interoperabilidad e Integración:** Garantizar la integración, reutilización de componentes y comunicación entre los diferentes sistemas municipales para evitar silos aislados de información.
 
 Para cumplir con estas funciones normativas frente a la realidad operativa del sector, el presente Plan de Trabajo parte de un diagnóstico exhaustivo de la situación actual y se articula en torno al tema oficial del concurso, estructurándose en un Diagnóstico Integral (FODA), la formulación de Objetivos, la Propuesta de Mejora y Optimización con Recursos Actuales (SIN PRESUPUESTO - Plan Realista), la Proyección con Incorporación de Recursos (CON PRESUPUESTO - Plan Proyectado), y los mecanismos de Implementación, Gestión e Indicadores de Evaluación.
@@ -38,13 +38,13 @@ Para cumplir con estas funciones normativas frente a la realidad operativa del s
 *   **Fragmentación Tecnológica y Desintegración Arquitectónica:** Coexistencia caótica de tecnologías obsoletas (WebForms con SQL 2005) junto a tecnologías modernas (.NET, React, Angular, PHP, PostgreSQL). Aunque existe un *template* de arquitectura base, su uso no ha sido obligatorio ni uniforme.
 *   **Multitarea Extrema y Conocimiento Concentrado (*Single Point of Failure*):** La escasa dotación frente a la alta demanda obliga al personal a atender simultáneamente emergencias *legacy* de diversas áreas y desarrollos nuevos. Esto genera saltos de contexto constantes y un alto riesgo operativo: la existencia de sistemas críticos que dependen del conocimiento exclusivo de una sola persona.
 *   **Aislamiento Operativo entre Dependencias:** La distribución física del personal en dos oficinas distintas genera descoordinación, aislamiento en silos de información y el riesgo de desarrollar funcionalidades duplicadas por falta de comunicación.
-*   **Seguimiento y Estimación Caóticos:** Uso fragmentado de herramientas (algunos agentes usan Redmine, otros planillas desactualizadas en Excel o registros informales), impidiendo conocer la capacidad operativa real del departamento.
+*   **Estimación y Seguimiento Caóticos:** Uso fragmentado de herramientas (algunos agentes usan Redmine, otros planillas desactualizadas en Excel o registros informales), impidiendo conocer la capacidad operativa real del departamento.
 *   **Documentación Inexistente o Desigual:** Falta de manuales técnicos, diccionarios de datos o registros de arquitectura, lo que profundiza la dependencia de programadores específicos.
-*   **Ausencia de Gobierno Técnico sobre Proveedores Externos:** Los desarrollos contratados a terceros corren el riesgo de entregarse sin documentación suficiente, sin transferir el conocimiento o sin alinearse con los estándares municipales.
+*   **Falta de Control y Recepción Técnica en Software Tercerizado:** Riesgo de recibir sistemas contratados a terceros sin la documentación adecuada, sin la transferencia de conocimiento al personal municipal o sin alineación a los estándares de arquitectura del departamento.
 *   **Pruebas de Software Reactivas:** Al no existir el rol de QA en el organigrama municipal (ni la posibilidad de crear nuevos cargos en el escalafón), la verificación de errores depende del propio desarrollador o salta en post-producción reportada por el usuario.
-*   **Uso de IA Informal e Inseguro:** La utilización de herramientas de IA se da por iniciativa personal, sin licencias institucionales y sin pautas claras de seguridad sobre la protección de datos sensibles municipales.
 
 ### Oportunidades
+*   **Adopción de Inteligencia Artificial para Agilizar la Producción:** Oportunidad de incorporar herramientas asistidas por IA (asistentes en los IDEs) para acelerar la codificación, automatizar tareas repetitivas de documentación y aumentar la productividad general del departamento.
 *   **Adopción de Marcos Ágiles Híbridos:** Implementación de metodologías ágiles adaptadas a la realidad municipal a costo cero.
 *   **Estandarización mediante la Arquitectura Base:** Consolidar el *template* preexistente como norma obligatoria para todos los desarrollos.
 
@@ -87,16 +87,16 @@ Esta sección constituye el corazón operativo del plan a corto plazo. Agrupa to
 *   Dado que actualmente no se cuenta con herramientas de revisión automatizada y la revisión manual cruzada entre pares sobrecargaría a los programadores Senior, la calidad se asegurará **definiendo y exigiendo buenas prácticas de programación y guías de estilo obligatorias**.
 *   **Obligatoriedad del Template de Arquitectura Base:** Se establecerá como norma inquebrantable que todo nuevo desarrollo o refactorización relevante deba construirse sobre la arquitectura base desarrollada en la Municipalidad. Ningún desarrollo nuevo podrá iniciarse en tecnologías obsoletas (*Congelamiento Legacy*).
 
-### 4. Gobierno Técnico de Proveedores Externos
-*   La contratación externa de software no significará la pérdida de control institucional. Se establecerán cláusulas procedimentales donde todo proveedor deba:
-    *   Alinear su desarrollo a los estándares de arquitectura y seguridad del Municipio.
+### 4. Control y Recepción Técnica de Software Tercerizado
+*   La contratación externa de software no debe significar la pérdida de control técnico por parte del departamento. Se establecerán pautas procedimentales donde todo proveedor deba:
+    *   Alinear su desarrollo a los estándares de arquitectura del Municipio.
     *   Entregar obligatoriamente código fuente, manuales técnicos y diccionarios de datos actualizados.
     *   Someterse a pruebas de recepción validadas por el personal técnico del Departamento antes de la aceptación final.
 
-### 5. Protocolo Institucional de Seguridad y Privacidad para Uso de IA Gratuita
-*   Ante el uso informal de herramientas gratuitas de IA por parte del personal, se fijará una directiva clara de **Seguridad y Privacidad**:
-    *   Queda estrictamente prohibido introducir en herramientas de IA públicas datos personales de ciudadanos, credenciales de acceso, claves de bases de datos o código fuente institucional sensible.
-    *   La IA se utilizará únicamente como asistente para generación de estructuras auxiliares, aprendizaje o documentación general, quedando siempre sujeta a la revisión profesional humana.
+### 5. Pautas para el Uso e Integración de Inteligencia Artificial para Agilizar la Producción
+*   Para aprovechar el potencial de la IA en la aceleración de desarrollos sin comprometer la seguridad institucional:
+    *   Se guiará al equipo en el uso de herramientas de IA como asistentes de código para optimizar tiempos de desarrollo y documentación.
+    *   Se fijará la pauta clara de no introducir datos personales de ciudadanos ni credenciales sensibles en servicios públicos de IA.
 
 ---
 
@@ -152,8 +152,8 @@ El éxito de la propuesta se evaluará mediante una combinación de **Métricas 
 | **Estandarización** | % de Proyectos Nuevos alineados a la Arquitectura Base | Garantizar código escalable, mantenible y homogéneo. |
 | **Eficiencia Procesal**| *Lead Time* de Desarrollo (Solicitud ➔ Entrega a Redes) | Reducir los tiempos de entrega mediante priorización ágil. |
 | **Calidad de Entrega** | Tasa de Defectos Reportados en Post-Producción | Reducir fallas mediante el cumplimiento de buenas prácticas. |
-| **Control de Terceros** | % de Desarrollos Externos con Gobierno Técnico Aceptado | Asegurar la entrega de código fuente y documentación por proveedores. |
-| **Gobernanza de IA** | Cumplimiento del Protocolo de Seguridad en IA | Proteger el 100% de la información sensible municipal. |
+| **Control de Terceros** | % de Desarrollos Externos con Recepción Técnica Aprobada | Asegurar la entrega de código fuente y documentación por proveedores. |
+| **Uso de IA** | Evaluación e Integración de Herramientas de IA | Aumentar la productividad del departamento resguardando los datos. |
 
 ---
 
