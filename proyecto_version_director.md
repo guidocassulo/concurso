@@ -24,55 +24,37 @@
 
 ## 1. ABORDAJE
 
-El presente Plan de Trabajo parte de una premisa fundamental: la calidad de un Departamento de Desarrollo de Software no depende exclusivamente de la capacidad técnica de sus integrantes, sino principalmente de la forma en que se organizan las personas, se gestionan los procesos y se administra el conocimiento institucional.
+El presente Plan de Trabajo parte de una premisa construida desde adentro del Departamento: la calidad de un área de desarrollo de software no depende exclusivamente de la capacidad técnica de sus integrantes, sino de cómo se organizan las personas, se gestionan los procesos y se administra el conocimiento institucional.
 
-La creciente transformación digital del Estado Municipal exige que el Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software evolucione desde un modelo centrado únicamente en la resolución de requerimientos hacia un modelo de gestión capaz de planificar, coordinar, estandarizar y mejorar continuamente la producción de soluciones tecnológicas que acompañen las necesidades de las distintas áreas municipales.
+Desde mi posición como integrante del Departamento, he podido observar de manera directa sus fortalezas, sus procesos cotidianos y los desafíos estructurales que limitan su potencial. Esta perspectiva interna es el punto de partida de la propuesta: no se trata de diagnosticar el área desde afuera, sino de conducirla hacia una mejora real, aprovechando lo que ya funciona y resolviendo lo que hoy frena el desarrollo institucional.
 
-En ese contexto, el rol de la Jefatura trasciende la coordinación técnica de proyectos. Su principal responsabilidad consiste en generar las condiciones organizacionales que permitan al equipo desarrollar software de manera previsible, colaborativa y sostenible, promoviendo la integración entre personas, la reutilización del conocimiento, la adopción responsable de nuevas tecnologías y la mejora permanente de los procedimientos internos.
-
-La propuesta reconoce que el Departamento desarrolla su actividad en un entorno dinámico, caracterizado por la coexistencia de sistemas de distinta antigüedad, múltiples requerimientos simultáneos, recursos limitados y una creciente demanda de soluciones digitales por parte de las distintas dependencias municipales. Frente a esta realidad, la respuesta no puede basarse únicamente en incorporar nuevas herramientas tecnológicas, sino en fortalecer la organización del trabajo, establecer criterios comunes y consolidar una cultura de mejora continua.
-
-En consecuencia, este Plan de Trabajo propone un modelo de gestión que combina liderazgo participativo, organización por procesos, gobierno técnico, gestión del conocimiento e innovación tecnológica, diferenciando claramente aquellas acciones que pueden implementarse con los recursos actualmente disponibles de aquellas que requieren una inversión presupuestaria para potenciar el desarrollo futuro del Departamento.
-
-El objetivo final es consolidar un Departamento capaz de responder eficazmente a las necesidades presentes de la Administración Municipal y, al mismo tiempo, construir capacidades institucionales que garanticen la continuidad, calidad y sostenibilidad de los sistemas informáticos más allá de las personas o de los cambios de gestión.
+La conducción del Departamento requiere combinar liderazgo participativo, organización por procesos, gobierno técnico y gestión del conocimiento, diferenciando claramente las acciones implementables con los recursos actuales de las que requieren inversión presupuestaria. El objetivo es consolidar un Departamento previsible, colaborativo y sostenible, capaz de trascender a las personas y a los cambios de gestión.
 
 ---
 
 ## 2. INTRODUCCIÓN
 
-El Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software constituye un área estratégica dentro de la Subsecretaría de Gobierno Digital y Mejora de Procesos, siendo responsable de diseñar, desarrollar, mantener e implementar las soluciones informáticas que respaldan la actividad diaria de la Municipalidad de General Pueyrredon.
+El Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software es el área técnica responsable de diseñar, desarrollar, mantener e implementar las soluciones informáticas que sustentan la actividad diaria de la Municipalidad de General Pueyrredon. Su misión va más allá del desarrollo de aplicaciones: es preservar la soberanía tecnológica del Municipio, garantizar la continuidad operativa de sus sistemas y acompañar la transformación digital de la Administración Pública con criterio, calidad y responsabilidad institucional.
 
-Su función excede el desarrollo de aplicaciones informáticas. El Departamento interviene en el relevamiento y análisis de requerimientos funcionales, la planificación y coordinación de proyectos, la definición de estándares de desarrollo, la evaluación de nuevas tecnologías, el control técnico de proveedores externos, la integración entre sistemas municipales y el mantenimiento evolutivo de aplicaciones críticas para el funcionamiento de la Administración.
+El Departamento opera en un entorno de alta complejidad: conviven aplicaciones de distintas generaciones tecnológicas, múltiples requerimientos simultáneos de diversas Secretarías y una creciente demanda de soluciones digitales. Gestionar esta realidad exige que la Jefatura asuma un rol integrador: no solo coordinar técnicos, sino planificar, estandarizar, preservar el conocimiento y asegurar que cada decisión tecnológica esté alineada con los objetivos institucionales del Municipio.
 
-En consecuencia, la Jefatura del Departamento debe desempeñar un rol integrador que combine conocimientos técnicos con capacidades de planificación, coordinación, conducción de equipos y administración de recursos, garantizando que las decisiones tecnológicas se encuentren alineadas con los objetivos institucionales del Municipio.
-
-Las funciones definidas para el cargo concursado reflejan claramente esta responsabilidad (conforme al Nomenclador del Agrupamiento Computación - Decreto N° 2250/98 y normas complementarias). Entre ellas se encuentran la definición de modelos de desarrollo de software, estándares de codificación y documentación, la planificación y coordinación de desarrollos internos, el análisis de requerimientos funcionales, la evaluación de nuevas herramientas tecnológicas, el control de desarrollos tercerizados, la participación en procesos de contratación y la preservación de la integridad del modelo de datos institucional.
-
-En este marco, la modernización del Departamento no debe interpretarse exclusivamente como un proceso de actualización tecnológica. Constituye, fundamentalmente, una oportunidad para fortalecer la gestión organizacional, mejorar la coordinación entre equipos de trabajo, optimizar el uso de los recursos disponibles y consolidar procedimientos que permitan brindar respuestas más ágiles, previsibles y sostenibles a las distintas áreas municipales.
-
-Por ello, el presente Plan de Trabajo propone una estrategia integral basada en cinco pilares fundamentales:
-*   Fortalecimiento del capital humano y del trabajo colaborativo.
-*   Gestión y preservación del conocimiento institucional.
-*   Estandarización de procesos y gobierno técnico.
-*   Mejora continua e innovación tecnológica.
-*   Planificación estratégica orientada a resultados.
-
-A partir de estos ejes se desarrolla un diagnóstico de la situación actual y se presentan propuestas de mejora diferenciadas entre aquellas que pueden implementarse con los recursos existentes y aquellas que requieren inversiones futuras, procurando que cada iniciativa contribuya al fortalecimiento institucional del Departamento y, en última instancia, a la mejora de los servicios que la Municipalidad brinda a la comunidad.
+En ese marco, el presente Plan propone una estrategia articulada en cinco pilares:
+* Fortalecimiento del capital humano y del trabajo colaborativo.
+* Gestión y preservación del conocimiento institucional.
+* Estandarización de procesos y gobierno técnico.
+* Mejora continua e innovación tecnológica.
+* Planificación estratégica orientada a resultados.
 
 ---
 
 ## 3. DIAGNÓSTICO INSTITUCIONAL
 
 ### 3.1 Situación actual del Departamento
-El Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software constituye un área transversal para el funcionamiento de la Municipalidad, ya que brinda soporte tecnológico a las distintas Secretarías y organismos mediante el análisis, desarrollo, mantenimiento e integración de los sistemas que sustentan los procesos administrativos y la prestación de servicios a la ciudadanía.
+El Departamento constituye un área transversal para el funcionamiento de la Municipalidad, brindando soporte tecnológico a las distintas Secretarías y organismos mediante el análisis, desarrollo, mantenimiento e integración de los sistemas que sustentan los procesos administrativos y la prestación de servicios a la ciudadanía.
 
-En los últimos años la demanda de soluciones informáticas ha crecido de manera sostenida, tanto por el avance de la transformación digital como por la incorporación permanente de nuevas necesidades funcionales provenientes de las distintas áreas municipales. Este crecimiento ha permitido ampliar el alcance del Departamento, pero también ha incrementado la complejidad de su gestión.
+En los últimos años la demanda de soluciones informáticas ha crecido de manera sostenida, tanto por el avance de la transformación digital como por la incorporación permanente de nuevas necesidades funcionales. Actualmente conviven aplicaciones desarrolladas en distintos momentos históricos, con tecnologías diversas, junto con la atención simultánea de requerimientos evolutivos, mantenimiento correctivo, proyectos nuevos, asistencia técnica a usuarios y coordinación con proveedores externos.
 
-Actualmente conviven aplicaciones desarrolladas en distintos momentos históricos, utilizando tecnologías diversas y respondiendo a necesidades organizacionales diferentes. A ello se suma la atención simultánea de requerimientos evolutivos, mantenimiento correctivo, proyectos nuevos, asistencia técnica a usuarios y coordinación con proveedores externos.
-
-Este contexto exige que la Jefatura adopte una visión integral del funcionamiento del Departamento, fortaleciendo la organización interna, promoviendo el trabajo colaborativo y estableciendo procedimientos comunes que permitan administrar adecuadamente los recursos disponibles.
-
-En este sentido, el diagnóstico realizado permite identificar fortalezas sobre las cuales construir una estrategia de mejora, así como debilidades y oportunidades cuya adecuada gestión contribuirá al fortalecimiento institucional del área.
+Este contexto exige una conducción que tenga visión integral del Departamento: fortalecer la organización interna, promover el trabajo colaborativo y establecer procedimientos comunes que permitan administrar adecuadamente los recursos disponibles.
 
 ### 3.2 Análisis FODA
 
@@ -127,21 +109,26 @@ La adopción de dinámicas ágiles (Kanban para mantenimiento e iteraciones cort
 • **Gestión política favorable y capacitaciones accesibles:**  
 Intención clara de las autoridades por optimizar el área, sumada a la amplia oferta de formación técnica online y talleres internos para actualizar competencias sin impacto presupuestario.
 
-#### Amenazas
+#### Amenazas y su Mitigación
 • **Incremento sostenido de la demanda e indefinición de áreas usuarias:**  
-La demanda creciente sumada a dilaciones o falta de certeza por parte de las dependencias solicitantes al definir circuitos administrativos puede superar la capacidad operativa si no se formaliza un circuito único de demandas.
+La demanda creciente sumada a dilaciones o falta de certeza por parte de las dependencias solicitantes al definir circuitos administrativos puede superar la capacidad operativa si no se formaliza un circuito único de demandas.  
+*Mitigación:* Implementación de una Cartera Única de Proyectos en Redmine con circuito formal de ingreso, priorización objetiva y comunicación sistematizada con las áreas usuarias.
 
 • **Obsolescencia e integración con sistemas legacy:**  
-La coexistencia de aplicaciones sobre tecnologías antiguas que carecen de APIs unificadas incrementa el riesgo operativo y dificulta su integración con nuevos desarrollos web o móviles.
+La coexistencia de aplicaciones sobre tecnologías antiguas que carecen de APIs unificadas incrementa el riesgo operativo y dificulta su integración con nuevos desarrollos web o móviles.  
+*Mitigación:* Creación de una capa de integración mediante APIs (middlewares) para aislar los sistemas antiguos y exponer servicios seguros, con modernización progresiva planificada por etapas.
 
 • **Riesgo de dependencia técnica sobre proveedores externos:**  
-La entrega de soluciones por terceros sin un canal fluido de comunicación técnica ni una contraparte municipal que participe activamente del seguimiento puede generar dependencia total de la empresa y pérdida del conocimiento institucional.
+La entrega de soluciones por terceros sin un canal fluido de comunicación técnica ni una contraparte municipal que participe activamente del seguimiento puede generar dependencia total de la empresa y pérdida del conocimiento institucional.  
+*Mitigación:* Gobierno técnico de proveedores: exigencia de código fuente, documentación técnica y pruebas de recepción validadas por el Departamento antes de la aceptación formal de cualquier entregable.
 
 • **Requerimientos normativos e imprevistos de gestión:**  
-Surgimiento de necesidades imprevistas derivadas de cambios normativos o resoluciones urgentes que fuerzan la reorganización del cronograma establecido.
+Surgimiento de necesidades imprevistas derivadas de cambios normativos o resoluciones urgentes que fuerzan la reorganización del cronograma establecido.  
+*Mitigación:* Backlog priorizado con capacidad de reserva planificada para atender urgencias sin desarticular los proyectos en curso, gestionado mediante el circuito de Cartera Única.
 
 • **Resistencia al liderazgo e inercia organizacional:**  
-La prolongada falta de una conducción formal en el Departamento puede generar inercia inicial a la hora de adoptar nuevas pautas organizativas y estándares técnicos.
+La prolongada falta de una conducción formal en el Departamento puede generar inercia inicial a la hora de adoptar nuevas pautas organizativas y estándares técnicos.  
+*Mitigación:* Liderazgo firme pero empático, incorporación progresiva y participativa de las nuevas pautas comunes, y reuniones periódicas de trabajo colaborativo para construir consenso y cohesión de equipo.
 
 ### 3.3 Conclusión del diagnóstico
 Del análisis realizado surge que el principal desafío del Departamento no radica exclusivamente en la incorporación de nuevas tecnologías, sino en fortalecer su capacidad organizacional para gestionar de manera eficiente el conocimiento, coordinar los recursos disponibles y establecer procedimientos comunes que permitan responder con mayor previsibilidad a las necesidades de la Administración Municipal.
@@ -155,7 +142,7 @@ En consecuencia, la propuesta prioriza la consolidación de un modelo de gestió
 El ejercicio de la Jefatura del Departamento requiere combinar capacidades técnicas con habilidades de conducción, planificación y coordinación. En consecuencia, las decisiones organizacionales y técnicas deberán sustentarse sobre principios de gestión que otorguen coherencia a las acciones del Departamento.
 
 ### 4.1 Liderazgo basado en la colaboración
-La conducción del Departamento deberá promover un ambiente de trabajo participativo, donde la comunicación, el intercambio de conocimientos y la construcción colectiva de soluciones sean parte de la cultura organizacional. La función de la Jefatura consistirá en facilitar el trabajo de los equipos, remover obstáculos, promover acuerdos y generar las condiciones necesarias para que cada integrante pueda desarrollar sus capacidades profesionales.
+La conducción del Departamento promoverá un ambiente de trabajo participativo, donde la comunicación, el intercambio de conocimientos y la construcción colectiva de soluciones sean parte de la cultura organizacional. La función de la Jefatura consistirá en facilitar el trabajo de los equipos, remover obstáculos, promover acuerdos y generar las condiciones necesarias para que cada integrante pueda desarrollar sus capacidades profesionales.
 
 ### 4.2 Gestión orientada a procesos
 El crecimiento sostenido del Departamento hace necesario reducir la dependencia de prácticas individuales y avanzar hacia procedimientos institucionales homogéneos. Toda actividad recurrente deberá encontrarse respaldada por procedimientos claros que permitan garantizar continuidad, previsibilidad y calidad, simplificando el trabajo cotidiano y asegurando la continuidad operativa.
@@ -170,10 +157,10 @@ Los procedimientos, metodologías y herramientas deberán revisarse periódicame
 Antes de adoptar una herramienta, metodología o plataforma tecnológica se evaluarán aspectos tales como compatibilidad con la arquitectura existente, sostenibilidad en el tiempo, costos de implementación, impacto sobre los procesos, requerimientos de capacitación y seguridad de la información.
 
 ### 4.6 Orientación al servicio
-El Departamento presta servicios a las distintas áreas municipales y, de manera indirecta, a toda la comunidad. Las decisiones deberán priorizar el valor que los sistemas aportan a los procesos administrativos, sustentándose en un diálogo permanente y una definición clara de prioridades.
+El Departamento presta servicios a las distintas áreas municipales y, de manera indirecta, a toda la comunidad. Las decisiones priorizarán el valor que los sistemas aportan a los procesos administrativos, sustentándose en un diálogo permanente y una definición clara de prioridades.
 
 ### 4.7 Decisiones basadas en evidencia
-La planificación y administración del Departamento deberá apoyarse en información objetiva proveniente de indicadores que midan la capacidad operativa, la evolución de proyectos y los cuellos de botella.
+La planificación y administración del Departamento se apoyará en información objetiva proveniente de indicadores que midan la capacidad operativa, la evolución de proyectos y los cuellos de botella.
 
 ---
 
@@ -298,8 +285,8 @@ Aprovechando la estructura vigente del *Grupo Ocupacional Computación* (Decreto
 
 La modernización tecnológica de la Municipalidad de General Pueyrredon requiere un Departamento de Software ordenado, previsible y sostenible, capaz de trascender a las personas y a los cambios de gestión política.
 
-Al implementar un marco de agilidad adaptativa con la Jefatura en un rol activo de **Scrum Master Global y Gestor Gerencial**, establecer el uso obligatorio de la arquitectura base municipal, instituir la figura de los *Referentes Secundarios* y aplicar un estricto *Gobierno Técnico sobre Proveedores*, se resuelven los problemas históricos de desarticulación, multitarea caótica y conocimiento concentrado.
+Al implementar un marco de agilidad adaptativa con la Jefatura en un rol activo de **Scrum Master Global y Gestor**, establecer el uso obligatorio de la arquitectura base municipal, instituir la figura de los *Referentes Secundarios* y aplicar un estricto *Gobierno Técnico sobre Proveedores*, se resuelven los problemas históricos de desarticulación, multitarea caótica y conocimiento concentrado.
 
-Esta propuesta demuestra cómo es posible transformar la realidad actual mediante el uso inteligente de los recursos disponibles (Escenario REAL $0) y trazar un camino presupuestario sólido para incorporar innovación tecnológica (Escenario IDEAL), asegurando que el patrimonio de software del Municipio sea seguro, duradero y de calidad.
+Esta propuesta nace desde adentro del Departamento: no es una visión externa de lo que debería mejorarse, sino el resultado del conocimiento acumulado en el trabajo cotidiano, en el análisis de sus procesos y en la identificación concreta de lo que frena el desarrollo institucional del área. Por eso sus iniciativas son realizables, sus tiempos son reales y sus resultados son medibles.
 
-La tecnología constituye una herramienta al servicio de la gestión pública. En consecuencia, el verdadero desafío del Departamento no consiste únicamente en desarrollar software, sino en aportar soluciones que mejoren la eficiencia administrativa, fortalezcan la continuidad institucional y generen valor para toda la ciudadanía. Ese será el criterio rector que orientará la gestión propuesta.
+La tecnología es una herramienta al servicio de la gestión pública. El verdadero desafío del Departamento no consiste únicamente en desarrollar software, sino en aportar soluciones que mejoren la eficiencia administrativa, fortalezcan la continuidad institucional y generen valor para toda la ciudadanía. Ese será el criterio rector de la gestión.
