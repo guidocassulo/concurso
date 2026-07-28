@@ -12,6 +12,7 @@
   "dependencies": {
     "adm-zip": "^0.5.17",
     "marked": "^18.0.5",
-    "pdf-parse": "^2.4.5"
+    "pdf-parse": "^2.4.5",
+    "tesseract.js": "^7.0.0"
   }
 }

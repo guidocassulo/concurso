@@ -1,0 +1,401 @@
+
+
+-- 1 of 67 --
+
+
+
+-- 2 of 67 --
+
+
+
+-- 3 of 67 --
+
+
+
+-- 4 of 67 --
+
+
+
+-- 5 of 67 --
+
+
+
+-- 6 of 67 --
+
+
+
+-- 7 of 67 --
+
+
+
+-- 8 of 67 --
+
+
+
+-- 9 of 67 --
+
+
+
+-- 10 of 67 --
+
+
+
+-- 11 of 67 --
+
+
+
+-- 12 of 67 --
+
+
+
+-- 13 of 67 --
+
+
+
+-- 14 of 67 --
+
+
+
+-- 15 of 67 --
+
+
+
+-- 16 of 67 --
+
+
+
+-- 17 of 67 --
+
+
+
+-- 18 of 67 --
+
+
+
+-- 19 of 67 --
+
+
+
+-- 20 of 67 --
+
+
+
+-- 21 of 67 --
+
+
+
+-- 22 of 67 --
+
+
+
+-- 23 of 67 --
+
+
+
+-- 24 of 67 --
+
+
+
+-- 25 of 67 --
+
+
+
+-- 26 of 67 --
+
+
+
+-- 27 of 67 --
+
+
+
+-- 28 of 67 --
+
+
+
+-- 29 of 67 --
+
+
+
+-- 30 of 67 --
+
+
+
+-- 31 of 67 --
+
+
+
+-- 32 of 67 --
+
+
+
+-- 33 of 67 --
+
+
+
+-- 34 of 67 --
+
+
+
+-- 35 of 67 --
+
+
+
+-- 36 of 67 --
+
+
+
+-- 37 of 67 --
+
+
+
+-- 38 of 67 --
+
+
+
+-- 39 of 67 --
+
+
+
+-- 40 of 67 --
+
+
+
+-- 41 of 67 --
+
+
+
+-- 42 of 67 --
+
+
+
+-- 43 of 67 --
+
+
+
+-- 44 of 67 --
+
+
+
+-- 45 of 67 --
+
+
+
+-- 46 of 67 --
+
+
+
+-- 47 of 67 --
+
+
+
+-- 48 of 67 --
+
+
+
+-- 49 of 67 --
+
+
+
+-- 50 of 67 --
+
+
+
+-- 51 of 67 --
+
+
+
+-- 52 of 67 --
+
+
+
+-- 53 of 67 --
+
+
+
+-- 54 of 67 --
+
+
+
+-- 55 of 67 --
+
+
+
+-- 56 of 67 --
+
+
+
+-- 57 of 67 --
+
+
+
+-- 58 of 67 --
+
+
+
+-- 59 of 67 --
+
+
+
+-- 60 of 67 --
+
+
+
+-- 61 of 67 --
+
+Municipalidad de General Pueyrredon
+2025
+Resolución
+Número:
+Referencia: RESOLUCION - Jose Leonardo García - Atención y Firma - EX-2024-00541719- -MUNIMDP-
+DTADSGD#SSGD
+VISTO el EX-2024-00541719- -MUNIMDP-DTADSGD#SSGD, y
+CONSIDERANDO
+Que mediante el mismo, la Subsecretaría de Gobierno Digital y Mejoras de Procesos, solicita prorrogar la atención
+y firma del despacho de la División Técnica de Asistencia Territorial al agente José Leonardo García, Legajo N°
+29.019/1 otorgada oportunamente mediante RESOL-2024-21-E-MUNIMDP-SPCD, a partir del 01 de noviembre y
+por el término de seis (6) meses.
+Que lo solicitado cuenta con el visto bueno de las autoridades correspondientes.
+Por ello en uso de las facultades delegadas mediante DECFC-2023-3124-E-MUNIMDP-INT,
+El SECRETARIO DE PARTICIPACIÓN CIUDADANA Y DESCENTRALIZACIÓN
+Martes 18 de Noviembre de 2025
+RESOL-2025-43-E-MUNIMDP-SPCD
+MAR DEL PLATA, BUENOS AIRES
+
+-- 62 of 67 --
+
+R E S U E L V E
+Artículo 1º.- Prorrogar, a partir del 01 de noviembre de 2025 y hasta el 30 de abril de 2026, inclusive, la atención y
+firma de mero trámite de la División Técnica de Asistencia Territorial (U.E. 20-08-0-0-0-02) al agente JOSE
+LEONARDO GARCIA, Legajo N° 29.019/01 – CUIL 23-22626981-9 (SOPORTE SENIOR - 44 horas semanales
+– C.F. 08-20-69-02 - U.E. 20-08-0-2-1-00), sin perjuicio de sus funciones específicas, manteniéndosele el pago de
+las Bonificaciones que viene percibiendo.
+ARTÍCULO 2º.- Registrar, dar al Boletín Municipal y comunicar por la Dirección de Recursos Humanos.
+Digitally signed by SEREBRINSKY Gustavo Eduardo
+Date: 2025.11.18 11:37:24 ART
+Location: Partido de General Pueyrredon
+Gustavo Serebrinsky
+Secretario
+Secretaría de Participación Ciudadana y Descentralización
+Digitally signed by GDE MGP
+Date: 2025.11.18 11:37:33 -03:00
+
+-- 63 of 67 --
+
+Curso CCNA 1 Introducción a las redes
+72 horas reloj
+La presente información fue extraída de la Página oficial de la Fundación
+Proydesa que se encuentra en los siguientes links:
+https://www.proydesa.org/portal/noticias/496-ccna-cisco-networking-academy-
+fasttrack
+https://www.proydesa.org/portal/carreras/redes/ccna-1
+CCNA 1: Introducción a las redes
+Comenzá aquí con CCNA, el primer curso de la serie. Desde la comprensión
+de las arquitecturas y los protocolos de red hasta el dominio del
+direccionamiento IP y los fundamentos de Ethernet, desarrollará conocimientos
+básicos y los fundamentos de red. Este curso también incluye prácticas de
+laboratorio interactivos y escenarios del mundo real para ayudarte a obtener
+experiencia práctica en la creación de redes de área local (LAN), la
+implementación de medidas de seguridad de la red y la configuración de
+enrutadores y conmutadores.
+CCNA 1 Introducción a las redes cubre la arquitectura, estructura, funciones
+y componentes de Internet y otras redes informáticas. Los estudiantes logran
+una comprensión básica de cómo funcionan las redes y cómo construir redes
+de área local (LAN) simples, realizar configuraciones básicas para enrutadores
+y conmutadores e implementar el Protocolo de Internet (IP).
+
+-- 64 of 67 --
+
+Programa especializado: Habilidades Gerenciales.
+54 horas reloj
+La presente información fue extraída de la Página oficial de Coursera
+correspondiente a la Universidad Nacional de México que se encuentra en el
+siguiente link:
+https://www.coursera.org/specializations/habilidades?utm_medium=sem&utm_source=gg&utm_campaign=b2c_l
+atam_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s1_es_m_hyb_25-
+09_x&campaignid=23013457628&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&cre
+ativeid=&assetgroupid=6609642748&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=233
+09444864&gbraid=0AAAAADdKX6Zf1EQj-
+y0UM1bCZvDAUHk8u&gclid=Cj0KCQiAk6rNBhCxARIsAN5mQLugJXr4fyjyHXMn4r5l5c4xPJ4yi_IpAD4zQ28eUDS
+wsjsh0zEkcBMaAsmMEALw_wcB#courses
+Especialización: Serie de cursos de 6 cursos
+Este programa especializado está dirigido a personas que trabajen en
+instituciones públicas y/o privadas que ocupan un puesto en mandos medios o
+superiores que deseen mejorar notablemente su desempeño directivo.
+También, es para cualquier persona que desea desarrollar su potencial y
+prepararse para ocupar puestos en niveles gerenciales.
+Proyecto de aprendizaje aplicado
+El Programa Especializado en Habilidades Gerenciales te permitirá desarrollar
+competencias integrales para desempeñar un puesto de mando de cualquier
+nivel y tipo de organización, está dividido en seis módulos didácticos diseñados
+con vídeos, ejercicios y actividades que de una manera sencilla y clara te
+describen los elementos estructurales de la función directiva haciendo énfasis
+en los aspectos esenciales y técnicos de cada uno de los temas.
+Al final del programa habrás entendido mucho mejor tu rol directivo en tu
+empresa y la importancia de tu contribución; la que concretarás a lo largo del
+programa en un proceso de desarrollo personal e institucional
+Autoridad, dirección y liderazgo
+CURSO 1 • 8 horas
+En este curso, identificarás las principales responsabilidades y actividades que
+realiza un directivo en cualquier nivel de mando. Revisarás ejemplos que
+reflejan la importancia del ejercicio del liderazgo resaltando el valor del manejo
+adecuado de la comunicación, toma de decisiones, motivación, delegación,
+supervisión y coordinación del equipo de trabajo. Por otra parte, reconocerás
+los diferentes estilos de liderazgo y como éstos deben ser utilizados
+dependiendo de las particularidades de cada situación.
+
+-- 65 of 67 --
+
+Gestión del talento humano
+CURSO 2 • 8 horas
+El curso aborda la organización desde una perspectiva sistémica en donde
+todos los elementos interactúan para lograr un resultado productivo. Se
+enfatiza la importancia de habilidades gerenciales para lograr estos propósitos.
+Realizarás ejercicios para potencializar tus niveles de inteligencia emocional y
+comunicación asertiva implicando a tus colaboradores en el desarrollo de estas
+habilidades. Ésto, con el fin de generar climas laborales en donde la confianza,
+motivación y respeto sean actitudes cotidianas.
+Orden y manejo del tiempo
+CURSO 3 • 9 horas
+En este curso realizarás varios ejercicios para diagnosticar y desarrollar
+destrezas para el manejo efectivo de tu tiempo al clasificar prioridades y
+necesidades de la empresa.
+Por otra parte, desarrollarás habilidades para fortalecer una actitud de orden y
+respeto por las normas y procedimientos de trabajo valorando la importancia de
+contar con un clima organizado en donde todo el equipo se siente cómodo y
+sabe dónde encontrar los materiales relacionados con el trabajo del área.
+Solución de problemas y toma de decisiones
+CURSO 4 • 11 horas
+Este curso, ofrecido por la UNAM, te presenta técnicas que permiten entender
+las ventajas del pensamiento divergente (creativo) como una habilidad
+fundamental en la solución de problemas. Revisa, también, la metodología para
+manejar estilos participativos en la toma de decisiones asegurando la
+efectividad de las mismas y la aceptación por parte del personal al ser tomado
+en cuenta.
+Administración para obtener resultados
+CURSO 5 • 11 horas
+La planeación estratégica es una metodología de gran impacto que ha
+demostrado su eficacia en las mejores empresas del mundo. En este curso,
+revisaremos los principios básicos de la estrategia organizacional que permiten
+definir objetivos y tácticas para delimitar indicadores y líneas de acción que
+generen y mantengan la calidad y productividad en todas la áreas de una
+empresa.
+Habilidades gerenciales: Proyecto final
+CURSO 6 • 7 horas
+En este curso, desarrollarás un plan estratégico que te permitirá identificar,
+desarrollar y alinear la misión, visión, valores y objetivos estratégicos de tu
+función directiva con los de la empresa en la que laboras. Del mismo modo
+diseñarás las estrategias e indicadores para lograrlo de manera realista y
+eficiente.
+
+-- 66 of 67 --
+
+Municipalidad de General Pueyrredon
+2026
+Copia Digitalizada
+Hoja Adicional de Firmas
+Número:
+Referencia: Cv y plan de trabajo - García
+El documento fue importado por el sistema GEDO con un total de 66 pagina/s.
+
+-- 67 of 67 --
+
