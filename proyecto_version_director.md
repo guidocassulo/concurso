@@ -1,10 +1,10 @@
 # MUNICIPALIDAD DE GENERAL PUEYRREDON
-**SECRETARÍA DE PARTICIPACIÓN CIUDADANA Y DESCENTRALIZACIÓN**
-**SUBSECRETARÍA DE GOBIERNO DIGITAL Y MEJORA DE PROCESOS**
+**SECRETARÍA DE PARTICIPACIÓN CIUDADANA Y DESCENTRALIZACIÓN**  
+**SUBSECRETARÍA DE GOBIERNO DIGITAL Y MEJORA DE PROCESOS**  
 
-**Concurso Interno de Oposición y Antecedentes**
-**Cargo:** Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software
-**C.F. 1-31-00-01 – Nº de Orden 6733**
+**Concurso Interno de Oposición y Antecedentes**  
+**Cargo:** Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software  
+**C.F. 1-31-00-01 – Nº de Orden 6733**  
 
 ---
 
@@ -37,11 +37,11 @@ La propuesta reconoce que el Departamento desarrolla su actividad en un entorno 
 En consecuencia, este Plan de Trabajo propone un modelo de gestión que combina liderazgo participativo, organización por procesos, gobierno técnico, gestión del conocimiento e innovación tecnológica, diferenciando claramente aquellas acciones implementables con los recursos actuales de aquellas que requieren inversión presupuestaria, con el objetivo de consolidar un Departamento capaz de responder a las necesidades presentes y garantizar la continuidad y sostenibilidad de sus sistemas más allá de las personas o los cambios de gestión.
 
 Por ello, el presente Plan propone una estrategia articulada en cinco pilares fundamentales:
-* Fortalecimiento del capital humano y del trabajo colaborativo.
-* Gestión y preservación del conocimiento institucional.
-* Estandarización de procesos y gobierno técnico.
-* Mejora continua e innovación tecnológica.
-* Planificación estratégica orientada a resultados.
+* **Fortalecimiento del capital humano y del trabajo colaborativo.**
+* **Gestión y preservación del conocimiento institucional.**
+* **Estandarización de procesos y gobierno técnico.**
+* **Mejora continua e innovación tecnológica.**
+* **Planificación estratégica orientada a resultados.**
 
 A partir de estos ejes se desarrolla el diagnóstico de la situación actual y se presentan propuestas de mejora diferenciadas entre las que pueden implementarse con los recursos existentes y las que requieren inversión futura.
 
@@ -50,17 +50,19 @@ A partir de estos ejes se desarrolla el diagnóstico de la situación actual y s
 ## 2. DIAGNÓSTICO INSTITUCIONAL
 
 ### 2.1 Situación actual del Departamento
-El Departamento constituye un área transversal para el funcionamiento de la Municipalidad, brindando soporte tecnológico a las distintas Secretarías y organismos mediante el análisis, desarrollo, mantenimiento e integración de los sistemas que sustentan los procesos administrativos y la prestación de servicios a la ciudadanía.
+El Departamento cuenta con un equipo con experiencia técnica y conocimiento de los procesos municipales, y dispone de herramientas de trabajo instaladas. Al mismo tiempo, enfrenta desafíos concretos en la gestión del conocimiento, la estandarización de sus procedimientos y la coordinación entre sus distintos grupos de trabajo, a lo que se suma una recepción dispar ante la incorporación de nuevas herramientas de desarrollo.
 
-En los últimos años la demanda de soluciones informáticas ha crecido de manera sostenida, tanto por el avance de la transformación digital como por la incorporación permanente de nuevas necesidades funcionales. Actualmente conviven aplicaciones desarrolladas en distintos momentos históricos, con tecnologías diversas, junto con la atención simultánea de requerimientos evolutivos, mantenimiento correctivo, proyectos nuevos, asistencia técnica a usuarios y coordinación con proveedores externos.
+En los últimos años la demanda de soluciones informáticas ha crecido de manera sostenida, tanto por el avance de la transformación digital como por la incorporación permanente de nuevas necesidades funcionales provenientes de las distintas áreas municipales. Este crecimiento ha permitido ampliar el alcance del Departamento, pero también ha incrementado la complejidad de su gestión.
 
-Este contexto exige una conducción que tenga visión integral del Departamento: fortalecer la organización interna, promover el trabajo colaborativo y establecer procedimientos comunes que permitan administrar adecuadamente los recursos disponibles.
+Actualmente conviven aplicaciones desarrolladas en distintos momentos históricos, utilizando tecnologías diversas y respondiendo a necesidades organizacionales diferentes. A ello se suma la atención simultánea de requerimientos evolutivos, mantenimiento correctivo, proyectos nuevos, asistencia técnica a usuarios y coordinación con proveedores externos.
+
+Este contexto requiere fortalecer la organización interna, promover el trabajo colaborativo y establecer procedimientos comunes. El diagnóstico que se presenta a continuación permite identificar las fortalezas sobre las cuales construir una estrategia de mejora, así como las debilidades y oportunidades cuya adecuada gestión contribuirá al fortalecimiento institucional del área.
 
 ### 2.2 Análisis FODA
 
 #### Fortalezas
 • **Capital humano con alto conocimiento del negocio municipal:**  
-El Departamento cuenta con profesionales y técnicos que poseen una valiosa experiencia en el funcionamiento de la Administración Pública Municipal, combinando conocimientos tecnológicos con una profunda comprensión de los procedimientos administrativos, la normativa vigente y las necesidades particulares de las distintas áreas usuarias. Este conocimiento constituye uno de los principales activos institucionales y representa una base sólida para impulsar procesos de mejora e innovación.
+El Departamento cuenta con agentes que poseen una valiosa experiencia en el funcionamiento de la Administración Pública Municipal, combinando conocimientos tecnológicos con una profunda comprensión de los procedimientos administrativos, la normativa vigente y las necesidades particulares de las distintas áreas usuarias. Este conocimiento constituye uno de los principales activos institucionales y representa una base sólida para impulsar procesos de mejora e innovación.
 
 • **Compromiso y capacidad de adaptación:**  
 A pesar del incremento permanente de requerimientos y de la coexistencia de sistemas con distintos niveles de complejidad tecnológica, el equipo ha demostrado capacidad para sostener la continuidad operativa de los servicios informáticos municipales, adaptándose a nuevos desafíos y prioridades institucionales.
@@ -71,31 +73,6 @@ La evolución histórica de los sistemas municipales ha permitido que el Departa
 • **Infraestructura y herramientas disponibles:**  
 El Departamento dispone de repositorios en GitLab para versionado, plataforma Redmine para gestión de proyectos, ambientes diferenciados de Desarrollo, Prueba y Producción, y equipamiento básico adecuado, constituyendo una base previa sólida para implementar mejoras organizacionales.
 
-#### Debilidades
-• **Concentración del conocimiento:**  
-Una parte significativa del conocimiento funcional y técnico de determinados sistemas críticos se encuentra concentrada en un número reducido de agentes.  
-*Impacto:* Esta situación incrementa significativamente el riesgo operacional, dificulta la planificación de tareas, genera cuellos de botella y limita la flexibilidad del Departamento para reasignar recursos ante imprevistos o prioridades institucionales.
-
-• **Ausencia de procedimientos homogéneos:**  
-Si bien existen buenas prácticas individuales, actualmente no todos los proyectos siguen criterios comunes respecto de documentación, planificación, estimación, arquitectura, pruebas o seguimiento.  
-*Impacto:* Esta heterogeneidad genera variabilidad en la calidad del código, dificulta la incorporación e inducción de nuevos agentes, reduce la reutilización del trabajo existente y encarece el mantenimiento a largo plazo.
-
-• **Gestión fragmentada de proyectos:**  
-El seguimiento de proyectos se realiza utilizando diferentes herramientas y metodologías, lo que dificulta obtener una visión integral de la carga de trabajo del Departamento.  
-*Impacto:* Impide conocer la capacidad operativa real del área, dificulta la priorización transparente de solicitudes entre Secretarías y genera desajustes en las estimaciones de tiempos de entrega.
-
-• **Comunicación y coordinación entre equipos:**  
-La distribución física del personal en distintas dependencias requiere fortalecer los mecanismos de coordinación interna para asegurar que la información circule oportunamente.  
-*Impacto:* Favorece el aislamiento en silos informáticos, incrementa el riesgo de desarrollar soluciones o módulos duplicados y resiente la cohesión y sentido de pertenencia a un equipo único.
-
-• **Dependencia del mantenimiento reactivo:**  
-La atención permanente de incidencias y requerimientos urgentes reduce el tiempo disponible para actividades de planificación y mejora continua.  
-*Impacto:* Consume la capacidad técnica en la atención de emergencias cotidianas, impidiendo dedicar tiempo a la documentación, la deuda técnica y la modernización planificada de sistemas.
-
-• **Gestión del conocimiento insuficiente:**  
-La documentación técnica, funcional y de arquitectura presenta distintos niveles de desarrollo según el proyecto.  
-*Impacto:* Aumenta la dependencia del conocimiento tácito individual, encarece la curva de aprendizaje y pone en riesgo la continuidad de los aplicativos frente a licencias, traslados o bajas de personal.
-
 #### Oportunidades
 • **Consolidación del proceso de transformación digital:**  
 La creciente incorporación de herramientas digitales en la Administración Pública representa una oportunidad para fortalecer el rol estratégico del Departamento como impulsor de la modernización institucional.
@@ -104,33 +81,50 @@ La creciente incorporación de herramientas digitales en la Administración Púb
 La integración de herramientas asistidas por IA en los entornos de desarrollo (IDEs) permite acelerar la codificación, automatizar tareas repetitivas de documentación y elevar la productividad técnica del equipo dentro de un marco de uso seguro.
 
 • **Implementación de marcos ágiles híbridos:**  
-La adopción de dinámicas ágiles (Kanban para mantenimiento e iteraciones cortas para nuevos desarrollos) a costo cero permite optimizar la comunicación interna y clarificar prioridades.
+La incorporación de metodologías ágiles adaptadas al contexto del Departamento (ciclos cortos de desarrollo para proyectos nuevos y gestión de flujo continuo para el mantenimiento) representa una oportunidad de mejora a costo cero, permitiendo optimizar la planificación, la comunicación interna y la clarificación de prioridades entre equipos.
 
 • **Gestión política favorable y capacitaciones accesibles:**  
-Intención clara de las autoridades por optimizar el área, sumada a la amplia oferta de formación técnica online y talleres internos para actualizar competencias sin impacto presupuestario.
+La intención de las autoridades de optimizar el área, sumada a la amplia oferta de formación técnica online y la posibilidad de organizar talleres internos, representa una oportunidad concreta para actualizar competencias del equipo sin impacto presupuestario.
 
-#### Amenazas y su Mitigación
+#### Debilidades
+• **Concentración del conocimiento:**  
+Una parte significativa del conocimiento funcional y técnico de determinados sistemas críticos se encuentra concentrada en un número reducido de agentes, lo que incrementa el riesgo operacional, dificulta la planificación de tareas, genera cuellos de botella y limita la flexibilidad del Departamento para reasignar recursos ante licencias del personal, imprevistos o prioridades institucionales.
+
+• **Ausencia de procedimientos homogéneos:**  
+Si bien existen buenas prácticas individuales, actualmente no todos los proyectos siguen criterios comunes respecto de documentación, planificación, estimación, arquitectura, pruebas o seguimiento, generando variabilidad en la calidad del código, dificultando la incorporación de nuevos agentes, reduciendo la reutilización del trabajo existente y encareciendo el mantenimiento a largo plazo.
+
+• **Resistencia a la adopción de tecnologías modernas:**  
+Una parte del equipo, particularmente agentes con experiencia en plataformas como WebForms, muestra resistencia a adoptar alternativas más modernas como .NET, React o Angular, lo que limita la capacidad del Departamento para modernizar sus aplicaciones y dificulta la distribución de tareas en proyectos que requieren tecnologías actualizadas.
+
+• **Gestión fragmentada de proyectos:**  
+El seguimiento de proyectos se realiza utilizando diferentes herramientas y metodologías, lo que dificulta obtener una visión integral de la carga de trabajo del Departamento, impide conocer su capacidad operativa real, dificulta la priorización transparente de solicitudes entre Secretarías y genera desajustes en las estimaciones de tiempos de entrega.
+
+• **Comunicación y coordinación entre equipos:**  
+La distribución física del personal en distintas dependencias limita la circulación oportuna de información, favoreciendo el aislamiento en silos informáticos, incrementando el riesgo de desarrollar soluciones o módulos duplicados y resintiendo la cohesión y sentido de pertenencia a un equipo único.
+
+• **Dependencia del mantenimiento reactivo:**  
+La atención permanente de incidencias y requerimientos urgentes reduce el tiempo disponible para actividades de planificación y mejora continua, consumiendo la capacidad técnica en emergencias cotidianas e impidiendo dedicar tiempo a la documentación, la deuda técnica y la modernización planificada de sistemas.
+
+• **Gestión del conocimiento insuficiente:**  
+La documentación técnica, funcional y de arquitectura presenta distintos niveles de desarrollo según el proyecto, lo que aumenta la dependencia del conocimiento tácito individual, encarece la curva de aprendizaje y pone en riesgo la continuidad de los aplicativos frente a licencias, traslados o bajas de personal.
+
+#### Amenazas
 • **Incremento sostenido de la demanda e indefinición de áreas usuarias:**  
-La demanda creciente sumada a dilaciones o falta de certeza por parte de las dependencias solicitantes al definir circuitos administrativos puede superar la capacidad operativa si no se formaliza un circuito único de demandas.  
-*Mitigación:* Implementación de una Cartera Única de Proyectos en Redmine con circuito formal de ingreso, priorización objetiva y comunicación sistematizada con las áreas usuarias.
+La demanda creciente sumada a dilaciones o falta de certeza por parte de las dependencias solicitantes al definir circuitos administrativos puede superar la capacidad operativa si no se formaliza un circuito único de demandas.
 
 • **Obsolescencia e integración con sistemas legacy:**  
-La coexistencia de aplicaciones sobre tecnologías antiguas que carecen de APIs unificadas incrementa el riesgo operativo y dificulta su integración con nuevos desarrollos web o móviles.  
-*Mitigación:* Creación de una capa de integración mediante APIs (middlewares) para aislar los sistemas antiguos y exponer servicios seguros, con modernización progresiva planificada por etapas.
+La coexistencia de aplicaciones sobre tecnologías antiguas que carecen de APIs unificadas incrementa el riesgo operativo y dificulta su integración con nuevos desarrollos web o móviles.
 
 • **Riesgo de dependencia técnica sobre proveedores externos:**  
-La entrega de soluciones por terceros sin un canal fluido de comunicación técnica ni una contraparte municipal que participe activamente del seguimiento puede generar dependencia total de la empresa y pérdida del conocimiento institucional.  
-*Mitigación:* Gobierno técnico de proveedores: exigencia de código fuente, documentación técnica y pruebas de recepción validadas por el Departamento antes de la aceptación formal de cualquier entregable.
+La entrega de soluciones por terceros sin un canal fluido de comunicación técnica ni una contraparte municipal que participe activamente del seguimiento puede generar dependencia total del proveedor y pérdida del conocimiento institucional, derivando en mayores costos de mantenimiento e imposibilitando el desarrollo soberano ante una terminación temprana de la contratación.
 
 • **Requerimientos normativos e imprevistos de gestión:**  
-Surgimiento de necesidades imprevistas derivadas de cambios normativos o resoluciones urgentes que fuerzan la reorganización del cronograma establecido.  
-*Mitigación:* Backlog priorizado con capacidad de reserva planificada para atender urgencias sin desarticular los proyectos en curso, gestionado mediante el circuito de Cartera Única.
+El surgimiento de necesidades imprevistas derivadas de cambios normativos o resoluciones urgentes puede forzar la reorganización del cronograma establecido.
 
 • **Resistencia al liderazgo e inercia organizacional:**  
-La prolongada falta de una conducción formal en el Departamento puede generar inercia inicial a la hora de adoptar nuevas pautas organizativas y estándares técnicos.  
-*Mitigación:* Liderazgo firme pero empático, incorporación progresiva y participativa de las nuevas pautas comunes, y reuniones periódicas de trabajo colaborativo para construir consenso y cohesión de equipo.
+La prolongada falta de una conducción formal en el Departamento puede generar inercia inicial a la hora de adoptar nuevas pautas organizativas y estándares técnicos.
 
-### 3.3 Conclusión del diagnóstico
+### 2.3 Conclusión del diagnóstico
 Del análisis realizado surge que el principal desafío del Departamento no radica exclusivamente en la incorporación de nuevas tecnologías, sino en fortalecer su capacidad organizacional para gestionar de manera eficiente el conocimiento, coordinar los recursos disponibles y establecer procedimientos comunes que permitan responder con mayor previsibilidad a las necesidades de la Administración Municipal.
 
 En consecuencia, la propuesta prioriza la consolidación de un modelo de gestión orientado a las personas, la mejora de los procesos y la planificación estratégica del trabajo, utilizando la innovación tecnológica como un medio para potenciar la capacidad institucional del Departamento y no como un fin en sí mismo.
@@ -141,35 +135,35 @@ En consecuencia, la propuesta prioriza la consolidación de un modelo de gestió
 
 El ejercicio de la Jefatura del Departamento requiere combinar capacidades técnicas con habilidades de conducción, planificación y coordinación. En consecuencia, las decisiones organizacionales y técnicas deberán sustentarse sobre principios de gestión que otorguen coherencia a las acciones del Departamento.
 
-### 4.1 Liderazgo basado en la colaboración
+### 3.1 Liderazgo basado en la colaboración
 La conducción del Departamento promoverá un ambiente de trabajo participativo, donde la comunicación, el intercambio de conocimientos y la construcción colectiva de soluciones sean parte de la cultura organizacional. La función de la Jefatura consistirá en facilitar el trabajo de los equipos, remover obstáculos, promover acuerdos y generar las condiciones necesarias para que cada integrante pueda desarrollar sus capacidades profesionales.
 
-### 4.2 Gestión orientada a procesos
+### 3.2 Gestión orientada a procesos
 El crecimiento sostenido del Departamento hace necesario reducir la dependencia de prácticas individuales y avanzar hacia procedimientos institucionales homogéneos. Toda actividad recurrente deberá encontrarse respaldada por procedimientos claros que permitan garantizar continuidad, previsibilidad y calidad, simplificando el trabajo cotidiano y asegurando la continuidad operativa.
 
-### 4.3 Gestión del conocimiento institucional
-El conocimiento generado durante el desarrollo y mantenimiento de los sistemas constituye un activo estratégico de la Municipalidad. Por ello, la Jefatura impulsará mecanismos que favorezcan la documentación, la transferencia de conocimientos y la capacitación interna, procurando que la información crítica permanezca en la organización.
+### 3.3 Gestión del conocimiento institucional
+El conocimiento generado durante el desarrollo y mantenimiento de los sistemas constituye un activo estratégico de la Municipalidad. Por ello, la Jefatura impulsará mecanismos que favorezcan la documentación, la transferencia de conocimientos y la capacitación interna, procurando que la información crítica permanecerá en la organización.
 
-### 4.4 Mejora continua
+### 3.4 Mejora continua
 Los procedimientos, metodologías y herramientas deberán revisarse periódicamente para identificar oportunidades de mejora sobre la base de evidencias objetivas, indicadores de gestión y resultados observables.
 
-### 4.5 Innovación responsable
+### 3.5 Innovación responsable
 Antes de adoptar una herramienta, metodología o plataforma tecnológica se evaluarán aspectos tales como compatibilidad con la arquitectura existente, sostenibilidad en el tiempo, costos de implementación, impacto sobre los procesos, requerimientos de capacitación y seguridad de la información.
 
-### 4.6 Orientación al servicio
+### 3.6 Orientación al servicio
 El Departamento presta servicios a las distintas áreas municipales y, de manera indirecta, a toda la comunidad. Las decisiones priorizarán el valor que los sistemas aportan a los procesos administrativos, sustentándose en un diálogo permanente y una definición clara de prioridades.
 
-### 4.7 Decisiones basadas en evidencia
+### 3.7 Decisiones basadas en evidencia
 La planificación y administración del Departamento se apoyará en información objetiva proveniente de indicadores que midan la capacidad operativa, la evolución de proyectos y los cuellos de botella.
 
 ---
 
 ## 4. OBJETIVOS
 
-### 5.1 Objetivo General
+### 4.1 Objetivo General
 Fortalecer la capacidad institucional del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software mediante un modelo de gestión orientado a las personas, la organización de los procesos, la estandarización técnica y la mejora continua, asegurando el desarrollo de soluciones tecnológicas sostenibles, seguras y alineadas con los objetivos estratégicos de la Municipalidad de General Pueyrredon.
 
-### 5.2 Objetivos Específicos
+### 4.2 Objetivos Específicos
 1. **Fortalecer la organización interna:** Promover una estructura colaborativa basada en planificación, comunicación transversal entre oficinas y liderazgo activo de la Jefatura.
 2. **Preservar el conocimiento institucional:** Eliminar puntos únicos de falla mediante la asignación de *Referentes Secundarios* y documentación sistemática.
 3. **Estandarizar procesos y código:** Institucionalizar la obligatoriedad del *template* de Arquitectura Base Municipal y guías de buenas prácticas.
@@ -180,58 +174,120 @@ Fortalecer la capacidad institucional del Departamento de Gestión, Desarrollo e
 
 ---
 
-## 5. EJES ESTRATÉGICOS DE LA GESTIÓN
+## 5. PROPUESTAS DE MEJORA Y POLÍTICAS INSTITUCIONALES DE GESTIÓN
 
-### EJE I: Gestión del Capital Humano y Desarrollo del Equipo
-Las personas constituyen el principal activo del Departamento. La función de la Jefatura será generar un entorno de trabajo que favorezca la colaboración y el crecimiento profesional.
+*Esta sección constituye el núcleo central del Plan de Trabajo. Cada propuesta se presenta no como una mera enuemeración de intenciones, sino como una verdadera política institucional de gestión que define el problema detectado, la propuesta concreta de solución, el rol de la Jefatura y el resultado esperado para el Municipio.*
 
-• **6.1 Comunicación y coordinación permanente:** Reuniones breves de coordinación transversal entre ambas sedes físicas y uso de herramientas comunes para mantener la visibilidad del trabajo.  
-• **6.2 Desarrollo de competencias y Matriz de Competencias:** Relevamiento integral del personal para construir una *Matriz de Competencias* que distinga entre capacidad técnica y conocimiento funcional del trámite municipal, planificando capacitaciones en servicio.  
-• **6.3 Transferencia del conocimiento (Referentes Secundarios):** Designación de un Referente Secundario en sistemas críticos que acompañe al responsable principal (*shadowing*), garantizando continuidad operativa sin tocar el escalafón.  
-• **6.4 Cultura de trabajo colaborativo:** Espacios de participación para que los desarrolladores propongan mejoras operativas y técnicas.
+### 5.1 Comunicación y coordinación permanente entre dependencias
+Uno de los principales problemas detectados es la escasa interacción entre los grupos de trabajo que desarrollan sus actividades en distintas dependencias físicas. Esta situación dificulta conocer los proyectos en ejecución, compartir experiencias, detectar oportunidades de reutilización y coordinar esfuerzos entre equipos.
 
-### EJE II: Gestión del Conocimiento y Organización del Trabajo
+La propuesta consiste en institucionalizar un esquema permanente de coordinación entre ambos grupos de trabajo. Para ello se establecerán reuniones breves de seguimiento donde participen representantes de los distintos proyectos con el objetivo de compartir avances, informar bloqueos, detectar necesidades de colaboración, comunicar cambios relevantes e identificar desarrollos similares que puedan reutilizar componentes existentes.
 
-• **6.5 Documentación Mínima y Útil:** Definición de un estándar de documentación funcional, técnica y de despliegue proporcional a la criticidad del sistema, integrado al proceso normal de entrega (*Definition of Done*).  
-• **6.6 Arquitectura Base Institucional:** Institucionalización obligatoria de un template de arquitectura en capas (APIs, acceso a datos, manejo de errores, seguridad) para todos los desarrollos nuevos.  
-• **6.7 Cartera Única de Proyectos en Redmine:** Registro centralizado de todas las solicitudes, desarrollos y mantenimientos para visibilizar la carga real de trabajo y priorizar estratégicamente.
+Estas reuniones no tendrán carácter burocrático ni buscarán controlar el trabajo diario de cada agente, sino facilitar la circulación de información y fortalecer la coordinación del Departamento. Como complemento se promoverá el uso uniforme de las herramientas institucionales de seguimiento (Redmine), permitiendo que la información de los proyectos permanezca accesible para todo el equipo.
 
-### EJE III: Gobierno Técnico y Calidad del Software
+La Jefatura actuará como facilitadora del proceso, asegurando la continuidad de las reuniones, removiendo los bloqueos detectados y promoviendo una cultura de responsabilidad compartida entre las distintas dependencias.
 
-*La responsabilidad de la Jefatura no consiste únicamente en coordinar personas, sino también en establecer el marco técnico que permita que los distintos equipos desarrollen soluciones homogéneas, seguras y sostenibles. El gobierno técnico constituye el conjunto de políticas, estándares y procedimientos que aseguran que las decisiones tecnológicas respondan a criterios institucionales y no exclusivamente a preferencias individuales.*
+Con esta medida se espera disminuir el aislamiento operativo existente entre las dependencias, mejorar la coordinación interna y reducir significativamente la duplicación de esfuerzos dentro del Departamento.
 
-• **6.8 Estandarización del ciclo de desarrollo:** Definición clara de etapas: relevamiento, análisis, estimación, desarrollo, testing, implementación y mantenimiento.  
-• **6.9 Estándares de codificación y buenas prácticas:** Guías institucionales de estilo de código, convenciones de nomenclatura y estructura de proyectos.  
-• **6.10 Calidad incorporada y revisión entre pares:** Revisiones cruzadas (*peer reviews*) en GitLab para cambios críticos y validaciones funcionales antes de producción.  
-• **6.11 Seguridad desde el análisis (Security by Design):** Protección de datos, autenticación, gestión de permisos y tratamiento seguro de credenciales.
+### 5.2 Preservación del conocimiento e institucionalización de Referentes Secundarios (Shadowing)
+La concentración del conocimiento técnico y funcional de sistemas críticos en agentes individuales genera un alto riesgo operacional para la Municipalidad. Ante licencias, traslados o imprevistos, la continuidad del servicio puede verse comprometida por la falta de personal capacitado para intervenir inmediatamente sobre dichos aplicativos.
 
-### EJE IV: Gestión de Proyectos, Articulación Institucional y Control de Proveedores
+Para mitigar este riesgo sin alterar las estructuras escalafonarias vigentes se propone instituir la figura del **Referente Secundario** (*Shadowing*). La medida consiste en asignar a un segundo agente para que acompañe al responsable principal de cada sistema crítico en tareas de mantenimiento, actualización y soporte.
 
-• **6.12 Relevamiento integral y viabilidad:** Análisis de factibilidad técnica e impacto institucional antes de autorizar un desarrollo.  
-• **6.13 Priorización objetiva de demandas:** Asignación de recursos basada en criticidad, urgencia, normativas y capacidad real.  
-• **6.14 Gobierno técnico de proveedores externos:** Auditoría de entregables, exigencia de código fuente, documentación y pruebas de recepción validadas por el Municipio.  
-• **6.15 Gestión de la relación con las áreas usuarias:** Fortalecimiento del rol de la Jefatura como nexo institucional con las Secretarías solicitantes mediante entrevistas funcionales, priorización conjunta, validaciones parciales y gestión compartida de expectativas.
+El proceso comenzará con la identificación de los aplicativos de mayor criticidad institucional, la evaluación de las competencias técnicas requeridas y la asignación formal del referente secundario. El esquema contempla instancias periódicas de trabajo conjunto, participación en revisiones de código, acompañamiento en el despliegue de actualizaciones y documentación colaborativa de los procesos clave.
 
-### EJE V: Innovación Tecnológica Responsable e Inteligencia Artificial
+La Jefatura supervisará el cumplimiento del esquema de acompañamiento, asegurando que el referente secundario disponga de tiempo efectivo en su planificación para participar activamente del mantenimiento de los sistemas asignados.
 
-• **6.16 Pautas de seguridad para asistentes de IA:** Guía de uso responsable de herramientas asistidas por IA como apoyo a la programación y documentación, prohibiendo estrictamente la carga de credenciales, claves de bases de datos o datos personales de ciudadanos en plataformas públicas.  
-• **6.17 Contenerización y modernización progresiva:** Introducción gradual de paquetes estandarizados (*Docker*) en sinergia con el área de Infraestructura/Redes para simplificar los despliegues.  
-• **6.18 Evaluación de licencias corporativas e innovación:** Análisis fundamentado de la incorporación futura de herramientas avanzadas según el valor real aportado al Municipio.
+La implementación de este esquema permitirá eliminar los puntos únicos de falla (*Single Points of Failure*), garantizar la continuidad operativa ante contingencias y favorecer la transferencia continua del conocimiento dentro de la organización.
+
+### 5.3 Cartera Única de Proyectos y Centralización en Redmine
+Actualmente el seguimiento de requerimientos y proyectos se realiza mediante metodologías y canales heterogéneos, lo que impide contar con una visión integral de la capacidad operativa del Departamento y dificulta la priorización transparente de las solicitudes provenientes de las distintas Secretarías.
+
+La propuesta contempla consolidar la plataforma **Redmine** como el repositorio único y obligatorio para el registro, asignación y seguimiento de la totalidad de las actividades del Departamento, incluyendo proyectos nuevos, mantenimientos evolutivos, corrección de incidencias y tareas de asistencia técnica.
+
+Todas las solicitudes ingresadas deberán clasificarse según su impacto institucional, urgencia y factibilidad técnica. La visibilidad centralizada de la carga de trabajo permitirá estimar plazos de entrega realistas y comunicar con transparencia el estado de los desarrollos a las áreas usuarias.
+
+La Jefatura asumirá la responsabilidad de administrar la Cartera Única, actuando como filtro frente a las demandas de las dependencias solicitantes, gestionando las prioridades junto a las autoridades y asignando los recursos según la capacidad real del equipo.
+
+Con esta centralización se logrará unificar la gestión de demandas, mejorar la previsibilidad en los tiempos de respuesta y dotar de total transparencia a la administración de los recursos del Departamento.
+
+### 5.4 Modelo de Agilidad Adaptativa (Scrum Master Global / Kanban)
+La diversidad de proyectos y mantenimientos simultáneos dificulta la aplicación rígida de una única metodología de trabajo. Los proyectos nuevos requieren iteraciones planificadas, mientras que la atención de incidencias operativas exige un flujo continuo de respuesta.
+
+Se propone implementar un marco de **Agilidad Adaptativa** que combine iteraciones cortas (Sprints) para nuevos desarrollos con gestión de flujo continuo (Kanban) para mantenimientos y soporte técnico. La propuesta contempla reuniones breves de sincronización, priorización periódica del *backlog* y definición clara de criterios de finalización (*Definition of Done*).
+
+Este esquema permitirá flexibilizar la gestión del trabajo sin perder el control sobre los entregables ni saturar al equipo con sobrecargas imprevistas.
+
+La Jefatura asumirá el rol activo de **Scrum Master Global y Gestor**, protegiendo al equipo de interrupciones externas, removiendo impedimentos técnicos u organizacionales y ajustando la dinámica de trabajo según los resultados observados.
+
+La adopción de este marco ágil adaptativo incrementará la productividad técnica, mejorará la adaptabilidad ante requerimientos cambiantes y reducirá el estrés operativo generado por la atención reactiva de emergencias.
+
+### 5.5 Estandarización del desarrollo y consolidación de una Arquitectura Base Institucional
+La diversidad de tecnologías, criterios de diseño y convenciones de programación utilizadas a lo largo del tiempo ha generado un ecosistema de aplicaciones heterogéneo, dificultando el mantenimiento, la reutilización de componentes y la incorporación de nuevos desarrolladores a los proyectos existentes.
+
+Para reducir esta complejidad se propone institucionalizar una **Arquitectura Base** que establezca criterios comunes para todos los nuevos desarrollos y para aquellas refactorizaciones cuya magnitud justifique su adopción. Esta arquitectura definirá lineamientos sobre organización de proyectos, acceso a datos, autenticación, manejo de errores, configuración, registro de eventos y demás componentes reutilizables, permitiendo desarrollar aplicaciones homogéneas, mantenibles y compatibles entre sí.
+
+Como complemento, se elaborarán **Guías de Buenas Prácticas** que unifiquen criterios de codificación, documentación, control de versiones, pruebas y estructura de los proyectos. Estos documentos deberán mantenerse actualizados y evolucionar conforme lo hagan las necesidades del Departamento.
+
+La Jefatura será responsable de definir estos estándares, promover su utilización, evaluar las excepciones técnicamente justificadas y coordinar su actualización periódica junto con los equipos de desarrollo. Asimismo, impulsará instancias de revisión técnica previas al inicio de nuevos proyectos para verificar la reutilización de componentes existentes y la compatibilidad con la estrategia tecnológica institucional.
+
+La implementación de estos lineamientos permitirá reducir la deuda técnica, facilitar el mantenimiento evolutivo, simplificar la incorporación de nuevos desarrolladores y asegurar que el crecimiento del software municipal responda a criterios comunes de calidad y sostenibilidad.
+
+### 5.6 Gestión de la calidad del software y fortalecimiento de la documentación institucional
+La calidad del software constituye un objetivo transversal del Departamento y debe formar parte del proceso de desarrollo desde las etapas iniciales de cada proyecto. Si bien el equipo posee capacidad técnica para desarrollar soluciones de calidad, la ausencia de criterios homogéneos de revisión y documentación genera diferencias entre proyectos que posteriormente incrementan los tiempos de mantenimiento y dificultan la incorporación de nuevos desarrolladores.
+
+Con el propósito de fortalecer la calidad de los sistemas municipales, se propone institucionalizar un conjunto de prácticas mínimas aplicables a todos los proyectos, adaptadas a su complejidad y criticidad. El objetivo no consiste en incorporar controles burocráticos, sino en asegurar que cada desarrollo reúna las condiciones necesarias para ser mantenido y evolucionado por cualquier integrante del Departamento.
+
+Como criterio general, cada proyecto deberá contar con una documentación técnica mínima que describa el objetivo del sistema, su arquitectura general, el modelo de datos utilizado, las integraciones con otros aplicativos, los procedimientos de instalación y despliegue, así como los responsables funcionales y técnicos. La profundidad de esta documentación será proporcional a la complejidad del sistema, evitando generar documentación innecesaria que luego quede desactualizada.
+
+Del mismo modo, antes de la puesta en producción de modificaciones relevantes se promoverán instancias de revisión técnica orientadas a verificar el cumplimiento de los estándares definidos por el Departamento, la correcta integración con los sistemas existentes y la ausencia de errores evidentes que puedan afectar la operación normal de los servicios municipales.
+
+La Jefatura será responsable de impulsar estas prácticas como parte habitual del proceso de desarrollo, supervisando su cumplimiento y promoviendo una cultura donde la calidad y la documentación sean entendidas como componentes naturales del trabajo cotidiano.
+
+La implementación de estas medidas permitirá mejorar la mantenibilidad de las aplicaciones, reducir la dependencia del conocimiento individual y fortalecer la continuidad operativa del Departamento.
+
+### 5.7 Gobierno técnico de proveedores externos
+Las funciones asignadas al Departamento comprenden no sólo el desarrollo interno de sistemas informáticos, sino también la supervisión técnica de aquellas soluciones provistas por empresas externas. En consecuencia, la contratación de un proveedor no implica delegar la responsabilidad sobre la calidad del software incorporado al ecosistema municipal.
+
+La Jefatura deberá asumir un rol activo durante todo el ciclo de contratación, participando en la definición de los requerimientos técnicos, colaborando en la elaboración de las especificaciones funcionales y verificando que las soluciones propuestas resulten compatibles con la arquitectura tecnológica del Municipio y con los estándares definidos por el Departamento.
+
+Durante la ejecución de los proyectos se promoverán reuniones periódicas de seguimiento técnico que permitan detectar tempranamente desvíos respecto de las especificaciones acordadas, facilitando la resolución de inconvenientes antes de su impacto sobre la implementación.
+
+Asimismo, previo a la recepción definitiva de cualquier desarrollo contratado, se verificará el cumplimiento de requisitos mínimos que garanticen la autonomía tecnológica del Municipio. Entre ellos se incluyen la entrega del código fuente, la documentación técnica actualizada, los modelos de datos, los procedimientos de instalación y despliegue, la descripción de las interfaces de integración y las evidencias de las pruebas realizadas.
+
+Cuando los contratos contemplen servicios de mantenimiento, la Jefatura actuará además como nexo técnico entre las áreas usuarias y los proveedores, coordinando la gestión de incidencias, verificando el cumplimiento de los niveles de servicio comprometidos y controlando la calidad de las soluciones implementadas.
+
+De esta manera se fortalece el rol institucional del Departamento como autoridad técnica sobre los sistemas municipales, evitando la dependencia tecnológica de proveedores externos y asegurando que el conocimiento generado permanezca dentro de la organización.
+
+### 5.8 Innovación tecnológica y utilización responsable de Inteligencia Artificial
+La innovación tecnológica constituye una función permanente del Departamento y debe orientarse a mejorar la calidad de los servicios brindados por la Municipalidad. Sin embargo, la incorporación de nuevas herramientas debe responder a una planificación institucional y no únicamente a iniciativas individuales o tendencias del mercado.
+
+La Jefatura impulsará un proceso continuo de evaluación de tecnologías, metodologías y herramientas de desarrollo, analizando su impacto sobre la infraestructura existente, los costos de adopción, las necesidades de capacitación y los beneficios concretos que puedan aportar a la gestión municipal. Sólo aquellas soluciones que demuestren una mejora objetiva en la productividad, la seguridad o la calidad del software serán incorporadas como estándares institucionales.
+
+Dentro de este escenario, las herramientas basadas en Inteligencia Artificial representan una oportunidad para asistir al equipo de desarrollo en tareas como generación de código, documentación técnica, análisis de errores y automatización de actividades repetitivas. Su utilización permitirá reducir tiempos operativos y mejorar la productividad del Departamento, siempre que su uso se realice bajo criterios claros de seguridad y confidencialidad.
+
+Por tal motivo se establecerán lineamientos que prohíban expresamente incorporar en plataformas públicas de Inteligencia Artificial información sensible, datos personales de ciudadanos, credenciales institucionales o cualquier otro contenido protegido por las políticas de seguridad del Municipio.
+
+Asimismo, toda producción generada mediante estas herramientas deberá ser revisada y validada por el profesional responsable del desarrollo antes de incorporarse a los sistemas municipales, manteniendo en todo momento la responsabilidad técnica sobre las decisiones adoptadas.
+
+Como proyección futura, y sujeto a disponibilidad presupuestaria, podrá evaluarse la incorporación de plataformas corporativas de Inteligencia Artificial administradas por el Municipio, que ofrezcan mayores garantías de privacidad, trazabilidad y administración centralizada.
+
+De este modo, la innovación tecnológica dejará de depender de decisiones individuales para transformarse en una política institucional permanente, orientada a fortalecer la capacidad del Departamento para brindar soluciones modernas, seguras y sostenibles.
 
 ---
 
-## 6. PROPUESTA DE MEJORA Y OPTIMIZACIÓN DE RECURSOS
+## 6. OPTIMIZACIÓN DE RECURSOS Y ESCENARIOS DE INVERSIÓN
 
 *La primera responsabilidad de una Jefatura consiste en optimizar los recursos existentes antes de requerir nuevas incorporaciones presupuestarias. En consecuencia, las acciones propuestas en esta etapa priorizan la reorganización del trabajo, la mejora de los procedimientos y el fortalecimiento de la coordinación interna, aprovechando la infraestructura y el capital humano actualmente disponibles.*
 
-### 7.1 Escenario SIN PRESUPUESTO (Plan Realista - Costo $0)
+### 6.1 Escenario SIN PRESUPUESTO (Plan Realista - Costo $0)
 1. **Liderazgo Híbrido:** Jefatura como *Scrum Master Global* (filtro de cargas entre oficinas) y Gestor.
 2. **Mitigación de Puntos Únicos de Falla:** Asignación de *Referentes Secundarios* en sistemas críticos.
 3. **Estandarización Obligatoria:** Uso del *Template de Arquitectura Base* municipal (*Congelamiento Legacy*).
 4. **Gobernanza de Proveedores:** Exigencia de código fuente, manuales y pruebas de recepción antes de la aceptación.
 5. **Uso Seguro de IA:** Protocolo de resguardo de datos sensibles en asistentes de código.
 
-### 7.2 Escenario CON PRESUPUESTO (Plan Proyectado a Mediano/Largo Plazo)
+### 6.2 Escenario CON PRESUPUESTO (Plan Proyectado a Mediano/Largo Plazo)
 1. **Licencias Corporativas Oficiales de IA:** Adquisición de licencias para IDEs en entornos privados institucionales.
 2. **Plataforma de Análisis Estático de Calidad:** Herramientas automatizadas (ej. SonarQube) para auditar deuda técnica y seguridad.
 3. **Contenerización e Infraestructura:** Proyección presupuestaria para migración a contenedores Docker.
@@ -242,13 +298,13 @@ Las personas constituyen el principal activo del Departamento. La función de la
 
 ## 7. ESTRATEGIA DE IMPLEMENTACIÓN Y ROADMAP POR ETAPAS
 
-### 8.1 Fases de la Hoja de Ruta Ágil
+### 7.1 Fases de la Hoja de Ruta Ágil
 *   **Etapa I – Conocer y Ordenar (Sprints 1 a 4):** Relevamiento de competencias, inventario de sistemas, conformación de la Cartera Única en Redmine y asignación de Referentes Secundarios.
 *   **Etapa II – Integrar y Estandarizar (Sprints 5 a 12):** Reuniones transversales inter-oficinas, difusión de guías de buenas prácticas, obligatoriedad del template de arquitectura y gobierno técnico de proveedores.
 *   **Etapa III – Consolidar y Evaluar (Sprints 13+):** Medición de KPIs, revisiones de código en GitLab y proyectos de dockerización.
 *   **Proceso Permanente – Mejora Continua:** Auditorías periódicas de procedimientos, actualización de capacitaciones y evaluación de innovaciones.
 
-### 8.2 Cuadro Resumen de Implementación
+### 7.2 Cuadro Resumen de Implementación
 | Etapa | Objetivo Principal | Resultado Esperado |
 | :--- | :--- | :--- |
 | **Organización (Etapa I)** | Conocer e inventariar el Departamento | Inventario completo de sistemas y Matriz de Competencias |
@@ -260,6 +316,7 @@ Las personas constituyen el principal activo del Departamento. La función de la
 
 ## 8. MATRIZ DE INDICADORES DE EVALUACIÓN Y GESTIÓN (KPIs)
 
+### 8.1 Indicadores Clave de Gestión
 | Categoría | Indicador de Gestión | Objetivo Estratégico |
 | :--- | :--- | :--- |
 | **Riesgo Operacional** | % de Sistemas Críticos con Referente Secundario Asignado | Tender al 100% para eliminar los *Single Points of Failure*. |
@@ -273,6 +330,7 @@ Las personas constituyen el principal activo del Departamento. La función de la
 
 ## 9. SECTORES DEL DEPARTAMENTO (MATRIZ DINÁMICA DE TRABAJO)
 
+### 9.1 Organización Funcional según Decreto N° 2250/98
 Aprovechando la estructura vigente del *Grupo Ocupacional Computación* (Decreto N° 2250/98) sin solicitar nuevos cargos en el escalafón:
 
 1. **Liderazgo Técnico y Arquitectura (*Analistas y Especialistas Senior - Clase XI*):** Diseño de arquitectura base, análisis funcional complejo, mentoría en capacitación cruzada y supervisión de estándares.
@@ -283,6 +341,7 @@ Aprovechando la estructura vigente del *Grupo Ocupacional Computación* (Decreto
 
 ## 10. CONCLUSIONES
 
+### 10.1 Síntesis Final e Impacto Institucional
 La modernización tecnológica de la Municipalidad de General Pueyrredon requiere un Departamento de Software ordenado, previsible y sostenible, capaz de trascender a las personas y a los cambios de gestión política.
 
 Al implementar un marco de agilidad adaptativa con la Jefatura en un rol activo de **Scrum Master Global y Gestor**, establecer el uso obligatorio de la arquitectura base municipal, instituir la figura de los *Referentes Secundarios* y aplicar un estricto *Gobierno Técnico sobre Proveedores*, se resuelven los problemas históricos de desarticulación, multitarea caótica y conocimiento concentrado.
