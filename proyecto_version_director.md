@@ -22,41 +22,41 @@
 
 ---
 
-## 1. ABORDAJE
+## 1. INTRODUCCIÓN
 
-El presente Plan de Trabajo parte de una premisa construida desde adentro del Departamento: la calidad de un área de desarrollo de software no depende exclusivamente de la capacidad técnica de sus integrantes, sino de cómo se organizan las personas, se gestionan los procesos y se administra el conocimiento institucional.
+El presente proyecto tiene como finalidad realizar un diagnóstico integral del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, identificar las problemáticas que afectan su funcionamiento y presentar propuestas concretas para optimizar su funcionamiento y de esta manera mejorar la calidad del servicio brindado a las dependencias municipales y por lo tanto, también al ciudadano.
 
-Desde mi posición como integrante del Departamento, he podido observar de manera directa sus fortalezas, sus procesos cotidianos y los desafíos estructurales que limitan su potencial. Esta perspectiva interna es el punto de partida de la propuesta: no se trata de diagnosticar el área desde afuera, sino de conducirla hacia una mejora real, aprovechando lo que ya funciona y resolviendo lo que hoy frena el desarrollo institucional.
+El Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software constituye un área estratégica dentro de la Subsecretaría de Gobierno Digital y Mejora de Procesos, siendo responsable de diseñar, desarrollar, mantener e implementar las soluciones informáticas que respaldan la actividad diaria de la Municipalidad de General Pueyrredon.
 
-La conducción del Departamento requiere combinar liderazgo participativo, organización por procesos, gobierno técnico y gestión del conocimiento, diferenciando claramente las acciones implementables con los recursos actuales de las que requieren inversión presupuestaria. El objetivo es consolidar un Departamento previsible, colaborativo y sostenible, capaz de trascender a las personas y a los cambios de gestión.
+Su función excede el desarrollo de aplicaciones informáticas. El Departamento interviene en el relevamiento y análisis de requerimientos funcionales, la planificación y coordinación de proyectos, la definición de estándares de desarrollo, la evaluación de nuevas tecnologías, el control técnico de proveedores externos, la integración entre sistemas municipales y el mantenimiento evolutivo de aplicaciones críticas para el funcionamiento de la Administración.
 
----
+La Jefatura del Departamento debe desempeñar un rol integrador que va más allá de la coordinación técnica de proyectos. Su responsabilidad central consiste en combinar conocimientos técnicos con planificación, conducción de equipos y administración de recursos, generando las condiciones organizacionales que permitan al equipo desarrollar software de manera previsible, colaborativa y sostenible, promoviendo la integración entre personas, la reutilización del conocimiento, la adopción responsable de nuevas tecnologías y la mejora permanente de los procedimientos internos, con decisiones tecnológicas alineadas a los objetivos institucionales del Municipio.
 
-## 2. INTRODUCCIÓN
+La propuesta reconoce que el Departamento desarrolla su actividad en un entorno dinámico, caracterizado por la coexistencia de sistemas de distinta antigüedad, múltiples requerimientos simultáneos, recursos limitados y una creciente demanda de soluciones digitales por parte de las distintas dependencias municipales. Frente a esta realidad, la respuesta no puede limitarse a incorporar nuevas herramientas tecnológicas sin antes fortalecer la organización del trabajo, establecer criterios comunes y consolidar una cultura de mejora continua.
 
-El Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software es el área técnica responsable de diseñar, desarrollar, mantener e implementar las soluciones informáticas que sustentan la actividad diaria de la Municipalidad de General Pueyrredon. Su misión va más allá del desarrollo de aplicaciones: es preservar la soberanía tecnológica del Municipio, garantizar la continuidad operativa de sus sistemas y acompañar la transformación digital de la Administración Pública con criterio, calidad y responsabilidad institucional.
+En consecuencia, este Plan de Trabajo propone un modelo de gestión que combina liderazgo participativo, organización por procesos, gobierno técnico, gestión del conocimiento e innovación tecnológica, diferenciando claramente aquellas acciones implementables con los recursos actuales de aquellas que requieren inversión presupuestaria, con el objetivo de consolidar un Departamento capaz de responder a las necesidades presentes y garantizar la continuidad y sostenibilidad de sus sistemas más allá de las personas o los cambios de gestión.
 
-El Departamento opera en un entorno de alta complejidad: conviven aplicaciones de distintas generaciones tecnológicas, múltiples requerimientos simultáneos de diversas Secretarías y una creciente demanda de soluciones digitales. Gestionar esta realidad exige que la Jefatura asuma un rol integrador: no solo coordinar técnicos, sino planificar, estandarizar, preservar el conocimiento y asegurar que cada decisión tecnológica esté alineada con los objetivos institucionales del Municipio.
-
-En ese marco, el presente Plan propone una estrategia articulada en cinco pilares:
+Por ello, el presente Plan propone una estrategia articulada en cinco pilares fundamentales:
 * Fortalecimiento del capital humano y del trabajo colaborativo.
 * Gestión y preservación del conocimiento institucional.
 * Estandarización de procesos y gobierno técnico.
 * Mejora continua e innovación tecnológica.
 * Planificación estratégica orientada a resultados.
 
+A partir de estos ejes se desarrolla el diagnóstico de la situación actual y se presentan propuestas de mejora diferenciadas entre las que pueden implementarse con los recursos existentes y las que requieren inversión futura.
+
 ---
 
-## 3. DIAGNÓSTICO INSTITUCIONAL
+## 2. DIAGNÓSTICO INSTITUCIONAL
 
-### 3.1 Situación actual del Departamento
+### 2.1 Situación actual del Departamento
 El Departamento constituye un área transversal para el funcionamiento de la Municipalidad, brindando soporte tecnológico a las distintas Secretarías y organismos mediante el análisis, desarrollo, mantenimiento e integración de los sistemas que sustentan los procesos administrativos y la prestación de servicios a la ciudadanía.
 
 En los últimos años la demanda de soluciones informáticas ha crecido de manera sostenida, tanto por el avance de la transformación digital como por la incorporación permanente de nuevas necesidades funcionales. Actualmente conviven aplicaciones desarrolladas en distintos momentos históricos, con tecnologías diversas, junto con la atención simultánea de requerimientos evolutivos, mantenimiento correctivo, proyectos nuevos, asistencia técnica a usuarios y coordinación con proveedores externos.
 
 Este contexto exige una conducción que tenga visión integral del Departamento: fortalecer la organización interna, promover el trabajo colaborativo y establecer procedimientos comunes que permitan administrar adecuadamente los recursos disponibles.
 
-### 3.2 Análisis FODA
+### 2.2 Análisis FODA
 
 #### Fortalezas
 • **Capital humano con alto conocimiento del negocio municipal:**  
@@ -137,7 +137,7 @@ En consecuencia, la propuesta prioriza la consolidación de un modelo de gestió
 
 ---
 
-## 4. PRINCIPIOS DE GESTIÓN
+## 3. PRINCIPIOS DE GESTIÓN
 
 El ejercicio de la Jefatura del Departamento requiere combinar capacidades técnicas con habilidades de conducción, planificación y coordinación. En consecuencia, las decisiones organizacionales y técnicas deberán sustentarse sobre principios de gestión que otorguen coherencia a las acciones del Departamento.
 
@@ -164,7 +164,7 @@ La planificación y administración del Departamento se apoyará en información
 
 ---
 
-## 5. OBJETIVOS
+## 4. OBJETIVOS
 
 ### 5.1 Objetivo General
 Fortalecer la capacidad institucional del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software mediante un modelo de gestión orientado a las personas, la organización de los procesos, la estandarización técnica y la mejora continua, asegurando el desarrollo de soluciones tecnológicas sostenibles, seguras y alineadas con los objetivos estratégicos de la Municipalidad de General Pueyrredon.
@@ -180,7 +180,7 @@ Fortalecer la capacidad institucional del Departamento de Gestión, Desarrollo e
 
 ---
 
-## 6. EJES ESTRATÉGICOS DE LA GESTIÓN
+## 5. EJES ESTRATÉGICOS DE LA GESTIÓN
 
 ### EJE I: Gestión del Capital Humano y Desarrollo del Equipo
 Las personas constituyen el principal activo del Departamento. La función de la Jefatura será generar un entorno de trabajo que favorezca la colaboración y el crecimiento profesional.
@@ -220,7 +220,7 @@ Las personas constituyen el principal activo del Departamento. La función de la
 
 ---
 
-## 7. PROPUESTA DE MEJORA Y OPTIMIZACIÓN DE RECURSOS
+## 6. PROPUESTA DE MEJORA Y OPTIMIZACIÓN DE RECURSOS
 
 *La primera responsabilidad de una Jefatura consiste en optimizar los recursos existentes antes de requerir nuevas incorporaciones presupuestarias. En consecuencia, las acciones propuestas en esta etapa priorizan la reorganización del trabajo, la mejora de los procedimientos y el fortalecimiento de la coordinación interna, aprovechando la infraestructura y el capital humano actualmente disponibles.*
 
@@ -240,7 +240,7 @@ Las personas constituyen el principal activo del Departamento. La función de la
 
 ---
 
-## 8. ESTRATEGIA DE IMPLEMENTACIÓN Y ROADMAP POR ETAPAS
+## 7. ESTRATEGIA DE IMPLEMENTACIÓN Y ROADMAP POR ETAPAS
 
 ### 8.1 Fases de la Hoja de Ruta Ágil
 *   **Etapa I – Conocer y Ordenar (Sprints 1 a 4):** Relevamiento de competencias, inventario de sistemas, conformación de la Cartera Única en Redmine y asignación de Referentes Secundarios.
@@ -258,7 +258,7 @@ Las personas constituyen el principal activo del Departamento. La función de la
 
 ---
 
-## 9. MATRIZ DE INDICADORES DE EVALUACIÓN Y GESTIÓN (KPIs)
+## 8. MATRIZ DE INDICADORES DE EVALUACIÓN Y GESTIÓN (KPIs)
 
 | Categoría | Indicador de Gestión | Objetivo Estratégico |
 | :--- | :--- | :--- |
@@ -271,7 +271,7 @@ Las personas constituyen el principal activo del Departamento. La función de la
 
 ---
 
-## 10. SECTORES DEL DEPARTAMENTO (MATRIZ DINÁMICA DE TRABAJO)
+## 9. SECTORES DEL DEPARTAMENTO (MATRIZ DINÁMICA DE TRABAJO)
 
 Aprovechando la estructura vigente del *Grupo Ocupacional Computación* (Decreto N° 2250/98) sin solicitar nuevos cargos en el escalafón:
 
@@ -281,7 +281,7 @@ Aprovechando la estructura vigente del *Grupo Ocupacional Computación* (Decreto
 
 ---
 
-## 11. CONCLUSIONES
+## 10. CONCLUSIONES
 
 La modernización tecnológica de la Municipalidad de General Pueyrredon requiere un Departamento de Software ordenado, previsible y sostenible, capaz de trascender a las personas y a los cambios de gestión política.
 
