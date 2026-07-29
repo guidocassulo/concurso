@@ -142,7 +142,7 @@ La conducción del Departamento promoverá un ambiente de trabajo participativo,
 El crecimiento sostenido del Departamento hace necesario reducir la dependencia de prácticas individuales y avanzar hacia procedimientos institucionales homogéneos. Toda actividad recurrente deberá encontrarse respaldada por procedimientos claros que permitan garantizar continuidad, previsibilidad y calidad, simplificando el trabajo cotidiano y asegurando la continuidad operativa.
 
 ### 3.3 Gestión del conocimiento institucional
-El conocimiento generado durante el desarrollo y mantenimiento de los sistemas constituye un activo estratégico de la Municipalidad. Por ello, la Jefatura impulsará mecanismos que favorezcan la documentación, la transferencia de conocimientos y la capacitación interna, procurando que la información crítica permanecerá en la organización.
+El conocimiento generado durante el desarrollo y mantenimiento de los sistemas constituye un activo estratégico de la Municipalidad. Por ello, la Jefatura impulsará mecanismos que favorezcan la documentación, la transferencia de conocimientos y la capacitación interna, procurando que la información crítica permanezca en la organización.
 
 ### 3.4 Mejora continua
 Los procedimientos, metodologías y herramientas deberán revisarse periódicamente para identificar oportunidades de mejora sobre la base de evidencias objetivas, indicadores de gestión y resultados observables.
@@ -176,7 +176,7 @@ Fortalecer la capacidad institucional del Departamento de Gestión, Desarrollo e
 
 ## 5. PROPUESTAS DE MEJORA Y POLÍTICAS INSTITUCIONALES DE GESTIÓN
 
-*Esta sección constituye el núcleo central del Plan de Trabajo. Cada propuesta se presenta no como una mera enuemeración de intenciones, sino como una verdadera política institucional de gestión que define el problema detectado, la propuesta concreta de solución, el rol de la Jefatura y el resultado esperado para el Municipio.*
+*Esta sección constituye el núcleo central del Plan de Trabajo. Cada propuesta se presenta no como una mera enumeración de intenciones, sino como una verdadera política institucional de gestión que define el problema detectado, la propuesta concreta de solución, el rol de la Jefatura y el resultado esperado para el Municipio.*
 
 ### 5.1 Comunicación y coordinación permanente entre dependencias
 Uno de los principales problemas detectados es la escasa interacción entre los grupos de trabajo que desarrollan sus actividades en distintas dependencias físicas. Esta situación dificulta conocer los proyectos en ejecución, compartir experiencias, detectar oportunidades de reutilización y coordinar esfuerzos entre equipos.
@@ -253,7 +253,7 @@ La Jefatura deberá asumir un rol activo durante todo el ciclo de contratación,
 
 Durante la ejecución de los proyectos se promoverán reuniones periódicas de seguimiento técnico que permitan detectar tempranamente desvíos respecto de las especificaciones acordadas, facilitando la resolución de inconvenientes antes de su impacto sobre la implementación.
 
-Asimismo, previo a la recepción definitiva de cualquier desarrollo contratado, se verificará el cumplimiento de requisitos mínimos que garanticen la autonomía tecnológica del Municipio. Entre ellos se incluyen la entrega del código fuente, la documentación técnica actualizada, los modelos de datos, los procedimientos de instalación y despliegue, la descripción de las interfaces de integración y las evidencias de las pruebas realizadas.
+Asimismo, previo a la recepción definitiva de cualquier desarrollo contratado, se verificará el cumplimiento de requisitos mínimos que garainticen la autonomía tecnológica del Municipio. Entre ellos se incluyen la entrega del código fuente, la documentación técnica actualizada, los modelos de datos, los procedimientos de instalación y despliegue, la descripción de las interfaces de integración y las evidencias de las pruebas realizadas.
 
 Cuando los contratos contemplen servicios de mantenimiento, la Jefatura actuará además como nexo técnico entre las áreas usuarias y los proveedores, coordinando la gestión de incidencias, verificando el cumplimiento de los niveles de servicio comprometidos y controlando la calidad de las soluciones implementadas.
 
@@ -316,7 +316,6 @@ De este modo, la innovación tecnológica dejará de depender de decisiones indi
 
 ## 8. MATRIZ DE INDICADORES DE EVALUACIÓN Y GESTIÓN (KPIs)
 
-### 8.1 Indicadores Clave de Gestión
 | Categoría | Indicador de Gestión | Objetivo Estratégico |
 | :--- | :--- | :--- |
 | **Riesgo Operacional** | % de Sistemas Críticos con Referente Secundario Asignado | Tender al 100% para eliminar los *Single Points of Failure*. |
@@ -330,7 +329,6 @@ De este modo, la innovación tecnológica dejará de depender de decisiones indi
 
 ## 9. SECTORES DEL DEPARTAMENTO (MATRIZ DINÁMICA DE TRABAJO)
 
-### 9.1 Organización Funcional según Decreto N° 2250/98
 Aprovechando la estructura vigente del *Grupo Ocupacional Computación* (Decreto N° 2250/98) sin solicitar nuevos cargos en el escalafón:
 
 1. **Liderazgo Técnico y Arquitectura (*Analistas y Especialistas Senior - Clase XI*):** Diseño de arquitectura base, análisis funcional complejo, mentoría en capacitación cruzada y supervisión de estándares.
@@ -341,7 +339,6 @@ Aprovechando la estructura vigente del *Grupo Ocupacional Computación* (Decreto
 
 ## 10. CONCLUSIONES
 
-### 10.1 Síntesis Final e Impacto Institucional
 La modernización tecnológica de la Municipalidad de General Pueyrredon requiere un Departamento de Software ordenado, previsible y sostenible, capaz de trascender a las personas y a los cambios de gestión política.
 
 Al implementar un marco de agilidad adaptativa con la Jefatura en un rol activo de **Scrum Master Global y Gestor**, establecer el uso obligatorio de la arquitectura base municipal, instituir la figura de los *Referentes Secundarios* y aplicar un estricto *Gobierno Técnico sobre Proveedores*, se resuelven los problemas históricos de desarticulación, multitarea caótica y conocimiento concentrado.
