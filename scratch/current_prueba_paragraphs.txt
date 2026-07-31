@@ -7,7 +7,7 @@ C.F. 1-31-00-01 – Nº de Orden 6733
 PLAN DE TRABAJO
 Diagnóstico Integral y Propuesta de Mejora para el Funcionamiento del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software: Optimización con Recursos Actuales y Proyección con Incorporación de Recursos
 Postulante: Guido Cassulo
-Cargo actual: Programador Semi Senior
+Cargo actual: Soporte Semi Senior
 Legajo: 36484
 Mar del Plata – Julio 2026
 1. INTRODUCCIÓN
@@ -16,7 +16,7 @@ El Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software co
 Su función excede el desarrollo de aplicaciones informáticas. El Departamento interviene en el relevamiento y análisis de requerimientos funcionales, la planificación y coordinación de proyectos, la definición de estándares de desarrollo, la evaluación de nuevas tecnologías, el control técnico de proveedores externos, la integración entre sistemas municipales, la intervención en el sitio Web de la Municipalidad y el mantenimiento evolutivo de aplicaciones críticas para el funcionamiento de la Administración.
 La Jefatura del Departamento debe desempeñar un rol integrador que va más allá de la coordinación técnica de proyectos. Su responsabilidad central consiste en combinar conocimientos técnicos con planificación, conducción de equipos y administración de recursos, generando las condiciones organizacionales que permitan al equipo desarrollar software de manera previsible, colaborativa y sostenible, promoviendo la integración entre personas, la reutilización del conocimiento, la adopción responsable de nuevas tecnologías y la mejora permanente de los procedimientos internos, con decisiones tecnológicas alineadas a los objetivos institucionales del Municipio y cumpliendo con las exigencias del régimen administrativo (Ley Orgánica de las Municipalidades, Ley 14656, RAFAM, GDE y Decreto N° 2250/98).
 La propuesta reconoce que el Departamento desarrolla su actividad en un entorno dinámico, caracterizado por la coexistencia de sistemas de distinta antigüedad, múltiples requerimientos simultáneos, recursos limitados y una creciente demanda de soluciones digitales por parte de las distintas dependencias municipales. Frente a esta realidad, la respuesta no puede limitarse a solicitar mayores recursos, sino a fortalecer la organización del trabajo con los recursos actuales, establecer criterios comunes y consolidar una cultura de mejora continua.
-En consecuencia, este Plan de Trabajo propone una estrategia integral articulada en dos etapas consecutivas: por un lado, una propuesta de mejora basada en la optimización de los recursos actuales (sin presupuesto adicional, $0 costo), y por otro lado, una proyección con incorporación de recursos para cuando la Administración disponga de partidas de inversión tecnológica, sin fijar montos estáticos sino líneas de adquisición escalables.
+En consecuencia, este Plan de Trabajo propone una estrategia integral articulada en dos etapas consecutivas: por un lado, una propuesta de mejora basada en la optimización de los recursos actuales y por otro lado, una proyección con incorporación de recursos para cuando la Administración disponga de partidas de inversión tecnológica, sin fijar montos estáticos sino líneas de adquisición escalables.
 Por ello, el presente Plan propone una estrategia articulada en cinco pilares fundamentales:
 Fortalecimiento del capital humano y del trabajo colaborativo.
 Gestión y preservación del conocimiento institucional.
@@ -61,8 +61,12 @@ Del análisis realizado surge que el desafío central del Departamento radica en
 En consecuencia, la propuesta prioriza consolidar un modelo de gestión orientado a las personas y los procesos, aprovechando las oportunidades de modernización identificadas en el diagnóstico como la incorporación asistida de herramientas de Inteligencia Artificial en los entornos de desarrollo (IDEs) y la adopción de arquitecturas de referencia, para elevar la productividad del equipo, optimizar la documentación y garantizar la calidad y sostenibilidad de los sistemas institucionales.
 3. PRINCIPIOS DE GESTIÓN
 El ejercicio de la Jefatura del Departamento requiere combinar capacidades técnicas con habilidades de conducción, planificación y coordinación. En consecuencia, las decisiones organizacionales y técnicas deberán sustentarse sobre principios de gestión que otorguen coherencia a las acciones del Departamento.
-3.1 Liderazgo basado en la colaboración
-La conducción del Departamento deberá promover un ambiente de trabajo participativo, donde la comunicación, el intercambio de conocimientos y la construcción colectiva de soluciones sean parte de la cultura organizacional. La función de la Jefatura consistirá en facilitar el trabajo de los equipos, remover obstáculos, promover acuerdos y generar las condiciones necesarias para que cada integrante pueda desarrollar sus capacidades profesionales.
+3.1 Liderazgo basado en la colaboración y el desarrollo del equipo
+La conducción del Departamento promoverá un ambiente de trabajo participativo y transparente, donde la comunicación fluida, el intercambio de conocimientos y la construcción colectiva de soluciones sean el eje de la cultura organizacional. La función de la Jefatura consistirá en facilitar el trabajo de los equipos, remover obstáculos operativos y generar las condiciones para que cada integrante pueda desarrollar su potencial profesional.
+Para consolidar esta visión de conducción humana y estratégica, la Jefatura se apoyará en tres pilares de gestión de personas:
+• Delegación y autonomía responsable: Se descentralizará la toma de decisiones operativas, confiando tareas de relevamiento, arquitectura y liderazgo técnico a los perfiles de mayor experiencia, evitando que la Jefatura se transforme en un cuello de botella administrativo.
+• Motivación, participación y reconocimiento: Se fomentará el involucramiento activo del personal en las decisiones de diseño e innovación tecnológica, reconociendo públicamente el valor de la experiencia acumulada y la trayectoria del personal municipal.
+• Comunicación transparente y gestión constructiva del clima laboral: La resistencia al cambio o la inercia organizacional no se abordarán como problemas de conducta individual, sino como procesos naturales de transición que la Jefatura debe gestionar mediante el diálogo, la capacitación, la fundamentación técnica de las nuevas pautas y el acompañamiento constante.
 3.2 Gestión orientada a procesos
 El crecimiento sostenido del Departamento hace necesario reducir la dependencia de prácticas individuales y avanzar hacia procedimientos institucionales homogéneos. Toda actividad recurrente deberá encontrarse respaldada por procedimientos claros que permitan garantizar continuidad, previsibilidad y calidad, simplificando el trabajo cotidiano y asegurando la continuidad operativa.
 3.3 Gestión del conocimiento institucional
@@ -75,13 +79,24 @@ Antes de adoptar una herramienta, metodología o plataforma tecnológica se eval
 El Departamento presta servicios a las distintas áreas municipales y, de manera indirecta, a toda la comunidad. Las decisiones deberán priorizar el valor que los sistemas aportan a los procesos administrativos, sustentándose en un diálogo permanente y una definición clara de prioridades.
 3.7 Decisiones basadas en evidencia
 La planificación y administración del Departamento deberá apoyarse en información objetiva proveniente de indicadores que midan la capacidad operativa, la evolución de proyectos y los cuellos de botella.
+4. OBJETIVOS DEL PLAN DE TRABAJO
+El presente Plan de Trabajo persigue los siguientes objetivos estratégicos para el fortalecimiento integral del Departamento:
+• Optimizar la planificación y priorización de requerimientos para reducir progresivamente la atención reactiva de emergencias.
+• Centralizar y visibilizar la gestión y el seguimiento de solicitudes, proyectos e incidencias en la plataforma institucional de gestión.
+• Preservar el conocimiento institucional y mitigar los riesgos operativos mediante el fortalecimiento de la documentación y la transferencia técnica.
+• Establecer estándares técnicos y criterios homogéneos de calidad para el desarrollo, mantenimiento y arquitectura de software.
+• Fortalecer la coordinación, la comunicación y la sinergia entre los equipos de trabajo distribuidos.
+• Consolidar el gobierno técnico y la soberanía sobre los desarrollos de software realizados por proveedores externos.
+• Promover la incorporación progresiva y responsable de nuevas herramientas tecnológicas de apoyo al desarrollo.
+• Optimizar la distribución de funciones operativas considerando la trayectoria y experiencia acumulada por el personal.
 5. PROPUESTA DE MEJORA Y OPTIMIZACIÓN CON RECURSOS ACTUALES
 El diagnóstico realizado permite concluir que las principales oportunidades de mejora del Departamento no dependen inicialmente de la incorporación de nuevos recursos humanos o tecnológicos, sino del fortalecimiento de la organización interna, la coordinación de los equipos de trabajo y la estandarización de los procedimientos.
-En consecuencia, se propone un plan de optimización basado en seis líneas de acción prioritarias, todas ellas implementables con los recursos actualmente disponibles y alineadas con las funciones asignadas a la Jefatura del Departamento.
+En consecuencia, se propone un plan de optimización basado en líneas de acción prioritarias, todas ellas implementables con los recursos actualmente disponibles y alineadas con las funciones asignadas a la Jefatura del Departamento.
 5.1 Organización y planificación del trabajo
 Problema
 Actualmente el Departamento desarrolla simultáneamente nuevos proyectos, mantenimiento correctivo, mantenimiento evolutivo, soporte a usuarios y atención de requerimientos urgentes provenientes de distintas Secretarías.
-La ausencia de un procedimiento uniforme de planificación dificulta conocer la capacidad real del Departamento, provoca cambios permanentes de prioridades y genera una utilización poco eficiente de los recursos disponibles. Si bien la Municipalidad cuenta con la plataforma Redmine instalada (https://proyectos.mardelplata.gov.ar/), la falta de tipificación de peticiones y de estimación sistemática dificulta explotar herramientas clave como el diagrama Gantt o los tableros de gestión para visibilizar la carga operativa real del equipo.
+La ausencia de un procedimiento uniforme de planificación dificulta conocer la capacidad real del Departamento, provoca cambios permanentes de prioridades, favorece una dinámica de trabajo predominantemente reactiva y genera una utilización poco eficiente de los recursos disponibles.
+Si bien la Municipalidad cuenta con la plataforma Redmine instalada (https://proyectos.mardelplata.gov.ar/), la falta de tipificación de peticiones y de estimación sistemática dificulta explotar herramientas clave como el diagrama Gantt o los tableros de gestión para visibilizar la carga operativa real del equipo.
 Propuesta
 La Jefatura implementará un modelo único de organización del trabajo que permita centralizar todas las solicitudes del Departamento en una única cartera de proyectos administrada mediante la plataforma institucional Redmine (https://proyectos.mardelplata.gov.ar/).
 La planificación distinguirá claramente las tareas de mantenimiento continuo de los nuevos desarrollos, permitiendo asignar prioridades, distribuir la carga de trabajo y realizar un seguimiento permanente del estado de cada iniciativa mediante el aprovechamiento de sus módulos nativos de Gantt y gestión Ágil.
@@ -92,7 +107,7 @@ La implementación comprenderá:
 • reuniones periódicas de planificación y seguimiento; 
 • revisión permanente de prioridades; 
 • redistribución de tareas cuando la carga operativa lo requiera;
-• definición de criterios para clasificar urgencias y diferir incidencias no críticas, protegiendo capacidad operativa para el trabajo planificado;
+• definición de criterios para clasificar urgencias y diferir incidencias no críticas, procurando preservar capacidad operativa para el trabajo planificado, la documentación y las mejoras evolutivas;
 • estimación de tiempos y tipificación en cada petición para habilitar el seguimiento efectivo del cronograma mediante el diagrama Gantt.
 Resultado esperado
 Esta propuesta permitirá mejorar la previsibilidad de los proyectos, optimizar la utilización de los recursos existentes y brindar mayor transparencia respecto del estado de cada solicitud.
@@ -108,6 +123,7 @@ asignación gradual de agentes de apoyo para los sistemas críticos;
 participación progresiva en tareas de mantenimiento y evolución;
 transferencia práctica de conocimientos entre agentes;
 elaboración y actualización de la documentación funcional y técnica mínima;
+instancias de transferencia práctica y acompañamiento entre agentes;
 revisión periódica del grado de cobertura del conocimiento de cada sistema.
 Resultado esperado
 La medida reducirá significativamente el riesgo operativo, facilitará la redistribución de tareas y permitirá preservar el conocimiento institucional generado por el Departamento.
@@ -122,7 +138,8 @@ Se establecerán:
 arquitectura base institucional; 
 guías de buenas prácticas; 
 estándares de codificación; 
-criterios mínimos de documentación; 
+criterios mínimos de documentación;
+criterios mínimos de seguridad aplicables al desarrollo y mantenimiento de los sistemas;
 procedimientos básicos de revisión técnica antes de producción. 
 Resultado esperado
 Se obtendrán desarrollos más homogéneos, menor tiempo de mantenimiento, mayor facilidad para incorporar nuevos desarrolladores y una reducción progresiva de la deuda técnica.
@@ -138,7 +155,9 @@ impacto institucional;
 reutilización de soluciones existentes; 
 prioridad; 
 recursos necesarios; 
-validación con el área solicitante. 
+impacto e integración con otros sistemas municipales;
+validación con el área solicitante;
+posibilidades de reutilización e integración con soluciones y servicios existentes.
 Resultado esperado
 La medida permitirá optimizar la asignación de recursos, reducir desarrollos duplicados y mejorar la comunicación con las distintas Secretarías.
 5.5 Gobierno técnico de proveedores externos
@@ -161,7 +180,7 @@ Problema
 La incorporación de nuevas herramientas y tecnologías suele realizarse sin criterios institucionales comunes, quedando muchas veces librada a decisiones individuales. Asimismo, la coexistencia de tecnologías obsoletas y plataformas con soporte vigente dificulta la estandarización del desarrollo y la evolución tecnológica del Departamento.
 Propuesta
 La innovación será gestionada como una política permanente del Departamento, evaluando cada tecnología en función de su utilidad, sostenibilidad, impacto organizacional, disponibilidad de soporte y compatibilidad con la estrategia tecnológica municipal. En este marco, se promoverá que los nuevos desarrollos adopten tecnologías vigentes y con soporte activo, evitando la utilización de plataformas obsoletas, salvo en aquellos casos donde existan razones técnicas debidamente justificadas o la necesidad de mantener la compatibilidad con sistemas existentes.
-La Inteligencia Artificial será considerada una herramienta de apoyo para incrementar la productividad del equipo mediante la utilización de asistentes de IA disponibles sin costo e integrados a los entornos de desarrollo (IDE), facilitando la detección de errores, la generación de documentación técnica, la asistencia durante el desarrollo y la automatización de tareas repetitivas, manteniendo siempre la supervisión profesional y la protección de la información institucional.
+La Inteligencia Artificial será considerada una herramienta de apoyo para incrementar la productividad del equipo mediante la utilización de herramientas de asistencia mediante Inteligencia Artificial disponibles en los entornos de desarrollo e integrados a los entornos de desarrollo (IDE), facilitando la detección de errores, la generación de documentación técnica, la asistencia durante el desarrollo y la automatización de tareas repetitivas, manteniendo siempre la supervisión profesional y bajo pautas institucionales que determinen el tratamiento permitido de la información y preserven la seguridad de los datos municipales.
 La incorporación de nuevas tecnologías se realizará de manera gradual, priorizando su adopción en proyectos nuevos donde la resistencia inicial es menor. Los agentes con mayor experiencia en tecnologías actualizadas acompañarán a quienes están en proceso de transición mediante trabajo conjunto y capacitación interna, evitando imponer cambios abruptos que generen rechazo.
 Implementación
 Se promoverán:
@@ -192,7 +211,7 @@ Propuesta
 Sin modificar la estructura escalafonaria vigente ni requerir recursos presupuestarios adicionales, la organización del trabajo asignará las responsabilidades de análisis, relevamiento funcional y coordinación técnica considerando la experiencia acumulada por cada agente y su conocimiento práctico del funcionamiento municipal.
 Implementación
 La implementación comprenderá:
-• asignación informal de referentes funcionales según la trayectoria de cada integrante;
+• asignación de referentes funcionales según la trayectoria y experiencia de cada integrante;
 • distribución de tareas priorizando la experiencia en los procesos administrativos municipales;
 • acompañamiento de los perfiles experimentados a los agentes de más reciente incorporación;
 • revisión periódica de la asignación de roles según la evolución de cada proyecto.
@@ -201,6 +220,7 @@ Esta medida permitirá optimizar la distribución del trabajo con los recursos a
 6. PROYECCIÓN CON INCORPORACIÓN DE RECURSOS
 Las acciones desarrolladas en el capítulo anterior pueden implementarse utilizando los recursos actualmente disponibles y constituyen una estrategia realista para mejorar el funcionamiento del Departamento.
 No obstante, la incorporación gradual de recursos presupuestarios permitiría consolidar y potenciar dichas acciones, incrementando la productividad del equipo, fortaleciendo la calidad del software y acelerando el proceso de modernización tecnológica.
+Las líneas de inversión identificadas no constituyen compromisos de adquisición ni requieren una ejecución simultánea, sino alternativas que podrán evaluarse en función de las necesidades detectadas, la disponibilidad presupuestaria y las prioridades institucionales.
 En este contexto, se identifican las siguientes líneas de inversión prioritaria.
 6.1 Incorporación de herramientas profesionales de apoyo al desarrollo y asistencia técnica
 Problema
@@ -254,7 +274,7 @@ La implementación comprenderá:
 • capacitación al personal para promover su utilización sistemática.
 Resultado esperado
 Se fortalecerá la colaboración entre los distintos grupos de trabajo, se facilitará el acceso al conocimiento técnico acumulado, se eliminarán los silos informáticos y se mejorará la cohesión del Departamento.
-6.5 Fortalecimiento de la estructura técnica y diferenciación de roles
+6.5 Herramientas de analítica de proyectos y tableros ejecutivos
 Problema
 La gestión de una cartera compleja de proyectos requiere herramientas de visualización gerencial que permitan medir el desempeño operativo, evaluar la carga de trabajo real y anticipar cuellos de botella en las entregas.
 Propuesta
@@ -279,69 +299,50 @@ La implementación comprenderá:
 • evaluación periódica de la capacidad operativa y cohesión de los grupos de trabajo.
 Resultado esperado
 Se optimizará la distribución de responsabilidades, aumentará la capacidad operativa del Departamento para responder a nuevas demandas y se preservará sostenidamente el conocimiento del negocio municipal.
-7. IMPLEMENTACIÓN DEL PLAN DE TRABAJO
-La implementación de las propuestas desarrolladas requiere una ejecución gradual que permita introducir mejoras sin afectar la continuidad de los servicios que presta el Departamento.
-Por tal motivo, se propone una estrategia de implementación progresiva organizada en tres etapas, priorizando inicialmente aquellas acciones de carácter organizacional que no requieren recursos presupuestarios adicionales.
-Este enfoque permitirá consolidar nuevas formas de trabajo, evaluar los resultados obtenidos y realizar los ajustes necesarios antes de avanzar hacia iniciativas de mayor complejidad.
-7.1 Primera etapa: Organización y diagnóstico interno
-Durante esta etapa inicial la prioridad estará puesta en conocer con precisión la situación del Departamento y establecer las bases organizacionales que permitirán desarrollar el resto del plan.
-Las principales acciones serán:
-elaboración del inventario de sistemas administrados por el Departamento; 
-relevamiento de competencias técnicas y funcionales del personal; 
-identificación de sistemas críticos y de los principales riesgos operativos; 
-centralización de proyectos y solicitudes en Redmine; 
-definición de prioridades institucionales; 
-elaboración del cronograma inicial de implementación. 
-Al finalizar esta etapa el Departamento contará con información objetiva sobre su capacidad operativa, permitiendo planificar las acciones siguientes sobre bases concretas.
-7.2 Segunda etapa: Estandarización y fortalecimiento institucional
-Una vez consolidada la organización inicial, se avanzará en la formalización de los procedimientos internos y en la incorporación gradual de los estándares definidos en este Plan de Trabajo.
-Entre las principales acciones se prevé:
-implementación de la Arquitectura Base Institucional; 
-elaboración de guías de buenas prácticas de desarrollo; 
-puesta en marcha del programa de Referentes Secundarios; 
-establecimiento del procedimiento único para la gestión de requerimientos; 
-formalización del gobierno técnico de proveedores externos; 
-consolidación de los mecanismos de coordinación entre equipos. 
-Esta etapa permitirá disminuir la dependencia de prácticas individuales, mejorar la calidad de los desarrollos y fortalecer el trabajo colaborativo dentro del Departamento.
-7.3 Tercera etapa: Consolidación y mejora continua
-La etapa final estará orientada a evaluar los resultados obtenidos, consolidar las mejoras implementadas y promover un proceso permanente de revisión y actualización de los procedimientos.
-En esta instancia se prevé:
-seguimiento periódico de los indicadores de gestión; 
-revisión de procedimientos internos; 
-actualización de estándares técnicos; 
-evaluación de nuevas tecnologías; 
-planificación de futuras inversiones; 
-definición de nuevas acciones de mejora sobre la base de los resultados obtenidos. 
-La mejora continua permitirá que el Departamento mantenga una capacidad permanente de adaptación frente a nuevas demandas tecnológicas y organizacionales.
+7. IMPLEMENTACIÓN Y GESTIÓN DEL PLAN DE TRABAJO
+La implementación de las propuestas desarrolladas en este Plan de Trabajo se realizará de manera progresiva, procurando incorporar las mejoras al funcionamiento habitual del Departamento sin afectar la continuidad de los servicios que actualmente presta.
+Las distintas líneas de acción no requieren necesariamente una implementación simultánea. La Jefatura determinará el orden de incorporación de las medidas en función de la criticidad de los sistemas, las prioridades institucionales, la capacidad operativa disponible y los resultados obtenidos durante el proceso.
+De esta manera, el presente Plan de Trabajo constituye un marco de gestión adaptable a las necesidades del Departamento y no un cronograma rígido de ejecución. Las prioridades podrán ser revisadas cuando surjan requerimientos normativos, incidencias críticas, nuevos proyectos o modificaciones en la disponibilidad de recursos.
+7.1 Puesta en marcha
+La puesta en marcha tendrá como objetivo establecer las condiciones organizacionales necesarias para comenzar a aplicar las medidas propuestas, priorizando inicialmente aquellas acciones que puedan implementarse con los recursos y herramientas actualmente disponibles.
+En un inicio, se realizará un relevamiento operativo del Departamento que permita consolidar la información necesaria para la toma de decisiones de la Jefatura. Este relevamiento comprenderá la cartera de proyectos y requerimientos existentes, los sistemas críticos, la distribución del conocimiento, las capacidades y experiencia del personal, el estado de la documentación, las principales dependencias e integraciones entre sistemas y la capacidad operativa disponible.
+A partir de esta información se establecerán las prioridades de intervención, los principales riesgos operativos y las primeras medidas a implementar.
+Estas acciones permitirán contar con una visión objetiva de la capacidad operativa del Departamento y establecer las prioridades sobre las cuales avanzar con las restantes líneas de mejora.
+7.2 Implementación progresiva
+Las medidas previstas en el presente Plan se incorporarán progresivamente de acuerdo con las necesidades y posibilidades del Departamento. La implementación priorizará aquellas acciones que generen un impacto organizacional significativo y que puedan ser desarrolladas sin comprometer la atención de los servicios y requerimientos críticos.
+Entre las medidas que podrán incorporarse, de acuerdo con las prioridades determinadas por la Jefatura, se encuentran:
+• fortalecimiento de la planificación y gestión de requerimientos;
+• transferencia y preservación del conocimiento institucional;
+• incorporación progresiva de estándares técnicos y criterios comunes de desarrollo;
+• fortalecimiento de la coordinación entre equipos;
+• formalización del seguimiento técnico de proveedores externos;
+• incorporación gradual de nuevas herramientas y tecnologías;
+• preparación de futuras iniciativas de inversión cuando existan recursos presupuestarios disponibles.
+La incorporación de cada medida será acompañada por la evaluación de sus resultados y por los ajustes que sean necesarios para adecuarla a la realidad operativa del Departamento.
+7.3 Gestión, seguimiento y ajuste
+La implementación será acompañada por un proceso permanente de seguimiento que permita verificar los resultados obtenidos, identificar dificultades y ajustar las acciones previstas.
+La Jefatura podrá redefinir prioridades, redistribuir recursos o modificar el orden de implementación cuando la situación operativa del Departamento así lo requiera.
+Los cambios en las prioridades institucionales, la aparición de requerimientos normativos, las incidencias críticas, la evolución de los proyectos o las variaciones en la capacidad disponible serán considerados al momento de revisar la planificación.
+Este seguimiento se realizará mediante los indicadores definidos en el capítulo siguiente, utilizando información objetiva para evaluar los avances, detectar desvíos y orientar las decisiones de gestión.
+Este mecanismo permitirá establecer un ciclo permanente de diagnóstico, implementación, evaluación y ajuste, favoreciendo la mejora continua del funcionamiento del Departamento.
 8. EVALUACIÓN Y SEGUIMIENTO
-La implementación del presente Plan de Trabajo requerirá un seguimiento permanente que permita verificar el cumplimiento de los objetivos propuestos y medir el impacto de las acciones implementadas.
-Con este propósito se propone la utilización de indicadores de gestión que permitan evaluar la evolución del Departamento mediante información objetiva, facilitando la toma de decisiones y la identificación temprana de oportunidades de mejora.
-Los indicadores deberán revisarse periódicamente y utilizarse como herramientas de gestión, evitando que se transformen en un fin en sí mismos.
-Dimensión
-Indicador
-Objetivo
-Organización
-Porcentaje de proyectos registrados en Redmine
-Centralizar la planificación del Departamento
-Gestión del conocimiento
-Sistemas críticos con Referente Secundario
-Reducir la dependencia de personas específicas
-Documentación
-Sistemas con documentación mínima actualizada
-Preservar el conocimiento institucional
-Calidad
-Incidentes detectados luego de la puesta en producción
-Reducir errores y mejorar la calidad de los desarrollos
-Gestión de requerimientos
-Tiempo promedio entre solicitud y planificación
-Mejorar la capacidad de respuesta
-Gobierno técnico
-Desarrollos externos con recepción técnica completa
-Garantizar la soberanía tecnológica
-Innovación
-Actividades de capacitación y evaluación tecnológica realizadas
-Promover la mejora continua
-La información obtenida permitirá realizar ajustes en la planificación, redefinir prioridades y orientar futuras decisiones de gestión sobre la base de resultados verificables.
+La implementación del presente Plan de Trabajo requerirá un proceso permanente de evaluación y seguimiento que permita verificar el cumplimiento de los objetivos propuestos, medir el impacto de las acciones organizacionales y ajustar las decisiones de conducción sobre la base de evidencia objetiva.
+Con este propósito, la evaluación se concibe como un mecanismo de control de gestión institucional orientado a conocer la evolución del Departamento y la calidad del servicio que presta a la Administración Municipal. Los indicadores y las instancias de seguimiento no tendrán por finalidad realizar un control individual de productividad, sino identificar oportunidades de mejora en los procesos, fortalecer los equipos y garantizar la continuidad operativa.
+8.1  Revisión periódica de resultados e indicadores de gestión
+La Jefatura realizará un monitoreo sistemático de la gestión del Departamento mediante el seguimiento de indicadores clave en la plataforma institucional Redmine y en las distintas líneas de trabajo:
+• Cobertura y planificación: porcentaje de proyectos, requerimientos e incidencias registrados y categorizados en la cartera común.
+• Gestión del conocimiento y riesgo operativo: cantidad de sistemas críticos que cuentan con Referente Secundario designado y documentación técnica/funcional mínima actualizada.
+• Calidad de software y estabilidad: tasa de incidencias relevantes detectadas con posterioridad a la puesta en producción y tiempo promedio de respuesta frente a requerimientos.
+• Gobierno técnico y soberanía: porcentaje de desarrollos entregados por proveedores externos con recepción técnica completa y entrega del código fuente.
+• Innovación y actualización: actividades de evaluación de nuevas tecnologías y herramientas asistidas por Inteligencia Artificial realizadas y documentadas.
+8.2  Instancias de seguimiento, feedback interno y clima laboral
+La evaluación del Departamento no se limitará al análisis de datos cuantitativos, sino que incorporará la dimensión humana y organizativa como aspecto central de la conducción:
+• Reuniones periódicas de equipo: espacios de trabajo para revisar el estado de los proyectos, analizar dificultades recurrentes, redistribuir cargas de trabajo y receptar propuestas de mejora formuladas por los propios agentes.
+• Feedback técnico y mentoreo: dinámicas de acompañamiento entre el personal de mayor experiencia y los nuevos integrantes, promoviendo el reconocimiento del saber hacer acumulado y el desarrollo profesional continuo.
+• Monitoreo del clima laboral: charlas periódicas con el personal para evaluar las condiciones de trabajo, abordar la resistencia al cambio de manera constructiva y resolver tensiones operativas antes de que afecten el desempeño del equipo.
+8. 3 3 Ajuste dinámico de la gestión y mejora continua
+Los resultados obtenidos de los indicadores y de las instancias de feedback interno se utilizarán para alimentar un ciclo permanente de mejora continua.
+Cuando una medida no alcance los resultados esperados o se detecten cuellos de botella en la atención de los servicios, la Jefatura revisará los procedimientos, redefinirá prioridades, redistribuirá responsabilidades o reforzará la capacitación interna. De este modo, la planificación se mantendrá como una herramienta viva de gestión, capaz de adaptarse a la realidad cambiante del Municipio.
 9. CONCLUSIONES
 El Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software cumple un rol estratégico dentro del proceso de transformación digital de la Municipalidad de General Pueyrredon. La creciente demanda de soluciones informáticas hace necesario fortalecer su capacidad de planificación, coordinación y organización, asegurando que el conocimiento institucional, la calidad del software y la continuidad operativa no dependan exclusivamente de iniciativas individuales.
 Las propuestas desarrolladas en este Plan de Trabajo parten de un criterio de realismo y priorizan la optimización de los recursos actualmente disponibles mediante la mejora de los procedimientos, la gestión del conocimiento, la estandarización técnica y el fortalecimiento de la conducción del Departamento.
