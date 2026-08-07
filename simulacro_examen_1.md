@@ -10,104 +10,104 @@
 *Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
 ### 1. La Administración local de los Partidos que forman la Provincia de Buenos Aires estará a cargo de una Municipalidad compuesta por:
-*   a) Un Departamento Ejecutivo, desempeñado por un ciudadano con el título de Intendente, un Departamento Deliberativo, desempeñado por ciudadanos con el título de Concejal, y un Departamento Judicial desempeñado por ciudadanos con el título de Jueces de Faltas.
-*   b) Un Departamento Ejecutivo, desempeñado por un ciudadano con el título de Intendente, y un Departamento Deliberativo, desempeñado por ciudadanos con el título de Concejal.
-*   c) Un Departamento Ejecutivo, desempeñado por un ciudadano con el título de Intendente.
-*   d) Ninguna de las anteriores.
+*   a) un Departamento Ejecutivo, desempeñado por un ciudadano con el título de Intendente, un Departamento Deliberativo, desempeñado por ciudadanos con el título de Concejal, y un Departamento Judicial desempeñado por ciudadanos con el título de Jueces de Faltas.
+*   b) un Departamento Ejecutivo, desempeñado por un ciudadano con el título de Intendente, y un Departamento Deliberativo, desempeñado por ciudadanos con el título de Concejal.
+*   c) un Departamento Ejecutivo, desempeñado por un ciudadano con el título de Intendente.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 2. De acuerdo con la Ley Orgánica de las Municipalidades (la Ley Orgánica de las Municipalidades Decreto-Ley 6769/58), el patrimonio municipal está constituido por:
-*   a) Bienes muebles e inmuebles exclusivamente.
-*   b) Bienes inmuebles, muebles, semovientes, créditos, títulos y acciones adquiridos a título oneroso o gratuito, y las donaciones y legados aceptados.
-*   c) Bienes inmuebles y muebles adquiridos a título oneroso, excluyendo las donaciones.
-*   d) Ninguna de las anteriores.
+### 2. El patrimonio municipal está constituido por:
+*   a) bienes muebles e inmuebles exclusivamente.
+*   b) bienes inmuebles, muebles, semovientes, créditos, títulos y acciones adquiridos a título oneroso o gratuito, y las donaciones y legados aceptados.
+*   c) bienes inmuebles y muebles adquiridos a título oneroso, excluyendo las donaciones.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 3. El Honorable Tribunal de Cuentas de la Provincia de Buenos Aires podrá imponer a los funcionarios y empleados municipales, según la la Ley Orgánica de las Municipalidades, las siguientes sanciones:
-*   a) Solamente llamados de atención y amonestaciones.
-*   b) Solamente inhabilitación para el ejercicio de empleo municipal.
-*   c) Solamente cargos pecuniarios.
-*   d) Cargos pecuniarios y multas exclusivamente.
-*   e) Cargos pecuniarios, llamados de atención, amonestaciones, multas, y otros previstos por ley.
-*   f) Ninguna de las anteriores.
+### 3. El Honorable Tribunal de Cuentas de la Provincia de Buenos Aires podrá imponer a los funcionarios y empleados municipales, las siguientes sanciones:
+*   a) solamente llamados de atención y amonestaciones.
+*   b) solamente inhabilitación para el ejercicio de empleo municipal.
+*   c) solamente cargos pecuniarios.
+*   d) cargos pecuniarios y multas exclusivamente.
+*   e) cargos pecuniarios, llamados de atención, amonestaciones, multas, y otros previstos por ley.
+*   f) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
 ### 4. Una Ordenanza es una norma legal municipal que posee la siguiente característica:
-*   a) Es una norma dictada por el Intendente Municipal para regular el funcionamiento de una dependencia particular.
-*   b) Es una decisión de carácter interno adoptada por un Director General para organizar a su personal.
-*   c) Es sancionada por el Departamento Deliberativo (Concejo Deliberante) de acuerdo con las atribuciones de la Constitución Provincial y la Ley Orgánica de las Municipalidades.
-*   d) Es una instrucción técnica del área de Sistemas sobre el uso del software municipal.
+*   a) es una norma dictada por el Intendente Municipal para regular el funcionamiento de una dependencia particular.
+*   b) es una decisión de carácter interno adoptada por un Director General para organizar a su personal.
+*   c) es sancionada por el Departamento Deliberativo (Concejo Deliberante) de acuerdo con las atribuciones de la Constitución Provincial y la Ley Orgánica de las Municipalidades.
+*   d) es una instrucción técnica del área de Sistemas sobre el uso del software municipal.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 5. Para la redacción de documentación administrativa en la Municipalidad de General Pueyrredón, según el Manual de Redacción vigente (Decreto 966/19), los nombres de las personas físicas se escriben de la siguiente manera:
-*   a) Completos con letras mayúsculas, en el orden de nombres y luego apellidos, indicando siempre el número de DNI al final.
-*   b) Completos con letras mayúsculas y siempre en un orden, es decir, primero los apellidos y luego los nombres. Si se mencionan nombres de agentes municipales, se consignará a continuación el número de legajo.
-*   c) En formato tipo título (Mayúscula inicial), primero el apellido y luego los nombres, sin necesidad de consignar legajo para evitar la exposición de datos personales.
-*   d) Ninguna de las anteriores.
+### 5. Para la redacción de documentación administrativa en la Municipalidad de General Pueyrredón, los nombres de las personas físicas se escriben de la siguiente manera:
+*   a) completos con letras mayúsculas, en el orden de nombres y luego apellidos, indicando siempre el número de DNI al final.
+*   b) completos con letras mayúsculas y siempre en un orden, es decir, primero los apellidos y luego los nombres. Si se mencionan nombres de agentes municipales, se consignará a continuación el número de legajo.
+*   c) en formato tipo título (Mayúscula inicial), primero el apellido y luego los nombres, sin necesidad de consignar legajo para evitar la exposición de datos personales.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
 ### 6. En relación a los expedientes digitales en el marco de la Ordenanza General 26348 (Procedimiento Administrativo Municipal):
-*   a) Los expedientes digitales podrán abarcar un número de orden que no exceda de doscientos (200) documentos adjuntos.
-*   b) Podrán abarcar un número de orden ilimitado de documentos. Cada uno de ellos, además, podrá tener tantos documentos adjuntos como soporte el tipo de documento seleccionado, formando parte de la actuación principal con el mismo valor legal.
-*   c) Podrán abarcar un número de orden ilimitado, pero no podrán tener más de diez (10) documentos adjuntos como soporte en total.
-*   d) Ninguna de las anteriores.
+*   a) los expedientes digitales podrán abarcar un número de orden que no exceda de doscientos (200) documentos adjuntos.
+*   b) podrán abarcar un número de orden ilimitado de documentos. Cada uno de ellos, además, podrá tener tantos documentos adjuntos como soporte el tipo de documento seleccionado, formando parte de la actuación principal con el mismo valor legal.
+*   c) podrán abarcar un número de orden ilimitado, pero no podrán tener más de diez (10) documentos adjuntos como soporte en total.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
 ### 7. Un empleado a su cargo se encuentra sumariado administrativamente por presuntas irregularidades. Dicho sumario se encuentra a la fecha en trámite sin resolución definitiva. El empleado le presenta una solicitud formal de reencasillamiento para pasar de su cargo actual de Técnico II a Técnico III. Usted como Jefe de Departamento:
-*   a) Rechaza de plano la solicitud que le presenta debido a su condición de sumariado.
-*   b) Acepta la solicitud que le presenta y le da el curso correspondiente de acuerdo al trámite ordinario.
-*   c) Acepta la solicitud, pero suspende su tramitación y no le da curso hasta tanto recaiga resolución definitiva en el sumario.
-*   d) Ninguna de las anteriores.
+*   a) rechaza de plano la solicitud que le presenta debido a su condición de sumariado.
+*   b) acepta la solicitud que le presenta y le da el curso correspondiente de acuerdo al trámite ordinario.
+*   c) acepta la solicitud, pero suspende su tramitación y no le da curso hasta tanto recaiga resolución definitiva en el sumario.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 8. Un agente de soporte técnico bajo su dependencia mantiene una discusión acalorada con un agente administrativo del área de Salud y le falta el respeto verbalmente en presencia de varios testigos. La falta queda debidamente constatada. Como Jefe de Departamento, ¿qué sanciones correctivas directas puede aplicarle al agente sin necesidad de iniciar sumario?
-*   a) Llamado de atención únicamente.
-*   b) Llamado de atención o apercibimiento.
-*   c) Suspensión de hasta 10 días corridos de forma directa.
-*   d) Llamado de atención, apercibimiento o suspensión de hasta 5 días corridos.
-*   e) Descuento del día de haberes sin más trámite.
-*   f) Ninguna de las anteriores.
+### 8. Un agente de soporte técnico bajo su dependencia mantiene una discusión acalorada con un agente administrativo del área de Salud y le falta el respeto verbalmente en presencia de varios testigos. La falta queda debidamente constatada. Las sanciones correctivas directas que puede aplicarle al agente sin necesidad de iniciar sumario son:
+*   a) llamado de atención únicamente.
+*   b) llamado de atención o apercibimiento.
+*   c) suspensión de hasta 10 días corridos de forma directa.
+*   d) llamado de atención, apercibimiento o suspensión de hasta 5 días corridos.
+*   e) descuento del día de haberes sin más trámite.
+*   f) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 9. Un empleado a su cargo llega 12 minutos tarde respecto del horario de inicio de su jornada laboral. Es la primera vez que ocurre esto en el mes calendario. Como Jefe de Departamento, ¿cuál es la medida a tomar?
-*   a) Debe aplicarle un apercibimiento por escrito debido al retraso injustificado.
-*   b) Debe suspenderlo por 1 día sin goce de haberes por llegar tarde.
-*   c) Se considera una tardanza justificada dentro del régimen de tolerancias mensuales y no corresponde aplicar sanción disciplinaria directa (aunque sí el registro respectivo del horario).
-*   d) Ninguna de las anteriores.
+### 9. Un empleado a su cargo llega 12 minutos tarde respecto del horario de inicio de su jornada laboral. Es la primera vez que ocurre esto en el mes calendario. La medida a tomar es:
+*   a) debe aplicarle un apercibimiento por escrito debido al retraso injustificado.
+*   b) debe suspenderlo por 1 día sin goce de haberes por llegar tarde.
+*   c) se considera una tardanza justificada dentro del régimen de tolerancias mensuales y no corresponde aplicar sanción disciplinaria directa (aunque sí el registro respectivo del horario).
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
 ### 10. Un agente a su cargo llega 40 minutos tarde a registrar su ingreso a la jornada laboral. De acuerdo a la reglamentación vigente de control horario municipal, dicho agente:
-*   a) Puede ingresar a prestar servicios normalmente y compensar los 40 minutos al final de la jornada.
-*   b) Puede quedarse a prestar servicios siempre y cuando la situación se deba a fuerza mayor debidamente acreditada y sea autorizada por su superior jerárquico.
-*   c) No puede bajo ninguna circunstancia quedarse a prestar servicios y se le computará inasistencia injustificada.
-*   d) Ninguna de las anteriores.
+*   a) puede ingresar a prestar servicios normalmente y compensar los 40 minutos al final de la jornada.
+*   b) puede quedarse a prestar servicios siempre y cuando la situación se deba a fuerza mayor debidamente acreditada y sea autorizada por su superior jerárquico.
+*   c) no puede bajo ninguna circunstancia quedarse a prestar servicios y se le computará inasistencia injustificada.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
@@ -172,8 +172,8 @@
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), **Artículo 1º**: *"La administración local de los partidos que forman la Provincia estará a cargo de una Municipalidad, compuesta de un Departamento Ejecutivo, desempeñado por un ciudadano con el título de Intendente Municipal y un Departamento Deliberativo, desempeñado por ciudadanos con el título de Concejal..."*. El Departamento Judicial (o Jueces de Faltas) no forman un "poder" independiente del municipio de rango constitucional/legal autónomo en la composición orgánica de la LOM, sino que dependen administrativamente del Departamento Ejecutivo.
 *(📋 Verificar en texto oficial de Decreto-Ley 6769/58 - L.O.M.)*
 
-### 2. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 225º**: *"El patrimonio de la Municipalidad se compone de sus bienes muebles e inmuebles, semovientes, créditos, títulos y acciones adquiridos por cualquier título legítimo; de las donaciones o legados aceptados..."*.
+### 2. Respuesta Correcta: **d**
+*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 225º**. El patrimonio de la Municipalidad se compone de sus bienes muebles, inmuebles, semovientes, créditos, títulos y acciones adquiridos por cualquier título legítimo; de las donaciones o legados aceptados; y de todas las parcelas comprendidas en el área urbana que pertenezcan al Estado por dominio eminente o cuyo propietario se ignore. Ninguna de las opciones anteriores es correcta porque la definición del Artículo 225º exige la totalidad de los tres componentes, haciendo que las opciones parciales sean incorrectas.
 *(📋 Verificar en texto oficial de Decreto-Ley 6769/58 - L.O.M.)*
 
 ### 3. Respuesta Correcta: **e**
@@ -184,8 +184,8 @@
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 24º**: *"Corresponde a la función deliberativa sancionar las ordenanzas y disposiciones, sobre la base de las atribuciones que fija la Constitución y la presente Ley..."*. Las ordenanzas son normas de carácter general sancionadas por el H.C.D. que tienen fuerza de ley local.
 *(📋 Verificar en texto oficial de Decreto-Ley 6769/58 - L.O.M.)*
 
-### 5. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto 966/19 de la MGP (Manual de Redacción Administrativa), **Anexo I, Capítulo II, Inciso 16**: *"Los nombres de personas físicas... se escribirán siempre en el orden de primero apellidos y luego nombres, completos y en letras mayúsculas. Cuando se trate de agentes municipales se hará constar a continuación del nombre, su correspondiente número de legajo..."*.
+### 5. Respuesta Correcta: **d**
+*   **Fundamento Normativo:** Decreto MGP **966/19 (Manual de Redacción Administrativa), Anexo I, Capítulo II, Inciso 16**. Los nombres de las personas en las piezas documentales de la comuna se escribirán de forma completa con letras mayúsculas en el orden: nombres primero y luego los apellidos. En caso de agentes municipales, se colocará a continuación el número de legajo personal. Ninguna de las opciones presentadas en este examen es correcta, ya que la opción a añade de forma incorrecta el DNI al final, la opción b invierte el orden (apellidos y luego nombres), y la opción c establece erróneamente el formato tipo título.
 *(📋 Verificar en texto oficial de Decreto 966/19 - Manual de Redacción Administrativa MGP)*
 
 ### 6. Respuesta Correcta: **b**

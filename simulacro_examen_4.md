@@ -10,100 +10,100 @@
 *Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
 ### 1. Si el Departamento de TIC requiere contratar la renovación de licencias anuales de software de base de datos Oracle, siendo Oracle el único proveedor exclusivo a nivel nacional que posee la patente y distribución oficial del servicio, el Jefe de Departamento debe tramitar la adquisición bajo la modalidad de:
-*   a) Licitación Pública obligatoria, dado que es la regla general para compras del Estado.
-*   b) Contratación Directa por exclusividad, de conformidad con las excepciones de compras del régimen municipal.
-*   c) Licitación Privada, invitando al menos a tres proveedores informáticos locales.
-*   d) Concurso de Precios ordinario.
+*   a) licitación Pública obligatoria, dado que es la regla general para compras del Estado.
+*   b) contratación Directa por exclusividad, de conformidad con las excepciones de compras del régimen municipal.
+*   c) licitación Privada, invitando al menos a tres proveedores informáticos locales.
+*   d) concurso de Precios ordinario.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 2. Según el Estatuto de Empleo Público Municipal (el estatuto del empleo público municipal), el personal seleccionado ingresa al municipio bajo la condición de estabilidad laboral tras superar un período de prueba de:
-*   a) Tres (3) meses de servicio activo.
-*   b) Seis (6) meses de servicio activo.
-*   c) Doce (12) meses de prestación de servicios efectiva.
-*   d) Dos (2) años de servicio efectivo y aprobación de examen de idoneidad técnica.
+### 2. El personal seleccionado ingresa al municipio bajo la condición de estabilidad laboral tras superar un período de prueba de:
+*   a) tres (3) meses de servicio activo.
+*   b) seis (6) meses de servicio activo.
+*   c) doce (12) meses de prestación de servicios efectiva.
+*   d) dos (2) años de servicio efectivo y aprobación de examen de idoneidad técnica.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 3. De acuerdo con la Ordenanza General 26348 (Procedimiento Administrativo Municipal), los plazos procesales establecidos para las dependencias y los administrados se computan en:
-*   a) Días corridos, incluyendo feriados y fines de semana.
-*   b) Días hábiles administrativos, salvo disposición expresa en contrario de la ley o del acto.
-*   c) Semanas calendarias completas.
-*   d) Ninguna de las anteriores.
+### 3. Los plazos procesales establecidos para las dependencias y los administrados se computan en:
+*   a) días corridos, incluyendo feriados y fines de semana.
+*   b) días hábiles administrativos, salvo disposición expresa en contrario de la ley o del acto.
+*   c) semanas calendarias completas.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
 ### 4. Si la Municipalidad planea suscribir un contrato de "leasing" o alquiler de infraestructura de servidores en la nube (cloud) que excede el período presupuestario anual, comprometiendo partidas presupuestarias de ejercicios financieros futuros:
-*   a) El Intendente puede adjudicarlo directamente por decreto sin consultar a otros organismos.
-*   b) Requiere la autorización previa del Honorable Concejo Deliberante (H.C.D.) mediante ordenanza aprobada por mayoría.
-*   c) Se debe tramitar el pago completo por adelantado afectando el presupuesto del año en curso únicamente.
-*   d) Ninguna de las anteriores.
+*   a) el Intendente puede adjudicarlo directamente por decreto sin consultar a otros organismos.
+*   b) requiere la autorización previa del Honorable Concejo Deliberante (H.C.D.) mediante ordenanza aprobada por mayoría.
+*   c) se debe tramitar el pago completo por adelantado afectando el presupuesto del año en curso únicamente.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 5. De conformidad con el régimen estatutario (el estatuto del empleo público municipal), el agente municipal masculino tiene derecho por el nacimiento de su hijo/a a usufructuar una licencia por paternidad de:
-*   a) Dos (2) días hábiles administrativos.
-*   b) Cinco (5) días corridos.
-*   c) Quince (15) días corridos con goce íntegro de haberes.
-*   d) Un (1) mes sin goce de sueldo.
+### 5. El agente municipal masculino tiene derecho por el nacimiento de su hijo/a a usufructuar una licencia por paternidad de:
+*   a) dos (2) días hábiles administrativos.
+*   b) cinco (5) días hábiles.
+*   c) quince (15) días corridos con goce íntegro de haberes.
+*   d) un (1) mes sin goce de sueldo.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
 ### 6. En la tramitación de expedientes digitales, las notificaciones practicadas en el Domicilio Electrónico Constituido del administrado:
-*   a) Carecen de valor legal hasta que el contribuyente firme una constancia física en Mesa de Entradas.
-*   b) Producen plenos efectos legales y se consideran válidas a partir del momento de su disponibilidad en el sistema de buzón electrónico o al día hábil siguiente.
-*   c) Solo son válidas para trámites comerciales pero no para sumarios o notificaciones disciplinarias del personal.
-*   d) Ninguna de las anteriores.
+*   a) carecen de valor legal hasta que el contribuyente firme una constancia física en Mesa de Entradas.
+*   b) producen plenos efectos legales y se consideran válidas a partir del momento de su disponibilidad en el sistema de buzón electrónico o al día hábil siguiente.
+*   c) solo son válidas para trámites comerciales pero no para sumarios o notificaciones disciplinarias del personal.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 7. Según el Manual de Redacción de la MGP (Decreto 966/19), el documento interno, sintético y de carácter directo utilizado exclusivamente para girar las actuaciones entre oficinas, solicitar informes técnicos o impulsar el trámite sin estructura de considerandos se denomina:
-*   a) Nota Oficial.
-*   b) Providencia.
-*   c) Circular.
-*   d) Dictamen.
+### 7. El escrito que impulsa trámites, da vista o traslados y solicita medidas en los expedientes se denomina:
+*   a) nota Oficial.
+*   b) providencia.
+*   c) circular.
+*   d) dictamen.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
 ### 8. En el proceso de compras del área de Sistemas bajo el régimen de la la Ley Orgánica de las Municipalidades y la RAFAM, la responsabilidad de redactar las especificaciones técnicas detalladas y los requerimientos funcionales del Pliego de Bases y Condiciones Particulares recae sobre:
-*   a) La Dirección de Compras y Suministros municipal de forma exclusiva.
-*   b) El Contador Municipal para verificar los códigos de barra.
-*   c) El Jefe del Departamento Técnico (área usuaria y especialista) que inicia el requerimiento de gasto.
-*   d) Ninguna de las anteriores.
+*   a) la Dirección de Compras y Suministros municipal de forma exclusiva.
+*   b) el Contador Municipal para verificar los códigos de barra.
+*   c) el Secretario del Área solicitante (jurisdicción usuaria que origina el pedido de adquisición).
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
 ### 9. La entrega en concesión del uso del tendido de la red de fibra óptica municipal a un proveedor privado de internet para su explotación comercial:
-*   a) Puede ser dispuesta directamente por el Director de Sistemas mediante una disposición interna de Jefatura.
-*   b) Requiere la aprobación previa del Honorable Concejo Deliberante (H.C.D.) de conformidad con las facultades de la LOM.
-*   c) No está permitida bajo ningún concepto legal por tratarse de un activo intangible del Estado.
-*   d) Ninguna de las anteriores.
+*   a) puede ser dispuesta directamente por el Director de Sistemas mediante una disposición interna de Jefatura.
+*   b) requiere la aprobación previa del Honorable Concejo Deliberante (H.C.D.) de conformidad con las facultades de la LOM.
+*   c) no está permitida bajo ningún concepto legal por tratarse de un activo intangible del Estado.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 10. Conforme a la el estatuto del empleo público municipal y decretos municipales, el agente municipal que deba ausentarse para el cuidado de un miembro enfermo del grupo familiar directo a su cargo, puede solicitar licencia con goce de haberes por un límite anual de:
-*   a) Hasta cinco (5) días hábiles únicamente.
-*   b) Hasta veinte (20) días corridos por año calendario (prorrogables según reglamentación).
-*   c) Hasta noventa (90) días continuos.
-*   d) Ninguna de las anteriores.
+### 10. El agente municipal que deba ausentarse para el cuidado de un miembro enfermo del grupo familiar directo a su cargo, puede solicitar licencia con goce de haberes por un límite anual de:
+*   a) hasta cinco (5) días hábiles únicamente.
+*   b) hasta veinte (20) días corridos por año calendario (prorrogables según reglamentación).
+*   c) hasta noventa (90) días continuos.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
@@ -175,26 +175,29 @@
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), **Artículo 156º, Inciso 4** (excepciones a la licitación pública): Se permite la contratación directa en compras municipales *"Cuando se trate de objetos o servicios cuya fabricación o propiedad sea exclusiva de quienes tengan patentes de invención o privilegios acumulados, o cuando no hubiere más de un solo productor o proveedor..."*. En este caso, Oracle posee la propiedad y distribución exclusiva del software, encuadrando en la causal de exclusividad. *(📋 Nota: Los artículos específicos del régimen de excepciones de contratación directa varían según la versión vigente de la LOM y el Reglamento de Contrataciones Municipal. Verificar en el texto oficial actualizado.)*
 
 ### 2. Respuesta Correcta: **c**
-*   **Fundamento Normativo:** Ley 14656, **Artículo 6º**: *"La estabilidad es el derecho del agente de planta permanente a conservar el empleo... El ingreso a la función pública municipal se formalizará mediante un período de prueba de doce (12) meses de prestación de servicios efectiva..."*. Durante este plazo, el agente puede ser desafectado sin derecho a indemnización en caso de calificaciones deficientes. *(📋 Verificar en texto oficial de Ley 14656)*
+*   **Fundamento Normativo:** Ley 14656 (Estatuto del Empleo Público Municipal), **Artículo 4º (Período de Prueba – Estabilidad)**. El artículo establece que *"Todo nombramiento es provisional hasta tanto el trabajador adquiera estabilidad. Este derecho se adquiere a los doce (12) meses, de no mediar previamente oposición fundada y debidamente notificada por autoridad competente."*
+*(📋 Verificar en texto oficial de Ley 14656, Artículo 4º)*
 
 ### 3. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Ordenanza General 26348, **Artículo 78º**: *"Todos los plazos procesales se computan en días hábiles administrativos, salvo disposición legal en contrario o habilitación expresa de feriados por la autoridad municipal..."*. Los fines de semana y feriados quedan excluidos de los cómputos temporales de trámites ordinarios. *(📋 Verificar en texto oficial de Ordenanza General 26348)*
 
 ### 4. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 155º**: *"Se requerirá autorización previa del Concejo Deliberante para realizar compras o comprometer servicios que excedan el ejercicio financiero anual o graven presupuestos de años futuros..."*. El leasing de servidores en la nube plurianual excede el ejercicio fiscal corriente, requiriendo intervención y ordenanza aprobada por el cuerpo deliberativo. *(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades)*
+*   **Fundamento Normativo:** **Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), Artículo 273º** y **Decreto Provincial 2980/00 (RAFAM), Artículo 19º**. El Artículo 273º de la LOM establece que el Departamento Deliberativo (HCD) debe autorizar las compras y otras contrataciones que comprometan fondos de más de un ejercicio financiero. Asimismo, el Artículo 19º del reglamento contable RAFAM regula el trámite plurianual, determinando que la aprobación de los presupuestos con dicha información por parte del HCD implica la autorización para realizar la contratación plurianual.
 
-### 5. Respuesta Correcta: **c**
-*   **Fundamento Normativo:** Ley 14656, **Artículo 64º** (Licencia por Nacimiento de Hijo): Establece la licencia para los progenitores no gestantes con goce íntegro de haberes por el nacimiento de hijo/a. En el ámbito municipal de General Pueyrredón, esta fue extendida a **quince (15) días corridos** por decreto y convenio colectivo local. *(📋 Verificar en texto oficial de Ley 14656 - Art. 64º y reglamentaciones locales MGP)*
+### 5. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Ley 14656 (Estatuto del Empleo Público Municipal), **Artículo 92º**. El régimen estatutario para los trabajadores municipales establece de manera explícita que los agentes que sean progenitores no gestantes tienen derecho a una licencia con goce íntegro de haberes no inferior a cinco (5) días hábiles por el nacimiento de su hijo/a.
+*(📋 Verificar en texto oficial de Ley 14656, Artículo 92º)*
 
 ### 6. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decretos MGP de despapelización e implementación del Domicilio Electrónico Constituido (en consonancia con el Código Civil y Comercial y la Ordenanza 26348). Las notificaciones dirigidas al buzón electrónico oficial del administrado surten efectos legales idénticos a las notificaciones físicas por cédula, y se consideran firmes a partir de su acceso en el sistema o de forma ficta al día hábil siguiente de su alojamiento digital. *(📋 Verificar en texto oficial de Decretos MGP de despapelización y Ordenanza 26348)*
-
+*   **Fundamento Normativo:** **Decreto MGP Nº 2050/24, Artículo 7º** y **Ordenanza Municipal Nº 26348, Artículo 63º**. Las notificaciones practicadas en el Domicilio Electrónico Constituido del administrado producen plenos efectos legales e idéntica validez que las de formato papel (Art. 63º de la Ordenanza 26348). De conformidad con el Artículo 7º del Decreto 2050/24, la notificación electrónica queda perfeccionada el primer día hábil posterior a la emisión de la misma (al día hábil siguiente), corriendo los plazos a partir de ese momento.
+*(📋 Verificar en texto oficial de Decreto MGP 2050/24, Artículo 7º y Ordenanza 26348, Artículo 63º)*
 ### 7. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto MGP **966/19 (Manual de Redacción), Capítulo I (Prescripciones Generales), Sección Definiciones, Punto 14º**: La **Providencia** se define como el *"Escrito que impulsa trámites, da vista o traslados y solicita medida en los expedientes"*. Es el documento por excelencia utilizado para el impulso procesal y trámite ordinario de expedientes. *(📋 Verificar en texto oficial de Decreto MGP 966/19)*
+*   **Fundamento Normativo:** Decreto MGP **966/19 (Manual de Redacción), Anexo I, Capítulo I (Prescripciones Generales), Definiciones, Punto 14º**. El glosario del manual establece literalmente que la **Providencia** es el: *"Escrito que impulsa trámites, da vista o traslados y solicita medida en los expedientes."*
+*(📋 Verificar en texto oficial de Decreto MGP 966/19, Anexo I, Capítulo I, Definiciones, Punto 14º)*
 
 ### 8. Respuesta Correcta: **c**
-*   **Fundamento Normativo:** Reglamento contable de la RAFAM y Ley de Compras de la LOM. El diseño y redacción del Pliego Técnico (especificaciones de hardware, software, ancho de banda o requerimientos de sistemas) es de responsabilidad exclusiva del área técnica usuaria (Jefe de Departamento / Especialista en TIC), siendo la Dirección de Compras la encargada únicamente de anexar las cláusulas legales, administrativas e impositivas (Pliego de Bases y Condiciones Generales). *(📋 Verificar en texto oficial de RAFAM y Reglamento de Compras LOM)*
-
+*   **Fundamento Normativo:** **Decreto Provincial 2980/00 (Reglamento de Contabilidad y Disposiciones de Administración para las Municipalidades - RAFAM), Artículo 108º, inciso d)**. Este artículo determina que las cláusulas particulares que integran el pliego de bases y condiciones serán confeccionadas por el Secretario del Área usuaria y deberán incluir el "detalle de las características, calidad y/o condiciones especiales del objeto de la licitación, las que serán indicadas en forma precisa e inconfundible, con la nomenclatura y datos científicos técnicos que correspondan" (inciso d).
+*(📋 Verificar en texto oficial de Decreto 2980/00 - RAFAM, Artículo 108º, inciso d)*
 ### 9. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 56º**: Corresponde al Honorable Concejo Deliberante (HCD) autorizar las concesiones de uso y explotación de servicios o bienes públicos del ejido municipal. Las redes de fibra óptica e infraestructura de telecomunicaciones forman parte de los bienes públicos de la comuna, por lo que su concesión comercial requiere de una ordenanza específica sancionada por el HCD. *(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades)*
 

@@ -9,101 +9,101 @@
 ## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)
 *Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
-### 1. Según la Ordenanza General 26348 (Procedimiento Administrativo Municipal), cuando la administración no resuelve un trámite o petición dentro de los plazos reglamentarios, el administrado puede considerar configurado el "silencio de la administración" con efecto denegatorio una vez transcurrido el siguiente plazo sin respuesta:
-*   a) Diez (10) días hábiles administrativos.
-*   b) Quince (15) días corridos.
-*   c) Treinta (30) días hábiles administrativos contados desde que el trámite esté en condiciones de ser resuelto.
-*   d) Ninguna de las anteriores.
+### 1. Cuando la administración no resuelve un trámite o petición dentro de los plazos reglamentarios, el administrado puede considerar configurado el "silencio de la administración" con efecto denegatorio una vez transcurrido el siguiente plazo sin respuesta:
+*   a) diez (10) días hábiles administrativos.
+*   b) quince (15) días corridos.
+*   c) treinta (30) días hábiles administrativos contados desde que el trámite esté en condiciones de ser resuelto.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 2. Conforme al Estatuto del Empleo Público Municipal (el estatuto del empleo público municipal), la acumulación o desempeño de más de un cargo a sueldo en la administración pública nacional, provincial o municipal es:
-*   a) Permitida libremente siempre que no superen las 48 horas semanales en total.
-*   b) Estrictamente incompatible en todos los casos, excepto en el ejercicio de la docencia y bajo condiciones de compatibilidad horaria y funcional.
-*   c) Permitida únicamente si los dos cargos pertenecen al mismo municipio y son de la misma categoría.
-*   d) Ninguna de las anteriores.
+### 2. Con respecto a las prohibiciones aplicables a los trabajadores municipales bajo su estatuto de empleo, se encuentra expresamente prohibido:
+*   a) asociarse, dirigir o patrocinar a personas físicas o jurídicas que exploten concesiones de la Administración Municipal.
+*   b) ejercer el derecho de huelga y participar de actividades de capacitación sindical fuera del horario de trabajo.
+*   c) desempeñar tareas docentes de nivel secundario o universitario fuera del horario oficial de su jornada de trabajo.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 3. De acuerdo al Decreto Reglamentario Municipal de Control Horario (Decreto 121/18), si un agente registra su ingreso superando la tolerancia de 15 minutos sin causa justificada de fuerza mayor aceptada por su superior:
-*   a) Se le computará llegada tarde simple y podrá compensar la demora al final del día.
-*   b) No se le permitirá prestar servicios en esa jornada, computándosele inasistencia injustificada y perdiendo el derecho al cobro de dicho día.
-*   c) Se le aplicará de forma automática una sanción de suspensión de 1 día.
-*   d) Ninguna de las anteriores.
+### 3. Si un agente registra su ingreso superando la tolerancia de treinta (30) minutos sin causa justificada de fuerza mayor:
+*   a) se le computará llegada tarde simple y podrá compensar la demora al final del día.
+*   b) no se le permitirá prestar servicios en esa jornada, computándosele inasistencia injustificada y perdiendo el derecho al cobro de dicho día.
+*   c) se le aplicará de forma automática una sanción de suspensión de 1 día.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 4. Según la Ley Orgánica de las Municipalidades, las ordenanzas sancionadas por el Honorable Concejo Deliberante quedan promulgadas automáticamente si el Intendente Municipal no las veta dentro de un plazo de:
-*   a) Cinco (5) días hábiles desde su recepción oficial.
-*   b) Diez (10) días hábiles desde su recepción oficial.
-*   c) Treinta (30) días corridos.
-*   d) Las ordenanzas solo entran en vigencia si el Intendente firma el decreto expreso de promulgación.
+### 4. Las ordenanzas sancionadas por el Honorable Concejo Deliberante quedan promulgadas automáticamente si el Intendente Municipal no las veta dentro de un plazo de:
+*   a) cinco (5) días hábiles desde su recepción oficial.
+*   b) diez (10) días hábiles desde su recepción oficial.
+*   c) treinta (30) días corridos.
+*   d) las ordenanzas solo entran en vigencia si el Intendente firma el decreto expreso de promulgación.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
 ### 5. En la tramitación de expedientes mediante el sistema GDE, la diferencia jurídica clave entre la Firma Digital y la Firma Electrónica según la Ley Nacional 25506 radica en que:
-*   a) La firma electrónica no tiene validez legal alguna y está prohibida en actos administrativos.
-*   b) La firma digital goza de una presunción *iuris tantum* de autoría e integridad (invirtiendo la carga de la prueba en caso de desconocimiento), mientras que la firma electrónica no goza de estas presunciones y su validez debe ser probada por quien la invoca.
-*   c) La firma digital solo es válida para documentos firmados por el Intendente, y la electrónica para el resto de los funcionarios.
-*   d) Ninguna de las anteriores.
+*   a) la firma electrónica no tiene validez legal alguna y está prohibida en actos administrativos.
+*   b) la firma digital goza de presunción de autoría e integridad (presumiéndose salvo prueba en contrario que proviene de su titular y no ha sido modificada), mientras que la firma electrónica no goza de estas presunciones.
+*   c) la firma digital solo es válida para documentos firmados por el Intendente, y la electrónica para el resto de los funcionarios.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 6. De acuerdo con la el estatuto del empleo público municipal, la licencia por enfermedad inculpable con goce íntegro de haberes para un agente con una antigüedad menor a cinco (5) años en el municipio tiene un límite máximo de duración por cada accidente o enfermedad de:
-*   a) Treinta (30) días corridos.
-*   b) Tres (3) meses en total.
-*   c) Seis (6) meses en total.
-*   d) Un (1) año si el agente tiene carga de familia, o seis (6) meses si no la tuviese.
+### 6. La licencia por enfermedad inculpable con goce íntegro de haberes para un agente con una antigüedad menor a cinco (5) años en el municipio tiene un límite máximo de duración por cada accidente o enfermedad de:
+*   a) treinta (30) días corridos.
+*   b) tres (3) meses, o seis (6) meses si tuviere cargas de familia.
+*   c) seis (6) meses en total.
+*   d) un (1) año si el agente tiene carga de familia, o seis (6) meses si no la tuviese.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 7. De conformidad con la la Ley Orgánica de las Municipalidades y las normativas contables de la RAFAM, el funcionario encargado de ejercer el control de legalidad interno previo del gasto, fiscalizando la imputación y disponibilidad de fondos antes de emitir una orden de pago, es:
-*   a) El Intendente Municipal.
-*   b) El Tesorero Municipal.
-*   c) El Contador Municipal.
-*   d) El Presidente del Honorable Concejo Deliberante.
+### 7. El funcionario encargado de ejercer el control de legalidad interno previo del gasto, fiscalizando la imputación y disponibilidad de fondos antes de emitir una orden de pago, es:
+*   a) el Intendente Municipal.
+*   b) el Tesorero Municipal.
+*   c) el Contador Municipal.
+*   d) el Presidente del Honorable Concejo Deliberante.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 8. En el marco del sistema de Gestión Documental Electrónica (GDE) de la MGP, el módulo denominado GEDO (Generación de Documentos Oficiales) se utiliza específicamente para:
-*   a) Caratular, tramitar y realizar el seguimiento de los expedientes electrónicos integrales.
-*   b) Elaborar, numerar y firmar digitalmente documentos oficiales (como actas, notas, informes, resoluciones, disposiciones) que luego se incorporan a los expedientes.
-*   c) Registrar las asistencias, licencias y calificaciones del personal municipal.
-*   d) Ninguna de las anteriores.
+### 8. En el marco del sistema de Gestión Documental Electrónica de la MGP, el módulo denominado GEDO (Generación de Documentos Oficiales) se utiliza específicamente para:
+*   a) caratular, tramitar y realizar el seguimiento de los expedientes electrónicos integrales.
+*   b) elaborar, numerar y firmar digitalmente documentos oficiales (como actas, notas, informes, resoluciones, disposiciones) que luego se incorporan a los expedientes.
+*   c) registrar las asistencias, licencias y calificaciones del personal municipal.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 9. De acuerdo con las disposiciones de la Ley Orgánica de las Municipalidades, para proceder a la destitución del Intendente Municipal o de un Concejal en caso de la comisión de faltas graves, el Concejo Deliberante debe alcanzar una mayoría de:
-*   a) Mayoría simple de los concejales presentes en la sesión.
-*   b) Dos tercios (2/3) de votos del total de los miembros que componen el cuerpo deliberativo.
-*   c) Tres cuartas partes (3/4) de los concejales en ejercicio.
-*   d) Ninguna de las anteriores.
+### 9. Para proceder a la destitución del Intendente Municipal o de un Concejal en caso de la comisión de faltas graves, el Concejo Deliberante debe alcanzar una mayoría de:
+*   a) mayoría simple de los concejales presentes en la sesión.
+*   b) dos tercios (2/3) de votos del total de los miembros que componen el cuerpo deliberativo.
+*   c) tres cuartas partes (3/4) de los concejales en ejercicio.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 10. De acuerdo con la Ley Nacional de Higiene y Seguridad en el Trabajo Nº 19587, la provisión de los Equipos de Protección Personal (EPP) y la adopción de medidas de ergonomía y seguridad ambiental en los puestos de trabajo del personal es:
-*   a) Una obligación compartida a partes iguales en costo entre el empleado y la municipalidad.
-*   b) Una obligación exclusiva del empleador (en este caso la Municipalidad), quien debe proveerlos de forma gratuita y mantener las condiciones ambientales adecuadas.
-*   c) Una responsabilidad de la ART una vez que ocurre el primer accidente.
-*   d) Ninguna de las anteriores.
+### 10. De conformidad con la Ley Nacional de Higiene y Seguridad en el Trabajo Nº 19587, la adopción de medidas de seguridad y el suministro de los Equipos de Protección Personal (EPP) es:
+*   a) una obligación compartida en su ejecución y costo a partes iguales entre el empleado y la municipalidad.
+*   b) una obligación del empleador (en este caso la Municipalidad), correspondiéndole el suministro y mantenimiento de dichos equipos y la conservación del establecimiento.
+*   c) una responsabilidad del trabajador, debiendo adquirirlos por su cuenta y solicitar el reintegro posterior.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
@@ -165,37 +165,37 @@
 <details>
 <summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary>
 
-### 1. Respuesta Correcta: **c**
-*   **Fundamento Normativo:** Ordenanza General 26348 (Procedimiento Administrativo Municipal), **Artículo 79º**: *"Vencido el plazo previsto para resolver, o el de treinta (30) días de estar el expediente en condiciones de dictarse resolución definitiva... el interesado podrá considerar que existe resolución denegatoria (silencio administrativo)..."*. Esto habilita al administrado a interponer los recursos de impugnación o acudir a la vía judicial contencioso-administrativa. *(📋 Verificar en texto oficial de Ordenanza General 26348, Artículo 79º)*
-
-### 2. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Constitución de la Provincia de Buenos Aires (**Artículo 53º**), Decreto-Ley Provincial **8078/73** de acumulación de cargos públicos, y la Ley Orgánica de las Municipalidades. Estas normas establecen el principio general de incompatibilidad para el desempeño de más de un cargo público remunerado, estableciendo la excepción expresa para el ejercicio de la docencia, siempre y cuando no exista superposición horaria ni funcional en la prestación de servicios. *(📋 Verificar en texto oficial de Constitución Provincial y Decreto-Ley 8078/73)*
-
+### 1. Respuesta Correcta: **d**
+*   **Fundamento Normativo:** Ordenanza General 26348 (Procedimiento Administrativo Municipal), **Artículo 79º**. De acuerdo con el procedimiento municipal establecido en la Ordenanza 26348, una vez vencidos los plazos ordinarios previstos para resolver, el administrado debe interponer un pedido de **pronto despacho**, y recién cuando transcurran **dos (2) meses** desde dicha reclamación sin obtener respuesta se presumirá la existencia de una resolución denegatoria (silencio administrativo). Dado que las opciones indican 10, 15 o 30 días, ninguna de ellas es correcta.
+*(📋 Verificar en texto oficial de Ordenanza General 26348, Artículo 79º)*
+### 2. Respuesta Correcta: **a**
+*   **Fundamento Normativo:** Ley 14656 (Estatuto de Empleo Público Municipal), **Artículo 104º, incisos d) y k)**. Está expresamente prohibido a los trabajadores prestar servicios remunerados, asociarse, dirigir, administrar, asesorar, patrocinar o representar a personas físicas o jurídicas que gestionen o exploten concesiones o privilegios de la Administración Municipal, con el fin de evitar conflictos de interés y garantizar la transparencia pública.
+*(📋 Verificar en texto oficial de Ley 14656)*
 ### 3. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Decreto MGP **121/18, Artículo 3º**. Se considera tardanza el ingreso verificado dentro de los treinta (30) minutos posteriores a la hora oficial de entrada. Excedido este lapso de tolerancia de 30 minutos sin una causa de fuerza mayor debidamente acreditada por escrito, el agente no podrá prestar servicios durante esa jornada, computándosele inasistencia injustificada con la consecuente pérdida de la remuneración diaria correspondiente.
 *(📋 Verificar en texto oficial de Decreto MGP 121/18, Artículo 3º)*
 
 ### 4. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 71º y 72º**: Las ordenanzas sancionadas por el Concejo Deliberante quedan automáticamente promulgadas si el Intendente Municipal no las veta y devuelve al Concejo dentro del término de **diez (10) días hábiles** desde la fecha de su comunicación oficial. *(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades)*
-
+*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 108º, Inciso 2º**. Es atribución y deber del Departamento Ejecutivo promulgar las ordenanzas o, en su caso, vetarlas dentro de los diez (10) días hábiles contados desde su notificación; transcurrido dicho plazo sin que medie veto, las ordenanzas quedan automáticamente promulgadas (promulgación tácita).
+*(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades, Artículo 108º, Inciso 2º)*
 ### 5. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Nacional de Firma Digital Nº 25506, **Artículos 6º, 8º y 9º**. La firma digital cuenta con una presunción de autoría (proviene del titular del certificado) y de integridad (el documento no ha sido modificado), lo que invierte la carga de la prueba en caso de litigio. La firma electrónica carece de estas presunciones de autoría e integridad, correspondiendo a quien la invoca acreditar su validez mediante peritajes en caso de ser desconocida por la contraparte. *(📋 Verificar en texto oficial de Ley Nacional 25506)*
-
-### 6. Respuesta Correcta: **c**
-*   **Fundamento Normativo:** Ley 14656, **Artículo 83º**: Para enfermedades o accidentes inculpables que impidan la prestación de servicios, el trabajador conserva su remuneración por un período de *"tres (3) meses, si su antigüedad en el servicio fuere menor de cinco (5) años, y de seis (6) meses si fuera mayor."* Si el trabajador tuviere cargas de familia, dichos plazos se duplican a seis (6) y doce (12) meses respectivamente. *(📋 Verificar en texto oficial de Ley 14656 - Art. 83º)*
-
+*   **Fundamento Normativo:** Ley Nacional de Firma Digital Nº 25506, **Artículos 2º, 5º, 7º y 8º**. La firma digital (definida en el Artículo 2º) cuenta con las presunciones legales de autoría (Artículo 7º) e integridad (Artículo 8º), las cuales invierten la carga de la prueba al presumirse válidas salvo prueba en contrario. Por su parte, la firma electrónica (definida en el Artículo 5º) carece de estas presunciones, y por ley corresponde a quien la invoca acreditar su validez en caso de ser desconocida por la contraparte.
+*(📋 Verificar en texto oficial de Ley Nacional 25506, Artículos 2º, 5º, 7º y 8º)*
+### 6. Respuesta Correcta: **b**
+*   **Fundamento Normativo:** Ley 14656 (Estatuto del Empleo Público Municipal), **Artículo 83º**. Cada accidente o enfermedad inculpable que impida la prestación del servicio no afectará el derecho del trabajador a percibir su remuneración durante un período de tres (3) meses, si su antigüedad en el servicio fuere menor de cinco (5) años. Este plazo se duplicará (alcanzando los seis meses) si el trabajador tuviere cargas de familia.
+*(📋 Verificar en texto oficial de Ley 14656, Artículo 83º)*
 ### 7. Respuesta Correcta: **c**
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículos 186º y 187º**, y reglamento contable RAFAM. El Contador Municipal ejerce la fiscalización interna previa de la legalidad de los actos que dispongan gastos o pagos, teniendo el deber de "observar" (rechazar) toda orden de pago que infrinja las disposiciones legales o presupuestarias. *(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades y RAFAM)*
 
 ### 8. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Reglamentaciones operativas del sistema de Gestión Documental Electrónica (GDE) de la MGP. El módulo **GEDO** (Generación de Documentos Oficiales) es el componente específico de software diseñado para la creación, edición, numeración automática y firma digital de todas las piezas documentales administrativas individuales (notas, informes, disposiciones, decretos) que luego se vinculan a un expediente electrónico (módulo EE). *(📋 Verificar en texto oficial de reglamentaciones GDE-MGP)*
-
+*   **Fundamento Normativo:** Decreto MGP **2940/22 (Reglamento de GDE)**. El módulo **GEDO** (Generación de Documentos Oficiales) es el componente específico de software de la municipalidad diseñado para la creación, edición, numeración automática y firma digital de todas las piezas documentales de carácter oficial e individual (como disposiciones, notas, informes, decretos) que posteriormente se incorporan y vinculan al Expediente Electrónico (módulo EE).
+*(📋 Verificar en texto oficial de Decreto MGP 2940/22)*
 ### 9. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 249º y 250º**: El juzgamiento y eventual destitución de concejales o del Intendente Municipal por irregularidades graves en sus funciones requiere obligatoriamente una mayoría calificada de **dos tercios de la totalidad de los miembros** componentes del Concejo Deliberante en sesión especial. *(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades)*
 
 ### 10. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Nacional de Higiene y Seguridad en el Trabajo Nº 19587, **Artículo 8º y 9º**: Es obligación exclusiva e indelegable del empleador (en este caso el Municipio) la provisión gratuita de los equipos de protección individual correspondientes y la adopción de las medidas preventivas, ergonómicas y estructurales necesarias en los puestos de trabajo. El agente no debe incurrir en gasto alguno para su seguridad. *(📋 Verificar en texto oficial de Ley Nacional 19587, Artículos 8º y 9º)*
-
+*   **Fundamento Normativo:** Ley Nacional de Higiene y Seguridad en el Trabajo Nº 19587, **Artículos 8º y 9º**. El Artículo 8º establece la obligación del empleador de adoptar y poner en práctica las medidas adecuadas de higiene y seguridad para proteger la vida y la integridad psicofísica de los trabajadores, especialmente en lo relativo al "suministro y mantenimiento de los equipos de protección personal" (Artículo 8º, inciso c). Asimismo, el Artículo 9º, inciso b) detalla su obligación de "mantener en buen estado de conservación, utilización y funcionamiento las maquinarias, instalaciones y útiles de trabajo".
+*(📋 Verificar en texto oficial de Ley Nacional 19587, Artículos 8º y 9º)*
 </details>
 
 <details>

@@ -154,7 +154,7 @@
 
 1.  **HCI y Usabilidad de Interfaces (Kendall & Kendall):** Explique la importancia del principio de "Consistencia y Estándares" en el diseño de la interacción humano-computadora (HCI) de portales web gubernamentales destinados al contribuyente. Indique qué tres (3) áreas de diseño de la interfaz de usuario deben seguir estándares rígidos según la bibliografía oficial.
 2.  **Ingeniería de Requisitos y Diseño JAD (Kendall & Kendall):** Defina el concepto de Diseño Conjunto de Aplicaciones (JAD - *Joint Application Design*) como método alternativo para recopilar requerimientos de información de sistemas. Explique en qué fases del ciclo de vida de desarrollo de software es recomendable su utilización y qué tres (3) roles principales del equipo participan de los talleres presenciales.
-3.  **Backlog y Definition of Ready - DoR (Scrum Manager):** Defina conceptualmente qué es la Definition of Ready (DoR) o "Definición de Preparado" en los equipos ágiles de Scrum. Explique qué diferencias posee con la Definition of Done (DoD) y por qué es una herramienta clave para la Jefatura de Sistemas al iniciar la reunión de planificación del sprint.
+3.  **Backlog: Elementos Preparados y Criterio de Finalización (Scrum Manager):** Defina conceptualmente qué significa que un elemento de la pila del producto (backlog) esté "preparado" o "accionable" según la Parte I de la bibliografía de Scrum Manager. Explique qué diferencia tiene este concepto con el "Criterio de finalización" (o definición de finalizada/hecho) de una Historia de Usuario descrita en la Parte II del libro.
 4.  **UML y Casos de Uso de Sistema (Kendall & Kendall):** Describa qué componentes técnicos componen la descripción detallada de un Caso de Uso de Sistema en UML. Explique la diferencia conceptual entre el "Flujo Básico de Eventos" (o curso normal) y los "Cursos Alternativos" (o cursos alternos de excepción) y provea un ejemplo de cada uno aplicado al caso de uso municipal de sistema `Registrar Pago Tributario Online`.
 5.  **Caso Práctico de Velocidad y Estimaciones (Scrum Manager):**
     El equipo ágil de desarrollo de software del municipio ha registrado una velocidad estable de **25 Puntos de Historia (SP)** por sprint de 2 semanas de duración. El Product Owner de la Secretaría de Hacienda municipal le presenta un backlog residual de requerimientos tributarios priorizados estimados por los programadores en un total acumulado de **150 SP** y le solicita que determine cuándo estará finalizado el software para su puesta en producción en las delegaciones.
@@ -301,7 +301,7 @@ Por ello,
     2.  **Lenguaje y Terminología:** Utilizar expresiones estándar y consistentes para las mismas acciones de negocio a lo largo de las vistas (ej. no mezclar los botones "Pagar", "Afectar Pago" y "Confirmar Transacción" de forma confusa).
     3.  **Retroalimentación del Sistema (Feedback):** Utilizar formatos estandarizados de color y estilo para mensajes de confirmación o alerta de error (ej. verde para transacciones aprobadas, rojo para datos inválidos).
 
-*(📖 Kendall & Kendall, Cap. 14, págs. 445-455)*
+*(📖 Kendall & Kendall, Cap. 14, págs. 461-463 - Nota: El libro desarrolla el principio de operación y consistencia estándar y la retroalimentación al usuario en estas páginas).*
 
 ---
 
@@ -317,14 +317,14 @@ Por ello,
 
 ---
 
-### 3. Backlog y Definition of Ready - DoR (Scrum Manager)
-*   **Definition of Ready (DoR):** Es un acuerdo explícito y autogestionado por el equipo ágil que establece los criterios de calidad mínimos e indispensables que debe cumplir una Historia de Usuario (HU) antes de poder ser aceptada en la reunión de planificación del sprint (*Sprint Planning*) para ser desarrollada. Su propósito es evitar que los programadores inicien trabajo en tareas ambiguas, incompletas o bloqueadas por dependencias externas.
-*   **Diferencia con Definition of Done (DoD):**
-    *   **DoR:** Evalúa si la HU está lista para ser **iniciada** (ej. está clara, tiene criterios de aceptación, el diseño de pantalla está aprobado, no hay dependencias).
-    *   **DoD:** Evalúa si la HU está realmente **finalizada** al término del sprint y en condiciones de ser desplegada (ej. código revisado, pruebas aprobadas, documentación técnica de base completada).
-*   **Herramienta clave para la Jefatura de Sistemas:** El Jefe de Sistemas la utiliza en el Sprint Planning como un filtro de calidad cuantitativo. Si una historia no satisface el DoR del equipo (ej. "Mesa de Ayuda para Cobros" no posee la API del banco definida), la Jefatura debe coordinar con el Product Owner para rechazar su ingreso al sprint, evitando que el equipo se comprometa a realizar tareas que inevitablemente se bloquearán durante las dos semanas de labor.
+### 3. Backlog: Elementos Preparados y Criterio de Finalización (Scrum Manager)
+*   **Elementos "preparados" (o "accionables") del Backlog:** Son aquellos elementos de la pila de producto que tienen un nivel de detalle, estimación y priorización suficiente (alcanzado mediante actividades de preparación o "grooming") para poder descomponerse en tareas y ser seleccionados en la reunión de planificación del sprint (*Sprint Planning*) para su desarrollo.
+*   **Diferencia con el Criterio de Finalización:**
+    *   **Elementos "preparados" (Ready):** Valora el estado previo a ser incorporados al sprint (priorizados, detallados, estimados por el equipo, sin dependencias o ambigüedades insalvables).
+    *   **Criterio de finalización (Done):** Es la definición consensuada de finalizada/hecho (desarrollada, probada, documentada) que incluye los criterios o actividades necesarias para dar por terminada una historia de usuario al finalizar el sprint, acordada entre el equipo y el propietario del producto.
+*   **Importancia para la Jefatura de Sistemas:** El Jefe de Sistemas o de Software debe velar por que solo entren al sprint elementos que estén realmente "preparados" o "accionables", evitando que los programadores comiencen a codificar requerimientos ambiguos o bloqueados por dependencias (como APIs externas ausentes), lo cual comprometería la velocidad del equipo y el éxito del sprint.
 
-*(📖 Scrum Manager v2.6, Parte I, págs. 21-25)*
+*(📖 Scrum Manager v2.6, Parte I, pág. 23 y Parte II, pág. 77)*
 
 ---
 

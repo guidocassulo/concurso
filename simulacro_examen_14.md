@@ -9,101 +9,101 @@
 ## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)
 *Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
-### 1. Conforme a las atribuciones del Concejo Deliberante fijadas en la Ley Orgánica de las Municipalidades, corresponde de forma exclusiva a dicho cuerpo deliberativo:
-*   a) El nombramiento y desvinculación directa de todo el personal de la planta permanente de la administración central.
-*   b) Autorizar la enajenación de bienes de dominio privado municipal y otorgar concesiones para la explotación de servicios públicos locales.
-*   c) El dictado del reglamento interno del control horario y biométrico de la administración municipal.
-*   d) Ninguna de las anteriores.
+### 1. Corresponde de forma exclusiva al Concejo Deliberante:
+*   a) el nombramiento y desvinculación directa de todo el personal de la planta permanente de la administración central.
+*   b) autorizar la enajenación de bienes de dominio privado municipal y otorgar concesiones para la explotación de servicios públicos locales.
+*   c) el dictado del reglamento interno del control horario y biométrico de la administración municipal.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 2. Según el Estatuto de Empleo Público Municipal (Ley Provincial 14656), la constitución y competencia de la Junta de Calificaciones y Ascensos del municipio:
-*   a) Corresponde a un órgano de carácter meramente informativo integrado de forma exclusiva por asesores de la Dirección de Personal.
-*   b) Se conforma de manera paritaria de acuerdo a lo dispuesto en el Convenio Colectivo de Trabajo, con facultades para evaluar antecedentes y calificar la idoneidad del personal.
-*   c) Tiene la potestad de aplicar directamente suspensiones preventivas sin dar intervención al Intendente Municipal.
-*   d) Ninguna de las anteriores.
+### 2. La constitución y competencia de la Junta de Calificaciones y Ascensos del municipio:
+*   a) corresponde a un órgano de carácter meramente informativo integrado de forma exclusiva por asesores de la Dirección de Personal.
+*   b) se conforma de manera paritaria de acuerdo a lo dispuesto en el Convenio Colectivo de Trabajo, con facultades para evaluar antecedentes y calificar la idoneidad del personal.
+*   c) tiene la potestad de aplicar directamente suspensiones preventivas sin dar intervención al Intendente Municipal.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 3. De acuerdo al Reglamento de Licencia por Descanso Anual (L.D.A.) aprobado localmente (Decreto MGP 923/19), el usufructo ordinario de la licencia ordinaria por vacaciones correspondientes a un período determinado:
-*   a) Caduca de pleno derecho si no se goza en el período respectivo, perdiéndose el derecho sin dar lugar a compensación pecuniaria, a menos que el cese laboral impida su uso.
-*   b) Puede acumularse de forma indefinida y compensarse en dinero a opción exclusiva del agente municipal.
-*   c) Se prorroga de forma automática por un plazo máximo de cinco años sin requerir justificación por razones de servicio.
-*   d) Ninguna de las anteriores.
+### 3. El usufructo ordinario de la licencia ordinaria por vacaciones correspondientes a un período determinado:
+*   a) caduca de pleno derecho si no se goza en el período respectivo, perdiéndose el derecho sin dar lugar a compensación pecuniaria, a menos que el cese laboral impida su uso.
+*   b) puede acumularse de forma indefinida y compensarse en dinero a opción exclusiva del agente municipal.
+*   c) se prorroga de forma automática por un plazo máximo de cinco años sin requerir justificación por razones de servicio.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 4. Conforme al régimen de control horario y salidas de la MGP (Decretos 121/18 y 122/18), cuando un agente de su departamento deba ausentarse transitoriamente de la oficina durante su horario laboral para realizar tareas de soporte técnico en otra dependencia:
-*   a) Puede retirarse libremente sin registrar marcas biométricas ni portar autorización escrita si el viaje es oficial.
-*   b) Debe registrar obligatoriamente sus marcas biométricas de salida y reingreso, y portar la boleta de comisión de servicio debidamente firmada por su Jefe de Departamento.
-*   c) Está obligado a firmar una planilla de firmas en papel que el supervisor directo archivará internamente sin registrar en el legajo digital.
-*   d) Ninguna de las anteriores.
+### 4. Cuando un agente de su departamento deba ausentarse transitoriamente de la oficina durante su horario laboral para realizar tareas de soporte técnico en otra dependencia:
+*   a) puede retirarse libremente sin registrar marcas biométricas ni portar autorización escrita si el viaje es oficial.
+*   b) debe registrar obligatoriamente sus marcas biométricas de salida y reingreso, y portar la boleta de comisión de servicio debidamente firmada por su Jefe de Departamento.
+*   c) está obligado a firmar una planilla de firmas en papel que el supervisor directo archivará internamente sin registrar en el legajo digital.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 5. Según las causales y el procedimiento de investigación regulado por el Estatuto de Empleo Municipal (Ley Provincial 14656), el Departamento Ejecutivo municipal podrá ordenar la suspensión preventiva de un agente sometido a investigación cuando:
-*   a) Se considere necesario para asegurar el normal desarrollo de la oficina, por un plazo máximo de sesenta (60) días corridos con goce de haberes, prorrogable por treinta (30) días más de forma excepcional.
-*   b) Se impute cualquier falta menor de impuntualidad, por un plazo de noventa (90) días corridos con pérdida inmediata del sueldo.
-*   c) Lo solicite formalmente y por escrito la junta médica del sindicato de trabajadores municipales.
-*   d) Ninguna de las anteriores.
+### 5. El Departamento Ejecutivo municipal podrá ordenar la suspensión preventiva de un agente sometido a investigación cuando:
+*   a) se considere necesario para asegurar el normal desarrollo de la oficina, por un plazo máximo de sesenta (60) días corridos con goce de haberes, prorrogable por treinta (30) días más de forma excepcional.
+*   b) se impute cualquier falta menor de impuntualidad, por un plazo de noventa (90) días corridos con pérdida inmediata del sueldo.
+*   c) lo solicite formalmente y por escrito la junta médica del sindicato de trabajadores municipales.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 6. De acuerdo con el régimen de delegación de facultades disciplinarias de la MGP (Decreto 1539/18, Artículo 1º, inciso a), la aplicación de sanciones disciplinarias de suspensión de hasta diez (10) días corridos corresponde a la competencia de:
-*   a) El Jefe de Departamento de forma directa y autónoma.
-*   b) Los Secretarios de las áreas respectivas y los Directores, sin perjuicio de mantener el ejercicio de la facultad disciplinaria por el Intendente.
-*   c) La junta interna de reclamos de la Dirección de Personal de forma conjunta con el afectado.
-*   d) Ninguna de las anteriores.
+### 6. La aplicación de sanciones disciplinarias de suspensión de hasta diez (10) días corridos corresponde a la competencia de:
+*   a) el Jefe de Departamento de forma directa y autónoma.
+*   b) los Secretarios de las áreas respectivas y los Directores, sin perjuicio de mantener el ejercicio de la facultad disciplinaria por el Intendente.
+*   c) la junta interna de reclamos de la Dirección de Personal de forma conjunta con el afectado.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 7. Según las prescripciones formales de redacción y estilos para la documentación administrativa municipal (Decreto MGP 966/19), el documento formal denominado "Disposición" se define como:
-*   a) La norma de carácter general sancionada por el Honorable Concejo Deliberante en sus sesiones de cuerpo.
-*   b) La medida que adopta un Secretario o Presidente de Ente en ejercicio de sus funciones delegadas.
-*   c) La decisión sobre un asunto de competencia propia o delegada adoptada por un Director General, Director o Jefe de Departamento.
-*   d) Ninguna de las anteriores.
+### 7. Según las prescripciones formales de redacción y estilos para la documentación administrativa municipal, el documento formal denominado "Disposición" se define como:
+*   a) la norma de carácter general sancionada por el Honorable Concejo Deliberante en sus sesiones de cuerpo.
+*   b) la medida que adopta un Secretario o Presidente de Ente en ejercicio de sus funciones delegadas.
+*   c) la decisión sobre un asunto de competencia propia o delegada adoptada por un Director General, Director o Jefe de Departamento.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 8. Conforme al régimen de Premio Presentismo cuatrimestral municipal (Decreto 397/01 y modificatorios), un agente bajo su supervisión perderá de forma íntegra el beneficio mensual del premio estímulo si registra durante el mes:
-*   a) Una sola salida particular por horas autorizada y no compensada, o bien impuntualidades acumuladas no justificadas por encima de los límites de franquicia.
-*   b) Licencia anual por descanso ordinaria (vacaciones) dentro de los plazos reglamentarios.
-*   c) Licencia extraordinaria con goce de haberes por examen universitario de hasta 5 días corridos.
-*   d) Ninguna de las anteriores.
+### 8. Un agente bajo su supervisión perderá de forma íntegra el beneficio mensual del premio estímulo si registra durante el mes:
+*   a) una sola salida particular por horas autorizada y no compensada, o bien impuntualidades acumuladas no justificadas por encima de los límites de franquicia.
+*   b) licencia anual por descanso ordinaria (vacaciones) dentro de los plazos reglamentarios.
+*   c) licencia extraordinaria con goce de haberes por examen universitario de hasta 5 días corridos.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 9. De acuerdo con las normas de procedimiento administrativo municipal de la Ordenanza General Nº 26.348, el plazo máximo que dispone la administración municipal para dictar resolución una vez que las actuaciones estén en condiciones de resolverse es de:
-*   a) Quince (15) días hábiles administrativos, produciéndose silencio denegatorio de pleno derecho transcurrido un plazo de treinta (30) días hábiles administrativos desde dicha condición sin mediar resolución.
-*   b) Sesenta (60) días corridos, requiriéndose el posterior inicio de sumario si no hay resolución del funcionario competente.
-*   c) Diez (10) días hábiles contados a partir de la firma de descargo en el legajo digital del agente afectado.
-*   d) Ninguna de las anteriores.
+### 9. El plazo máximo que dispone la administración municipal para dictar resolución una vez que las actuaciones estén en condiciones de resolverse es de:
+*   a) quince (15) días hábiles administrativos, produciéndose silencio denegatorio de pleno derecho transcurrido un plazo de treinta (30) días hábiles administrativos desde dicha condición sin mediar resolución.
+*   b) sesenta (60) días corridos, requiriéndose el posterior inicio de sumario si no hay resolución del funcionario competente.
+*   c) diez (10) días hábiles contados a partir de la firma de descargo en el legajo digital del agente afectado.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 10. Según la Ley Orgánica de las Municipalidades, en los procesos de licitación pública municipal para compras de tecnología de la información, si se presenta una única oferta válida:
-*   a) El Intendente Municipal puede adjudicarla de forma directa sin requerir autorización previa de otros órganos.
-*   b) La licitación debe declararse desierta de forma obligatoria y repetirse de inmediato el proceso licitatorio completo.
-*   c) El Departamento Ejecutivo podrá proceder a la adjudicación del contrato únicamente si cuenta con la previa autorización del Honorable Concejo Deliberante.
-*   d) Ninguna de las anteriores.
+### 10. En los procesos de licitación pública municipal para compras de tecnología de la información, si se presenta una única oferta válida:
+*   a) el Intendente Municipal puede adjudicarla de forma directa sin requerir autorización previa de otros órganos.
+*   b) la licitación debe declararse desierta de forma obligatoria y repetirse de inmediato el proceso licitatorio completo.
+*   c) el Departamento Ejecutivo podrá proceder a la adjudicación del contrato únicamente si cuenta con la previa autorización del Honorable Concejo Deliberante.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 

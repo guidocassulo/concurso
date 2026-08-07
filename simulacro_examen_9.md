@@ -307,12 +307,12 @@ Se solicita:
 *   **Diagrama de Secuencia:** Es un diagrama dinámico que describe el comportamiento del sistema a lo largo del tiempo, representando la interacción física y secuencia temporal de mensajes intercambiados entre los objetos para cumplir un caso de uso.
 *   **Elementos y Clases en un Diagrama de Secuencia:**
     *   **Líneas de vida (objetos):** Representan las instancias de las clases participando en la secuencia.
-    *   **Clases de Interfaz (Boundary):** Permiten la interacción del usuario final con el sistema (ej. pantallas de carga de formularios).
-    *   **Clases de Control (Control):** Coordinan la lógica de negocio y el flujo de ejecución (controladores que reciben peticiones y delegan tareas).
-    *   **Clases de Entidad (Entity):** Almacenan y representan los datos del sistema de forma persistente (ej. tablas de base de datos contribuyentes).
-    *   *Flujo de interacción:* El usuario interactúa con la clase de interfaz, esta envía mensajes a la clase de control para validar o procesar datos, y la clase de control a su vez se comunica con las clases de entidad para buscar o guardar la información pertinente.
+    *   **Clases de límite (o interfaz):** Permiten la interacción del usuario final con el sistema, sirviendo como frontera o mediador (ej. pantallas de carga de formularios o páginas Web).
+    *   **Clases de control:** Coordinan la lógica de negocio y el flujo de ejecución, encargándose de enviar y recibir la información entre las demás clases.
+    *   **Clases de entidad:** Representan y almacenan de forma persistente los datos del sistema (ej. tablas de base de datos de contribuyentes).
+    *   *Flujo de interacción:* El usuario interactúa con la clase de límite (o interfaz), esta envía mensajes a la clase de control para coordinar las operaciones, y la clase de control se comunica con las clases de entidad para buscar, actualizar o guardar la información pertinente.
 
-*(📖 Kendall & Kendall, Cap. 10, págs. 287-320)*
+*(📖 Kendall & Kendall, Cap. 10, págs. 283-327)*
 
 ### 2. Pruebas de Caja Blanca vs. Caja Negra
 *   **Pruebas de Caja Blanca (White-Box Testing / Estructurales):**

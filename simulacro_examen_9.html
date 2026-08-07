@@ -552,14 +552,14 @@ El equipo cuenta con un backlog Priorizado de <strong>80 Historias de Usuario (U
 <li><strong>Diagrama de Secuencia:</strong> Es un diagrama dinámico que describe el comportamiento del sistema a lo largo del tiempo, representando la interacción física y secuencia temporal de mensajes intercambiados entre los objetos para cumplir un caso de uso.</li>
 <li><strong>Elementos y Clases en un Diagrama de Secuencia:</strong><ul>
 <li><strong>Líneas de vida (objetos):</strong> Representan las instancias de las clases participando en la secuencia.</li>
-<li><strong>Clases de Interfaz (Boundary):</strong> Permiten la interacción del usuario final con el sistema (ej. pantallas de carga de formularios).</li>
-<li><strong>Clases de Control (Control):</strong> Coordinan la lógica de negocio y el flujo de ejecución (controladores que reciben peticiones y delegan tareas).</li>
-<li><strong>Clases de Entidad (Entity):</strong> Almacenan y representan los datos del sistema de forma persistente (ej. tablas de base de datos contribuyentes).</li>
-<li><em>Flujo de interacción:</em> El usuario interactúa con la clase de interfaz, esta envía mensajes a la clase de control para validar o procesar datos, y la clase de control a su vez se comunica con las clases de entidad para buscar o guardar la información pertinente.</li>
+<li><strong>Clases de límite (o interfaz):</strong> Permiten la interacción del usuario final con el sistema, sirviendo como frontera o mediador (ej. pantallas de carga de formularios o páginas Web).</li>
+<li><strong>Clases de control:</strong> Coordinan la lógica de negocio y el flujo de ejecución, encargándose de enviar y recibir la información entre las demás clases.</li>
+<li><strong>Clases de entidad:</strong> Representan y almacenan de forma persistente los datos del sistema (ej. tablas de base de datos de contribuyentes).</li>
+<li><em>Flujo de interacción:</em> El usuario interactúa con la clase de límite (o interfaz), esta envía mensajes a la clase de control para coordinar las operaciones, y la clase de control se comunica con las clases de entidad para buscar, actualizar o guardar la información pertinente.</li>
 </ul>
 </li>
 </ul>
-<p><em>(📖 Kendall &amp; Kendall, Cap. 10, págs. 287-320)</em></p>
+<p><em>(📖 Kendall &amp; Kendall, Cap. 10, págs. 283-327)</em></p>
 <h3>2. Pruebas de Caja Blanca vs. Caja Negra</h3>
 <ul>
 <li><strong>Pruebas de Caja Blanca (White-Box Testing / Estructurales):</strong><ol>

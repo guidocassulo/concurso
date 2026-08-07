@@ -10,100 +10,100 @@
 *Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
 ### 1. Si la Municipalidad de General Pueyrredón requiere contratar un servicio de consultoría externa para el desarrollo de un módulo de contabilidad financiera que durará dieciocho (18) meses, comprometiendo partidas presupuestarias del ejercicio fiscal actual y del siguiente:
-*   a) El Secretario de Hacienda puede autorizar la contratación directamente si cuenta con fondos en el mes en curso.
-*   b) Requiere la aprobación previa del Honorable Concejo Deliberante (H.C.D.) mediante ordenanza por mayoría absoluta.
-*   c) Debe tramitarse como una contratación transitoria, quedando exceptuada de la aprobación legislativa si la tasa de interés es baja.
-*   d) Ninguna de las anteriores.
+*   a) el Secretario de Hacienda puede autorizar la contratación directamente si cuenta con fondos en el mes en curso.
+*   b) requiere la aprobación previa del Honorable Concejo Deliberante (H.C.D.) mediante ordenanza por mayoría absoluta.
+*   c) debe tramitarse como una contratación transitoria, quedando exceptuada de la aprobación legislativa si la tasa de interés es baja.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 2. De acuerdo con el Escalafón del Personal de la Municipalidad de General Pueyrredón y el Decreto de Habilitación Tecnológica (el nomenclador de cargos informáticos municipal - Grupo Ocupacional Computación), el personal de sistemas se divide técnicamente en los siguientes agrupamientos profesionales y técnicos:
-*   a) Administrativos generales de sistemas, Operarios de PC y Técnicos de red exclusivamente.
-*   b) Operación, Programación, Análisis de Sistemas y Soporte Técnico.
-*   c) Profesionales informáticos del área nacional, personal técnico y agentes de mantenimiento.
-*   d) Ninguna de las anteriores.
+### 2. El personal de sistemas se divide técnicamente en los siguientes agrupamientos profesionales y técnicos:
+*   a) administrativos generales de sistemas, Operarios de PC y Técnicos de red exclusivamente.
+*   b) operación, Programación, Análisis de Sistemas y Soporte Técnico.
+*   c) profesionales informáticos del área nacional, personal técnico y agentes de mantenimiento.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 3. Según la Ordenanza General 26348 (Procedimiento Administrativo Municipal), ¿cuál es el plazo de inactividad de la administración que configura el "silencio denegatorio" de un trámite una vez que el expediente se encuentra en condiciones de ser resuelto?
-*   a) Diez (10) días corridos.
-*   b) Quince (15) días hábiles administrativos.
-*   c) Treinta (30) días hábiles administrativos.
-*   d) Noventa (90) días hábiles administrativos.
+### 3. El plazo de inactividad de la administración que configura el "silencio denegatorio" de un trámite una vez que el expediente se encuentra en condiciones de ser resuelto es:
+*   a) diez (10) días corridos.
+*   b) quince (15) días hábiles administrativos.
+*   c) treinta (30) días hábiles administrativos.
+*   d) noventa (90) días hábiles administrativos.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 4. De acuerdo con el régimen de control de asistencia de la MGP (Decreto 121/18), la facultad del Jefe de Dependencia para autorizar por escrito omisiones de fichado justificadas de un agente a su cargo está limitada a un máximo de:
-*   a) Una (1) omisión por mes y seis (6) por año calendario.
-*   b) Tres (3) omisiones por mes y doce (12) por año calendario.
-*   c) Dos (2) omisiones por mes y diez (10) por año calendario.
-*   d) Ninguna de las anteriores.
+### 4. La facultad del Jefe de Dependencia para autorizar por escrito omisiones de fichado justificadas de un agente a su cargo está limitada a un máximo de:
+*   a) una (1) omisión por mes y seis (6) por año calendario.
+*   b) tres (3) omisiones por mes y doce (12) por año calendario.
+*   c) dos (2) omisiones por mes y diez (10) por año calendario.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 5. En una compra de computadoras para el área de sistemas mediante la modalidad de Concurso de Precios (LOM y RAFAM), la autoridad competente facultada por ley para realizar la adjudicación definitiva del contrato de compra es:
-*   a) El Director de Compras y Suministros municipal de forma directa.
-*   b) El Intendente Municipal (Departamento Ejecutivo) mediante decreto correspondiente.
-*   c) El Honorable Concejo Deliberante a través de resolución especial.
-*   d) El Contador Municipal.
+### 5. En una compra de computadoras para el área de sistemas mediante la modalidad de Concurso de Precios, la autoridad competente facultada por ley para realizar la adjudicación definitiva del contrato de compra es:
+*   a) el Director de Compras y Suministros municipal de forma directa.
+*   b) el Intendente Municipal (Departamento Ejecutivo) mediante decreto correspondiente.
+*   c) el Honorable Concejo Deliberante a través de resolución especial.
+*   d) el Contador Municipal.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 6. De acuerdo con el régimen del Estatuto Municipal (el estatuto del empleo público municipal), la estabilidad absoluta de planta permanente del agente público municipal se adquiere de pleno derecho:
-*   a) Al cumplir seis (6) meses de prestación de servicio y ser ratificado por escrito.
-*   b) Automáticamente al cumplir los doce (12) meses de prestación de servicios efectiva, si no mediare calificación desfavorable del superior o exoneración decretada.
-*   c) Al cumplir los dos (2) años de antigüedad en el legajo del agente.
-*   d) Ninguna de las anteriores.
+### 6. La estabilidad absoluta de planta permanente del agente público municipal se adquiere de pleno derecho:
+*   a) al cumplir seis (6) meses de prestación de servicio y ser ratificado por escrito.
+*   b) automáticamente al cumplir los doce (12) meses de prestación de servicios efectiva, si no mediare calificación desfavorable del superior o exoneración decretada.
+*   c) al cumplir los dos (2) años de antigüedad en el legajo del agente.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 7. Según la Ordenanza General 26348, ¿cuál es el plazo perentorio de interposición que posee un agente municipal para presentar un Recurso de Revocatoria contra una Disposición de Jefatura que le aplica una suspensión?
-*   a) Cinco (5) días hábiles administrativos contados a partir del día siguiente al de la notificación.
-*   b) Diez (10) días hábiles administrativos contados a partir del día siguiente al de la notificación formal.
-*   c) Quince (15) días corridos.
-*   d) Treinta (30) días hábiles.
+### 7. El plazo perentorio de interposición que posee un agente municipal para presentar un Recurso de Revocatoria contra una Disposición de Jefatura que le aplica una suspensión es:
+*   a) cinco (5) días hábiles administrativos contados a partir del día siguiente al de la notificación.
+*   b) diez (10) días hábiles administrativos contados a partir del día siguiente al de la notificación formal.
+*   c) quince (15) días corridos.
+*   d) treinta (30) días hábiles.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
 ### 8. En el ámbito municipal, la facultad para autorizar la concesión del uso del espectro radioeléctrico público de la comuna para el desarrollo de redes inalámbricas por terceros privados es competencia exclusiva de:
-*   a) El Director General de TIC mediante un informe de factibilidad.
-*   b) El Honorable Concejo Deliberante (H.C.D.) mediante la sanción de una ordenanza de concesión.
-*   c) El Intendente Municipal mediante decreto reglamentario.
-*   d) La Secretaría de Hacienda municipal.
+*   a) el Director General de TIC mediante un informe de factibilidad.
+*   b) el Honorable Concejo Deliberante (H.C.D.) mediante la sanción de una ordenanza de concesión.
+*   c) el Intendente Municipal mediante decreto reglamentario.
+*   d) la Secretaría de Hacienda municipal.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 9. De acuerdo al Manual de Redacción de la MGP (Decreto 966/19), el documento oficial de carácter general utilizado por las autoridades de supervisión jerárquica para transmitir directivas, instrucciones obligatorias y uniformes a un conjunto de dependencias o agentes del mismo nivel administrativo se denomina:
-*   a) Nota Oficial.
-*   b) Providencia.
-*   c) Circular.
-*   d) Dictamen.
+### 9. El documento oficial de carácter general utilizado por las autoridades de supervisión jerárquica para transmitir directivas, instrucciones obligatorias y uniformes a un conjunto de dependencias o agentes del mismo nivel administrativo se denomina:
+*   a) nota Oficial.
+*   b) providencia.
+*   c) circular.
+*   d) dictamen.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 10. Conforme a las licencias vigentes en la el estatuto del empleo público municipal, Artículo 89º y decretos municipales, la licencia extraordinaria por atención de familiar enfermo a cargo directo se otorga bajo las siguientes condiciones de cobro:
-*   a) Sin goce de sueldo en todos los casos por tratarse de un asunto particular del agente.
-*   b) Con goce íntegro de haberes por el período reglamentario máximo (hasta 20 días al año).
-*   c) Con descuento del 50% del salario básico a partir del tercer día de inasistencia.
-*   d) Ninguna de las anteriores.
+### 10. La licencia extraordinaria por atención de familiar enfermo a cargo directo se otorga bajo las siguientes condiciones de cobro:
+*   a) sin goce de sueldo en todos los casos por tratarse de un asunto particular del agente.
+*   b) con goce íntegro de haberes por el período reglamentario máximo (hasta 20 días al año).
+*   c) con descuento del 50% del salario básico a partir del tercer día de inasistencia.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
@@ -170,22 +170,24 @@
 <summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary>
 
 ### 1. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 155º** (y reglamentos contables RAFAM). Toda contratación que exceda la duración del ejercicio financiero anual (12 meses de presupuesto corriente) comprometiendo erogaciones presupuestarias plurianuales de años futuros requiere la previa y expresa autorización y convalidación del Honorable Concejo Deliberante (HCD) mediante la sanción de una ordenanza con mayoría de los concejales presentes. *(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades - Art. 155º)*
+*   **Fundamento Normativo:** **Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), Artículo 273º** y **Decreto Provincial 2980/00 (RAFAM), Artículo 19º**. El Artículo 273º de la LOM faculta al Departamento Deliberativo a autorizar las contrataciones que comprometan fondos de más de un ejercicio. Por su parte, el Artículo 19º del reglamento contable RAFAM exige que las dependencias municipales que requieran contrataciones cuyo devengamiento afecte a más de un ejercicio financiero detallen el gasto total y su incidencia en cada presupuesto, requiriendo de forma obligatoria la previa autorización del Concejo Deliberante (HCD) para su validez legal y posterior inclusión automática en los ejercicios futuros.
 
 ### 2. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Decreto MGP **2250/13, Artículo 1º y Anexo I (Grupo Ocupacional Computación)**: El escalafón del personal técnico y profesional del área de informática del municipio de General Pueyrredón se estructura formalmente en cuatro agrupamientos o clases de tareas: Operación, Programación, Análisis de Sistemas y Soporte Técnico. *(📋 Verificar en texto oficial de Decreto MGP 2250/13)*
 
 ### 3. Respuesta Correcta: **c**
-*   **Fundamento Normativo:** Ordenanza General 26348, **Artículo 79º**: El silencio de la administración de efectos denegatorios (silencio negativo) se produce de pleno derecho transcurrido el plazo máximo de **treinta (30) días hábiles administrativos** desde que las actuaciones se encuentren en condiciones de ser resueltas por el funcionario competente (ej. con dictámenes y pruebas cerradas) sin que haya recaído resolución definitiva. *(📋 Verificar en texto oficial de Ordenanza General 26348 - Art. 79º)*
+*   **Fundamento Normativo:** Ordenanza General 26348, **Artículo 77º, inciso g)** y **Artículo 79º**. El Artículo 77º, inciso g) establece que las decisiones definitivas sobre la petición o reclamación del interesado deben dictarse en **treinta (30) días** contados a partir de la fecha en que las actuaciones se reciban con los dictámenes legales finales. El Artículo 79º complementa este régimen disponiendo que, vencido ese plazo, el interesado podrá solicitar pronto despacho y, transcurridos dos (2) meses desde esa reclamación, se presumirá la existencia de resolución denegatoria (silencio negativo).
+*(📋 Verificar en texto oficial de Ordenanza General 26348, Artículos 77º inc. g) y 79º)*
 
 ### 4. Respuesta Correcta: **a**
 *   **Fundamento Normativo:** **Decreto MGP 121/18**: El reglamento municipal establece que los jefes de dependencia pueden autorizar omisiones de fichado o firma en los registros de ingreso o egreso por motivos debidamente fundados y por escrito, con un límite máximo de una (1) omisión por mes y seis (6) por año calendario. *(📋 Decreto MGP 121/18)*
 
 ### 5. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades y RAFAM. La adjudicación de las compras municipales tramitadas mediante Concurso de Precios es facultad del **Departamento Ejecutivo (Intendente Municipal)**, instrumentada mediante el dictado de un Decreto de adjudicación previo dictamen de la comisión permanente de compras del municipio. *(📋 Verificar en texto oficial de LOM y RAFAM)*
-
+*   **Fundamento Normativo:** **Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), Artículo 154º** y **Decreto Provincial 2980/00 (RAFAM), Artículo 101º**. Ambas normas determinan explícitamente que la decisión y facultad de adjudicar en los concursos de precios y en las licitaciones corresponde de manera exclusiva al Intendente Municipal y al Presidente del Concejo Deliberante, cada uno en su respectiva esfera de competencia.
+*(📋 Verificar en texto oficial de Ley Orgánica de las Municipalidades, Artículo 154º y Decreto 2980/00 - RAFAM, Artículo 101º)*
 ### 6. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley 14656, **Artículo 6º**: La estabilidad se adquiere automáticamente una vez transcurrido el plazo del período de prueba establecido en doce (12) meses de prestación efectiva de tareas, a menos que el agente sea descalificado o exonerado previamente de forma motivada por el departamento ejecutivo municipal. *(📋 Verificar en texto oficial de Ley 14656 - Art. 6º)*
+*   **Fundamento Normativo:** Ley 14656 (Estatuto del Empleo Público Municipal), **Artículo 4º (Período de Prueba – Estabilidad)**. El artículo establece expresamente que *"Todo nombramiento es provisional hasta tanto el trabajador adquiera estabilidad. Este derecho se adquiere a los doce (12) meses, de no mediar previamente oposición fundada y debidamente notificada por autoridad competente."*
+*(📋 Verificar en texto oficial de Ley 14656, Artículo 4º)*
 
 ### 7. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Ley Provincial 14.656 (Estatuto Municipal), **Artículo 41º**. Contra los actos que imponen sanciones disciplinarias el agente puede interponer recurso de revocatoria ante el mismo órgano o jerárquico ante el superior, en el plazo perentorio de **diez (10) días hábiles**, contados a partir del día siguiente al de la notificación formal del acto administrativo. *(📋 Ley 14.656 - Art. 41º)*

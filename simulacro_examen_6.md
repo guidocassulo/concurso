@@ -10,98 +10,98 @@
 *Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
 ### 1. Al elaborar las especificaciones técnicas del Pliego de Bases y Condiciones Particulares para la adquisición de switches y routers para el Data Center municipal mediante Concurso de Precios, el Jefe de Departamento debe cumplir con el principio de:
-*   a) Exclusividad de marcas comerciales, especificando una única marca del mercado para evitar ofertas alternativas.
-*   b) Neutralidad tecnológica, redactando los requerimientos técnicos en base a estándares abiertos y rendimientos técnicos objetivos, sin direccionar la compra a marcas específicas, salvo justificación de compatibilidad preexistente.
-*   c) Reservar los precios máximos en secreto para evitar la colusión de las empresas oferentes.
-*   d) Ninguna de las anteriores.
+*   a) exclusividad de marcas comerciales, especificando una única marca del mercado para evitar ofertas alternativas.
+*   b) neutralidad tecnológica, redactando los requerimientos técnicos en base a estándares abiertos y rendimientos técnicos objetivos, sin direccionar la compra a marcas específicas, salvo justificación de compatibilidad preexistente.
+*   c) reservar los precios máximos en secreto para evitar la colusión de las empresas oferentes.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 2. Según el régimen estatutario de la el estatuto del empleo público municipal y decretos locales de la MGP, la licencia extraordinaria otorgada a un agente municipal por motivos de examen para cursar carreras de informática de nivel universitario o superior cuenta con el siguiente límite temporal:
-*   a) Hasta dos (2) días por examen y un máximo de diez (10) días por año calendario.
-*   b) Hasta cinco (5) días corridos por examen, con un máximo de veinte (20) días por año calendario, con goce íntegro de haberes.
-*   c) Hasta diez (10) días por examen de forma ilimitada siempre que se presente certificado de examen.
-*   d) Ninguna de las anteriores.
+### 2. La licencia extraordinaria otorgada a un agente municipal por motivos de examen para cursar carreras de informática de nivel universitario o superior cuenta con el siguiente límite temporal:
+*   a) hasta dos (2) días por examen y un máximo de diez (10) días por año calendario.
+*   b) hasta cinco (5) días hábiles por vez para preparación, con un máximo de quince (15) días hábiles por año calendario, más el día del examen.
+*   c) hasta de diez (10) días por examen de forma ilimitada siempre que se presente certificado de examen.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
-### 3. De acuerdo al régimen de sanciones establecido por el Decreto MGP 121/18 para las omisiones de fichado injustificadas, la tercera (3º) omisión injustificada en la que incurra el agente dará lugar a la aplicación de:
-*   a) Un llamado de atención por escrito.
-*   b) Un apercibimiento formal de la Dirección de Personal.
-*   c) Un (1) día de suspensión por cada omisión.
-*   d) Ninguna de las anteriores.
+### 3. La tercera (3º) omisión injustificada en la que incurra el agente dará lugar a la aplicación de:
+*   a) un llamado de atención por escrito.
+*   b) un apercibimiento formal de la Dirección de Personal.
+*   c) un (1) día de suspensión por cada omisión.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
 ### 4. Si el departamento de Sistemas requiere contratar el mantenimiento preventivo crítico de los procesadores del mainframe central del municipio, y el fabricante extranjero expide una certificación oficial de que existe un único distribuidor e ingeniero de soporte autorizado en el territorio nacional, encuadra en:
-*   a) Licitación Pública plurianual de forma obligatoria.
-*   b) Contratación Directa por exclusividad del servicio, de conformidad con las excepciones de la LOM y la RAFAM.
-*   c) Concurso de Precios municipal invitando a tres empresas informáticas del medio local.
-*   d) Ninguna de las anteriores.
+*   a) licitación Pública plurianual de forma obligatoria.
+*   b) contratación Directa por exclusividad del servicio, de conformidad con las excepciones de la LOM y la RAFAM.
+*   c) concurso de Precios municipal invitando a tres empresas informáticas del medio local.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 5. De acuerdo a la reglamentación municipal de licencias (Reglamento de Licencia por Descanso Anual - L.D.A.), el derecho al usufructo de la licencia anual ordinaria correspondiente a un período determinado caduca de pleno derecho:
-*   a) Al 31 de diciembre del año calendario de su otorgamiento, perdiéndose el derecho a gozarla si no se usufructuó.
-*   b) Al 31 de diciembre del año siguiente al que corresponda su otorgamiento, salvo postergación fundada por razones de servicio autorizada por el Secretario del área.
-*   c) A los cinco (5) años del período correspondiente, de conformidad con la prescripción general del derecho laboral.
-*   d) Ninguna de las anteriores.
+### 5. El derecho al usufructo de la licencia anual ordinaria correspondiente a un período determinado caduca de pleno derecho:
+*   a) al 31 de diciembre del año calendario de su otorgamiento, perdiéndose el derecho a gozarla si no se usufructuó.
+*   b) al 31 de diciembre del año siguiente al que corresponda su otorgamiento, salvo postergación fundada por razones de servicio autorizada por el Secretario del área.
+*   c) a los cinco (5) años del período correspondiente, de conformidad con la prescripción general del derecho laboral.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 6. De acuerdo a las definiciones de documentos del Manual de Redacción Administrativa de la MGP (Decreto 966/19), el documento oficial de comunicación de alcance general firmado por autoridad jerárquica para impartir instrucciones o informaciones de cumplimiento uniforme a un conjunto de dependencias se denomina:
-*   a) Memorándum.
-*   b) Circular.
-*   c) Providencia.
-*   d) Ninguna de las anteriores.
+### 6. La nota confeccionada en varios ejemplares de un mismo tenor y con un mismo contenido, que se dirige simultáneamente a distintos destinatarios se denomina:
+*   a) memorándum.
+*   b) nota circular (o múltiple).
+*   c) providencia.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 7. Conforme al régimen de control de salida del personal establecido en la reglamentación municipal de salidas particulares (Salida por hora), las salidas particulares por hora autorizadas por el superior jerárquico dentro de la jornada laboral:
-*   a) Son libres e ilimitadas siempre que el agente compense las horas al final de la jornada.
-*   b) Tienen un límite máximo de hasta cinco (5) horas mensuales, debiendo registrarse en el reloj biométrico al egreso y al reingreso.
-*   c) Se compensan descontándose directamente de la Licencia por Descanso Anual (L.D.A.) del agente.
-*   d) Ninguna de las anteriores.
+### 7. Las salidas particulares por hora autorizadas por el superior jerárquico dentro de la jornada laboral:
+*   a) son libres e ilimitadas siempre que el agente compense las horas al final de la jornada.
+*   b) tienen un límite de hasta dos (2) salidas por mes de hasta dos (2) horas cada una, con un máximo de doce (12) salidas por año calendario.
+*   c) se compensan descontándose directamente de la Licencia por Descanso Anual (L.D.A.) del agente.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 8. Según la reglamentación municipal de facultades disciplinarias y el estatuto municipal, la aplicación de una sanción correctiva de suspensión de hasta diez (10) días sin goce de haberes a un agente de planta permanente es atribución del:
-*   a) Jefe de Departamento del área de forma directa mediante disposición interna.
-*   b) Director General o Subsecretario del área, requiriendo dictamen legal previo de la Procuración Municipal.
-*   c) Intendente Municipal exclusivamente, previo sumario administrativo obligatorio.
-*   d) Ninguna de las anteriores.
+### 8. La aplicación de una sanción correctiva de suspensión de hasta diez (10) días sin goce de haberes a un agente de planta permanente es atribución del:
+*   a) jefe de Departamento del área de forma directa mediante disposición interna.
+*   b) director General o Subsecretario del área, requiriendo dictamen legal previo de la Procuración Municipal.
+*   c) intendente Municipal exclusivamente, previo sumario administrativo obligatorio.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
 ### 9. De conformidad con la legislación de firma digital aplicable, se excluye expresamente la validez de la firma digital para:
-*   a) Los pliegos de bases y condiciones de licitaciones públicas de software.
-*   b) Las disposiciones administrativas de elevación de sumarios de la jefatura.
-*   c) Las disposiciones de última voluntad (testamentos) y los actos de derecho de familia.
-*   d) Ninguna de las anteriores.
+*   a) los pliegos de bases y condiciones de licitaciones públicas de software.
+*   b) las disposiciones administrativas de elevación de sumarios de la jefatura.
+*   c) las disposiciones de última voluntad (testamentos) y los actos de derecho de familia.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 10. De acuerdo con el Reglamento de Presentismo de la MGP (Decreto MGP 397/01 y modificatorios), el agente municipal perderá el cobro íntegro del Premio por Presentismo correspondiente al mes en curso cuando registre:
-*   a) Un (1) solo día de inasistencia justificada por razones de enfermedad familiar.
-*   b) Una (1) inasistencia injustificada o más de tres (3) llegadas tarde mensuales de más de diez (10) minutos sin justificación autorizada.
-*   c) Licencia por examen universitario por el término de dos días hábiles.
-*   d) Ninguna de las anteriores.
+### 10. El agente municipal perderá el cobro íntegro del Premio por Presentismo correspondiente al mes en curso cuando registre:
+*   a) un (1) solo día de inasistencia justificada por razones de enfermedad familiar.
+*   b) una (1) inasistencia injustificada o más de tres (3) llegadas tarde mensuales de más de diez (10) minutos sin justificación autorizada.
+*   c) licencia por examen universitario por el término de dos días hábiles.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
@@ -166,7 +166,8 @@
 *   **Fundamento Normativo:** Ley de Compras Públicas en el marco de la LOM y la RAFAM. En la redacción de especificaciones técnicas para pliegos de bases y condiciones particulares, rige el principio de **neutralidad tecnológica**. Queda prohibido consignar marcas comerciales específicas o referencias directivas que restrinjan la concurrencia de oferentes, salvo que se fundamente técnicamente que existe una necesidad de compatibilidad física o lógica insalvable con sistemas o equipos preexistentes en el municipio. *(📋 Verificar en texto oficial de LOM y RAFAM)*
 
 ### 2. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley 14656, **Artículo 94º, inciso a** (y reglamentaciones locales MGP). Para la preparación y rendición de exámenes correspondientes a carreras de nivel terciario o universitario con reconocimiento oficial, el agente goza de licencia con goce de haberes por hasta un máximo de quince (15) días hábiles por año, acordada en fracciones de hasta cinco (5) días por examen, más el día de examen. *(📋 Verificar en texto oficial de Ley 14656 - Art. 94º)*
+*   **Fundamento Normativo:** **Ley Provincial Nº 14656, Artículo 94º, inciso a)**. El estatuto del empleo municipal establece que para carreras universitarias o terciarias correspondientes al curso superior de enseñanza, el agente tiene derecho a licencia con goce de haberes de hasta un máximo de quince (15) días hábiles por año calendario para la preparación de exámenes, acordada en fracciones de hasta cinco (5) días hábiles por vez inmediatos anteriores a la fecha de examen, más el día de examen.
+*(📋 Verificar en texto oficial de Ley 14656, Artículo 94º, inciso a)*
 
 ### 3. Respuesta Correcta: **c**
 *   **Fundamento Normativo:** Decreto MGP **121/18**: El régimen sancionatorio para las omisiones de fichado injustificadas (o no autorizadas) contempla: 1º omisión: llamado de atención; 2º omisión: apercibimiento; y 3º omisión y subsiguientes: un (1) día de suspensión por cada una. *(📋 Decreto MGP 121/18)*
@@ -175,13 +176,15 @@
 *   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 156º, Inciso 4** (excepciones de compra directa): La adquisición directa es legalmente factible cuando la prestación del servicio técnico de mantenimiento de hardware posee exclusividad de patente o representación de marca oficial certificada por el fabricante extranjero sin existir proveedores alternativos homologados en el mercado. *(📋 Verificar en texto oficial de LOM - Art. 156º inc. 4)*
 
 ### 5. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto MGP **923/19, Artículo 12º** (Reglamento de Licencia por Descanso Anual - L.D.A.). La licencia ordinaria por descanso anual caduca al 31 de diciembre del año calendario siguiente al de su otorgamiento, perdiéndose el derecho a su goce si no se hubiere usufructuado en término, salvo postergación excepcional fundada por razones de servicio autorizada por el Secretario del área. *(📋 Verificar en texto oficial de Decreto MGP 923/19, Artículo 12º)*
-
+*   **Fundamento Normativo:** **Decreto MGP Nº 923/19, Artículo 8º** (Reglamento de Licencia por Descanso Anual - L.D.A.). Este artículo determina que la licencia por descanso anual debe ser usufructuada dentro del año calendario de su otorgamiento, caducando de pleno derecho. Sin embargo, establece la excepción de postergación o transferencia al año siguiente (por un solo ejercicio) cuando el agente no hubiere podido hacer uso de ella por razones imperiosas del servicio (autorizadas por el Secretario del área), enfermedad o duelo.
+*(📋 Verificar en texto oficial de Decreto MGP 923/19, Artículo 8º)*
 ### 6. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto MGP **966/19 (Manual de Redacción)**, Anexo I, Capítulo III, Sección Circulares. La Circular es el documento oficial de comunicación de alcance general firmado por la autoridad jerárquica competente para impartir instrucciones directivas o informaciones de cumplimiento uniforme a un conjunto homogéneo de dependencias o agentes de la comuna. *(📋 Verificar en texto oficial de Decreto MGP 966/19, Anexo I, Capítulo III)*
+*   **Fundamento Normativo:** Decreto MGP **966/19 (Manual de Redacción), Anexo I, Capítulo I (Definiciones), Punto 11º, inciso a)**. El glosario de términos del manual define a la **Nota Circular / Múltiple** de manera literal como la: *"Nota confeccionada en varios ejemplares de un mismo tenor y con un mismo contenido, que se dirige simultáneamente a distintos destinatarios."*
+*(📋 Verificar en texto oficial de Decreto MGP 966/19, Anexo I, Capítulo I, Definiciones, Punto 11º, inciso a)*
 
 ### 7. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Decreto MGP **122/18, Artículos 2º y 3º** (Régimen de Salidas Particulares). Las salidas particulares por hora autorizadas por el superior jerárquico dentro de la jornada laboral de los agentes de sistemas tienen un límite máximo improrrogable de hasta cinco (5) horas mensuales, debiendo registrarse en el reloj biométrico al egreso y al reingreso. *(📋 Verificar en texto oficial de Decreto MGP 122/18, Artículos 2º y 3º)*
+*   **Fundamento Normativo:** **Decreto MGP Nº 122/18, Artículos 2º y 3º** (Reglamento del Permiso de Salida por Hora). La norma municipal dispone que las salidas particulares autorizadas por el superior jerárquico tienen un límite máximo de hasta dos (2) salidas por mes de hasta dos (2) horas de duración cada una, con un tope acumulativo de hasta doce (12) salidas por año calendario, debiendo registrarse mediante fichado biométrico al egreso y al reingreso.
+*(📋 Verificar en texto oficial de Decreto MGP 122/18, Artículos 2º y 3º)*
 
 ### 8. Respuesta Correcta: **b**
 *   **Fundamento Normativo:** Decreto MGP **1539/18, Artículo 1º, Inciso c** (Delegación de Facultades Disciplinarias). La aplicación de sanciones correctivas de suspensión de hasta diez (10) días sin goce de haberes a agentes de planta permanente es competencia del Director General o Subsecretario del área, requiriendo el dictamen jurídico previo y la sustanciación de descargos. *(📋 Verificar en texto oficial de Decreto MGP 1539/18, Artículo 1º)*
@@ -284,7 +287,8 @@ Para posibilitar la realización de la capacitación obligatoria sin afectar el 
     3.  **Prevención de Errores:** Es mejor un diseño que prevenga que ocurra un error antes que emitir buenos mensajes de error (ej. deshabilitar el botón "Pagar" si los datos de la tarjeta están incompletos).
 *   **Accesibilidad Web (WCAG 2.1):** Es el principio de diseño de interfaces que garantiza que los sitios web puedan ser percibidos, operados y comprendidos por todas las personas en igualdad de condiciones, incluyendo aquellas con discapacidades permanentes o transitorias (visuales, motrices, auditivas o cognitivas). Exige el uso de textos alternativos en imágenes, contraste adecuado de colores, compatibilidad con lectores de pantalla y navegación completa mediante teclado.
 
-*(📖 Kendall & Kendall, Cap. 14, págs. 445-455)*
+*(📖 Kendall & Kendall, Cap. 14, págs. 444-445, 449-450, 461-463 - Nota: El estándar WCAG 2.1 y las descripciones prácticas detalladas de las heurísticas de Nielsen no forman parte literal del libro de 2011, sino que complementan la base general sobre usabilidad y diseño para discapacidades bajo la ley ADA que allí se expone).*
+
 
 ---
 
@@ -316,7 +320,7 @@ Para posibilitar la realización de la capacitación obligatoria sin afectar el 
     1.  **Sentencias Preparadas (Prepared Statements con Consultas Parametrizadas):** Es la medida principal. Fuerza al motor de base de datos a tratar la entrada del usuario estrictamente como un parámetro de datos y nunca como código ejecutable.
     2.  **Validación y Saneamiento de Datos de Entrada (Sanitization):** Aplicar listas blancas de caracteres válidos y rechazar entradas que contengan caracteres especiales del motor SQL (comillas, guiones).
 
-*(📖 Kendall & Kendall, Cap. 16, págs. 518-522)*
+*(📖 Kendall & Kendall, Cap. 16, págs. 542-543 - Nota: El libro introduce la seguridad lógica de forma general y menciona los firewalls y contraseñas en estas páginas, pero no aborda vulnerabilidades de código específicas como la Inyección SQL ni técnicas como las consultas parametrizadas, las cuales son estándares técnicos contemporáneos de seguridad (OWASP) requeridos para el cargo).*
 
 ---
 

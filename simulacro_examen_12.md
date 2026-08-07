@@ -9,101 +9,101 @@
 ## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)
 *Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
-### 1. Conforme a las excepciones especiales de contratación previstas en el régimen de compras municipal, la adquisición de una suscripción de parches de seguridad informática de carácter crítico y urgente para el Data Center de la comuna:
-*   a) Puede tramitarse mediante adquisición directa de urgencia declarada por el Departamento Ejecutivo cuando el retraso del concurso de precios ponga en riesgo inminente los servicios públicos.
-*   b) Exige siempre y en todos los casos el llamado a Licitación Pública independientemente de la urgencia de la ciberseguridad.
-*   c) Debe ser autorizada de forma presencial por una asamblea conjunta de Directores y el Sindicato de Trabajadores Municipales.
-*   d) Ninguna de las anteriores.
+### 1. La adquisición de una suscripción de parches de seguridad informática de carácter crítico y urgente para el Data Center de la comuna:
+*   a) puede tramitarse mediante adquisición directa de urgencia declarada por el Departamento Ejecutivo cuando el retraso del concurso de precios ponga en riesgo inminente los servicios públicos.
+*   b) exige siempre y en todos los casos el llamado a Licitación Pública independientemente de la urgencia de la ciberseguridad.
+*   c) debe ser autorizada de forma presencial por una asamblea conjunta de Directores y el Sindicato de Trabajadores Municipales.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 2. Según el estatuto disciplinario y causales de desvinculación de la Ley Provincial 14656, se configura el abandono de servicio que da lugar a la sanción directa de cesantía cuando el agente municipal registre de manera injustificada:
-*   a) Tres (3) inasistencias injustificadas consecutivas en el transcurso del mes calendario.
-*   b) Más de cinco (5) inasistencias injustificadas consecutivas o más de diez (10) inasistencias injustificadas discontinuas en el transcurso del año calendario.
-*   c) Cinco (5) inasistencias consecutivas o diez (10) discontinuas en el transcurso del año sin mediar justificación oportuna del agente.
-*   d) Ninguna de las anteriores.
+### 2. Se configura el abandono de servicio que da lugar a la sanción directa de cesantía cuando el agente municipal registre de manera injustificada:
+*   a) tres (3) inasistencias injustificadas consecutivas en el transcurso del mes calendario.
+*   b) más de cinco (5) inasistencias injustificadas consecutivas o más de diez (10) inasistencias injustificadas discontinuas en el transcurso del año calendario.
+*   c) cinco (5) inasistencias consecutivas o diez (10) discontinuas en el transcurso del año sin mediar justificación oportuna del agente.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 3. De acuerdo al régimen de control de ausentismo municipal local, cuando el personal médico de Salud Ocupacional audita una inasistencia imprevista del agente por razones de fuerza mayor:
-*   a) Debe registrar de manera pública el diagnóstico médico exacto de la afección en la planilla de novedades generales para resguardo administrativo.
-*   b) Está obligado a resguardar la confidencialidad de la causa médica y justificar las inasistencias bajo códigos genéricos aprobados de licencias sin revelar la patología del agente.
-*   c) Requiere la homologación previa del diagnóstico médico por el sindicato de trabajadores municipales.
-*   d) Ninguna de las anteriores.
+### 3. Cuando el personal médico de Salud Ocupacional audita una inasistencia imprevista del agente por razones de fuerza mayor:
+*   a) debe registrar de manera pública el diagnóstico médico exacto de la afección en la planilla de novedades generales para resguardo administrativo.
+*   b) está obligado a resguardar la confidencialidad de la causa médica y justificar las inasistencias bajo códigos genéricos aprobados de licencias sin revelar la patología del agente.
+*   c) requiere la homologación previa del diagnóstico médico por el sindicato de trabajadores municipales.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 4. Según las pautas de estilo y formatos formales de la documentación administrativa de la MGP, la denominada "Nota de Elevación" se define como:
-*   a) El documento mediante el cual el Intendente reglamenta una Ordenanza aprobada por el Honorable Concejo Deliberante.
-*   b) El instrumento formal utilizado por el Jefe de Departamento para remitir de manera jerárquica un expediente o informe técnico ante la firma del superior (Director o Secretario).
-*   c) El pase informático interno que se realiza en la plataforma GDE sin firma digital del funcionario a cargo.
-*   d) Ninguna de las anteriores.
+### 4. La denominada "Nota de Elevación" se define como:
+*   a) el documento mediante el cual el Intendente reglamenta una Ordenanza aprobada por el Honorable Concejo Deliberante.
+*   b) el instrumento formal utilizado por el Jefe de Departamento para remitir de manera jerárquica un expediente o informe técnico ante la firma del superior (Director o Secretario).
+*   c) el pase informático interno que se realiza en la plataforma GDE sin firma digital del funcionario a cargo.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 5. Conforme a las condiciones de ingreso técnico establecidas en la ordenanza de escalafón informático (Decreto MGP 2250/13), el acceso a los cargos de programador de software y analista de la planta permanente municipal exige:
-*   a) La designación directa y discrecional del Intendente Municipal sin concurso.
-*   b) La sustanciación y aprobación de un Concurso de Oposición y Antecedentes para evaluar la aptitud lógica y de desarrollo de sistemas.
-*   c) Únicamente contar con 18 años de edad y secundario completo de cualquier orientación.
-*   d) Ninguna de las anteriores.
+### 5. El acceso a los cargos de programador de software y analista de la planta permanente municipal exige:
+*   a) la designación directa y discrecional del Intendente Municipal sin concurso.
+*   b) la sustanciación y aprobación de un Concurso de Oposición y Antecedentes para evaluar la aptitud lógica y de desarrollo de sistemas.
+*   c) únicamente contar con 18 años de edad y secundario completo de cualquier orientación.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 6. Según la reglamentación operativa del sistema de Gestión Documental Electrónica (GDE) de la MGP, las credenciales de acceso (usuario y contraseña) y el token digital de firma:
-*   a) Pueden compartirse libremente con los auxiliares administrativos del sector para agilizar el pase de expedientes del departamento.
-*   b) Son de uso personal, confidencial e intransferible, recayendo sobre el titular de la firma la responsabilidad civil y administrativa total por los documentos electrónicos firmados.
-*   c) Deben archivarse impresos en una planilla de control físico en el área de seguridad de personal.
-*   d) Ninguna de las anteriores.
+### 6. Según la reglamentación operativa del sistema de Gestión Documental Electrónica de la MGP, las credenciales de acceso (usuario y contraseña) y el token digital de firma:
+*   a) pueden compartirse libremente con los auxiliares administrativos del sector para agilizar el pase de expedientes del departamento.
+*   b) son de uso personal, confidencial e intransferible, recayendo sobre el titular de la firma la responsabilidad civil y administrativa total por los documentos electrónicos firmados.
+*   c) deben archivarse impresos en una planilla de control físico en el área de seguridad de personal.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 7. De acuerdo con el procedimiento de la Ley de Riesgos del Trabajo, cuando un agente sufre una afección de salud derivada del trabajo que no está incluida en el listado cerrado de enfermedades profesionales de la SRT:
-*   a) El agente carece de toda posibilidad de cobertura, debiendo tramitar su curación mediante obra social particular como enfermedad común.
-*   b) Se puede iniciar el reclamo de reconocimiento y cobertura de la enfermedad ante la Comisión Médica Central del sistema de la LRT para evaluar de forma particular el nexo causal.
-*   c) La ART debe brindar cobertura automática sin dictámenes previos a solo requerimiento escrito de la Jefatura de Sistemas.
-*   d) Ninguna de las anteriores.
+### 7. Cuando un agente sufre una afección de salud derivada del trabajo que no está incluida en el listado cerrado de enfermedades profesionales de la SRT:
+*   a) el agente carece de toda posibilidad de cobertura, debiendo tramitar su curación mediante obra social particular como enfermedad común.
+*   b) se puede iniciar el reclamo de reconocimiento y cobertura de la enfermedad ante la Comisión Médica Central del sistema de la LRT para evaluar de forma particular el nexo causal.
+*   c) la ART debe brindar cobertura automática sin dictámenes previos a solo requerimiento escrito de la Jefatura de Sistemas.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 8. Conforme a las normas que resguardan la intimidad de las agentes víctimas de violencia en el municipio (Ordenanza 24271), la Dirección de Salud Ocupacional posee la obligación legal de:
-*   a) Especificar detalladamente la denuncia de violencia de género en el recibo de haberes de la agente para justificar las deducciones.
-*   b) Justificar las inasistencias en la planilla pública de novedades bajo códigos genéricos (ej. "Régimen de Licencia Especial") sin detallar las causas o diagnósticos, resguardando la intimidad de la agente.
-*   c) Remitir copia del diagnóstico y del expediente médico de la agente a la totalidad de las dependencias de sistemas del municipio.
-*   d) Ninguna de las anteriores.
+### 8. La Dirección de Salud Ocupacional posee la obligación legal de:
+*   a) especificar detalladamente la denuncia de violencia de género en el recibo de haberes de la agente para justificar las deducciones.
+*   b) justificar las inasistencias en la planilla pública de novedades bajo códigos genéricos (ej. "Régimen de Licencia Especial") sin detallar las causas o diagnósticos, resguardando la intimidad de la agente.
+*   c) remitir copia del diagnóstico y del expediente médico de la agente a la totalidad de las dependencias de sistemas del municipio.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 9. De acuerdo con la Ordenanza General 26348, el Recurso de Apelación Jerárquica en subsidio para impugnar una resolución denegatoria dictada por un Director General municipal se eleva para su resolución final ante:
-*   a) El Honorable Concejo Deliberante municipal.
-*   b) El Intendente Municipal, máxima autoridad del Departamento Ejecutivo local que agota la vía administrativa.
-*   c) Los tribunales provinciales del fuero Civil y Comercial directamente sin instancias municipales previas.
-*   d) Ninguna de las anteriores.
+### 9. El Recurso de Apelación Jerárquica en subsidio para impugnar una resolución denegatoria dictada por un Director General municipal se eleva para su resolución final ante:
+*   a) el Honorable Concejo Deliberante municipal.
+*   b) el Intendente Municipal, máxima autoridad del Departamento Ejecutivo local que agota la vía administrativa.
+*   c) los tribunales provinciales del fuero Civil y Comercial directamente sin instancias municipales previas.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 10. Según los plazos perentorios y deberes que la Ley Orgánica de las Municipalidades impone al intendente, la Memoria y el Balance Anual de las cuentas públicas correspondientes al ejercicio financiero vencido de la comuna deben ser presentados ante el Honorable Concejo Deliberante y el Honorable Tribunal de Cuentas antes de:
-*   a) El 31 de Diciembre del ejercicio en curso.
-*   b) El 31 de Marzo del año siguiente al ejercicio que se rinde.
-*   c) El 30 de Junio del ejercicio vencido.
-*   d) Ninguna de las anteriores.
+### 10. La Memoria y el Balance Anual de las cuentas públicas correspondientes al ejercicio financiero vencido de la comuna deben ser presentados ante el Honorable Concejo Deliberante y el Honorable Tribunal de Cuentas antes de:
+*   a) el 31 de Diciembre del ejercicio en curso.
+*   b) el 31 de Marzo del año siguiente al ejercicio que se rinde.
+*   c) el 30 de Junio del ejercicio vencido.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 

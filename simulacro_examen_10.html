@@ -407,7 +407,7 @@
 </li>
 <li><p><strong>Ingeniería de Requisitos y Diseño JAD (Kendall &amp; Kendall):</strong> Defina el concepto de Diseño Conjunto de Aplicaciones (JAD - <em>Joint Application Design</em>) como método alternativo para recopilar requerimientos de información de sistemas. Explique en qué fases del ciclo de vida de desarrollo de software es recomendable su utilización y qué tres (3) roles principales del equipo participan de los talleres presenciales.</p>
 </li>
-<li><p><strong>Backlog y Definition of Ready - DoR (Scrum Manager):</strong> Defina conceptualmente qué es la Definition of Ready (DoR) o &quot;Definición de Preparado&quot; en los equipos ágiles de Scrum. Explique qué diferencias posee con la Definition of Done (DoD) y por qué es una herramienta clave para la Jefatura de Sistemas al iniciar la reunión de planificación del sprint.</p>
+<li><p><strong>Backlog: Elementos Preparados y Criterio de Finalización (Scrum Manager):</strong> Defina conceptualmente qué significa que un elemento de la pila del producto (backlog) esté &quot;preparado&quot; o &quot;accionable&quot; según la Parte I de la bibliografía de Scrum Manager. Explique qué diferencia tiene este concepto con el &quot;Criterio de finalización&quot; (o definición de finalizada/hecho) de una Historia de Usuario descrita en la Parte II del libro.</p>
 </li>
 <li><p><strong>UML y Casos de Uso de Sistema (Kendall &amp; Kendall):</strong> Describa qué componentes técnicos componen la descripción detallada de un Caso de Uso de Sistema en UML. Explique la diferencia conceptual entre el &quot;Flujo Básico de Eventos&quot; (o curso normal) y los &quot;Cursos Alternativos&quot; (o cursos alternos de excepción) y provea un ejemplo de cada uno aplicado al caso de uso municipal de sistema <code>Registrar Pago Tributario Online</code>.</p>
 </li>
@@ -549,7 +549,7 @@ El equipo ágil de desarrollo de software del municipio ha registrado una veloci
 </ol>
 </li>
 </ul>
-<p><em>(📖 Kendall &amp; Kendall, Cap. 14, págs. 445-455)</em></p>
+<p><em>(📖 Kendall &amp; Kendall, Cap. 14, págs. 461-463 - Nota: El libro desarrolla el principio de operación y consistencia estándar y la retroalimentación al usuario en estas páginas).</em></p>
 <hr>
 <h3>2. Ingeniería de Requisitos y Diseño JAD (Kendall &amp; Kendall)</h3>
 <ul>
@@ -564,17 +564,17 @@ El equipo ágil de desarrollo de software del municipio ha registrado una veloci
 </ul>
 <p><em>(📖 Kendall &amp; Kendall, Cap. 4, págs. 103-108)</em></p>
 <hr>
-<h3>3. Backlog y Definition of Ready - DoR (Scrum Manager)</h3>
+<h3>3. Backlog: Elementos Preparados y Criterio de Finalización (Scrum Manager)</h3>
 <ul>
-<li><strong>Definition of Ready (DoR):</strong> Es un acuerdo explícito y autogestionado por el equipo ágil que establece los criterios de calidad mínimos e indispensables que debe cumplir una Historia de Usuario (HU) antes de poder ser aceptada en la reunión de planificación del sprint (<em>Sprint Planning</em>) para ser desarrollada. Su propósito es evitar que los programadores inicien trabajo en tareas ambiguas, incompletas o bloqueadas por dependencias externas.</li>
-<li><strong>Diferencia con Definition of Done (DoD):</strong><ul>
-<li><strong>DoR:</strong> Evalúa si la HU está lista para ser <strong>iniciada</strong> (ej. está clara, tiene criterios de aceptación, el diseño de pantalla está aprobado, no hay dependencias).</li>
-<li><strong>DoD:</strong> Evalúa si la HU está realmente <strong>finalizada</strong> al término del sprint y en condiciones de ser desplegada (ej. código revisado, pruebas aprobadas, documentación técnica de base completada).</li>
+<li><strong>Elementos &quot;preparados&quot; (o &quot;accionables&quot;) del Backlog:</strong> Son aquellos elementos de la pila de producto que tienen un nivel de detalle, estimación y priorización suficiente (alcanzado mediante actividades de preparación o &quot;grooming&quot;) para poder descomponerse en tareas y ser seleccionados en la reunión de planificación del sprint (<em>Sprint Planning</em>) para su desarrollo.</li>
+<li><strong>Diferencia con el Criterio de Finalización:</strong><ul>
+<li><strong>Elementos &quot;preparados&quot; (Ready):</strong> Valora el estado previo a ser incorporados al sprint (priorizados, detallados, estimados por el equipo, sin dependencias o ambigüedades insalvables).</li>
+<li><strong>Criterio de finalización (Done):</strong> Es la definición consensuada de finalizada/hecho (desarrollada, probada, documentada) que incluye los criterios o actividades necesarias para dar por terminada una historia de usuario al finalizar el sprint, acordada entre el equipo y el propietario del producto.</li>
 </ul>
 </li>
-<li><strong>Herramienta clave para la Jefatura de Sistemas:</strong> El Jefe de Sistemas la utiliza en el Sprint Planning como un filtro de calidad cuantitativo. Si una historia no satisface el DoR del equipo (ej. &quot;Mesa de Ayuda para Cobros&quot; no posee la API del banco definida), la Jefatura debe coordinar con el Product Owner para rechazar su ingreso al sprint, evitando que el equipo se comprometa a realizar tareas que inevitablemente se bloquearán durante las dos semanas de labor.</li>
+<li><strong>Importancia para la Jefatura de Sistemas:</strong> El Jefe de Sistemas o de Software debe velar por que solo entren al sprint elementos que estén realmente &quot;preparados&quot; o &quot;accionables&quot;, evitando que los programadores comiencen a codificar requerimientos ambiguos o bloqueados por dependencias (como APIs externas ausentes), lo cual comprometería la velocidad del equipo y el éxito del sprint.</li>
 </ul>
-<p><em>(📖 Scrum Manager v2.6, Parte I, págs. 21-25)</em></p>
+<p><em>(📖 Scrum Manager v2.6, Parte I, pág. 23 y Parte II, pág. 77)</em></p>
 <hr>
 <h3>4. UML y Casos de Uso de Sistema (Kendall &amp; Kendall)</h3>
 <ul>

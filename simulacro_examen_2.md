@@ -9,101 +9,101 @@
 ## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)
 *Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
-### 1. En el marco del sistema contable y de administración financiera municipal (RAFAM - Decreto 2980/00), ¿cuál de las siguientes etapas del gasto genera el registro definitivo de la deuda y afecta presupuestariamente el ejercicio?
-*   a) El Compromiso.
-*   b) El Devengado.
-*   c) La Orden de Pago / Pago.
-*   d) La solicitud de cotización de precios.
+### 1. La etapa del gasto que genera el registro definitivo de la deuda y afecta presupuestariamente el ejercicio es:
+*   a) el Compromiso.
+*   b) el Devengado.
+*   c) la Orden de Pago / Pago.
+*   d) la solicitud de cotización de precios.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 2. Según la Ordenanza General 26348 de Procedimiento Administrativo Municipal, las notificaciones personales o por cédula de los actos administrativos surten efecto:
-*   a) El mismo día de su emisión por la autoridad municipal.
-*   b) Al día hábil administrativo siguiente de haber sido practicada la notificación fehaciente al interesado.
-*   c) A los cinco (5) días hábiles de recibida en la dependencia correspondiente de Mesa de Entradas.
-*   d) Ninguna de las anteriores.
+### 2. Las notificaciones personales o por cédula de los actos administrativos surten efecto:
+*   a) el mismo día de su emisión por la autoridad municipal.
+*   b) al día hábil administrativo siguiente de haber sido practicada la notificación fehaciente al interesado.
+*   c) a los cinco (5) días hábiles de recibida en la dependencia correspondiente de Mesa de Entradas.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 3. De acuerdo con el régimen disciplinario de la el estatuto del empleo público municipal, ¿cuál es el plazo de prescripción para la aplicación de sanciones disciplinarias correctivas (llamado de atención, apercibimiento y suspensiones de hasta 10 días)?
-*   a) A los seis (6) meses de cometida la falta o de conocida por la autoridad.
-*   b) Al año (1 año) de ocurrida la falta.
-*   c) A los dos (2) años de cometida la falta.
-*   d) Las faltas administrativas municipales son imprescriptibles mientras el agente continúe en actividad.
+### 3. El plazo de prescripción para la aplicación de sanciones disciplinarias correctivas (llamado de atención, apercibimiento y suspensiones de hasta 10 días) es:
+*   a) a los seis (6) meses de cometida la falta o de conocida por la autoridad.
+*   b) al año (1 año) de ocurrida la falta.
+*   c) a los dos (2) años de cometida la falta.
+*   d) las faltas administrativas municipales son imprescriptibles mientras el agente continúe en actividad.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 4. Según la Ley Orgánica de las Municipalidades, las atribuciones para fijar el sueldo del Intendente Municipal y de los concejales corresponden a:
-*   a) El propio Intendente Municipal mediante Decreto del Departamento Ejecutivo.
-*   b) El Honorable Concejo Deliberante (H.C.D.) mediante ordenanza complementaria de presupuesto.
-*   c) El Honorable Tribunal de Cuentas de la Provincia de Buenos Aires.
-*   d) La Secretaría de Hacienda del municipio.
+### 4. Las atribuciones para fijar el sueldo del Intendente Municipal y de los concejales corresponden a:
+*   a) el propio Intendente Municipal mediante Decreto del Departamento Ejecutivo.
+*   b) el Honorable Concejo Deliberante (H.C.D.) mediante ordenanza complementaria de presupuesto.
+*   c) el Honorable Tribunal de Cuentas de la Provincia de Buenos Aires.
+*   d) la Secretaría de Hacienda del municipio.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 5. De acuerdo con el régimen de control de asistencia de la Municipalidad de General Pueyrredón (Decreto 121/18), la Dirección de Personal puede justificar tardanzas mensuales acumuladas del agente sin aplicar sanciones disciplinarias hasta un límite máximo de:
+### 5. La Dirección de Personal puede justificar tardanzas mensuales acumuladas del agente sin aplicar sanciones disciplinarias hasta un límite máximo de:
 *   a) 60 minutos mensuales.
 *   b) 20 minutos por mes (con un tope de 120 minutos por año calendario).
 *   c) 30 minutos mensuales (con un tope de 180 minutos por año calendario).
-*   d) Ninguna de las anteriores.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 6. En la administración de expedientes digitales de la MGP (Ordenanza General 26348), las firmas digitales de los funcionarios públicos provinciales y municipales:
-*   a) Tienen carácter secundario y requieren siempre la confirmación en soporte papel firmado de puño y letra.
-*   b) Poseen la misma validez jurídica y eficacia que la firma manuscrita de puño y letra sobre soporte papel.
-*   c) Solo son válidas para comunicaciones internas (CCOO) pero no para Resoluciones o Disposiciones definitivas.
-*   d) Ninguna de las anteriores.
+### 6. En la administración de expedientes digitales de la MGP, las firmas digitales de los funcionarios públicos provinciales y municipales:
+*   a) tienen carácter secundario y requieren siempre la confirmación en soporte papel firmado de puño y letra.
+*   b) poseen la misma validez jurídica y eficacia que la firma manuscrita de puño y letra sobre soporte papel.
+*   c) solo son válidas para comunicaciones internas (CCOO) pero no para Resoluciones o Disposiciones definitivas.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 7. Según la Ley Orgánica de las Municipalidades, los funcionarios y concejales municipales que con sus actos u omisiones causen daños patrimoniales a la comuna son responsables ante:
-*   a) Únicamente de forma administrativa ante el Intendente Municipal.
-*   b) Civil, penal y administrativamente de forma solidaria e ilimitada por los daños que causaren.
-*   c) Quedan eximidos de responsabilidad civil si los actos fueron aprobados previamente en el presupuesto anual.
-*   d) Ninguna de las anteriores.
+### 7. Los funcionarios y concejales municipales que con sus actos u omisiones causen daños patrimoniales a la comuna son responsables ante:
+*   a) únicamente de forma administrativa ante el Intendente Municipal.
+*   b) civil, penal y administrativamente de forma solidaria e ilimitada por los daños que causaren.
+*   c) quedan eximidos de responsabilidad civil si los actos fueron aprobados previamente en el presupuesto anual.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 8. De conformidad con el Estatuto de Empleo Público Municipal (el estatuto del empleo público municipal), la inasistencia injustificada del agente es causa directa de cesantía cuando se verifique la siguiente condición en el año calendario:
-*   a) Cinco (5) inasistencias continuas o diez (10) inasistencias discontinuas sin causa justificada.
-*   b) Diez (10) inasistencias continuas únicamente.
-*   c) Tres (3) inasistencias discontinuas en el mes sin aviso previo.
-*   d) Ninguna de las anteriores.
+### 8. La inasistencia injustificada del agente es causa directa de cesantía cuando se verifique la siguiente condición en el año calendario:
+*   a) cinco (5) inasistencias continuas o diez (10) inasistencias discontinuas sin causa justificada.
+*   b) diez (10) inasistencias continuas únicamente.
+*   c) tres (3) inasistencias discontinuas en el mes sin aviso previo.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 9. Dentro de la el estatuto del empleo público municipal, ¿cuál de las siguientes sanciones de carácter disciplinario se clasifica como una sanción correctiva y no expulsiva?
-*   a) La cesantía de la administración.
-*   b) La exoneración de la función pública municipal.
-*   c) La suspensión de hasta treinta (30) días corridos sin goce de haberes.
-*   d) Ninguna de las anteriores.
+### 9. La sanción de carácter disciplinario que se clasifica como una sanción correctiva y no expulsiva es:
+*   a) la cesantía de la administración.
+*   b) la exoneración de la función pública municipal.
+*   c) la suspensión de hasta treinta (30) días corridos sin goce de haberes.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 10. Según la Ley Orgánica de las Municipalidades, el período ordinario de sesiones del Honorable Concejo Deliberante se extiende obligatoriamente cada año:
-*   a) Del 1 de febrero al 31 de diciembre.
-*   b) Del 1 de marzo al 30 de noviembre.
-*   c) Del 1 de abril al 31 de octubre.
-*   d) Es determinado libremente por el Intendente al inicio de su gestión.
+### 10. El período ordinario de sesiones del Honorable Concejo Deliberante se extiende obligatoriamente cada año:
+*   a) del 1 de febrero al 31 de diciembre.
+*   b) del 1 de marzo al 30 de noviembre.
+*   c) del 1 de abril al 31 de octubre.
+*   d) es determinado libremente por el Intendente al inicio de su gestión.
 
 **Fundamento Normativo:** __________________________________________________________________
 
@@ -175,15 +175,15 @@
 *(📋 Verificar en texto oficial de Decreto 2980/00 - RAFAM, Artículos 93º y 94º)*
 
 ### 2. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ordenanza General 26348 (Procedimiento Administrativo Municipal), **Capítulo VIII de las Notificaciones**: Las notificaciones personales o por cédula que contengan decisiones definitivas o de mero trámite surten efectos legales a partir del **día hábil administrativo siguiente** al de su realización práctica, comenzando a computarse a partir de ese momento los plazos para interponer los recursos pertinentes.
-*(📋 Verificar en texto oficial de Ordenanza General 26348, Capítulo VIII)*
+*   **Fundamento Normativo:** Ordenanza General 26348 (Procedimiento Administrativo Municipal), **Capítulo X y Artículo 68º (De los Plazos)**. Las notificaciones personales o por cédula que contengan decisiones definitivas o de mero trámite surten efectos legales a partir del día hábil administrativo siguiente al de su realización práctica, comenzando a computarse a partir de ese momento los plazos para interponer los recursos pertinentes.
+*(📋 Verificar en texto oficial de Ordenanza General 26348)*
 
 ### 3. Respuesta Correcta: **a**
 *   **Fundamento Normativo:** Ley 14656, **Artículo 26º, Inciso c), subinciso 1**: *"El poder disciplinario por parte de la Administración Municipal se extingue: ... c) por prescripción, en los siguientes términos: 1. a los seis (6) meses en los supuestos de faltas susceptibles de ser sancionadas con penas correctivas."*
 *(📋 Verificar en texto oficial de Ley 14656, Artículo 26º, Inciso c, subinciso 1)*
 
 ### 4. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 108º, Inciso 2** y concordantes de la Ordenanza Complementaria de Presupuesto. La determinación y fijación de los sueldos y dietas de los miembros de los departamentos Ejecutivo y Deliberativo es facultad exclusiva del Honorable Concejo Deliberante (HCD) en la ordenanza anual de presupuesto o su complementaria.
+*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículos 24º, 92º y 125º**. La determinación y fijación de los sueldos y dietas de los miembros de los departamentos Ejecutivo y Deliberativo es facultad exclusiva del Honorable Concejo Deliberante (HCD) mediante la sanción de la ordenanza anual de presupuesto o su complementaria.
 *(📋 Verificar en texto oficial de Decreto-Ley 6769/58 - L.O.M.)*
 
 ### 5. Respuesta Correcta: **b**
@@ -194,8 +194,8 @@
 *   **Fundamento Normativo:** Ordenanza General 26348 (y Ley Provincial de Firma Digital Nº 13666 de adhesión a Ley Nacional 25506). La firma digital del funcionario interviniente posee la misma validez legal y eficacia jurídica que la firma de puño y letra plasmada en soporte de papel, siendo idónea para suscribir actos administrativos, informes y expedientes electrónicos.
 *(📋 Verificar en texto oficial de Ordenanza General 26348 y Ley Provincial 13666)*
 
-### 7. Respuesta Correcta: **b**
-*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículo 241º y 244º**: *"Los concejales y funcionarios de las municipalidades responden civil, penal y administrativamente de forma solidaria e ilimitada por los daños que causaren a la administración por negligencia, dolo o mal desempeño de sus funciones..."*. El Tribunal de Cuentas puede entablar cargos pecuniarios solidarios directos contra ellos.
+### 7. Respuesta Correcta: **d**
+*   **Fundamento Normativo:** Ley Orgánica de las Municipalidades, **Artículos 241º y 242º**. La responsabilidad civil de los funcionarios y concejales es de carácter **personal e individual** ante los tribunales ordinarios por los daños patrimoniales que causaren por negligencia, dolo o mal desempeño. La ley no prevé una responsabilidad solidaria automática de forma administrativa directa sin el correspondiente juicio de responsabilidad y la intervención de la justicia ordinaria.
 *(📋 Verificar en texto oficial de Decreto-Ley 6769/58 - L.O.M.)*
 
 ### 8. Respuesta Correcta: **a**
@@ -285,7 +285,7 @@ CONSIDERANDO:
     2.  **Mantener la consistencia visual y de comportamiento:** Utilizar fuentes tipográficas coherentes, terminología estandarizada y botones situados en las mismas posiciones a lo largo de todas las pantallas del portal.
     3.  **Diseño intuitivo y navegación clara:** Organizar la información de manera jerárquica con menús de navegación sencillos y enlaces que indiquen claramente su destino (ej. "Descargar tasa" en lugar de un enlace ambiguo), reduciendo la carga cognitiva del usuario.
 
-*(📖 Kendall & Kendall, Cap. 14, págs. 445-455)*
+*(📖 Kendall & Kendall, Cap. 14, págs. 444-445 y 461-463 - Nota: El libro introduce la usabilidad en general y enlista las heurísticas de Nielsen en la pág. 445, y trata la consistencia y la retroalimentación en las págs. 461-463).*
 
 ---
 

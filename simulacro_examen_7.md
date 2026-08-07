@@ -9,101 +9,101 @@
 ## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)
 *Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
-### 1. En el marco del expediente electrónico municipal implementado por GDE (Decreto 2940/22) y las leyes de firma digital (Ley Nacional 25.506 y Ley Provincial 13.666), la diferencia jurídica principal entre la Firma Digital y la Firma Electrónica radica en:
-*   a) La Firma Digital posee validez legal en el ámbito civil, mientras que la Firma Electrónica carece por completo de validez legal en la administración pública.
-*   b) La Firma Digital goza de una presunción legal de autoría e integridad (*iuris tantum*), invirtiendo la carga de la prueba en caso de repudio, mientras que en la Firma Electrónica la carga de la prueba recae sobre quien la invoca.
-*   c) La Firma Electrónica requiere obligatoriamente un token físico criptográfico provisto por un certificador licenciado por el Estado, mientras que la Firma Digital no.
-*   d) Ninguna de las anteriores.
+### 1. La diferencia jurídica principal entre la Firma Digital y la Firma Electrónica radica en:
+*   a) la Firma Digital posee validez legal en el ámbito civil, mientras que la Firma Electrónica carece por completo de validez legal en la administración pública.
+*   b) la Firma Digital goza de una presunción legal de autoría e integridad (presumiéndose salvo prueba en contrario que proviene de su titular y no ha sido modificada), invirtiendo la carga de la prueba, mientras que en la Firma Electrónica no rige esta presunción.
+*   c) la Firma Electrónica requiere obligatoriamente un token físico criptográfico provisto por un certificador licenciado por el Estado, mientras que la Firma Digital no.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 2. Según el Decreto de Licencia Anual de la MGP (Decreto Nº 923/19), la Licencia Anual Ordinaria por vacaciones de un agente que preste servicios en el área de sistemas informáticos:
-*   a) Se acumula de forma indeterminada año tras año por razones de servicio y puede compensarse en dinero en cualquier momento del ejercicio fiscal.
-*   b) Debe gozarse dentro del período que establece la norma, pudiendo ser transferida de forma parcial o total al año siguiente solo por razones de servicio fundadas por la autoridad del área, caducando de pleno derecho al finalizar ese período de prórroga sin dar derecho a compensación pecuniaria (excepto al cese de la relación de empleo).
-*   c) Caduca de forma automática e irrevocable el 31 de diciembre del mismo año en que se genera, sin admitir prórrogas bajo ningún concepto.
-*   d) Ninguna de las anteriores.
+### 2. La Licencia Anual Ordinaria por vacaciones de un agente que preste servicios en el área de sistemas informáticos:
+*   a) se acumula de forma indeterminada año tras año por razones de servicio y puede compensarse en dinero en cualquier momento del ejercicio fiscal.
+*   b) debe gozarse dentro del período que establece la norma, pudiendo ser transferida de forma parcial o total al año siguiente solo por razones de servicio fundadas por la autoridad del área, caducando de pleno derecho al finalizar ese período de prórroga sin dar derecho a compensación pecuniaria (excepto al cese de la relación de empleo).
+*   c) caduca de forma automática e irrevocable el 31 de diciembre del mismo año en que se genera, sin admitir prórrogas bajo ningún concepto.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 3. De acuerdo al régimen de control de asistencia de la MGP (Decreto Nº 121/18), si un agente omite registrar su ingreso o egreso biométrico sin causa de fuerza mayor autorizada por escrito por su jefe de dependencia (dentro de los límites mensuales y anuales permitidos):
-*   a) La primera omisión injustificada dará lugar a un llamado de atención, la segunda a un apercibimiento y la tercera y subsiguientes a un (1) día de suspensión por cada una.
-*   b) El Jefe de Departamento puede autorizar de forma verbal e ilimitada cualquier cantidad de omisiones de fichado sin necesidad de informar a Personal.
-*   c) Se produce la cesantía directa del agente por considerarse abandono de servicio.
-*   d) Ninguna de las anteriores.
+### 3. Si un agente omite registrar su ingreso o egreso biométrico sin causa de fuerza mayor autorizada por escrito por su jefe de dependencia (dentro de los límites mensuales y anuales permitidos):
+*   a) la primera omisión injustificada dará lugar a un llamado de atención, la segunda a un apercibimiento y la tercera y subsiguientes a un (1) día de suspensión por cada una.
+*   b) el Jefe de Departamento puede autorizar de forma verbal e ilimitada cualquier cantidad de omisiones de fichado sin necesidad de informar a Personal.
+*   c) se produce la cesantía directa del agente por considerarse abandono de servicio.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
 ### 4. En un proceso de Licitación Pública para el desarrollo y diseño integral de un nuevo software catastral y de tasas municipales, si se presenta una única oferta válida que cumple formalmente con todas las especificaciones técnicas del pliego elaboradas por la Jefatura de Departamento:
-*   a) La licitación debe declararse nula de forma obligatoria por falta de concurrencia y llamarse a un segundo proceso licitatorio.
-*   b) El Intendente Municipal tiene la facultad de adjudicarla de forma directa sin requerir autorización de otros órganos.
-*   c) El Departamento Ejecutivo puede adjudicar la licitación al único oferente, pero requiere de forma obligatoria la previa autorización del Honorable Concejo Deliberante (H.C.D.), conforme a la la Ley Orgánica de las Municipalidades
-*   d) Ninguna de las anteriores.
+*   a) la licitación debe declararse nula de forma obligatoria por falta de concurrencia y llamarse a un segundo proceso licitatorio.
+*   b) el Intendente Municipal tiene la facultad de adjudicarla de forma directa sin requerir autorización de otros órganos.
+*   c) el Departamento Ejecutivo puede adjudicar la licitación al único oferente, pero requiere de forma obligatoria la previa autorización del Honorable Concejo Deliberante (H.C.D.), conforme a la la Ley Orgánica de las Municipalidades
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 5. Según la reglamentación de la RAFAM (Decreto 2980/00), la etapa del gasto presupuestario municipal en la que se formaliza el surgimiento de una obligación de pago con un proveedor de software, debido al efectivo cumplimiento de la prestación y la recepción de conformidad técnica de los bienes o servicios por parte del Jefe de Departamento, se denomina:
-*   a) Compromiso.
-*   b) Devengado.
-*   c) Pago.
-*   d) Preventiva.
+### 5. La etapa del gasto presupuestario municipal en la que se formaliza el surgimiento de una obligación de pago con un proveedor de software, debido al efectivo cumplimiento de la prestación y la recepción de conformidad técnica de los bienes o servicios por parte del Jefe de Departamento, se denomina:
+*   a) compromiso.
+*   b) devengado.
+*   c) pago.
+*   d) preventiva.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 6. Conforme a las vías recursivas reguladas en el Procedimiento Administrativo Municipal (Ordenanza General Nº 26.348), el Recurso de Revocatoria contra una disposición dictada por un Jefe de Departamento debe interponerse por el interesado ante la misma Jefatura dentro del siguiente plazo perentorio:
-*   a) Diez (10) días hábiles administrativos a partir del día siguiente al de la notificación formal del acto administrativo.
-*   b) Cinco (5) días hábiles administrativos desde el dictado del acto, sin requerir notificación previa.
-*   c) Quince (15) días corridos desde su publicación en el Boletín Oficial municipal.
-*   d) Ninguna de las anteriores.
+### 6. El Recurso de Revocatoria contra una disposición dictada por un Jefe de Departamento debe interponerse por el interesado ante la misma Jefatura dentro del siguiente plazo perentorio:
+*   a) diez (10) días hábiles administrativos a partir del día siguiente al de la notificación formal del acto administrativo.
+*   b) cinco (5) días hábiles administrativos desde el dictado del acto, sin requerir notificación previa.
+*   c) quince (15) días corridos desde su publicación en el Boletín Oficial municipal.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 7. Según el Estatuto de Empleo Público Municipal (Ley Provincial 14656) y el régimen de delegación de facultades disciplinarias de la MGP (Decreto 1539/18), ¿cuál es el plazo máximo de suspensión disciplinaria que puede aplicar de forma directa un Jefe de Departamento a un agente a su cargo sin necesidad de iniciar un Sumario Administrativo previo, garantizando el derecho a descargo del agente?
-*   a) Hasta dos (2) días hábiles.
-*   b) Hasta cinco (5) días corridos.
-*   c) Hasta diez (10) días de suspensión en el año calendario.
-*   d) Ninguna de las anteriores.
+### 7. El plazo máximo de suspensión disciplinaria que puede aplicar de forma directa un Jefe de Departamento a un agente a su cargo sin necesidad de iniciar un Sumario Administrativo previo, garantizando el derecho a descargo del agente, es:
+*   a) hasta dos (2) días hábiles.
+*   b) hasta cinco (5) días corridos.
+*   c) hasta diez (10) días de suspensión en el año calendario.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 8. De acuerdo con el régimen de Premio Presentismo en la MGP (Decreto Nº 397/01 y modificatorios Decreto Nº 3080/01 y 2490/05), un agente del departamento perderá el derecho a percibir el goce íntegro mensual de dicho premio estímulo en caso de que registre durante el mes calendario:
-*   a) Cualquier inasistencia injustificada o más de tres (3) llegadas tarde mensuales justificadas (de más de 15 minutos), salvo las excepciones taxativas fijadas por decreto (como licencias por examen o maternidad).
-*   b) Una sola salida por horas para atención médica autorizada por el supervisor y acreditada ante reconocimiento médico.
-*   c) Salidas por hora autorizadas para realizar capacitación obligatoria de la normativa de capacitación obligatoria en género.
-*   d) Ninguna de las anteriores.
+### 8. Un agente del departamento perderá el derecho a percibir el goce íntegro mensual de dicho premio estímulo en caso de que registre durante el mes calendario:
+*   a) cualquier inasistencia injustificada o más de tres (3) llegadas tarde mensuales justificadas (de más de 15 minutos), salvo las excepciones taxativas fijadas por decreto (como licencias por examen o maternidad).
+*   b) una sola salida por horas para atención médica autorizada por el supervisor y acreditada ante reconocimiento médico.
+*   c) salidas por hora autorizadas para realizar capacitación obligatoria de la normativa de capacitación obligatoria en género.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 9. Según la Ordenanza de Domicilio Electrónico y el Decreto regulador de la Plataforma MDQ Digital (DECFC-2024-2050-E), las notificaciones de actos administrativos dirigidos a los contribuyentes en sus domicilios electrónicos constituidos en la plataforma municipal:
-*   a) Tienen carácter complementario y meramente informativo, requiriéndose el posterior envío de cédula física en papel al domicilio real para que comiencen a correr los plazos administrativos.
-*   b) Gozan de plena validez jurídica y producen efectos legales de notificación fehaciente a partir del momento en que están disponibles en la cuenta del usuario, o bien transcurridos los plazos automáticos reglamentarios desde su depósito en la bandeja.
-*   c) Están limitadas a notificaciones de carácter comercial, quedando excluidas las resoluciones tributarias y las multas de tránsito.
-*   d) Ninguna de las anteriores.
+### 9. Las notificaciones de actos administrativos dirigidos a los contribuyentes en sus domicilios electrónicos constituidos en la plataforma municipal:
+*   a) tienen carácter complementario y meramente informativo, requiriéndose el posterior envío de cédula física en papel al domicilio real para que comiencen a correr los plazos administrativos.
+*   b) gozan de plena validez jurídica y producen efectos legales de notificación fehaciente a partir del momento en que están disponibles en la cuenta del usuario, o bien transcurridos los plazos automáticos reglamentarios desde su depósito en la bandeja.
+*   c) están limitadas a notificaciones de carácter comercial, quedando excluidas las resoluciones tributarias y las multas de tránsito.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
 ### 10. De acuerdo con el organigrama de dependencias y el Acta Inicial de llamado a concurso de la Municipalidad, el Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software depende jerárquicamente de:
-*   a) La Dirección de Infraestructura de Tecnologías de Comunicación de la Secretaría de Hacienda.
-*   b) La Dirección de Software y Recursos de Red de la Subsecretaría de Gobierno Digital y Mejora de Proceso, dependiente de la Secretaría de Participación Ciudadana y Descentralización.
-*   c) La Subsecretaría de Modernización Administrativa de la Jefatura de Gabinete.
-*   d) Ninguna de las anteriores.
+*   a) la Dirección de Infraestructura de Tecnologías de Comunicación de la Secretaría de Hacienda.
+*   b) la Dirección de Software y Recursos de Red de la Subsecretaría de Gobierno Digital y Mejora de Proceso, dependiente de la Secretaría de Participación Ciudadana y Descentralización.
+*   c) la Subsecretaría de Modernización Administrativa de la Jefatura de Gabinete.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
@@ -156,8 +156,8 @@
     *   a) Agujero Negro (*Black Hole*).
     *   b) Milagro (*Miracle*).
     *   c) Agujero Gris (*Gray Hole*).
-3.  **Calidad de Software en Scrum (Scrum Manager):** Defina conceptualmente los términos **Definición de Terminado (DoD - Definition of Done)** y **Definición de Preparado (DoR - Definition of Ready)**. Explique de qué manera el descuido en la aplicación de un DoD estricto genera **Deuda Técnica** en el software municipal, y qué consecuencias operativas tiene esto en el mediano y largo plazo.
-4.  **Estándares de Codificación, Testing e Integración Continuo (CI/CD):** Las funciones del cargo en la Circular 902 exigen "definir los estándares y convenciones de codificación y testeo". Explique de qué forma la implementación de una arquitectura de **Integración Continuo (CI)** y **Despliegue Continuo (CD)** mediante pipelines automatizados (ej. GitHub Actions o GitLab CI) permite al Jefe de Departamento garantizar el cumplimiento sistemático de estas convenciones y pruebas automáticas en el software desarrollado por el municipio.
+3.  **Calidad de Software en Scrum (Scrum Manager):** Defina conceptualmente qué es el **Criterio de finalización** (definición de finalizada/hecho) de una Historia de Usuario y cuándo se considera que un elemento del backlog está **"preparado" (o "accionable")**. Explique de qué manera el descuido en la aplicación de un Criterio de finalización estricto genera **Deuda Técnica** en el software municipal, y qué consecuencias operativas tiene esto en el mediano y largo plazo.
+4.  **Aseguramiento de Calidad: Recorridos Estructurados y Niveles de Prueba (Kendall & Kendall):** Las funciones del cargo en la Circular 902 exigen "definir los estándares y convenciones de codificación y testeo". Según Kendall & Kendall (Cap. 16), explique qué es un **recorrido estructurado** (structured walkthrough), quiénes participan en él y cómo contribuye a asegurar la calidad. Asimismo, defina brevemente los tres niveles de pruebas con datos de prueba (**pruebas de programas, de vínculos y de sistemas completos**) y su propósito.
 5.  **Cálculo y Gestión de Sprint Capacity (Scrum Manager):**
     > Un equipo Scrum que desarrolla la nueva plataforma del Portal Tributario de la MGP está integrado por 4 desarrolladores de software. Van a planificar un Sprint con una duración de 2 semanas (10 días laborables).
     > *   La jornada laboral establecida es de 7 horas diarias por desarrollador.
@@ -295,7 +295,7 @@ Usted como Jefe de Departamento tiene la obligación de garantizar un ambiente d
     *   *Uso:* Es más fácil de comprender visualmente por usuarios finales y analistas cuando las reglas son lineales y jerárquicas.
 *   *Cuándo utilizarlas:* Se prefiere la **Tabla de Decisión** cuando el número de condiciones es elevado y las combinaciones de las mismas son numerosas y complejas. Se prefiere el **Árbol de Decisión** cuando es necesario seguir un camino secuencial y lógico de decisiones simples y consecutivas.
 
-*(📖 Kendall & Kendall, Cap. 9, págs. 250-258)*
+*(📖 Kendall & Kendall, Cap. 9, págs. 266-273)*
 
 ---
 
@@ -309,27 +309,34 @@ Usted como Jefe de Departamento tiene la obligación de garantizar un ambiente d
     *   **b) Milagro (Miracle):** Ocurre cuando un proceso tiene flujos de datos de salida, pero **ningún flujo de datos de entrada**. El proceso genera información de la nada, violando el principio de causalidad del flujo.
     *   **c) Agujero Gris (Gray Hole):** Ocurre cuando los flujos de datos de entrada de un proceso son insuficientes para generar las salidas modeladas (por ejemplo, el proceso recibe CUIT del contribuyente pero emite como salida la constancia de habilitación comercial completa con planos aprobados). Indica una falla en el relevamiento de datos de entrada requeridos.
 
-*(📖 Kendall & Kendall, Cap. 7, págs. 195-202)*
+*(📖 Kendall & Kendall, Cap. 7, págs. 198-200 - Nota: El libro describe estos errores de manera conceptual como "proceso con solo flujos de entrada", "proceso con solo flujos de salida" y "flujos de datos omitidos o lineales". Los términos específicos "Agujero Negro", "Milagro" y "Agujero Gris" son la nomenclatura estándar de la ingeniería de software aplicada en el concurso para denominar formalmente estos fallos).*
 
 ---
 
-### 3. Definición de Terminado (DoD) y Preparado (DoR) en Scrum (Scrum Manager)
-*   **Definición de Preparado (DoR - Definition of Ready):** Es el acuerdo de calidad que establece las condiciones que debe cumplir una Historia de Usuario (HU) en el Product Backlog para que el equipo pueda comprometerse a desarrollarla en el Sprint (ej. que la HU esté bien especificada, estimada por el equipo, tenga criterios de aceptación claros y no posea bloqueantes externos).
-*   **Definición de Terminado (DoD - Definition of Done):** Es una lista de control compartida y objetiva de criterios de calidad que un incremento de software debe cumplir al 100% para considerarse formalmente completado y apto para ser desplegado en producción (ej. código revisado por pares, pruebas unitarias aprobadas, cobertura de tests superior al 80%, documentación técnica en wiki actualizada y paso de revisión de seguridad).
+### 3. Calidad de Software en Scrum: Elementos Preparados y Criterio de Finalización (Scrum Manager)
+*   **Elementos "preparados" (o "accionables") del Backlog:** Son aquellos elementos de la pila del producto que tienen un nivel de detalle, estimación y priorización suficiente (a través de actividades de preparación o "grooming") para poder descomponerse en tareas y ser seleccionados en la reunión de planificación del sprint (*Sprint Planning*).
+*   **Criterio de finalización (definición de finalizada/hecho):** Son los criterios mínimos y actividades convenidas por el equipo y el propietario del producto (ej. desarrollada, probada, documentada) necesarios para dar por terminada una historia de usuario e incorporarla formalmente al incremento del sprint de manera completamente operativa.
 *   **Relación con la Deuda Técnica en Sistemas Municipales:**
-    *   Si el equipo Scrum del municipio relaja su DoD para "apurar" la entrega de módulos web (ej. no realizando pruebas de integración, omitiendo el refactoring o no documentando las APIs), se genera **Deuda Técnica**.
+    *   Si el equipo Scrum del municipio relaja su **Criterio de finalización** para "apurar" la entrega de módulos web (ej. no realizando pruebas de integración, omitiendo el refactoring o no documentando las APIs), se genera **Deuda Técnica**.
     *   *Consecuencias operativas:* A mediano y largo plazo, el código se vuelve inestable, difícil de mantener y propenso a fallos graves. Los desarrolladores pasarán más tiempo arreglando bugs (soporte correctivo) que desarrollando nuevas funcionalidades de innovación. Esto incrementa exponencialmente los costos de mantenimiento y paraliza la evolución tecnológica de los sistemas municipales.
 
-*(📖 Scrum Manager v2.6, págs. 23-34)*
+*(📖 Scrum Manager v2.6, Parte I, pág. 23 y Parte II, pág. 77)*
 
 ---
 
-### 4. Integración Continua y Despliegue Continuo (CI/CD) en la Gestión de Software
-*   La implementación de un pipeline de **Integración Continua (CI)** permite automatizar los estándares de codificación y testeo exigidos por el Jefe de Departamento:
-    *   **Validación de Estándares de Código (Linters/Formatters):** Cada vez que un desarrollador realiza un commit o envía un Pull Request al repositorio Git (ej. Gitlab/Github), el pipeline ejecuta de forma automática herramientas de formateo y validación de sintaxis (Linter) de código (ej. ESLint, Biome o Prettier). Si el código no cumple con la convención estilística del departamento, el pipeline falla e impide la fusión del código.
-    *   **Pruebas Automáticas (Test Runners):** El servidor de CI ejecuta todas las pruebas unitarias y de integración del proyecto de forma aislada. Si algún test falla, el pipeline se bloquea, alertando al desarrollador para que corrija el código antes de que llegue a producción.
-    *   **Auditorías de Seguridad Estática (SAST):** El pipeline escanea el código fuente buscando vulnerabilidades conocidas (como inyecciones SQL expuestas o credenciales hardcodeadas en archivos de configuración), impidiendo que se exponga información sensible municipal.
-    *   **Despliegue Continuo (CD):** Si el código pasa exitosamente todas las etapas anteriores, el pipeline compila el incremento y lo despliega de forma automática en el servidor de pruebas (UAT) o staging para la evaluación del Product Owner.
+### 4. Aseguramiento de Calidad: Recorridos Estructurados y Niveles de Prueba (Kendall & Kendall)
+*   **Recorrido Estructurado (Structured Walkthrough):** Es una revisión sistemática del código o del diseño del sistema realizada de manera rutinaria. Su objetivo es evaluar el producto de forma de aseguramiento de calidad continuo en vez de esperar hasta el final del proyecto, permitiendo que se señalen problemas y que el responsable realice las modificaciones oportunas.
+    *   *Participantes y sus roles:* Involucra al menos a cuatro personas:
+        1.  **El responsable de la parte del sistema:** El programador o analista que expone su trabajo (código o diseño) y asiste para escuchar la retroalimentación sin ponerse a la defensiva ni argumentar.
+        2.  **El coordinador del recorrido:** Se encarga de asegurar que se cumplan las actividades planificadas y que los participantes se adhieran a los roles asignados bajo una atmósfera constructiva.
+        3.  **Un colega programador o analista:** Presente para señalar errores o problemas potenciales de forma objetiva, sin indicar necesariamente cómo corregirlos en la sesión.
+        4.  **Un registrador (que toma notas):** Registra todo lo que se dice para que los demás puedan interactuar libremente.
+*   **Niveles de Pruebas con Datos de Prueba:**
+    1.  **Prueba de Programas (Program Testing):** Es responsabilidad del autor del código. Comienza con una verificación de escritorio (revisión mental/en papel del flujo) y sigue con la ejecución del programa con datos de prueba (tanto válidos como inválidos) para comprobar el comportamiento básico de los módulos individuales.
+    2.  **Prueba de Vínculos o Cadena (Link/Chain Testing):** Coordinada por el analista. Verifica si los programas interdependientes trabajan juntos de forma efectiva, procesando datos de transacciones normales e introduciendo datos inválidos para validar el control de errores.
+    3.  **Prueba de Sistemas Completos (Full System Testing):** Involucra activamente a operadores y usuarios finales. Evalúa la adecuación del sistema completo respecto a sus especificaciones originales, examinando manuales de procedimientos, claridad de salidas, flujos de trabajo globales e índices de facilidad de uso.
+
+*(📖 Kendall & Kendall, Cap. 16, págs. 517-518, 526-528)*
 
 ---
 

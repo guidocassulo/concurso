@@ -9,101 +9,101 @@
 ## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)
 *Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
-### 1. Según la Ley Orgánica de las Municipalidades, las Ordenanzas y las Disposiciones sancionadas por el Concejo Deliberante:
-*   a) Rigen a partir del día de su sanción en el recinto deliberativo, sin necesidad de promulgación ni publicación oficial.
-*   b) Son obligatorias después de su publicación en el Boletín Oficial de la Municipalidad, o bien desde el día en que ellas lo determinen, rigiendo de forma general en todo el territorio del Partido.
-*   c) Deben ser convalidadas por la legislatura provincial dentro de los noventa (90) días para entrar en vigencia.
-*   d) Ninguna de las anteriores.
+### 1. Las Ordenanzas y las Disposiciones sancionadas por el Concejo Deliberante:
+*   a) rigen a partir del día de su sanción en el recinto deliberativo, sin necesidad de promulgación ni publicación oficial.
+*   b) son obligatorias después de su publicación en el Boletín Oficial de la Municipalidad, o bien desde el día en que ellas lo determinen, rigiendo de forma general en todo el territorio del Partido.
+*   c) deben ser convalidadas por la legislatura provincial dentro de los noventa (90) días para entrar en vigencia.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 2. De acuerdo con el patrimonio de la comuna definido por la Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), este se encuentra constituido por:
-*   a) Los bienes inmuebles, muebles, semovientes, créditos, títulos y acciones adquiridos o financiados con fondos municipales, las donaciones y legados aceptados, y todas las parcelas del área urbana del Estado por dominio eminente o de propietario ignorado.
-*   b) Únicamente los edificios públicos municipales y las plazas habilitadas en el ejido urbano.
-*   c) Las tasas, derechos, licencias, contribuciones de mejoras y multas recaudadas por la Dirección de Ingresos Públicos.
-*   d) Ninguna de las anteriores.
+### 2. El patrimonio de la comuna está constituido por:
+*   a) los bienes inmuebles, muebles, semovientes, créditos, títulos y acciones adquiridos o financiados con fondos municipales, las donaciones y legados aceptados, y todas las parcelas del área urbana del Estado por dominio eminente o de propietario ignorado.
+*   b) únicamente los edificios públicos municipales y las plazas habilitadas en el ejido urbano.
+*   c) las tasas, derechos, licencias, contribuciones de mejoras y multas recaudadas por la Dirección de Ingresos Públicos.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 3. Según la Ley Orgánica de las Municipalidades (Artículos 241º y 242º), el Honorable Tribunal de Cuentas de la Provincia podrá imponer a los funcionarios y agentes municipales las siguientes sanciones por irregularidades en su gestión:
-*   a) Únicamente llamados de atención y apercibimientos de carácter ético.
-*   b) Solamente la exoneración automática del empleo público.
-*   c) Llamado de atención, amonestación, multa y cargos pecuniarios.
-*   d) Ninguna de las anteriores.
+### 3. El Honorable Tribunal de Cuentas de la Provincia podrá imponer a los funcionarios y agentes municipales las siguientes sanciones por irregularidades en su gestión:
+*   a) únicamente llamados de atención y apercibimientos de carácter ético.
+*   b) solamente la exoneración automática del empleo público.
+*   c) llamado de atención, amonestación, multa y cargos pecuniarios.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 4. Según el Estatuto de Empleo Público Municipal (Ley Provincial 14656), la instrucción de un sumario administrativo a un agente con estabilidad:
-*   a) No obsta sus derechos escalafonarios (como ascensos), pero estos no se harán efectivos hasta la resolución definitiva del sumario, reservándosele la vacante correspondiente.
-*   b) Suspende automáticamente su estabilidad y permite su cese inmediato por decisión del Intendente antes de concluir la investigación.
-*   c) Impide que conserve o acumule antigüedad a los fines del pago de adicionales salariales durante el tiempo que dure el sumario.
-*   d) Ninguna de las anteriores.
+### 4. La instrucción de un sumario administrativo a un agente con estabilidad:
+*   a) no obsta sus derechos escalafonarios (como ascensos), pero estos no se harán efectivos hasta la resolución definitiva del sumario, reservándosele la vacante correspondiente.
+*   b) suspende automáticamente su estabilidad y permite su cese inmediato por decisión del Intendente antes de concluir la investigación.
+*   c) impide que conserve o acumule antigüedad a los fines del pago de adicionales salariales durante el tiempo que dure el sumario.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 5. Para la redacción de documentación y comunicaciones administrativas oficiales en la MGP (Decreto 966/19), la firma de los despachos y resoluciones del Departamento Ejecutivo exige:
-*   a) El refrendo obligatorio por parte de los Secretarios del área respectiva para que el acto administrativo tenga validez.
-*   b) La sola firma del Intendente Municipal, no requiriéndose la refrenda de ningún funcionario de menor rango jerárquico.
-*   c) La convalidación presencial y firma digital conjunta del Presidente del Honorable Concejo Deliberante.
-*   d) Ninguna de las anteriores.
+### 5. Para la redacción de documentación y comunicaciones administrativas oficiales en la MGP, la firma de los despachos y resoluciones del Departamento Ejecutivo exige:
+*   a) el refrendo obligatorio por parte de los Secretarios del área respectiva para que el acto administrativo tenga validez.
+*   b) la sola firma del Intendente Municipal, no requiriéndose la refrenda de ningún funcionario de menor rango jerárquico.
+*   c) la convalidación presencial y firma digital conjunta del Presidente del Honorable Concejo Deliberante.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 6. De acuerdo a la Ordenanza de procedimiento administrativo digital (Ordenanza Municipal Nº 26.348), la foliación y acumulación de documentos electrónicos en un expediente digital:
-*   a) Está limitada a un máximo de doscientos (200) órdenes de foliado, debiendo abrirse un cuerpo anexo de forma obligatoria al superar dicho límite.
-*   b) Permite un número de orden de documentos ilimitado, formando todos los documentos incorporados y firmados digitalmente parte de la actuación principal con el mismo valor legal.
-*   c) Se realiza mediante planillas de firmas manuales que el Jefe de Departamento debe escanear y adjuntar únicamente como archivos PDF informativos.
-*   d) Ninguna de las anteriores.
+### 6. La foliación y acumulación de documentos electrónicos en un expediente digital:
+*   a) está limitada a un máximo de doscientos (200) órdenes de foliado, debiendo abrirse un cuerpo anexo de forma obligatoria al superar dicho límite.
+*   b) permite un número de orden de documentos ilimitado, formando todos los documentos incorporados y firmados digitalmente parte de la actuación principal con el mismo valor legal.
+*   c) se realiza mediante planillas de firmas manuales que el Jefe de Departamento debe escanear y adjuntar únicamente como archivos PDF informativos.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 7. Según el régimen de sanciones correctivas menores regulado en la Ley Provincial 14656 y delegado en la MGP mediante el Decreto 1539/18, las sanciones directas que puede aplicar un Jefe de Departamento a un agente a su cargo son:
-*   a) Llamado de atención y apercibimiento únicamente.
-*   b) Llamado de atención, apercibimiento y suspensión de hasta cinco (5) días corridos, previa sustanciación del descargo del agente.
-*   c) Suspensión de hasta diez (10) días hábiles en el año calendario, requiriéndose de forma obligatoria dictamen legal previo de la Procuración.
-*   d) Ninguna de las anteriores.
+### 7. Las sanciones directas que puede aplicar un Jefe de Departamento a un agente a su cargo son:
+*   a) llamado de atención y apercibimiento únicamente.
+*   b) llamado de atención, apercibimiento y suspensión de hasta cinco (5) días corridos, previa sustanciación del descargo del agente.
+*   c) suspensión de hasta diez (10) días hábiles en el año calendario, requiriéndose de forma obligatoria dictamen legal previo de la Procuración.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 8. Conforme al régimen de control de asistencia de la MGP (Decreto 121/18), si un agente bajo su supervisión registra su ingreso en el dispositivo biométrico con una tardanza de 12 minutos posteriores al horario de inicio de su jornada laboral, por primera vez en el mes calendarizado:
-*   a) Corresponde aplicarle de inmediato una sanción de llamado de atención por escrito por impuntualidad.
-*   b) No corresponde sanción disciplinaria directa si el agente se encuentra dentro de la tolerancia mensual (hasta 3 franquicias mensuales de hasta 15 minutos), aunque el tiempo se computa para el control de horas de la Dirección de Personal.
-*   c) El sistema descuenta de forma automática el día completo de haberes del agente por tratarse de una falta biométrica.
-*   d) Ninguna de las anteriores.
+### 8. Si un agente bajo su supervisión registra su ingreso en el dispositivo biométrico con una tardanza de 12 minutos posteriores al horario de inicio de su jornada laboral, por primera vez en el mes calendarizado:
+*   a) corresponde aplicarle de inmediato una sanción de llamado de atención por escrito por impuntualidad.
+*   b) no corresponde sanción disciplinaria directa si el agente se encuentra dentro de la tolerancia mensual (hasta 3 franquicias mensuales de hasta 15 minutos), aunque el tiempo se computa para el control de horas de la Dirección de Personal.
+*   c) el sistema descuenta de forma automática el día completo de haberes del agente por tratarse de una falta biométrica.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 9. De acuerdo con el régimen de asistencia biométrica (Decreto 121/18), si un programador de su área se presenta a cumplir funciones en la oficina con una tardanza de 40 minutos posteriores a su horario oficial de ingreso:
-*   a) No se le permitirá el ingreso a prestar servicios bajo ningún concepto, computándosele de forma automática inasistencia injustificada.
-*   b) Podrá ingresar a prestar servicios normalmente solo si media una causa de fuerza mayor debidamente justificada por escrito ante su superior jerárquico.
-*   c) El Jefe de Departamento puede autorizar el fichado manual y archivar la planilla interna en papel sin registrar la novedad en el sistema municipal.
-*   d) Ninguna de las anteriores.
+### 9. Si un programador de su área se presenta a cumplir funciones en la oficina con una tardanza de 40 minutos posteriores a su horario oficial de ingreso:
+*   a) no se le permitirá el ingreso a prestar servicios bajo ningún concepto, computándosele de forma automática inasistencia injustificada.
+*   b) podrá ingresar a prestar servicios normalmente solo si media una causa de fuerza mayor debidamente justificada por escrito ante su superior jerárquico.
+*   c) el Jefe de Departamento puede autorizar el fichado manual y archivar la planilla interna en papel sin registrar la novedad en el sistema municipal.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 10. Conforme a las prohibiciones e incompatibilidades aplicables a los agentes municipales bajo el Estatuto de Empleo Público Municipal (Ley Provincial 14656, Artículo 104º), un agente técnico del sector de sistemas de la comuna:
-*   a) Tiene prohibido por ley ser dependiente, asociado, asesor o representante de empresas de software o tecnología que sean proveedoras o contratistas de la Municipalidad de General Pueyrredón.
-*   b) Puede asociarse libremente y prestar asesoramiento privado a contratistas tecnológicos del municipio siempre que no realice las tareas durante su jornada laboral.
-*   c) Puede actuar como programador contratado de forma directa por una firma proveedora de software del municipio siempre que la jefatura del área autorice el pliego técnico.
-*   d) Ninguna de las anteriores.
+### 10. Un agente técnico del sector de sistemas de la comuna:
+*   a) tiene prohibido por ley ser dependiente, asociado, asesor o representante de empresas de software o tecnología que sean proveedoras o contratistas de la Municipalidad de General Pueyrredón.
+*   b) puede asociarse libremente y prestar asesoramiento privado a contratistas tecnológicos del municipio siempre que no realice las tareas durante su jornada laboral.
+*   c) puede actuar como programador contratado de forma directa por una firma proveedora de software del municipio siempre que la jefatura del área autorice el pliego técnico.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 

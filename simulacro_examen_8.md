@@ -109,45 +109,45 @@
 
 ---
 
-### 2. Desarrollo de Prototipos e Ingeniería de Requisitos (Kendall & Kendall)
-*   **Prototipo no operacional (modelo a escala no funcional):** Consiste en un diseño o maqueta estática del sistema (por ejemplo, pantallas dibujadas o mockups interactivos de la interfaz de usuario) que permite validar la disposición estética, el flujo de navegación y las entradas/salidas de datos con el usuario, pero sin realizar procesamiento real de datos en el servidor, lógica de negocio ni persistencia en bases de datos.
-*   **Diferencia con el Prototipo Operacional:** El prototipo operacional es un subconjunto del sistema real totalmente funcional, con codificación activa en backend y bases de datos reales, pero a menor escala (ej. procesa cobros reales pero solo para un canal de pago).
-*   **Condiciones para su utilización:** Es recomendable utilizar prototipos no operacionales en etapas muy tempranas del proyecto para alinear expectativas de diseño visual rápido con usuarios poco experimentados, o cuando el procesamiento de backend es extremadamente complejo o costoso de implementar antes de definir la estructura básica de la interfaz.
+## CUESTION Nº 2: HIGIENE, SEGURIDAD Y RIESGOS DEL TRABAJO (1.5 Puntos)
+*Instrucciones: Analice el caso planteado y responda a las consignas fundamentando su respuesta en la normativa de higiene, seguridad y riesgos del trabajo aplicable.*
 
-*(📖 Kendall & Kendall, Cap. 6, págs. 143-160)*
+> Un agente del área de infraestructura del Departamento de Sistemas sufre una descarga eléctrica seguida de una caída desde una escalera a más de 2 metros de altura mientras realizaba tareas de tendido de cableado de red en una dependencia municipal. El agente no contaba con elementos de protección personal (EPP) y la escalera era de metal.
 
----
-
-### 3. Límites de Trabajo en Progreso (WIP Limits) y Cuellos de Botella (Scrum Manager)
-*   **Ajustar el WIP (Work in Process):** Es la práctica de establecer un número máximo o límite de tareas simultáneas permitidas en una fase o columna específica del tablero Kanban (ej. "En Desarrollo" o "En Testing"). Su propósito es regular el flujo de trabajo, forzar la finalización de tareas abiertas antes de iniciar nuevas, y visibilizar de forma inmediata impedimentos o cuellos de botella.
-*   **Significado de "WIP de 3" en Testing:** Significa que en la columna de pruebas del tablero no pueden acumularse más de tres tareas simultáneamente. Si ingresa una cuarta tarea, el flujo de desarrollo aguas arriba se detiene y el equipo no puede arrastrar más trabajo a esa columna hasta liberar espacio.
-*   **Acciones para solucionar cuellos de botella en la columna de testing:**
-    1.  **Reasignación de esfuerzo (colaboración cruzada):** Los desarrolladores detienen la codificación de nuevas historias y colaboran temporalmente en la ejecución de pruebas manuales y reporte de errores para dar salida a las tareas acumuladas.
-    2.  **Optimización y automatización del proceso:** Incorporar herramientas de automatización de pruebas (unitarias y de regresión) para acelerar la velocidad del ciclo de testing.
-
-*(📖 Scrum Manager v2.6, Parte II, págs. 65-66)*
+1. Explique si el hecho configura un Accidente de Trabajo según la Ley de Riesgos del Trabajo (Ley 24557) y fundamente jurídicamente.
+2. Detalle qué normas de la Ley de Higiene y Seguridad en el Trabajo (Ley 19587) se infringieron, qué EPP debieron proveerse obligatoriamente y qué medidas correctivas inmediatas debe disponer la Jefatura.
 
 ---
 
-### 5. Cálculo de Velocidad y Capacidad Ágil (Scrum Manager)
-*   **Concepto de Tiempo Real vs. Tiempo Ideal:** El tiempo real es la jornada laboral física del personal, mientras que el tiempo ideal es el esfuerzo neto necesario para completar una tarea bajo condiciones óptimas sin interrupciones ni tiempos muertos.
+## CUESTION Nº 3: PROCEDIMIENTO DISCIPLINARIO Y ACTO ADMINISTRATIVO (4 Puntos)
+*Instrucciones: Analice la situación planteada y resuelva las consignas redactando el acto administrativo correspondiente bajo los estándares formales exigidos.*
 
-#### **a) Cálculo del Tiempo Real Disponible (en horas reales):**
-*   Equipo: 5 personas.
-*   Sprint: 2 semanas (10 días laborables totales).
-*   Jornada: 6 horas diarias.
-*   **Tiempo Real Disponible:**
-    $\text{Tiempo Real} = 5 \text{ personas} \times 6 \text{ horas/día} \times 10 \text{ días} = \mathbf{300 \text{ horas reales}}$
+> El agente J.M., con categoría de Programador III, registra diez (10) inasistencias injustificadas consecutivas en el mes en curso sin haber presentado comunicación ni descargo alguno.
 
-#### **b) Cálculo de Capacidad Efectiva (Tiempo Ideal) y Validación del Backlog:**
-*   La capacidad efectiva en tiempo ideal representa el 60% del tiempo real total:
-    $\text{Capacidad Efectiva (Ideal)} = 300 \text{ horas reales} \times 0.60 = \mathbf{180 \text{ horas ideales}}$
-*   Suma de esfuerzo estimado del backlog del sprint:
-    $\text{Esfuerzo Total Backlog} = 35 \text{ (HU A)} + 42 \text{ (HU B)} + 28 \text{ (HU C)} + 15 \text{ (HU D)} = \mathbf{120 \text{ horas ideales}}$
-*   **Validación de Capacidad:** Como el esfuerzo total del backlog ($120 \text{ horas ideales}$) es **menor** que la capacidad efectiva del equipo ($180 \text{ horas ideales}$), el equipo tiene capacidad suficiente para comprometerse a realizar las 4 historias de usuario propuestas durante el sprint, restando un margen de 60 horas ideales para contingencias o tareas no planificadas de soporte.
-*   *Nota del Jefe de Sistemas:* En caso de que el esfuerzo hubiera superado la capacidad de 180 horas ideales, el Jefe de Sistemas debería coordinar con el Product Owner para retirar historias de menor prioridad del backlog del sprint antes del cierre de la reunión de planificación.
+1. Explique el procedimiento formal que debe seguirse para tramitar el cese por abandono de servicio de acuerdo con la Ley Provincial 14656 y qué medidas preventivas inmediatas debe adoptar el Jefe de Departamento respecto al cese de haberes y la seguridad lógica de los sistemas municipales.
+2. Redacte el acto administrativo (Disposición) de elevación de las actuaciones a la Dirección General de Recursos Humanos solicitando el cese del agente por abandono de servicio y disponiendo las medidas preventivas.
 
-*(📖 Scrum Manager v2.6, Parte I, págs. 37-41)*
+---
+
+## CUESTION Nº 4: PERSPECTIVA DE GÉNERO Y VIOLENCIA LABORAL (4.5 Puntos)
+*Instrucciones: Analice el caso presentado y responda a las consignas de acuerdo con el marco normativo de género y violencia laboral del municipio.*
+
+> Una agente de desarrollo de software reporta formalmente al Jefe de Departamento que sufre de forma persistente hostigamiento verbal, comentarios descalificatorios sistemáticos sobre sus capacidades técnicas por su condición de mujer, y gestos obscenos por parte de un compañero de oficina. La agente se encuentra actualmente bajo licencia médica por estrés debido a esta situación.
+
+1. Explique si la situación configura violencia laboral de género según la Ordenanza Nº 24.271 de la MGP.
+2. Detalle las obligaciones y acciones inmediatas de resguardo que debe adoptar el Jefe de Departamento, garantizando el trato digno y la no revictimización de la denunciante.
+3. Indique las vías institucionales específicas del municipio a las que debe derivarse coordinadamente el caso.
+
+---
+
+## CUESTION Nº 5: EVALUACIÓN DE CONOCIMIENTOS TÉCNICOS (15 Puntos - 3 c/u)
+*Instrucciones: Responda a las siguientes preguntas técnicas de diseño de sistemas y gestión ágil fundamentando en la bibliografía obligatoria.*
+
+1. **Integridad Referencial y Esquema Relacional de Multas (Kendall & Kendall):** Defina qué es la integridad referencial y distinga entre llave primaria (PK), llave foránea (FK) y llave candidata. Asimismo, proponga un esquema relacional con sus PK y FK para un sistema de multas de tránsito de la MGP que involucre las entidades: Acta de Infracción, Vehículo, Inspector e Infracción.
+2. **Desarrollo de Prototipos e Ingeniería de Requisitos (Kendall & Kendall):** Explique conceptualmente en qué consiste un **prototipo no operacional** (modelo a escala no funcional), distinga su diferencia con el prototipo operacional, y detalle bajo qué condiciones específicas de desarrollo es recomendable su utilización según el Capítulo 6 del libro.
+3. **Límites de Trabajo en Progreso (WIP Limits) y Cuellos de Botella (Scrum Manager):** Defina qué es el WIP Limit en un flujo Kanban y su propósito. Explique qué significa operativamente un "WIP de 3" en la columna de Testing y qué acciones de gestión debe coordinar el Jefe de Sistemas si dicha columna se convierte en un cuello de botella.
+4. **Niveles de Pruebas de Software y Definición de Terminado (DoD) (Kendall & Kendall / Scrum Manager):** Defina y distinga conceptualmente la prueba de programas (incluyendo la verificación de escritorio), la prueba de vínculos y la prueba de sistemas completos descritas en el Capítulo 16 de Kendall & Kendall. Explique de qué manera el Jefe de Departamento puede integrarlas en la Definición de Terminado (DoD) del equipo de desarrollo municipal.
+5. **Cálculo de Capacidad del Sprint (Tiempo Real vs Tiempo Ideal) (Scrum Manager):** Defina los conceptos de tiempo real y tiempo ideal. Resuelva el siguiente caso práctico: Un equipo Scrum está integrado por 5 personas. Planifican un Sprint de 2 semanas (10 días hábiles) con jornada laboral de 6 horas diarias. Calcule la capacidad disponible en horas reales y la capacidad efectiva en horas ideales (sabiendo que representa el 60% del tiempo real). Indique si el equipo puede comprometerse con un backlog estimado en 120 horas ideales y fundamente su decisión.
 
 <details>
 <summary><b>Desplegar Solución - CUESTION Nº 1: Normativa Municipal y Disciplinaria</b></summary>
@@ -272,103 +272,52 @@ El Jefe de Departamento debe actuar de inmediato de forma estrictamente confiden
 *   **Esquema Relacional de Multas (Tránsito MGP):**
     *   Tabla **ACTA_INFRACCION**:
         *   `Nro_Acta` (PK) - int
-        *   `Fecha_Hora` - datetime
-        *   `Lugar_Hecho` - varchar(100)
-        *   `Dominio_Vehiculo` (FK) -> Hace referencia a `VEHICULO.Dominio` - varchar(10)
-        *   `Legajo_Inspector` (FK) -> Hace referencia a `INSPECTOR.Legajo` - int
-        *   `Codigo_Falta` (FK) -> Hace referencia a `INFRACCION.Codigo` - int
-    *   Tabla **VEHICULO**:
-        *   `Dominio` (PK) - varchar(10)
-        *   `Marca_Modelo` - varchar(50)
-        *   `DNI_Titular` - int
-    *   Tabla **INSPECTOR**:
-        *   `Legajo` (PK) - int
-        *   `Nombre_Apellido` - varchar(50)
-    *   Tabla **INFRACCION**:
-        *   `Codigo` (PK) - int
-        *   `Descripcion` - varchar(100)
-        *   `Monto_Unidades_Fijas` - decimal(10,2)
+    *   Tabla **ACTA_INFRACCION**: `Nro_Acta` (PK), `Fecha_Hora`, `Lugar_Hecho`, `Dominio_Vehiculo` (FK), `Legajo_Inspector` (FK), `Codigo_Falta` (FK).
+    *   Tabla **VEHICULO**: `Dominio` (PK), `Marca_Modelo`, `DNI_Titular`.
+    *   Tabla **INSPECTOR**: `Legajo` (PK), `Nombre_Apellido`.
+    *   Tabla **INFRACCION**: `Codigo` (PK), `Descripcion`, `Monto_Unidades_Fijas`.
 
-*(📖 Kendall & Kendall, Cap. 13, págs. 410-411, 424-425)*
+### 2. Desarrollo de Prototipos e Ingeniería de Requisitos (Kendall & Kendall)
+*   **Prototipo no operacional (modelo a escala no funcional):** Consiste en un diseño o maqueta estática del sistema (por ejemplo, pantallas dibujadas o mockups interactivos de la interfaz de usuario) que permite validar la disposición estética, el flujo de navegación y las entradas/salidas de datos con el usuario, pero sin realizar procesamiento real de datos en el servidor, lógica de negocio ni persistencia en bases de datos.
+*   **Diferencia con el Prototipo Operacional:** El prototipo operacional es un subconjunto del sistema real totalmente funcional, con codificación activa en backend y bases de datos reales, pero a menor escala (ej. procesa cobros reales pero solo para un canal de pago).
+*   **Condiciones para su utilización:** Es recomendable utilizar prototipos no operacionales en etapas muy tempranas del proyecto para alinear expectativas de diseño visual rápido con usuarios poco experimentados, o cuando el procesamiento de backend es extremadamente complejo o costoso de implementar antes de definir la estructura básica de la interfaz.
 
----
+*(📖 Kendall & Kendall, Cap. 6, págs. 157-160)*
 
-### 2. Arquitectura Monolítica vs Microservicios en Portales Municipales
-*   **Arquitectura Monolítica:** El sistema se construye como una única unidad funcional y de código donde la base de datos, la lógica del servidor y la interfaz de usuario están empaquetadas juntas en un solo software desplegado en el servidor municipal.
-    *   *Ventajas:* Simplicidad de desarrollo y testeo inicial; menor complejidad de infraestructura; despliegue simple y rápido en un solo servidor de pruebas.
-    *   *Desventajas:* Si un módulo falla (ej. el sistema de turnos de licencias), arrastra y puede colapsar todo el portal tributario. El escalamiento horizontal de módulos individuales es inviable (debe duplicarse todo el monolito en memoria), y los tiempos de compilación y despliegue crecen indefinidamente, dificultando la agilidad.
-*   **Arquitectura de Microservicios:** El portal se descompone en un conjunto de servicios independientes, pequeños, acoplados de forma débil, donde cada servicio ejecuta su propio proceso de negocio, tiene su propia base de datos dedicada y se comunica con los demás a través de APIs web ligeras (REST/gRPC).
-    *   *Ventajas:* Escalabilidad independiente por servicio (ej. si el módulo de tasas recibe miles de accesos concurrentes el día del vencimiento, se escalan solo esas instancias de microservicio sin tocar el resto); fallos aislados (si se cae el microservicio de multas, el portal impositivo sigue funcionando); facilidad de despliegue continuo (CD) ya que cada equipo Scrum puede compilar y desplegar su microservicio de forma independiente sin interferir con los demás.
-    *   *Desventajas:* Alta complejidad de infraestructura (requiere orquestación como Docker/Kubernetes y gestión de logs distribuidos); latencia de red por llamadas remotas; complejidad para mantener la consistencia transaccional de datos entre servicios.
-*   *DoD y Circular 902:* La arquitectura de microservicios se alinea con la Circular 902 al facilitar la adopción de "nuevas herramientas" y permitir que los equipos Scrum definan un DoD específico e independiente por servicio, optimizando el ciclo de vida del desarrollo.
+### 3. Límites de Trabajo en Progreso (WIP Limits) y Cuellos de Botella (Scrum Manager)
+*   **Ajustar el WIP (Work in Process):** Es la práctica de establecer un número máximo o límite de tareas simultáneas permitidas en una fase o columna específica del tablero Kanban (ej. "En Desarrollo" o "En Testing"). Su propósito es regular el flujo de trabajo, forzar la finalización de tareas abiertas antes de iniciar nuevas, y visibilizar de forma inmediata impedimentos o cuellos de botella.
+*   **Significado de "WIP de 3" en Testing:** Significa que en la columna de pruebas del tablero no pueden acumularse más de tres tareas simultáneamente. Si ingresa una cuarta tarea, el flujo de desarrollo aguas arriba se detiene y el equipo no puede arrastrar más trabajo a esa columna hasta liberar espacio.
+*   **Acciones para solucionar cuellos de botella en la columna de testing:**
+    1.  **Reasignación de esfuerzo (colaboración cruzada):** Los desarrolladores detienen la codificación de nuevas historias y colaboran temporalmente en la ejecución de pruebas manuales y reporte de errores para dar salida a las tareas acumuladas.
+    2.  **Optimización y automatización del proceso:** Incorporar herramientas de automatización de pruebas (unitarias y de regresión) para acelerar la velocidad del ciclo de testing.
 
----
+*(📖 Scrum Manager v2.6, Parte II, págs. 65-66)*
 
-### 3. Diagrama de Flujo Acumulado (CFD) e Interpretación (Scrum Manager)
-*   **Concepto de CFD:** Es una métrica ágil visual acumulativa que muestra a lo largo del tiempo el volumen de Historias de Usuario o tareas en cada estado o columna del flujo de trabajo Kanban.
-*   **Ejes:**
-    *   **Eje Horizontal (X):** Eje temporal de días o semanas del proyecto.
-    *   **Eje Vertical (Y):** Cantidad acumulada de tareas o puntos de historia.
-*   **Bandas de Colores:** Cada banda vertical representa el volumen de tareas en un estado del tablero (ej. Pendiente, En Desarrollo, En Testeo, Terminado).
-*   **Ensanchamiento de la franja "En Pruebas (QA)":**
-    *   *Interpretación:* Revela la existencia de un **cuello de botella de control de calidad** en el equipo de desarrollo. Significa que los programadores están terminando y acumulando tareas más rápido de lo que los testers o el área de testing municipal pueden probarlas y darles salida a "Terminado" (*Done*). 
-    *   *Medidas correctivas del Jefe de Sistemas:*
-        1.  **Limitar el WIP (Work in Progress):** Reducir los límites de tareas permitidas en las columnas de programación previa, forzando a los desarrolladores a detener la codificación de nuevas historias y abocarse temporalmente a colaborar con el área de testing para desbloquear las tareas paradas en "En Pruebas".
-        2.  **Automatizar Pruebas:** Fomentar que el equipo automatice las pruebas unitarias y funcionales para reducir la carga de testing manual.
-        3.  **Reforzar Capacidades:** Reasignar personal de desarrollo con perfil híbrido (Fullstack/QA) para equilibrar el rendimiento de la columna de testing.
+### 4. Niveles de Pruebas de Software y Definición de Terminado (DoD) (Kendall & Kendall / Scrum Manager)
+*   **Prueba de programas con datos de prueba:** Es la verificación inicial del software. Comienza con una **verificación de escritorio** (en papel) donde el programador sigue de forma lógica los pasos de su código. Posteriormente, se ejecuta el programa con datos de prueba válidos e inválidos para validar que el módulo funcione de forma aislada.
+*   **Prueba de vínculos (o de cadena) con datos de prueba:** Se realiza una vez superada la prueba de programas y verifica que los programas interdependientes (vínculos) interactúen e intercambien datos de forma correcta según el diseño del sistema.
+*   **Prueba de sistemas completos con datos de prueba:** Es la prueba global que involucra de forma activa a los operadores y usuarios finales para verificar si se cumplen los objetivos globales del sistema, si la documentación de manuales es correcta y si los reportes y salidas son exactos.
+*   **Integración en la Definition of Done (DoD):** El Jefe de Departamento debe incluir en la lista de control del DoD municipal:
+    1.  Que el código pase satisfactoriamente la **prueba de programas** (incluyendo su verificación de escritorio) de forma local.
+    2.  Que la **prueba de vínculos** y la **prueba del sistema completo** en el servidor de pruebas (Staging) pasen de forma exitosa (comprobando interfaces con otros módulos como bases de datos de contribuyentes o pasarelas de pago) antes de declarar formalmente el incremento como "Terminado" (*Done*).
 
-*(📖 Scrum Manager v2.6, págs. 55-64)*
+*(📖 Kendall & Kendall, Cap. 16, págs. 527-528 / Scrum Manager v2.6, Parte I, págs. 14-16)*
 
----
+### 5. Cálculo de Capacidad del Sprint (Tiempo Real vs Tiempo Ideal) (Scrum Manager)
+*   **Concepto de Tiempo Real vs. Tiempo Ideal:** El tiempo real es la jornada laboral física del personal, mientras que el tiempo ideal es el esfuerzo neto necesario para completar una tarea bajo condiciones óptimas sin interrupciones ni tiempos muertos.
 
-### 4. Pruebas de Integración vs Pruebas Unitarias (DoD)
-*   **Pruebas Unitarias (Unit Testing):** Pruebas de software aisladas y de caja blanca que verifican el correcto funcionamiento de un fragmento de código individual de forma independiente (una clase, un método o una función específica) sin dependencias externas (se simulan bases de datos o APIs con mocks). Son rápidas de ejecutar.
-*   **Pruebas de Integración (Integration Testing):** Pruebas que verifican que dos o más módulos de software individuales o componentes del sistema interactúen e intercambien datos de forma correcta de acuerdo a su diseño.
-    *   *Ejemplo Municipal:* Validar que el microservicio de cobros interactúe de forma consistente con la API de bases de datos biométricas de GDE y grabe la constancia de pago electrónico de forma consistente en el expediente electrónico correspondiente.
-*   **Inclusión en la Definition of Done (DoD):**
-    *   El Jefe de Departamento debe incluir de forma explícita en el DoD de los equipos ágiles municipales que:
-        1.  El código cuente con un 100% de cobertura de **Pruebas Unitarias** locales aprobadas en el pipeline de desarrollo.
-        2.  Las **Pruebas de Integración** en el servidor de pruebas (Staging) entre los nuevos módulos tributarios y los servicios externos del Data Center (ej. GDE nacional o portales de pago de bancos) pasen satisfactoriamente en condiciones similares a producción antes de que se considere "Terminada" (*Done*) la Historia de Usuario para la release.
+#### **a) Cálculo del Tiempo Real Disponible (en horas reales):**
+*   Equipo: 5 personas.
+*   Sprint: 2 semanas (10 días laborables totales).
+*   Jornada: 6 horas diarias.
+*   **Tiempo Real Disponible:** 5 personas x 6 horas/día x 10 días = **300 horas reales**.
 
-*(📖 Kendall & Kendall, Cap. 18, pág. 526+)*
+#### **b) Cálculo de Capacidad Efectiva (Tiempo Ideal) y Validación del Backlog:**
+*   La capacidad efectiva en tiempo ideal representa el 60% del tiempo real total: 300 horas reales x 0.60 = **180 horas ideales**.
+*   Suma de esfuerzo estimado del backlog del sprint (ejemplo): 120 horas ideales.
+*   **Validación de Capacidad:** Como el esfuerzo total del backlog (120 horas ideales) es menor que la capacidad efectiva del equipo (180 horas ideales), el equipo tiene capacidad suficiente para comprometerse a realizar las historias de usuario propuestas durante el sprint, restando un margen para contingencias o tareas no planificadas de soporte.
 
----
-
-### 5. Resolución de Caso de Eficiencia del Flujo (Scrum Manager)
-
-#### **a) Cálculo del promedio de Lead Time, Cycle Time y Touch Time:**
-
-1.  **Datos de las 5 tareas (días):**
-    *   Requerimiento 1: $LT = 10$, $CT = 4$, $TT = 1$.
-    *   Requerimiento 2: $LT = 15$, $CT = 6$, $TT = 2$.
-    *   Requerimiento 3: $LT = 8$, $CT = 3$, $TT = 1$.
-    *   Requerimiento 4: $LT = 18$, $CT = 7$, $TT = 2.5$.
-    *   Requerimiento 5: $LT = 9$, $CT = 5$, $TT = 1.5$.
-
-2.  **Cálculo de Promedios:**
-    *   **Lead Time Promedio ($\overline{LT}$):**
-        $$\overline{LT} = \frac{10 + 15 + 8 + 18 + 9}{5} = \frac{60}{5} = \mathbf{12 \text{ días}}$$
-    *   **Cycle Time Promedio ($\overline{CT}$):**
-        $$\overline{CT} = \frac{4 + 6 + 3 + 7 + 5}{5} = \frac{25}{5} = \mathbf{5 \text{ días}}$$
-    *   **Touch Time Promedio ($\overline{TT}$):**
-        $$\overline{TT} = \frac{1 + 2 + 1 + 2.5 + 1.5}{5} = \frac{8}{5} = \mathbf{1.6 \text{ días}}$$
-
-#### **b) Cálculo de la Eficiencia del Flujo de Trabajo (Flow Efficiency) e interpretación:**
-
-1.  **Eficiencia del Flujo del Proceso Interno (respecto al Cycle Time):**
-    *   Mide el tiempo de trabajo activo del equipo de desarrollo frente al tiempo total que la tarea estuvo en el tablero de desarrollo (en progreso).
-        $$\text{Flow Efficiency (CT)} = \left( \frac{\overline{TT}}{\overline{CT}} \right) \times 100$$
-        $$\text{Flow Efficiency (CT)} = \left( \frac{1.6 \text{ días}}{5.0 \text{ días}} \right) \times 100 = 0.32 \times 100 = \mathbf{32\%}$$
-
-2.  **Eficiencia del Flujo Global de la Cadena de Valor (respecto al Lead Time):**
-    *   Mide el tiempo de trabajo activo de codificación del equipo en comparación con el tiempo total transcurrido desde que el usuario solicitó la mejora impositiva hasta su entrega final en producción.
-        $$\text{Flow Efficiency (LT)} = \left( \frac{\overline{TT}}{\overline{LT}} \right) \times 100$$
-        $$\text{Flow Efficiency (LT)} = \left( \frac{1.6 \text{ días}}{12 \text{ días}} \right) \times 100 = 0.133 \times 100 = \mathbf{13.33\%}$$
-
-3.  **Diferencia Conceptual y Tipo de Cuellos de Botella:**
-    *   **Eficiencia respecto al Cycle Time (32%):** Revela que el equipo de desarrollo pasa el **68% de su tiempo interno en el tablero esperando** (espera de testing local, bloqueo por problemas técnicos, o espera de revisiones del superior). Este es un cuello de botella de la *gestión del flujo interno* del equipo de desarrollo de software.
-    *   **Eficiencia respecto al Lead Time (13.33%):** Revela que el **86.67% de la vida total del requerimiento corresponde a desperdicio o tiempo de espera improductivo fuera del tablero de programación** (tiempo en que la tarea estuvo esperando en el backlog general de mesa de entradas, demoras políticas para priorizarla, o demoras de implantación final).
-    *   *Conclusión:* El análisis revela que la mayor pérdida de valor no ocurre en la oficina de programadores, sino en las **etapas administrativas previas a la aprobación del requerimiento (backlog) y posteriores a la entrega (despliegue final)**. El Jefe de Sistemas debe coordinar con las secretarías demandantes para optimizar la cadena de valor externa de TI.
+*(📖 Scrum Manager v2.6, Parte I, págs. 37-41)*
 
 </details>
 

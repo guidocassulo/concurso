@@ -9,101 +9,101 @@
 ## CUESTION Nº 1: EVALUACIÓN DISCIPLINARIA Y NORMATIVA MUNICIPAL (10 Puntos)
 *Instrucciones del examen: Señale la alternativa correcta, redondeando la letra correspondiente a la opción elegida para cada uno de los supuestos planteados. En todos los casos, solo una de las alternativas es correcta. Fundamente cada respuesta con la norma correspondiente.*
 
-### 1. Conforme a las excepciones previstas en el régimen de contrataciones de la Ley Orgánica de las Municipalidades, la adquisición directa de software o hardware sin licitación pública es legalmente factible cuando:
-*   a) El Jefe de Departamento de Sistemas emita una nota indicando que la marca elegida es de su preferencia técnica.
-*   b) Habiéndose realizado previamente un llamado a Licitación Pública o Licitación Privada, este haya resultado desierto o no se hayan presentado ofertas válidas admisibles.
-*   c) El monto total de la compra supere en un 100% los límites presupuestarios fijados para la licitación.
-*   d) Ninguna de las anteriores.
+### 1. La adquisición directa de software o hardware sin licitación pública es legalmente factible cuando:
+*   a) el Jefe de Departamento de Sistemas emita una nota indicando que la marca elegida es de su preferencia técnica.
+*   b) habiéndose realizado previamente un llamado a Licitación Pública o Licitación Privada, este haya resultado desierto o no se hayan presentado ofertas válidas admisibles.
+*   c) el monto total de la compra supere en un 100% los límites presupuestarios fijados para la licitación.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 2. Según el régimen estatutario de empleo municipal bonaerense, las licencias con goce de haberes por estudio y capacitación para agentes que cursen carreras de grado o posgrado con reconocimiento oficial otorgan:
-*   a) Un máximo de treinta (30) días corridos anuales sin límite de días por examen.
-*   b) Hasta un máximo de quince (15) días hábiles por año, acordada en fracciones de hasta cinco (5) días hábiles por examen, más el día fijado para la rendición de la prueba.
-*   c) Cinco (5) días hábiles al año de manera improrrogable y sujeta a compensación horaria.
-*   d) Ninguna de las anteriores.
+### 2. Las licencias con goce de haberes por estudio y capacitación para agentes que cursen carreras de grado o posgrado con reconocimiento oficial otorgan:
+*   a) un máximo de treinta (30) días corridos anuales sin límite de días por examen.
+*   b) hasta un máximo de quince (15) días hábiles por año, acordada en fracciones de hasta cinco (5) días hábiles por examen, más el día fijado para la rendición de la prueba.
+*   c) cinco (5) días hábiles al año de manera improrrogable y sujeta a compensación horaria.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 3. De acuerdo al reglamento general de control asistencial y de horarios de la MGP, cuando un agente deba realizar una salida oficial de carácter laboral fuera de su edificio de origen para dar soporte técnico en otra dependencia municipal:
-*   a) Está exceptuado de fichar sus egresos y reingresos en el reloj biométrico al tratarse de tareas oficiales.
-*   b) Debe registrar de manera obligatoria su salida y reingreso en el reloj biométrico del edificio, contando con la correspondiente planilla de salida autorizada por escrito por su jefe directo.
-*   c) Requiere autorización del Secretario de Hacienda tramitada mediante expediente electrónico con 48 horas de anticipación.
-*   d) Ninguna de las anteriores.
+### 3. Cuando un agente deba realizar una salida oficial de carácter laboral fuera de su edificio de origen para dar soporte técnico en otra dependencia municipal:
+*   a) está exceptuado de fichar sus egresos y reingresos en el reloj biométrico al tratarse de tareas oficiales.
+*   b) debe registrar de manera obligatoria su salida y reingreso en el reloj biométrico del edificio, contando con la correspondiente planilla de salida autorizada por escrito por su jefe directo.
+*   c) requiere autorización del Secretario de Hacienda tramitada mediante expediente electrónico con 48 horas de anticipación.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 4. Según las pautas de estilo, terminología y redacción administrativa del Manual de Redacción de la MGP, el documento administrativo de impulso procesal interno denominado "Providencia" sirve para:
-*   a) Comunicar directivas generales obligatorias a todo el personal técnico de la municipalidad.
-*   b) Derivar y dar pase formal de expedientes y actuaciones administrativas de un área de trabajo a otra, indicando la instrucción u opinión técnica pertinente.
-*   c) Notificar de manera externa a un proveedor de hardware sobre la rescisión contractual por incumplimientos.
-*   d) Ninguna de las anteriores.
+### 4. El documento administrativo de impulso procesal interno denominado "Providencia" sirve para:
+*   a) comunicar directivas generales obligatorias a todo el personal técnico de la municipalidad.
+*   b) derivar y dar pase formal de expedientes y actuaciones administrativas de un área de trabajo a otra, indicando la instrucción u opinión técnica pertinente.
+*   c) notificar de manera externa a un proveedor de hardware sobre la rescisión contractual por incumplimientos.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
 ### 5. Conforme a las incompatibilidades y prohibiciones absolutas del personal técnico del Grupo Ocupacional Computación de la comuna, se prohíbe expresamente al agente municipal de sistemas:
-*   a) Dictar clases universitarias de programación fuera del horario habitual de su jornada de labor.
-*   b) Utilizar el equipamiento informático, servidores, software o la infraestructura de red municipal para realizar desarrollos o actividades comerciales privadas ajenas a sus funciones.
-*   c) Registrarse como monotributista ante los organismos fiscales para actividades independientes ajenas al ámbito del municipio.
-*   d) Ninguna de las anteriores.
+*   a) dictar clases universitarias de programación fuera del horario habitual de su jornada de labor.
+*   b) utilizar el equipamiento informático, servidores, software o la infraestructura de red municipal para realizar desarrollos o actividades comerciales privadas ajenas a sus funciones.
+*   c) registrarse como monotributista ante los organismos fiscales para actividades independientes ajenas al ámbito del municipio.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 6. Según el reglamento de Gestión Documental Electrónica (GDE) municipal, el módulo de "Comunicaciones Oficiales" (CCOO) debe utilizarse obligatoriamente para instrumentar:
-*   a) Las planillas públicas de novedades mensuales de control asistencial de las agentes.
-*   b) Notas, memorándums y comunicaciones formales electrónicas intercambiadas entre los diferentes funcionarios y dependencias de la municipalidad.
-*   c) El registro detallado de las marcas biométricas del reloj horario de asistencia diaria.
-*   d) Ninguna de las anteriores.
+### 6. El módulo de "Comunicaciones Oficiales" (CCOO) debe utilizarse obligatoriamente para instrumentar:
+*   a) las planillas públicas de novedades mensuales de control asistencial de las agentes.
+*   b) notas, memorándums y comunicaciones formales electrónicas intercambiadas entre los diferentes funcionarios y dependencias de la municipalidad.
+*   c) el registro detallado de las marcas biométricas del reloj horario de asistencia diaria.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 7. De acuerdo con la Ley de Riesgos del Trabajo, el accidente ocurrido en el trayecto directo e inmediato entre el domicilio del trabajador y el lugar de prestación laboral (accidente in itinere) conservará su cobertura legal integral de la ART aun si se registra un desvío en la ruta cuando este obedezca a:
-*   a) Razones particulares de esparcimiento o compras personales del agente previas al ingreso.
-*   b) Causas de fuerza mayor o desvíos fundados por razones de estudio oficial o cumplimiento de un deber público, debiendo el agente notificar previamente el desvío por escrito al empleador.
-*   c) Un cambio voluntario de recorrido para evitar el tráfico de la hora pico sin comunicación alguna.
-*   d) Ninguna de las anteriores.
+### 7. El accidente ocurrido en el trayecto directo e inmediato entre el domicilio del trabajador y el lugar de prestación laboral (accidente in itinere) conservará su cobertura legal integral de la ART aun si se registra un desvío en la ruta cuando este obedezca a:
+*   a) razones particulares de esparcimiento o compras personales del agente previas al ingreso.
+*   b) causas de fuerza mayor o desvíos fundados por razones de estudio oficial o cumplimiento de un deber público, debiendo el agente notificar previamente el desvío por escrito al empleador.
+*   c) un cambio voluntario de recorrido para evitar el tráfico de la hora pico sin comunicación alguna.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 8. Conforme al protocolo local de violencia laboral y de género de la MGP (Ordenanza 24271), durante la tramitación del sumario disciplinario al presunto agresor, la municipalidad garantiza a la agente denunciante:
-*   a) El traslado obligatorio de su puesto de trabajo a otra dependencia alejada para evitar ruidos molestos.
-*   b) El resguardo absoluto de su estabilidad laboral y condiciones de empleo, prohibiendo que la denuncia le genere perjuicios directos o indirectos.
-*   c) El cese de haberes preventivo hasta tanto se dicte la resolución definitiva de sumarios.
-*   d) Ninguna de las anteriores.
+### 8. Durante la tramitación del sumario disciplinario al presunto agresor, la municipalidad garantiza a la agente denunciante:
+*   a) el traslado obligatorio de su puesto de trabajo a otra dependencia alejada para evitar ruidos molestos.
+*   b) el resguardo absoluto de su estabilidad laboral y condiciones de empleo, prohibiendo que la denuncia le genere perjuicios directos o indirectos.
+*   c) el cese de haberes preventivo hasta tanto se dicte la resolución definitiva de sumarios.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 9. De acuerdo con las normas de procedimiento administrativo municipal de la Ordenanza General 26348, el Recurso de Revocatoria para solicitar la modificación o anulación de una Disposición de Jefatura debe presentarse formalmente ante el mismo órgano que la dictó en el siguiente plazo perentorio:
-*   a) Quince (15) días hábiles administrativos contados a partir de su notificación formal.
-*   b) Diez (10) días hábiles administrativos desde el día siguiente al de la notificación del acto.
-*   c) Treinta (30) días corridos del dictado de la medida.
-*   d) Ninguna de las anteriores.
+### 9. El Recurso de Revocatoria para solicitar la modificación o anulación de una Disposición de Jefatura debe presentarse formalmente ante el mismo órgano que la dictó en el siguiente plazo perentorio:
+*   a) quince (15) días hábiles administrativos contados a partir de su notificación formal.
+*   b) diez (10) días hábiles administrativos desde el día siguiente al de la notificación del acto.
+*   c) treinta (30) días corridos del dictado de la medida.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
 ---
 
-### 10. Según el régimen fiscal y de control de la Ley Orgánica de las Municipalidades, las observaciones o "reparos" presupuestarios formulados por el Honorable Tribunal de Cuentas (HTC) se originan cuando se constata:
-*   a) Una reasignación presupuestaria legítima aprobada por decreto del Intendente dentro de la ordenanza complementaria.
-*   b) La afectación y desvío de partidas presupuestarias específicas para fines y gastos diferentes a los autorizados en el presupuesto general de gastos aprobado por el Concejo Deliberante.
-*   c) El cumplimiento de un descuento salarial de haberes derivado de sanciones correctivas de suspensión.
-*   d) Ninguna de las anteriores.
+### 10. Las observaciones o "reparos" presupuestarios formulados por el Honorable Tribunal de Cuentas (HTC) se originan cuando se constata:
+*   a) una reasignación presupuestaria legítima aprobada por decreto del Intendente dentro de la ordenanza complementaria.
+*   b) la afectación y desvío de partidas presupuestarias específicas para fines y gastos diferentes a los autorizados en el presupuesto general de gastos aprobado por el Concejo Deliberante.
+*   c) el cumplimiento de un descuento salarial de haberes derivado de sanciones correctivas de suspensión.
+*   d) ninguna de las anteriores.
 
 **Fundamento Normativo:** __________________________________________________________________
 
@@ -321,7 +321,7 @@ Por ello,
 
 ### 3. Sprint Planning y Refinamiento del Backlog (Scrum Manager)
 *   **Sprint Planning (Reunión de Planificación):** Reunión que se realiza al inicio del sprint donde el equipo ágil define qué requerimientos prioritarios del backlog se compromete a desarrollar (Sprint Backlog) y cómo lo logrará técnicamente (Sprint Goal).
-*   **Relación con la Reunión de Refinamiento (Refinement):** El refinamiento es una reunión continua a lo largo del sprint donde el equipo ágil y el Product Owner analizan, dividen y estiman de forma previa las historias del Product Backlog para que cumplan con la Definition of Ready (DoR) antes de ingresar al Sprint Planning, logrando que esta última sea más corta y productiva.
+*   **Relación con la Reunión de Refinamiento (Refinement):** El refinamiento es una reunión continua a lo largo del sprint donde el equipo ágil y el Product Owner analizan, dividen y estiman de forma previa las historias del Product Backlog para que queden "preparadas" o "accionables" antes de ingresar al Sprint Planning, logrando que esta última sea más corta y productiva.
 *   **Atribución de Priorización:** La atribución exclusiva para priorizar, ordenar e incorporar requerimientos al Product Backlog impositivo corresponde al **Product Owner** (Secretaría de Hacienda municipal), de acuerdo a los objetivos políticos y de recaudación de la comuna.
 
 *(📖 Scrum Manager v2.6, Parte I, págs. 21-25 y 27-29)*

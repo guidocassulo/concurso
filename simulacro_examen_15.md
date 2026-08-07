@@ -145,7 +145,7 @@
 
 1. **Capacitación en Género y Promoción:** Indique qué implicancias posee la capacitación obligatoria en género (Ley Micaela) sobre la carrera administrativa de los agentes municipales y fundamente con la norma correspondiente. (1.5 Puntos)
 2. **Sanciones por Incumplimiento:** Indique si la afirmación *"En todos los casos en que un agente municipal se niegue a realizar la capacitación obligatoria de la Ley Micaela es pasible de sanciones disciplinarias directas automáticas por el superior inmediato"* es verdadera o falsa, y fundamente su respuesta con la norma correspondiente. (1.5 Puntos)
-3. **Diligencias del Superior ante Violencia de Género:** Indique qué tres (3) principios de aplicación e interpretación y qué diligencias debe adoptar usted como superior jerárquico si recepciona una denuncia de una agente a su cargo motivada en violencia laboral por razón de género de acuerdo a la Ordenanza 24.271. (1.5 Puntos)
+3. Indique qué diligencias debe adoptar usted como superior jerárquico, si recepciona una denuncia de una agente a su cargo motivada en violencia laboral por razón de género. Desarrolle la respuesta y fundamente con la norma correspondiente. (1.5 Puntos)
 
 ---
 
@@ -249,7 +249,7 @@ MAR DEL PLATA, 10 de Julio de 2026.
 
 ---
 **¿Requiere Dictamen Legal Previo de la Procuración?:** 
-**No.** Las sanciones correctivas menores aplicadas de forma directa por la jefatura del área (apercibimiento, llamado de atención o suspensiones de hasta 5 días) no requieren de manera obligatoria dictamen legal previo de la Procuración Municipal, facultad que se reserva únicamente para sanciones expulsivas que exijan sumario administrativo formal previo.
+**No.** De conformidad con el **Artículo 31º de la Ley Provincial Nº 14656**, el dictamen previo del órgano de asesoramiento jurídico (Procuración Municipal) solo es obligatorio *"cuando la falta pueda dar lugar a la aplicación de sanción expulsiva"*. Las sanciones correctivas menores aplicadas de forma directa por la jefatura del área (tales como apercibimientos, llamados de atención o suspensiones breves de hasta 5 días) no son de carácter expulsivo y, por ende, no requieren obligatoriamente este dictamen legal de forma previa a su dictado.
 
 </details>
 
@@ -264,10 +264,11 @@ La afirmación es **Falsa**.
 *   **Procedimiento Legal:** De acuerdo con el Artículo 8º de la Ley 27.499, ante la negativa injustificada de un agente a realizar las capacitaciones previstas, se debe proceder a la **intimación en forma fehaciente** por la autoridad de aplicación a través del organismo pertinente. No habilita de forma directa ni automática a que el superior jerárquico aplique una sanción disciplinaria de suspensión sin mediar este procedimiento formal.
 
 ### 3. Diligencias y Abordaje de Denuncias (Ordenanza 24.271):
-Al recepcionar una denuncia de violencia de género laboral en la dependencia, el Jefe de Departamento debe garantizar obligatoriamente los siguientes principios y diligencias:
-1.  **Derecho a la Intimidad (Confidencialidad):** Garantizar el resguardo absoluto de las declaraciones y actas labradas durante todo el proceso.
-2.  **No Revictimización (Evitar la reiteración innecesaria del relato):** Garantizar que la denunciante no sea sometida a reiterar su relato ante múltiples oficinas o careos con el presunto agresor.
-3.  **Medidas de Protección Inmediatas:** Disponer de inmediato la separación física de los puestos de trabajo del presunto agresor y la víctima (reasignando tareas o turnos) a fin de proteger la integridad física y mental de la denunciante, canalizando la denuncia formalmente de acuerdo al protocolo aprobado por la Ordenanza 24.271.
+Al recepcionar una denuncia de violencia de género laboral en la dependencia, el superior jerárquico debe adoptar medidas de protección inmediatas y canalizar la denuncia (verbal o escrita) garantizando:
+1.  **Derecho a la Intimidad (Confidencialidad):** Resguardo absoluto del proceso y declaraciones.
+2.  **No Revictimización:** Evitar la reiteración innecesaria del relato de los hechos.
+3.  **Garantía de Debido Proceso (Principios de aplicación):** Asegurar la imparcialidad, agilidad y confidencialidad en los encuentros con las partes involucradas.
+*(📋 Protocolo aprobado por Ordenanza Municipal Nº 24271 - Anexo I - Principios de aplicación e interpretación y Denuncia)*
 
 </details>
 
