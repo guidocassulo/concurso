@@ -1,0 +1,175 @@
+Municipalidad de General Pueyrredon
+2026
+Informe
+Número:
+Referencia: Perfil del Cargo
+Perfil del Cargo Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software – C.F.
+01-31-00-01 (N° de Orden XX) dependiente de la Dirección de Software y Recursos de Red de la
+Subsecretaría de Gobierno Digital y Mejora de Proceso
+: Brindar a las distintas dependencias las soluciones informáticas específicas adecuadas para la
+administración integrada de la información municipal y proveer los servicios necesarios para el correcto uso
+y máximo aprovechamiento de dichos sistemas y de los sitios Web del Municipio.
+■
+Funciones	1.
+Definir los modelos de desarrollo de software y las pautas y herramientas de documentación a utilizar.	•
+Estudiar nuevas herramientas de desarrollo de software que propone el mercado, evaluar la conveniencia de
+su adopción y definir, en tal caso, las pautas y normas internas para su uso.
+•
+Definir los estándares y convenciones de codificación y testeo.	•
+Relevar y analizar requerimientos informáticos de las áreas que requieran nuevos sistemas o cambios a
+sistemas existentes.
+•
+Analizar y proponer formas de implementación de nuevos sistemas o modificaciones a sistemas existentes de
+acuerdo a los requerimientos relevados y a los recursos disponibles.
+•
+Planificar y coordinar el desarrollo interno de sistemas informáticos.	•
+Construir, diseñar, codificar y probar los sistemas informáticos.	•
+
+-- 1 of 5 --
+
+Proveer a los usuarios de sistemas específicos de consultas de información disponible en los sistemas, pero
+no accesible en forma directa a través de las aplicaciones de usuario provistas.
+•
+Implementar sistemas informáticos desarrollados internamente o provistos por proveedores externos;	•
+Mantener sistemas informáticos que no cuentan con un servicio de mantenimiento contratado a proveedores
+externos.
+•
+Verificar el cumplimiento de los proveedores externos de mantenimiento y/o desarrollo de sistemas
+informáticos.
+•
+Entender en la definición de los requerimientos funcionales, de implantación y contractuales a considerar en
+los pliegos de licitación para la adquisición de sistemas informáticos o para la contratación de desarrollo o
+servicios de mantenimiento.
+•
+Constituir el nexo entre los usuarios municipales de los sistemas informáticos específicos y los proveedores
+externos de mantenimiento,
+•
+Detectar y derivar los requerimientos de los usuarios internos a los proveedores externos que correspondan,
+administrando el proceso de atención de la solicitud y verificando la calidad del servicio.
+•
+Intervenir en el diseño del sitio Web de la Municipalidad y de su integración con los distintos sistemas
+informáticos.
+•
+Analizar y mantener el modelo de datos que dé soporte a toda la información municipal sin permitir
+redundancias, verificando y asegurando la adecuación de los sistemas a dicho modelo.
+•
+Hacer cumplir las normas proyectadas por la superioridad para la ejecución de las actividades descriptas.	•
+Coordinar, supervisar y elevar la información sobre los distintos requerimientos de la dependencia a ser
+considerados en el anteproyecto de presupuesto anual.
+•
+Entender en el estado de las tareas y el desempeño, capacidad, conducta y rendimiento del personal, velando
+por la disciplina, horario, higiene y orden de las dependencias a su cargo y la correcta atención al público.
+•
+Tramitar los expedientes relativos a las funciones a su cargo y efectuar el diligenciamiento de todas las
+actuaciones administrativas.
+•
+Verificar el buen uso, cuidado y conservación de los muebles, instalaciones, útiles de trabajo de la
+dependencia, manteniendo debidamente actualizado el cargo patrimonial de los elementos afectados.
+•
+Proponer normas o disposiciones relacionadas con el ámbito de su competencia y aconsejar modificaciones a
+los decretos y ordenanzas vigentes.
+•
+Programar y coordinar con el superior la adquisición de materiales, útiles y demás elementos indispensables
+para el mejor desenvolvimiento de la dependencia.
+•
+Asesorar a la superioridad en materias específicas de su competencia.	•
+Comunicar de inmediato a la superioridad todas las novedades que se produzcan y adoptar las disposiciones
+preventivas que las circunstancias aconsejen.
+•
+Proponer las medidas que estime convenientes con la finalidad de mejorar los servicios que presta la
+dependencia.
+•
+Características	1.
+Capacidad para tomar decisiones en los asuntos de su competencia y dirigir equipos.	•
+Proactivo, dinámico, con capacidad de manejo de equipo y resolución de conflictos.	•
+Capacidad de relacionarse y coordinarse efectivamente con el entorno institucional.	•
+Comprende sus tareas y los alcances de éstas en el contexto municipal	•
+Participa activamente en el desarrollo e implementación de planes para alcanzar las metas y objetivos	•
+
+-- 2 of 5 --
+
+planteados por la dependencia, procurando el mejor uso posible de los recursos disponibles.
+Responsabilizarse por los resultados de la labor de la dependencia.	•
+Requisitos	■
+■
+Secundario completo.	•
+Idoneidad para desempeñar el cargo.	•
+Redacción propia.	•
+Capacidad para la toma de decisiones.	•
+Conocimiento Técnicos	•
+Conocimientos avanzados en herramientas de desarrollo, bases de datos y metodologías ágiles.	•
+Dominio de herramientas propias del entorno de desarrollo: editores de código, sistemas de control de
+versiones (Git), entornos de testing, y plataformas de gestión de proyectos.
+•
+Conocimiento de arquitectura de sistemas, APIs, y seguridad informática	•
+Conocimiento de normas administrativas	•
+Ley Orgánica de las Municipalidades Decreto/Ley 6769	•
+Ordenanza General 26348. Mod. Ord General 267/80	•
+Ordenanza 26.580 – Complementaria de Presupuesto 2025	•
+Decreto Provincial 2980/00 (RAFAM)	•
+Ley 14656 – Decreto Reglamentario Nº 784/16 Estatuto Municipal	•
+Decreto n° 916/2020 Delegación de atribuciones	•
+Decreto n° 2250/13 – Grupo Ocupacional Computación	•
+Decreto n° 1539/18 - Régimen Sanciones	•
+Decreto n° 3131/99 y Modificatorio Decreto nº 966/19 - Manual de Redacción Administrativa	•
+Ley nº 19587 – Higiene y Seguridad en el Trabajo	•
+Ley n° 26743 - Identidad de Género	•
+Ordenanza n° 24271 - Protocolo de Abordaje Violencia Laboral Transgénero	•
+Ley Nº 24557 Ley de Riesgos de Trabajo	•
+Ley Nacional nº 27499, Ley Provincial nº 15134, Ordenanzas nº 24932 y nº 23962 – Ley Micaela	•
+RESOL-2024-161- Plataforma Novedades Diarias del Personal y Manual	•
+Decreto 434/2016- Plan de Modernización del Estado	•
+Decreto 561/2016- Implementación del Sistema Gestión Documental Electrónica (GDE)	•
+Decreto 1131/2016- Archivo y digitalización de documentos y expedientes electrónicos	•
+Implementación del módulo Legajo Único Electrónico (LUE)	•
+Decreto 1347-21 - Implementación GDE
+Decfc-2024-2050-e-munimdp-int- Constitución Domicilio Electrónico	○
+•
+
+-- 3 of 5 --
+
+Ley 25.506 "LEY DE FIRMA DIGITAL REPUBLICA ARGENTINA"	•
+Experiencia	•
+Importante en funciones relacionadas con tareas técnicas específicas.	•
+Habilidades de liderazgo, negociación y persuasión.	•
+Redacción de informes.	•
+Coordinación de procesos y tareas.	•
+En gestión de proyectos de desarrollo e implementación de sistemas.	•
+Requisitos Físicos	•
+Trabaja sentado y con desplazamientos alternadamente.	•
+Alto esfuerzo visual intermitente.	•
+Capacidad para el trabajo bajo presión.	•
+Responsabilidad	•
+Sobre el cumplimiento de las normas administrativas.	•
+Sobre el cumplimiento de las misiones y funciones de la dependencia.	•
+Sobre el personal que supervisa.	•
+Sobre los bienes de la dependencia a su cargo.	•
+Sobre la confidencialidad de la información que maneja.	•
+Ambiente	•
+Común a oficina técnico/administrativa.	•
+Actitudes y aptitudes Personales	•
+Capacidad organizativa.	•
+Planificación.	•
+Capacidad de Liderazgo y trabajo en equipo.	•
+Iniciativa propia.	•
+Predisposición para las relaciones interpersonales y actitud proactiva en el accionar.	•
+Capacidad de negociación y resolución de conflictos.	•
+Habilidad expresiva.	•
+Discreción.	•
+Capacidad para coordinar procesos y tareas que requieren cumplimiento en fechas determinadas.	•
+
+-- 4 of 5 --
+
+Capacidad de escuchar, entender y valorar empáticamente información, ideas y opiniones que los demás le
+comuniquen, pudiendo realizar una retroalimentación asertiva del proceso de comunicación.
+•
+Priorizar el trabajo en equipo, motivando a sus compañeros a incrementar el nivel de atención y conciencia
+sobre la importancia y el valor que tienen los resultados deseados y los medios para lograrlo.
+•
+Modalidad de Trabajo:	•
+Dado el requerimiento de la dependencia y en cuanto se prevee la modalidad de trabajo del personal jerárquico en lo
+que respecta a la disposición y/o extensión horaria, deberá cumplir con 40 horas semanales, de acuerdo a las
+necesidades propias de la oficina
+
+-- 5 of 5 --
+

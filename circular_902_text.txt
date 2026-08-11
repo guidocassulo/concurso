@@ -1,0 +1,85 @@
+Municipalidad de General Pueyrredon
+2026
+CIRCULAR
+Número:
+Referencia: CIRCULAR 902
+SECRETARÍA LEGAL, TÉCNICA Y DE HACIENDA
+SUBSECRETARÍA TÉCNICA Y ADMINISTRATIVA
+DIRECCIÓN GENERAL DE RECURSOS HUMANOS
+DIRECCIÓN DE RECURSOS HUMANOS
+DEPARTAMENTO TÉCNICO Y GESTIÓN DE RECURSOS HUMANOS
+CIRCULAR Nº 902*
+LLAMADO A CONCURSO INTERNO
+Jefe de Departamento, C.F. 1-31-00-01, Nº de Orden 6733, en el Departamento de Gestión, Desarrollo e
+Innovación en Sistemas de Software dependiente de la Dirección de Software y Recursos de Red de la
+Subsecretaría de Gobierno Digital y Mejora de Proceso de la Secretaría de Participación Ciudadana y
+Descentralización.
+Las funciones del cargo a concursar implican: definir los modelos de desarrollo de software y las pautas y
+herramientas de documentación a utilizar; estudiar nuevas herramientas de desarrollo de software que propone
+el mercado, evaluar la conveniencia de su adopción y definir, en tal caso, las pautas y normas internas para su
+uso; definir los estándares y convenciones de codificación y testeo; relevar y analizar requerimientos
+informáticos de las áreas que requieran nuevos sistemas o cambios a sistemas existentes; analizar y proponer
+formas de implementación de nuevos sistemas o modificaciones a sistemas existentes de acuerdo a los
+requerimientos relevados y a los recursos disponibles; planificar y coordinar el desarrollo interno de sistemas
+informáticos; construir, diseñar, codificar y probar los sistemas informáticos; proveer a los usuarios de sistemas
+específicos de consultas de información disponible en los sistemas, pero no accesible en forma directa a través
+
+-- 1 of 3 --
+
+de las aplicaciones de usuario provistas; implementar sistemas informáticos desarrollados internamente o
+provistos por proveedores externos; mantener sistemas informáticos que no cuentan con un servicio de
+mantenimiento contratado a proveedores externos; verificar el cumplimiento de los proveedores externos de
+mantenimiento y/o desarrollo de sistemas informáticos; entender en la definición de los requerimientos
+funcionales, de implantación y contractuales a considerar en los pliegos de licitación para la adquisición de
+sistemas informáticos o para la contratación de desarrollo o servicios de mantenimiento; constituir el nexo entre
+los usuarios municipales de los sistemas informáticos específicos y los proveedores externos de mantenimiento;
+detectar y derivar los requerimientos de los usuarios internos a los proveedores externos que correspondan,
+administrando el proceso de atención de la solicitud y verificando la calidad del servicio; intervenir en el diseño
+del sitio Web de la Municipalidad y de su integración con los distintos sistemas informáticos; analizar y mantener
+el modelo de datos que dé soporte a toda la información municipal sin permitir redundancias, verificando y
+asegurando la adecuación de los sistemas a dicho modelo; etc.
+Jurados titulares: Carlos Fernando Vattimo, Legajo Nº 18478/1, Jefe de Departamento en el Departamento de
+Infraestructura de Tecnologías de Comunicación; Marcos Antonio Basualdo, Legajo Nº 26781/3, Jefe de
+Departamento en el Departamento Control de Recursos Humanos; Aldo Marcelo Álvarez, Legajo Nº 18813/1,
+Jefe de Departamento en el Departamento de Planificación y Monitoreo.
+Jurados suplentes: Fabio Jesús Hernán Albo, Legajo Nº 19812/1, Director en el Instituto de Capacitación
+Municipal; Martín Ariel Broso, Legajo Nº 23944/1, Jefe de Departamento en el Departamento Administración y
+Personal del EMTURYC; María Florencia Doyhenard, Legajo Nº 25831/1, Jefe de Departamento en el
+Departamento General Administrativo.
+Veedores Sindicales: Maio María Verónica, Legajo Nº 23408 (titular) y Rúben Darío Benavidez Legajo Nº
+25646 (suplente).
+Requisitos: Título Secundario completo; 6 Meses de antigüedad ininterrumpida al cierre de la inscripción;
+idoneidad para desempeñar el cargo; redacción propia; capacidad para la toma de decisiones; conocimientos
+avanzados en herramientas de desarrollo, bases de datos y metodologías ágiles; dominio de herramientas
+propias del entorno de desarrollo: editores de código, sistemas de control de versiones (Git), entornos de
+testing, y plataformas de gestión de proyectos; conocimiento de arquitectura de sistemas, APIs, y seguridad
+informática; conocimiento de normas administrativas especificas y generales.
+INSCRIPCIÓN
+La inscripción al concurso se realizará exclusivamente mediante correo electrónico al Departamento Técnico y
+Gestión de Recursos Humanos de la Dirección de Recursos Humanos.
+Desde el 22 al 26 de junio de 2026.
+La planilla de inscripción podrá descargarse de https://appsb.mardelplata.gob.ar/funcionpublicaweb/Concursos/
+Deberá ingresar a la Carpeta “Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de
+Software”.
+Una vez completada será remitida vía correo electrónico al Departamento Técnico y Gestión de Recursos
+Humanos a la siguiente dirección: dto.tecnico@mardelplata.gov.ar
+INFORMES
+Las consultas referidas al concurso podrán realizarse mediante correo electrónico al Departamento Técnico y
+Gestión de Recursos Humanos de la Dirección de Recursos Humanos (dto.tecnico@mardelplata.gov.ar) quien
+utilizará el mismo medio para responder, o por vía telefónica al 499-6333.
+
+-- 2 of 3 --
+
+DOCUMENTOS DE CONSULTA
+Los interesados podrán acceder a los siguientes documentos a través del link
+https://appsb.mardelplata.gob.ar/funcionpublicaweb/Concursos/ Deberán ingresar a la Carpeta “Jefe de
+Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software”:
+• Perfil del cargo a concursar.
+• Acta del jurado con las pautas del concurso.
+• Planilla de inscripción.
+• Bibliografía obligatoria.
+*A los Jefes y Jefas de las dependencias: Es obligación comunicar, por el medio que estime pertinente, el contenido de la
+presente. Esta Circular responde a un alto interés de los agentes municipales en el acceso a la carrera
+
+-- 3 of 3 --
+
