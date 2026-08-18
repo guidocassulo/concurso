@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Developer Experience Survey – Share your thoughts on tools, workflows, and technologies you love." />
+    <title>Developer Experience Survey</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+
+    <!-- Animated background blobs -->
+    <div class="bg-blob blob-1"></div>
+    <div class="bg-blob blob-2"></div>
+    <div class="bg-blob blob-3"></div>
+
+    <div class="page-wrapper">
+
+      <header class="hero">
+        <div class="badge">
+          <span class="badge-dot"></span>
+          Developer Insights 2026
+        </div>
+        <h1 id="title">Developer Experience Survey</h1>
+        <p id="description">
+          Help us understand your workflow, tools, and what excites you most
+          about the future of software development. Your responses shape
+          better products for the dev community.
+        </p>
+      </header>
+
+      <main>
+        <form id="survey-form" novalidate>
+
+          <!-- Progress bar (decorative) -->
+          <div class="progress-bar" aria-hidden="true">
+            <div class="progress-fill"></div>
+          </div>
+
+          <!-- ── Section 1: Personal Info ── -->
+          <fieldset class="form-section">
+            <legend class="section-legend">
+              <span class="legend-icon">👤</span> Personal Information
+            </legend>
+
+            <!-- Name -->
+            <div class="form-group">
+              <label id="name-label" for="name">Full Name</label>
+              <div class="input-wrapper">
+                <input
+                  type="text"
+                  id="name"
+                  name="name"
+                  placeholder="e.g. Alex Rivera"
+                  required
+                  autocomplete="name"
+                />
+                <span class="input-icon">✦</span>
+              </div>
+            </div>
+
+            <!-- Email -->
+            <div class="form-group">
+              <label id="email-label" for="email">Email Address</label>
+              <div class="input-wrapper">
+                <input
+                  type="email"
+                  id="email"
+                  name="email"
+                  placeholder="you@example.com"
+                  required
+                  autocomplete="email"
+                />
+                <span class="input-icon">@</span>
+              </div>
+            </div>
+
+            <!-- Age / Number -->
+            <div class="form-group">
+              <label id="number-label" for="number">Years of Experience</label>
+              <div class="input-wrapper">
+                <input
+                  type="number"
+                  id="number"
+                  name="number"
+                  placeholder="e.g. 5"
+                  min="0"
+                  max="60"
+                />
+                <span class="input-icon">#</span>
+              </div>
+              <small class="field-hint">Between 0 and 60 years</small>
+            </div>
+          </fieldset>
+
+          <!-- ── Section 2: Role & Stack ── -->
+          <fieldset class="form-section">
+            <legend class="section-legend">
+              <span class="legend-icon">💼</span> Role &amp; Stack
+            </legend>
+
+            <!-- Dropdown -->
+            <div class="form-group">
+              <label for="dropdown">Current Role</label>
+              <div class="select-wrapper">
+                <select id="dropdown" name="role">
+                  <option value="" disabled selected>Select your role…</option>
+                  <option value="frontend">Frontend Developer</option>
+                  <option value="backend">Backend Developer</option>
+                  <option value="fullstack">Full-Stack Developer</option>
+                  <option value="devops">DevOps / SRE Engineer</option>
+                  <option value="mobile">Mobile Developer</option>
+                  <option value="data">Data / ML Engineer</option>
+                  <option value="other">Other</option>
+                </select>
+                <span class="select-arrow">▾</span>
+              </div>
+            </div>
+
+            <!-- Radio: Preferred paradigm -->
+            <div class="form-group">
+              <label class="group-label">Preferred Programming Paradigm</label>
+              <div class="radio-grid">
+
+                <label class="radio-card">
+                  <input type="radio" name="paradigm" value="functional" />
+                  <span class="radio-visual"></span>
+                  <span class="radio-text">
+                    <strong>Functional</strong>
+                    <small>Pure functions & immutability</small>
+                  </span>
+                </label>
+
+                <label class="radio-card">
+                  <input type="radio" name="paradigm" value="oop" />
+                  <span class="radio-visual"></span>
+                  <span class="radio-text">
+                    <strong>Object-Oriented</strong>
+                    <small>Classes & encapsulation</small>
+                  </span>
+                </label>
+
+                <label class="radio-card">
+                  <input type="radio" name="paradigm" value="declarative" />
+                  <span class="radio-visual"></span>
+                  <span class="radio-text">
+                    <strong>Declarative</strong>
+                    <small>Describe the what, not the how</small>
+                  </span>
+                </label>
+
+                <label class="radio-card">
+                  <input type="radio" name="paradigm" value="procedural" />
+                  <span class="radio-visual"></span>
+                  <span class="radio-text">
+                    <strong>Procedural</strong>
+                    <small>Step-by-step instructions</small>
+                  </span>
+                </label>
+
+              </div>
+            </div>
+          </fieldset>
+
+          <!-- ── Section 3: Preferences ── -->
+          <fieldset class="form-section">
+            <legend class="section-legend">
+              <span class="legend-icon">⚡</span> Tools &amp; Preferences
+            </legend>
+
+            <!-- Checkboxes -->
+            <div class="form-group">
+              <label class="group-label">Technologies You Use Regularly</label>
+              <div class="checkbox-grid">
+
+                <label class="checkbox-card">
+                  <input type="checkbox" name="tech" value="typescript" />
+                  <span class="checkbox-visual"></span>
+                  <span>TypeScript</span>
+                </label>
+
+                <label class="checkbox-card">
+                  <input type="checkbox" name="tech" value="react" />
+                  <span class="checkbox-visual"></span>
+                  <span>React / Next.js</span>
+                </label>
+
+                <label class="checkbox-card">
+                  <input type="checkbox" name="tech" value="node" />
+                  <span class="checkbox-visual"></span>
+                  <span>Node.js</span>
+                </label>
+
+                <label class="checkbox-card">
+                  <input type="checkbox" name="tech" value="python" />
+                  <span class="checkbox-visual"></span>
+                  <span>Python</span>
+                </label>
+
+                <label class="checkbox-card">
+                  <input type="checkbox" name="tech" value="docker" />
+                  <span class="checkbox-visual"></span>
+                  <span>Docker / K8s</span>
+                </label>
+
+                <label class="checkbox-card">
+                  <input type="checkbox" name="tech" value="rust" />
+                  <span class="checkbox-visual"></span>
+                  <span>Rust / Go</span>
+                </label>
+
+                <label class="checkbox-card">
+                  <input type="checkbox" name="tech" value="ai" />
+                  <span class="checkbox-visual"></span>
+                  <span>AI / LLM APIs</span>
+                </label>
+
+                <label class="checkbox-card">
+                  <input type="checkbox" name="tech" value="cloud" />
+                  <span class="checkbox-visual"></span>
+                  <span>Cloud (AWS/GCP/Azure)</span>
+                </label>
+
+              </div>
+            </div>
+
+            <!-- Textarea -->
+            <div class="form-group">
+              <label for="comments">Additional Comments</label>
+              <textarea
+                id="comments"
+                name="comments"
+                rows="5"
+                placeholder="Tell us what you love, what you wish was different, or anything else on your mind…"
+              ></textarea>
+            </div>
+          </fieldset>
+
+          <!-- Submit -->
+          <div class="form-footer">
+            <p class="privacy-note">🔒 Your responses are anonymous and never shared.</p>
+            <button type="submit" id="submit">
+              <span class="btn-text">Submit Survey</span>
+              <span class="btn-icon">→</span>
+            </button>
+          </div>
+
+        </form>
+      </main>
+
+    </div><!-- /.page-wrapper -->
+
+    <script>
+      // Animate progress bar on input
+      const inputs = document.querySelectorAll('input, select, textarea');
+      const fill   = document.querySelector('.progress-fill');
+      const total  = inputs.length;
+
+      function updateProgress() {
+        let filled = 0;
+        inputs.forEach(el => {
+          if (el.type === 'checkbox' || el.type === 'radio') {
+            if (el.checked) filled++;
+          } else if (el.value.trim() !== '') {
+            filled++;
+          }
+        });
+        const pct = Math.min(100, Math.round((filled / (total * 0.6)) * 100));
+        fill.style.width = pct + '%';
+      }
+
+      inputs.forEach(el => el.addEventListener('change', updateProgress));
+      inputs.forEach(el => el.addEventListener('input', updateProgress));
+    </script>
+
+  </body>
+</html>

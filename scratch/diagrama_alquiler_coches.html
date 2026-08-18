@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<style>
+  body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 40px; background-color: #fff; color: #333; }
+  .header { text-align: center; border-bottom: 3px solid #1a365d; padding-bottom: 15px; margin-bottom: 30px; }
+  h1 { color: #1a365d; font-size: 24px; margin: 0; }
+  p.subtitle { color: #4a5568; font-size: 14px; margin-top: 5px; }
+  .section-title { font-size: 16px; font-weight: bold; color: #2b6cb0; margin-top: 25px; margin-bottom: 10px; border-left: 4px solid #2b6cb0; padding-left: 10px; }
+  .diagram-container { text-align: center; margin: 30px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 8px; background-color: #f7fafc; }
+  table { width: 100%; border-collapse: collapse; margin-top: 15px; font-size: 13px; }
+  th, td { border: 1px solid #cbd5e0; padding: 8px 12px; text-align: left; }
+  th { background-color: #edf2f7; color: #2d3748; }
+  .note { background-color: #ebf8ff; border-left: 4px solid #3182ce; padding: 12px; margin-top: 20px; font-size: 12px; line-height: 1.5; }
+</style>
+</head>
+<body>
+
+<div class='header'>
+  <h1>Diagrama de Clases UML - Empresa de Alquiler de Coches</h1>
+  <p class='subtitle'>Tarea Práctica Orientada a Objetos | Software Design & Architecture - University of Alberta</p>
+</div>
+
+<div class='section-title'>1. Diagrama de Clases UML</div>
+
+<div class='diagram-container'>
+  <svg width='750' height='380' viewBox='0 0 750 380' xmlns='http://www.w3.org/2000/svg'>
+    <!-- Class 1: EmpresaDeAlquiler -->
+    <g transform='translate(240, 20)'>
+      <rect width='260' height='50' fill='#ebf8ff' stroke='#2b6cb0' stroke-width='2' rx='4'/>
+      <text x='130' y='32' font-family='sans-serif' font-size='14' font-weight='bold' fill='#2c5282' text-anchor='middle'>EmpresaDeAlquiler</text>
+    </g>
+
+    <!-- Class 2: Coche -->
+    <g transform='translate(40, 160)'>
+      <rect width='180' height='50' fill='#ebf8ff' stroke='#2b6cb0' stroke-width='2' rx='4'/>
+      <text x='90' y='32' font-family='sans-serif' font-size='14' font-weight='bold' fill='#2c5282' text-anchor='middle'>Coche</text>
+    </g>
+
+    <!-- Class 3: Alquiler (Asociación / Renta) -->
+    <g transform='translate(280, 160)'>
+      <rect width='180' height='50' fill='#fefcbf' stroke='#b7791f' stroke-width='2' rx='4'/>
+      <text x='90' y='32' font-family='sans-serif' font-size='14' font-weight='bold' fill='#744210' text-anchor='middle'>Alquiler</text>
+    </g>
+
+    <!-- Class 4: Arrendatario -->
+    <g transform='translate(520, 160)'>
+      <rect width='180' height='50' fill='#ebf8ff' stroke='#2b6cb0' stroke-width='2' rx='4'/>
+      <text x='90' y='32' font-family='sans-serif' font-size='14' font-weight='bold' fill='#2c5282' text-anchor='middle'>Arrendatario</text>
+    </g>
+
+    <!-- Lines & Multiplicities -->
+    <!-- EmpresaDeAlquiler to Coche -->
+    <path d='M 300 70 L 130 160' stroke='#4a5568' stroke-width='2' fill='none'/>
+    <text x='205' y='100' font-family='sans-serif' font-size='12' fill='#2d3748'>1</text>
+    <text x='140' y='145' font-family='sans-serif' font-size='12' fill='#2d3748'>*</text>
+    <text x='200' y='130' font-family='sans-serif' font-size='11' font-style='italic' fill='#718096'>posee</text>
+
+    <!-- EmpresaDeAlquiler to Alquiler -->
+    <path d='M 370 70 L 370 160' stroke='#4a5568' stroke-width='2' fill='none'/>
+    <text x='380' y='95' font-family='sans-serif' font-size='12' fill='#2d3748'>1</text>
+    <text x='380' y='145' font-family='sans-serif' font-size='12' fill='#2d3748'>*</text>
+    <text x='380' y='120' font-family='sans-serif' font-size='11' font-style='italic' fill='#718096'>gestiona</text>
+
+    <!-- EmpresaDeAlquiler to Arrendatario -->
+    <path d='M 440 70 L 610 160' stroke='#4a5568' stroke-width='2' fill='none'/>
+    <text x='525' y='100' font-family='sans-serif' font-size='12' fill='#2d3748'>1</text>
+    <text x='590' y='145' font-family='sans-serif' font-size='12' fill='#2d3748'>*</text>
+    <text x='530' y='130' font-family='sans-serif' font-size='11' font-style='italic' fill='#718096'>registra</text>
+
+    <!-- Coche to Alquiler -->
+    <path d='M 220 185 L 280 185' stroke='#4a5568' stroke-width='2' fill='none'/>
+    <text x='230' y='178' font-family='sans-serif' font-size='12' fill='#2d3748'>1</text>
+    <text x='265' y='178' font-family='sans-serif' font-size='12' fill='#2d3748'>*</text>
+
+    <!-- Alquiler to Arrendatario -->
+    <path d='M 460 185 L 520 185' stroke='#4a5568' stroke-width='2' fill='none'/>
+    <text x='470' y='178' font-family='sans-serif' font-size='12' fill='#2d3748'>*</text>
+    <text x='505' y='178' font-family='sans-serif' font-size='12' fill='#2d3748'>1</text>
+
+    <!-- Legend box -->
+    <rect x='150' y='270' width='450' height='80' fill='#ffffff' stroke='#cbd5e0' stroke-width='1' rx='4'/>
+    <text x='375' y='290' font-family='sans-serif' font-size='12' font-weight='bold' fill='#2d3748' text-anchor='middle'>Leyenda de Relaciones</text>
+    <text x='170' y='315' font-family='sans-serif' font-size='11' fill='#4a5568'>• Alquiler: Clase de asociación entre Coche y Arrendatario.</text>
+    <text x='170' y='335' font-family='sans-serif' font-size='11' fill='#4a5568'>• Multiplicidad: 1 (Uno) a * (Muchos).</text>
+  </svg>
+</div>
+
+<div class='section-title'>2. Explicación de las Clases y Relaciones</div>
+
+<table>
+  <thead>
+    <tr>
+      <th>Clase</th>
+      <th>Descripción O.O.</th>
+      <th>Relaciones UML</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>EmpresaDeAlquiler</b></td>
+      <td>Entidad principal de control que gestiona la flota, los clientes y las transacciones.</td>
+      <td>Tiene relación 1 a * con Coche, Alquiler y Arrendatario.</td>
+    </tr>
+    <tr>
+      <td><b>Coche</b></td>
+      <td>Representa los vehículos pertenecientes a la flota de la empresa.</td>
+      <td>Un Coche puede tener múltiples Alquileres a lo largo del tiempo.</td>
+    </tr>
+    <tr>
+      <td><b>Arrendatario</b></td>
+      <td>Representa a los clientes/usuarios registrados en el sistema.</td>
+      <td>Un Arrendatario puede realizar múltiples Alquileres.</td>
+    </tr>
+    <tr>
+      <td><b>Alquiler</b> (Transacción)</td>
+      <td>Clase intermedia que conecta a un Arrendatario con un Coche específico.</td>
+      <td>Vincula 1 Arrendatario con 1 Coche en una transacción dada.</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class='note'>
+  <b>Nota de Corrección UML:</b> Según la consigna, no se incluyen atributos ni métodos. La solución incluye la clase conceptual intermedia <i>Alquiler</i> para modelar a los "arrendatarios que alquilan coches", resolviendo limpiamente la relación muchos-a-muchos (M:N) en el diseño orientado a objetos.
+</div>
+
+</body>
+</html>

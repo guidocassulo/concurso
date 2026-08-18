@@ -10,6 +10,10 @@ Thumbs.db
 # Ignorar archivos de logs y temporales
 *.log
 
+# Ignorar PDFs pesados en examenes/
+examenes/**/*.pdf
+examenes/*.pdf
+
 # Ignorar temporales pesados de OCR y zips
 scratch/dec1843_*/
 scratch/*.zip
