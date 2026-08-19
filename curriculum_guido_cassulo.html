@@ -6,7 +6,7 @@
     <style>
         @page {
             size: A4;
-            margin: 20mm 20mm 20mm 20mm;
+            margin: 18mm 18mm 18mm 18mm;
         }
         
         * {
@@ -17,7 +17,7 @@
         
         body {
             font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
-            color: #222;
+            color: #1a1a1a;
             background-color: #fff;
             line-height: 1.4;
             font-size: 10pt;
@@ -26,8 +26,8 @@
         .main-header {
             text-align: center;
             border-bottom: 2px solid #222;
-            padding-bottom: 12px;
-            margin-bottom: 16px;
+            padding-bottom: 10px;
+            margin-bottom: 14px;
         }
         
         .name {
@@ -35,27 +35,27 @@
             font-weight: 700;
             color: #111;
             letter-spacing: 0.5px;
-            margin-bottom: 4px;
+            margin-bottom: 3px;
         }
         
         .contact-info {
-            font-size: 10pt;
+            font-size: 9.5pt;
             color: #333;
         }
         
         .section {
-            margin-bottom: 14px;
+            margin-bottom: 13px;
         }
         
         .section-title {
-            font-size: 11pt;
+            font-size: 10.5pt;
             font-weight: 700;
             color: #111;
             text-transform: uppercase;
             letter-spacing: 0.5px;
-            border-bottom: 1px solid #aaa;
+            border-bottom: 1px solid #999;
             padding-bottom: 2px;
-            margin-bottom: 8px;
+            margin-bottom: 7px;
         }
         
         .item-header {
@@ -72,47 +72,46 @@
         }
         
         .item-subtitle {
-            font-size: 10pt;
+            font-size: 9.5pt;
             font-style: italic;
             color: #333;
-            margin-bottom: 4px;
+            margin-bottom: 3px;
         }
         
         .item-date {
-            font-size: 10pt;
+            font-size: 9.5pt;
             color: #333;
+            font-weight: 600;
         }
         
-        ul {
+        ul.bullet-list {
             list-style-type: square;
             margin-left: 18px;
             margin-top: 3px;
-            margin-bottom: 6px;
+            margin-bottom: 5px;
         }
         
-        li {
-            margin-bottom: 3px;
+        ul.bullet-list li {
+            margin-bottom: 2.5px;
             font-size: 9.5pt;
             color: #222;
             text-align: justify;
         }
         
-        .skills-list {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 6px 14px;
-            list-style: none;
-            margin-left: 0;
+        .skills-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            column-gap: 24px;
+            row-gap: 3px;
+            margin-left: 16px;
+            margin-top: 4px;
+            margin-bottom: 6px;
+            list-style-type: square;
         }
         
-        .skills-list li {
+        .skills-grid li {
             font-size: 9.5pt;
             color: #222;
-        }
-        
-        .skills-list li::before {
-            content: "• ";
-            font-weight: bold;
         }
     </style>
 </head>
@@ -127,7 +126,7 @@
 
     <div class="section">
         <div class="section-title">Educación</div>
-        <div style="margin-bottom: 8px;">
+        <div style="margin-bottom: 6px;">
             <div class="item-header">
                 <span class="item-title">Instituto Técnico Superior Teclab</span>
                 <span class="item-date">2026</span>
@@ -145,54 +144,48 @@
 
     <div class="section">
         <div class="section-title">Habilidades Técnicas</div>
-        <ul class="skills-list">
-            <li>.NET</li>
-            <li>C#</li>
+        <ul class="skills-grid">
+            <li>.NET / C#</li>
             <li>ASP.NET Webforms</li>
-            <li>Python</li>
-            <li>Flask</li>
-            <li>JavaScript</li>
-            <li>TypeScript</li>
-            <li>Angular</li>
-            <li>React JS</li>
+            <li>Python / Flask</li>
+            <li>JavaScript / TypeScript</li>
+            <li>Angular / React JS</li>
+            <li>HTML5 / CSS3</li>
             <li>PostgreSQL</li>
             <li>Microsoft SQL Server</li>
             <li>Bases de datos relacionales</li>
             <li>REST APIs</li>
             <li>Arquitectura de Software</li>
-            <li>Arquitectura Orientada a Servicios (SOA)</li>
+            <li>Arquitectura SOA</li>
             <li>Patrones de Diseño</li>
             <li>Programación Orientada a Objetos</li>
-            <li>Scrum</li>
-            <li>Metodologías Ágiles</li>
-            <li>QA</li>
-            <li>Unit Testing</li>
-            <li>Git</li>
+            <li>QA & Unit Testing</li>
+            <li>Git / Control de Versiones</li>
             <li>Documentación Técnica</li>
             <li>Soporte Técnico</li>
-            <li>Gestión Documental Electrónica (GDE)</li>
             <li>Ciberseguridad</li>
             <li>Inteligencia Artificial</li>
+            <li>Gestión Documental Electrónica (GDE)</li>
         </ul>
     </div>
 
     <div class="section">
         <div class="section-title">Experiencia Laboral</div>
         
-        <div style="margin-bottom: 12px;">
+        <div style="margin-bottom: 10px;">
             <div class="item-header">
                 <span class="item-title">Municipalidad de General Pueyrredon</span>
                 <span class="item-date">2022 – Actualidad</span>
             </div>
             <div class="item-subtitle">Desarrollador de Software</div>
-            <ul>
+            <ul class="bullet-list">
                 <li>Desarrollo de aplicaciones full-stack utilizando .NET, ASP.NET Webforms, Angular, React JS, PostgreSQL y SQL Server.</li>
                 <li>Análisis y relevamiento de requerimientos funcionales de aplicaciones para uso de las dependencias municipales y de los ciudadanos.</li>
                 <li>Creación de documentación técnica y manuales de uso para los usuarios.</li>
                 <li>Codificación de programas en lenguajes oficiales del área, testing, mantenimiento y actualización de sistemas en producción.</li>
                 <li>Investigación e implementación de nuevas tecnologías y arquitecturas de software.</li>
                 <li>Implementación de herramientas de testing para pruebas de integración y casos de uso.</li>
-                <li>Colaboración en equipos de trabajo multidisciplinarios aplicando Scrum y metodologías ágiles.</li>
+                <li>Colaboración y coordinación técnica con equipos de trabajo y áreas requirentes para el cumplimiento de entregas.</li>
             </ul>
         </div>
 
@@ -202,19 +195,19 @@
                 <span class="item-date">2021 – 2022</span>
             </div>
             <div class="item-subtitle">Desarrollador Full-Stack Web</div>
-            <ul>
-                <li>Diseño y desarrollo completo del sitio web Saludame utilizando Angular.</li>
-                <li>Análisis, diseño y desarrollo de diversas aplicaciones web.</li>
-                <li>Integración de pagos electrónicos mediante pasarelas de pago (PayPal).</li>
-                <li>Optimización de rendimiento y diseño adaptable a dispositivos móviles.</li>
-                <li>Elaboración de documentación técnica y funcional para clientes.</li>
+            <ul class="bullet-list">
+                <li>Gestión integral del ciclo de vida de desarrollo de software (análisis de requerimientos, diseño de arquitectura, maquetación, desarrollo, testing y puesta en producción).</li>
+                <li>Diseño y desarrollo completo de plataformas web interactivas (Single Page Applications) utilizando Angular y consumo de servicios backend RESTful.</li>
+                <li>Integración e implementación de pasarelas de pago electrónico (PayPal) y servicios de terceros con estándares de seguridad transaccional.</li>
+                <li>Optimización de rendimiento, tiempos de carga y diseño responsivo adaptativo enfocado en la experiencia de usuario (UI/UX) y dispositivos móviles (Mobile-First).</li>
+                <li>Elaboración de especificaciones técnicas, manuales de usuario y soporte funcional post-implementación para clientes.</li>
             </ul>
         </div>
     </div>
 
     <div class="section">
         <div class="section-title">Cursos y Capacitaciones</div>
-        <ul>
+        <ul class="bullet-list">
             <li>Actualización Profesional en Inteligencia Artificial — Instituto Técnico Superior Teclab</li>
             <li>Especialización en Software Design and Architecture — University of Alberta (Coursera)</li>
             <li>Object-Oriented Design — University of Alberta (Coursera)</li>
