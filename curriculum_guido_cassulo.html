@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Curriculum Vitae - Guido Emmanuel Cassulo</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 18mm 16mm 18mm 16mm;
+        }
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
+            color: #222;
+            background-color: #fff;
+            line-height: 1.45;
+            font-size: 10.5pt;
+        }
+        
+        .header {
+            border-bottom: 2.5px solid #005a9c;
+            padding-bottom: 12px;
+            margin-bottom: 16px;
+        }
+        
+        .name {
+            font-size: 20pt;
+            font-weight: 700;
+            color: #003366;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 4px;
+        }
+        
+        .title-badge {
+            font-size: 11pt;
+            font-weight: 600;
+            color: #444;
+            margin-bottom: 8px;
+        }
+        
+        .contact-info {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px 20px;
+            font-size: 9.5pt;
+            color: #555;
+        }
+        
+        .contact-item {
+            display: flex;
+            align-items: center;
+        }
+        
+        .contact-item strong {
+            color: #222;
+            margin-right: 4px;
+        }
+        
+        .section {
+            margin-bottom: 15px;
+            page-break-inside: avoid;
+        }
+        
+        .section-title {
+            font-size: 11.5pt;
+            font-weight: 700;
+            color: #004080;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 1.5px solid #cbd5e1;
+            padding-bottom: 3px;
+            margin-bottom: 8px;
+        }
+        
+        .item-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 2px;
+        }
+        
+        .item-title {
+            font-size: 10.5pt;
+            font-weight: 700;
+            color: #1a1a1a;
+        }
+        
+        .item-subtitle {
+            font-size: 10pt;
+            font-weight: 600;
+            color: #005a9c;
+            margin-bottom: 4px;
+        }
+        
+        .item-date {
+            font-size: 9.5pt;
+            font-weight: 600;
+            color: #666;
+        }
+        
+        ul {
+            list-style-type: square;
+            margin-left: 18px;
+            margin-top: 4px;
+            margin-bottom: 8px;
+        }
+        
+        li {
+            margin-bottom: 3.5px;
+            font-size: 10pt;
+            color: #333;
+            text-align: justify;
+        }
+        
+        .skills-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px 16px;
+            margin-top: 6px;
+        }
+        
+        .skill-category {
+            background-color: #f8fafc;
+            border-left: 3px solid #005a9c;
+            padding: 6px 10px;
+            border-radius: 0 4px 4px 0;
+        }
+        
+        .skill-category-title {
+            font-size: 9.5pt;
+            font-weight: 700;
+            color: #003366;
+            margin-bottom: 2px;
+        }
+        
+        .skill-category-content {
+            font-size: 9pt;
+            color: #475569;
+        }
+        
+        .courses-year {
+            font-size: 10pt;
+            font-weight: 700;
+            color: #005a9c;
+            margin-top: 6px;
+            margin-bottom: 3px;
+        }
+        
+        .courses-list {
+            margin-left: 16px;
+            margin-bottom: 6px;
+        }
+        
+        .courses-list li {
+            margin-bottom: 2.5px;
+            font-size: 9.5pt;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <div class="name">Guido Emmanuel Cassulo</div>
+        <div class="title-badge">Técnico Superior en Programación | Desarrollador de Software</div>
+        <div class="contact-info">
+            <div class="contact-item"><strong>DNI:</strong> 37.983.234</div>
+            <div class="contact-item"><strong>Nacionalidad:</strong> Argentina</div>
+            <div class="contact-item"><strong>Residencia:</strong> Mar del Plata, Buenos Aires</div>
+            <div class="contact-item"><strong>Teléfono:</strong> +54 9 223 498-9864</div>
+            <div class="contact-item"><strong>Email:</strong> guidocassulo@gmail.com</div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Actualidad y Perfil Profesional</div>
+        <p style="font-size: 10pt; text-align: justify; color: #333; margin-bottom: 4px;">
+            Desarrollador de Software en la <strong>Dirección de Software y Recursos de Red</strong> (Subsecretaría de Gobierno Digital y Mejora de Procesos, Municipalidad de General Pueyrredon). Técnico Superior en Programación especializado en arquitectura de software, metodologías ágiles (Scrum), desarrollo full-stack (.NET, Angular, React, bases de datos relacionales) y modernización de sistemas de gestión pública mediante arquitecturas escalables, seguridad y herramientas de Inteligencia Artificial.
+        </p>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Funciones en el Área Municipal</div>
+        <ul>
+            <li>Desarrollo, programación y mantenimiento de aplicaciones web corporativas y módulos de gestión municipal tanto para el uso interno de dependencias como para servicios orientados al ciudadano.</li>
+            <li>Análisis, relevamiento y especificación de requerimientos funcionales y técnicos junto a usuarios y áreas requirentes de la administración municipal.</li>
+            <li>Codificación en lenguajes oficiales del área (.NET, C#, ASP.NET Webforms, Angular, React JS, JavaScript, TypeScript).</li>
+            <li>Diseño, administración y optimización de bases de datos relacionales (PostgreSQL, Microsoft SQL Server).</li>
+            <li>Ejecución de pruebas unitarias (Unit Testing), testing funcional, depuración y control de calidad de software previo a su pase a producción.</li>
+            <li>Elaboración de documentación técnica, diagramas de arquitectura y manuales de usuario para la transferencia de conocimiento operativo.</li>
+            <li>Gestión de control de versiones y trabajo colaborativo en equipo mediante repositorios Git.</li>
+            <li>Investigación y adopción de nuevas tecnologías, arquitecturas de software e Inteligencia Artificial para la optimización de procesos municipales.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Experiencia Laboral</div>
+        
+        <div style="margin-bottom: 10px;">
+            <div class="item-header">
+                <span class="item-title">Municipalidad de General Pueyrredon</span>
+                <span class="item-date">2022 – Actualidad</span>
+            </div>
+            <div class="item-subtitle">Desarrollador de Software — Dirección de Software y Recursos de Red</div>
+            <ul>
+                <li>Desarrollo integral full-stack de sistemas de gestión utilizando tecnologías .NET, ASP.NET Webforms, Angular 12, React JS, PostgreSQL y SQL Server.</li>
+                <li>Relevamiento de procesos administrativos y diseño de soluciones informáticas orientadas a la despapelización, interoperabilidad y simplificación de trámites.</li>
+                <li>Mantenimiento evolutivo y correctivo de sistemas en producción, asegurando altos estándares de estabilidad, escalabilidad y seguridad.</li>
+                <li>Integración en equipos multidisciplinarios bajo marcos ágiles (Scrum), participando activamente en sprints, estimación y revisión de código.</li>
+            </ul>
+        </div>
+
+        <div>
+            <div class="item-header">
+                <span class="item-title">Desarrollador Freelance</span>
+                <span class="item-date">2021 – 2022</span>
+            </div>
+            <div class="item-subtitle">Desarrollador Full-Stack Web</div>
+            <ul>
+                <li>Diseño y desarrollo completo de plataformas web (como el sitio <em>Saludame</em>) implementando arquitectura frontend moderna con Angular y servicios backend RESTful.</li>
+                <li>Integración de pasarelas de pago electrónico (PayPal) y servicios de terceros mediante APIs seguras.</li>
+                <li>Optimización de rendimiento de carga, maquetación accesible y diseño responsivo adaptado a dispositivos móviles (Mobile-First).</li>
+                <li>Elaboración de especificaciones técnicas y documentación funcional para la administración autónoma de las plataformas.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Educación y Títulos Oficiales</div>
+        <div style="margin-bottom: 6px;">
+            <div class="item-header">
+                <span class="item-title">Instituto Técnico Superior Teclab</span>
+                <span class="item-date">2022 – 2024</span>
+            </div>
+            <div class="item-subtitle">Técnico Superior en Programación</div>
+            <p style="font-size: 9.5pt; color: #555;">Título Oficial de Nivel Terciario con Validez Nacional (Resolución RESOL-2022-2357-GCABA-MEDGC).</p>
+        </div>
+        <div>
+            <div class="item-header">
+                <span class="item-title">Instituto HILET</span>
+                <span class="item-date">2020</span>
+            </div>
+            <div class="item-subtitle">Programador Web Junior</div>
+            <p style="font-size: 9.5pt; color: #555;">Certificación Técnico-Profesional Oficial (Carga horaria: 77 horas reloj).</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Competencias y Habilidades Técnicas</div>
+        <div class="skills-grid">
+            <div class="skill-category">
+                <div class="skill-category-title">Lenguajes y Frameworks</div>
+                <div class="skill-category-content">C#, .NET / .NET Core, ASP.NET Webforms, Python (Flask), TypeScript, JavaScript, Angular, React JS, HTML5, CSS3.</div>
+            </div>
+            <div class="skill-category">
+                <div class="skill-category-title">Bases de Datos</div>
+                <div class="skill-category-content">PostgreSQL, Microsoft SQL Server (Modelado relacional, consultas complejas, optimización de índices, Stored Procedures).</div>
+            </div>
+            <div class="skill-category">
+                <div class="skill-category-title">Arquitectura y Metodologías</div>
+                <div class="skill-category-content">Arquitectura Orientada a Servicios (SOA), APIs RESTful, Patrones de Diseño (GoF), POO, Metodologías Ágiles (Scrum / Agile).</div>
+            </div>
+            <div class="skill-category">
+                <div class="skill-category-title">Calidad, Seguridad y Gestión</div>
+                <div class="skill-category-content">Git / GitHub, Unit Testing, QA, Ciberseguridad, Plataforma GDE, Domicilio Electrónico, Normativa Municipal (LOM, Ord. 26.348).</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Cursos y Capacitaciones</div>
+        
+        <div class="courses-year">Año 2026</div>
+        <ul class="courses-list">
+            <li><strong>Actualización Profesional en Inteligencia Artificial</strong> (120 hs) — Instituto Técnico Superior Teclab.</li>
+            <li><strong>Especialización en Diseño y Arquitectura de Software</strong> — University of Alberta (Coursera):
+                <em>Object-Oriented Design</em>, <em>Design Patterns</em>, <em>Software Architecture</em>, <em>Service-Oriented Architecture (SOA)</em>.</li>
+            <li><strong>Track Profesional en Ciencia de Datos, Machine Learning y Python</strong> — IBM (Coursera):
+                <em>Machine Learning with Python</em>, <em>Developing AI Applications with Python & Flask</em>, <em>Databases and SQL for Data Science</em>, <em>Python for Data Science, AI & Dev</em>, <em>Data Analysis with Python</em>, <em>Data Visualization with Python</em>, <em>Introduction to Project Management</em>, <em>Data Science Methodology</em>, <em>Tools for Data Science</em>, <em>What is Data Science?</em>, <em>Python Project for Data Science</em>.</li>
+            <li><strong>Formación en Ciberseguridad</strong> — Cisco Networking Academy: <em>Ethical Hacker</em> (70 hs), <em>Introduction to Cybersecurity</em> (30 hs).</li>
+            <li><strong>Herramientas de Ofimática Avanzada - Módulo 1</strong> (20 hs) — Instituto de Capacitación Municipal (ICM / MGP).</li>
+            <li><strong>Herramientas de Ofimática Básica</strong> (20 hs) — Instituto de Capacitación Municipal (ICM / MGP).</li>
+            <li><strong>Herramientas Informáticas y Redes Corporativas - Nivel 1</strong> (12 hs) — Instituto de Capacitación Municipal (ICM / MGP).</li>
+            <li><strong>Excel - Nivel Inicial</strong> (12 hs) — Instituto de Capacitación Municipal (ICM / MGP).</li>
+            <li><strong>Plataforma de Novedades Diarias del Personal</strong> (4 hs) — Instituto de Capacitación Municipal (ICM / MGP).</li>
+            <li><strong>Legajo Único Electrónico - Usuarios</strong> (4 hs) — Instituto de Capacitación Municipal (ICM / MGP).</li>
+            <li><strong>Prevención del Dengue</strong> (4 hs) — Instituto de Capacitación Municipal (ICM / MGP).</li>
+        </ul>
+
+        <div class="courses-year">Año 2024</div>
+        <ul class="courses-list">
+            <li><strong>Constitución de Domicilio Electrónico</strong> (4 hs) — Instituto de Capacitación Municipal (ICM / MGP).</li>
+        </ul>
+
+        <div class="courses-year">Año 2023</div>
+        <ul class="courses-list">
+            <li><strong>Gestión Documental Electrónica (GDE)</strong> (20 hs) — Instituto de Capacitación Municipal (ICM / MGP).</li>
+            <li><strong>Ley Micaela: Géneros, Violencias y Cuidados</strong> (20 hs) — Instituto de Capacitación Municipal (ICM / MGP).</li>
+        </ul>
+
+        <div class="courses-year">Año 2020</div>
+        <ul class="courses-list">
+            <li><strong>Programación Web Junior</strong> (77 hs) — Instituto HILET.</li>
+        </ul>
+    </div>
+
+</body>
+</html>
