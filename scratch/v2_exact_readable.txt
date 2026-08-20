@@ -1,0 +1,1007 @@
+=== PÁRRAFO 0 ===
+MUNICIPALIDAD DE GENERAL PUEYRREDON
+
+=== PÁRRAFO 1 ===
+SECRETARÍA DE PARTICIPACIÓN CIUDADANA Y DESCENTRALIZACIÓN
+
+=== PÁRRAFO 2 ===
+SUBSECRETARÍA DE GOBIERNO DIGITAL Y MEJORA DE PROCESOS
+
+=== PÁRRAFO 3 ===
+Concurso Interno de Oposición y Antecedentes
+
+=== PÁRRAFO 4 ===
+Cargo: Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software
+
+=== PÁRRAFO 5 ===
+PLAN DE TRABAJO
+
+=== PÁRRAFO 6 ===
+Diagnóstico Integral y Propuesta de Mejora para el Funcionamiento del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software: Optimización con Recursos Actuales y Proyección con Incorporación de Recursos
+
+=== PÁRRAFO 7 ===
+Postulante: Guido Cassulo
+
+=== PÁRRAFO 8 ===
+Cargo actual: Soporte Semi Senior
+
+=== PÁRRAFO 9 ===
+Legajo: 36484
+
+=== PÁRRAFO 10 ===
+Mar del Plata – Agosto 2026
+
+=== PÁRRAFO 11 ===
+1. INTRODUCCIÓN
+
+=== PÁRRAFO 12 ===
+El presente proyecto realiza un diagnóstico integral del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, identifica sus problemáticas y presenta propuestas concretas para optimizar su funcionamiento, mejorando la calidad del servicio brindado a las dependencias municipales y al ciudadano.
+
+=== PÁRRAFO 13 ===
+El Departamento constituye un área estratégica dentro de la Subsecretaría de Gobierno Digital y Mejora de Procesos, responsable de diseñar, desarrollar, mantener e implementar las soluciones informáticas que respaldan la actividad diaria de la Municipalidad de General Pueyrredón.
+
+=== PÁRRAFO 14 ===
+Su función excede el desarrollo de aplicaciones: interviene en el relevamiento de requerimientos funcionales, planificación de proyectos, definición de estándares, evaluación de nuevas tecnologías, control técnico de proveedores externos, integración de sistemas, mantenimiento del sitio web municipal y mantenimiento evolutivo de aplicaciones críticas para la Administración.
+
+=== PÁRRAFO 15 ===
+La Jefatura debe desempeñar un rol integrador que trascienda la coordinación técnica. Su responsabilidad central consiste en combinar conocimientos técnicos con planificación, conducción de equipos y administración de recursos, generando las condiciones necesarias para desarrollar software de manera previsible, colaborativa y sostenible. En este marco, se debe promover la integración humana, la reutilización del conocimiento y la adopción responsable de nuevas tecnologías, consolidando la optimización de los procedimientos organizacionales como la columna vertebral que asegure que el código no solo funcione, sino que sea escalable, seguro y responda a las necesidades de las diferentes gestiones, presentes y futuras, alineando las decisiones tecnológicas con los objetivos institucionales y el régimen administrativo.
+
+=== PÁRRAFO 16 ===
+El Departamento actúa en un entorno dinámico caracterizado por la coexistencia de sistemas de distinta antigüedad, múltiples requerimientos simultáneos, recursos limitados y demanda creciente de soluciones digitales. Frente a esta realidad, la respuesta no es limitarse a solicitar mayores recursos, sino fortalecer la organización del trabajo actual, establecer criterios comunes y consolidar una cultura de mejora continua.
+
+=== PÁRRAFO 17 ===
+En consecuencia, este plan propone una estrategia en dos etapas consecutivas que llevaré adelante: la optimización con los recursos actuales y la proyección con incorporación de recursos para cuando la Administración disponga de partidas de inversión tecnológica, mediante líneas de adquisición escalables.
+
+=== PÁRRAFO 18 ===
+Esta estrategia se articula en cinco pilares fundamentales: 
+
+=== PÁRRAFO 19 ===
+● Fortalecimiento del capital humano y del trabajo colaborativo. 
+
+=== PÁRRAFO 20 ===
+● Gestión y preservación del conocimiento institucional. 
+
+=== PÁRRAFO 21 ===
+● Estandarización de procesos y gobierno técnico. 
+
+=== PÁRRAFO 22 ===
+● Mejora continua e innovación tecnológica con recursos propios.
+
+=== PÁRRAFO 23 ===
+● Planificación estratégica orientada a resultados.
+
+=== PÁRRAFO 24 ===
+Sobre estos ejes se desarrolla el diagnóstico de la situación actual y se presentan las propuestas de mejora diferenciadas entre los recursos existentes y la inversión futura.
+
+=== PÁRRAFO 25 ===
+2. DIAGNÓSTICO INSTITUCIONAL
+
+=== PÁRRAFO 26 ===
+2.1 Situación actual del Departamento
+
+=== PÁRRAFO 27 ===
+El Departamento cuenta con un equipo con experiencia técnica y conocimiento de los procesos municipales, y dispone de herramientas de trabajo instaladas. Al mismo tiempo, enfrenta desafíos concretos en la gestión del conocimiento, la estandarización de sus procedimientos y la coordinación entre sus distintos grupos de trabajo, a lo que se suma una recepción dispar ante la incorporación de nuevas herramientas de desarrollo.
+
+=== PÁRRAFO 28 ===
+En los últimos años la demanda de soluciones informáticas ha crecido de manera sostenida, tanto por el avance de la transformación digital como por la incorporación permanente de nuevas necesidades funcionales provenientes de las distintas áreas municipales. Este crecimiento ha permitido ampliar el alcance del Departamento, pero también ha incrementado la complejidad de su gestión.
+
+=== PÁRRAFO 29 ===
+Actualmente conviven aplicaciones desarrolladas en distintos momentos históricos, utilizando tecnologías diversas y respondiendo a necesidades organizacionales diferentes. A ello se suma la atención simultánea de requerimientos evolutivos, mantenimiento correctivo, proyectos nuevos, asistencia técnica a usuarios y coordinación con proveedores externos.
+
+=== PÁRRAFO 30 ===
+Este contexto requiere fortalecer la organización interna, promover el trabajo colaborativo y establecer procedimientos comunes. El diagnóstico que se presenta a continuación permite identificar las fortalezas sobre las cuales construir una estrategia de mejora, así como las debilidades y oportunidades cuya adecuada gestión contribuirá al fortalecimiento institucional del área.
+
+=== PÁRRAFO 31 ===
+2.2 Análisis FODA
+
+=== PÁRRAFO 32 ===
+Fortalezas
+
+=== PÁRRAFO 33 ===
+• Capital humano con alto conocimiento de los servicios municipales: El Departamento cuenta con agentes que poseen una valiosa experiencia en el funcionamiento de la Administración Pública Municipal, combinando conocimientos tecnológicos con una profunda comprensión de los procedimientos administrativos, la normativa vigente y las necesidades particulares de las distintas áreas usuarias. Este conocimiento constituye uno de los principales activos institucionales y representa una base sólida para impulsar procesos de mejora e innovación.
+
+=== PÁRRAFO 34 ===
+• Compromiso y capacidad de adaptación: A pesar del incremento permanente de requerimientos y de la coexistencia de sistemas con distintos niveles de complejidad tecnológica, el equipo ha demostrado capacidad para sostener la continuidad operativa de los servicios informáticos municipales, adaptándose a nuevos desafíos y prioridades institucionales.
+
+=== PÁRRAFO 35 ===
+• Experiencia acumulada en múltiples tecnologías: La evolución histórica de los sistemas municipales ha permitido que el Departamento adquiera experiencia sobre diferentes plataformas, lenguajes y herramientas de desarrollo, generando un importante capital técnico que facilita la evolución gradual de las aplicaciones existentes.
+
+=== PÁRRAFO 36 ===
+• Infraestructura y herramientas disponibles: El Departamento dispone de repositorios en GitLab para versionado, plataforma Redmine para gestión de proyectos, ambientes diferenciados de Desarrollo, Prueba y Producción, y equipamiento básico adecuado, constituyendo una base previa sólida para implementar mejoras organizacionales.
+
+=== PÁRRAFO 37 ===
+Oportunidades
+
+=== PÁRRAFO 38 ===
+• Consolidación del proceso de transformación digital: La creciente incorporación de herramientas digitales en la Administración Pública representa una oportunidad para fortalecer el rol estratégico del Departamento como impulsor de la modernización institucional.
+
+=== PÁRRAFO 39 ===
+• Adopción asistida de Inteligencia Artificial: La integración de herramientas asistidas por IA en los entornos de desarrollo (IDEs) permite acelerar la codificación, automatizar tareas repetitivas de documentación y elevar la productividad técnica del equipo dentro de un marco de uso seguro.
+
+=== PÁRRAFO 40 ===
+• Implementación de marcos ágiles híbridos: La incorporación de metodologías ágiles adaptadas al contexto del Departamento (ciclos cortos de desarrollo para proyectos nuevos y gestión de flujo continuo para el mantenimiento) representa una oportunidad de mejora a costo cero, permitiendo optimizar la planificación, la comunicación interna y la clarificación de prioridades entre equipos.
+
+=== PÁRRAFO 41 ===
+• Gestión política favorable y capacitaciones accesibles: La intención de las autoridades de optimizar el área, sumada a la amplia oferta de formación técnica online y la posibilidad de organizar talleres internos, representa una oportunidad concreta para actualizar competencias del equipo sin impacto presupuestario.
+
+=== PÁRRAFO 42 ===
+Debilidades
+
+=== PÁRRAFO 43 ===
+• Concentración del conocimiento: Una parte significativa del conocimiento funcional y técnico de determinados sistemas críticos se encuentra concentrada en un número reducido de agentes, lo que incrementa el riesgo operacional, dificulta la planificación de tareas, genera cuellos de botella y limita la flexibilidad del Departamento para reasignar recursos ante licencias del personal, imprevistos o prioridades institucionales.
+
+=== PÁRRAFO 44 ===
+• Ausencia de procedimientos homogéneos: Si bien existen buenas prácticas individuales, actualmente no todos los proyectos siguen criterios comunes respecto de documentación, planificación, estimación, arquitectura, pruebas o seguimiento, generando variabilidad en la calidad del código, dificultando la incorporación de nuevos agentes, reduciendo la reutilización del trabajo existente y encareciendo el mantenimiento a largo plazo.
+
+=== PÁRRAFO 45 ===
+• Resistencia a la adopción de tecnologías modernas: Una parte del equipo, particularmente agentes con experiencia en plataformas legacy (antiguas), muestra resistencia a adoptar alternativas más modernas, lo que limita la capacidad del Departamento para modernizar sus aplicaciones y dificulta la distribución de tareas en proyectos que requieren tecnologías actualizadas.
+
+=== PÁRRAFO 46 ===
+• Gestión fragmentada de proyectos: El seguimiento de proyectos se realiza utilizando diferentes herramientas y metodologías, lo que dificulta obtener una visión integral de la carga de trabajo del Departamento, impide conocer su capacidad operativa real, dificulta la priorización transparente de solicitudes entre Secretarías y genera desajustes en las estimaciones de tiempos de entrega.
+
+=== PÁRRAFO 47 ===
+• Comunicación y coordinación entre equipos: La distribución física del personal en distintas dependencias limita la circulación oportuna de información, favoreciendo el aislamiento en silos informáticos, incrementando el riesgo de desarrollar soluciones o módulos duplicados y resintiendo la cohesión y sentido de pertenencia a un equipo único.
+
+=== PÁRRAFO 48 ===
+• Dependencia del mantenimiento reactivo: La atención permanente de incidencias y requerimientos urgentes reduce el tiempo disponible para actividades de planificación y mejora continua, consumiendo la capacidad técnica en emergencias cotidianas e impidiendo dedicar tiempo a la documentación, la deuda técnica y la modernización planificada de sistemas.
+
+=== PÁRRAFO 49 ===
+• Gestión del conocimiento insuficiente: La documentación técnica, funcional y de arquitectura presenta distintos niveles de desarrollo según el proyecto, lo que aumenta la dependencia del conocimiento tácito individual, encarece la curva de aprendizaje y pone en riesgo la continuidad de los aplicativos frente a licencias, traslados o bajas de personal.
+
+=== PÁRRAFO 50 ===
+• Limitaciones en la especialización funcional: La dotación actual del Departamento requiere que los agentes desempeñen simultáneamente tareas de análisis, desarrollo, mantenimiento y soporte funcional, independientemente de la especialización prevista por el agrupamiento ocupacional, reduciendo la posibilidad de conformar equipos con roles claramente diferenciados.
+
+=== PÁRRAFO 51 ===
+Amenazas
+
+=== PÁRRAFO 52 ===
+• Incremento sostenido de la demanda e indefinición de áreas usuarias: La demanda creciente sumada a dilaciones o falta de certeza por parte de las dependencias solicitantes al definir circuitos administrativos puede superar la capacidad operativa si no se formaliza un circuito único de demandas.
+
+=== PÁRRAFO 53 ===
+• Obsolescencia e integración con sistemas legacy: La coexistencia de aplicaciones sobre tecnologías antiguas que carecen de APIs unificadas incrementa el riesgo operativo y dificulta su integración con nuevos desarrollos web o móviles.
+
+=== PÁRRAFO 54 ===
+• Riesgo de dependencia técnica sobre proveedores externos: La entrega de soluciones por terceros sin un canal fluido de comunicación técnica ni una contraparte municipal que participe activamente del seguimiento puede generar dependencia total del proveedor, pérdida del conocimiento institucional y soberanía, derivando en mayores costos de mantenimiento e imposibilitando el desarrollo soberano ante una terminación temprana de la contratación.
+
+=== PÁRRAFO 55 ===
+• Requerimientos normativos e imprevistos de gestión: El surgimiento de necesidades imprevistas derivadas de cambios normativos o resoluciones urgentes puede forzar la reorganización del cronograma establecido.
+
+=== PÁRRAFO 56 ===
+• Resistencia al liderazgo e inercia organizacional: La prolongada falta de una conducción formal en el Departamento puede generar inercia inicial a la hora de adoptar nuevas pautas organizativas y estándares técnicos.
+
+=== PÁRRAFO 57 ===
+2.3 Conclusión del diagnóstico
+
+=== PÁRRAFO 58 ===
+Del análisis realizado surge que el desafío central del Departamento radica en fortalecer su capacidad organizacional para gestionar el conocimiento, coordinar el equipo y establecer procedimientos comunes que otorguen previsibilidad al desarrollo de software municipal.
+
+=== PÁRRAFO 59 ===
+En consecuencia, mi propuesta prioriza consolidar un modelo de gestión orientado a las personas y los procesos, aprovechando las oportunidades de modernización identificadas en el diagnóstico como la incorporación asistida de herramientas de Inteligencia Artificial en los entornos de desarrollo (IDEs) y la adopción de arquitecturas de referencia, para elevar la productividad del equipo, optimizar la documentación y garantizar la calidad y sostenibilidad de los sistemas institucionales.
+
+=== PÁRRAFO 60 ===
+3. PRINCIPIOS DE GESTIÓN
+
+=== PÁRRAFO 61 ===
+El ejercicio de la Jefatura del Departamento requiere combinar capacidades técnicas con habilidades de conducción, planificación y coordinación. En consecuencia, mis decisiones organizacionales y técnicas se sustentarán sobre los siguientes principios de gestión que otorgarán coherencia a las acciones del Departamento.
+
+=== PÁRRAFO 62 ===
+3.1 Liderazgo basado en la colaboración y el desarrollo del equipo
+
+=== PÁRRAFO 63 ===
+Promoveré un ambiente de trabajo participativo y transparente, donde la comunicación fluida, el intercambio de conocimientos y la construcción colectiva de soluciones sean el eje de la cultura organizacional. Mi función consistirá en facilitar el trabajo de los equipos, remover obstáculos operativos y generar las condiciones para que cada integrante pueda desarrollar su potencial profesional.
+
+=== PÁRRAFO 64 ===
+Para consolidar esta visión de conducción humana y estratégica, me apoyaré en tres pilares de gestión de personas:
+
+=== PÁRRAFO 65 ===
+• Delegación y autonomía responsable: Se descentralizará la toma de decisiones operativas, confiando tareas de relevamiento, arquitectura y liderazgo técnico a los perfiles de mayor experiencia, evitando convertirme en un cuello de botella administrativo.
+
+=== PÁRRAFO 66 ===
+• Motivación, participación y reconocimiento: Se fomentará el involucramiento activo del personal en las decisiones de diseño e innovación tecnológica, reconociendo públicamente el valor de la experiencia acumulada y la trayectoria del personal municipal.
+
+=== PÁRRAFO 67 ===
+• Comunicación transparente y gestión constructiva del clima laboral: La resistencia al cambio o la inercia organizacional no serán abordadas como problemas de conducta individual, sino como procesos naturales de transición que se gestionarán mediante el diálogo, la capacitación, la fundamentación técnica de las nuevas pautas y el acompañamiento constante.
+
+=== PÁRRAFO 69 ===
+3.2 Gestión orientada a procesos
+
+=== PÁRRAFO 70 ===
+El crecimiento sostenido del Departamento exige que los procedimientos organizacionales constituyan la columna vertebral del área, asegurando que el código no solo funcione en la coyuntura, sino que sea técnicamente escalable, seguro frente a vulnerabilidades y sostenible a lo largo del tiempo. Toda actividad recurrente deberá respaldarse en estándares claros que garanticen previsibilidad y respuesta efectiva ante las demandas de la gestión presente y futura.
+
+=== PÁRRAFO 71 ===
+3.3 Gestión del conocimiento institucional
+
+=== PÁRRAFO 72 ===
+El conocimiento generado durante el desarrollo y mantenimiento de los sistemas constituye un activo estratégico de la Municipalidad. Por ello, se impulsarán mecanismos que favorezcan la documentación, la transferencia de conocimientos y la capacitación interna, procurando que la información crítica permanezca en la organización.
+
+=== PÁRRAFO 73 ===
+3.4 Mejora continua
+
+=== PÁRRAFO 74 ===
+Se revisarán periódicamente los procedimientos, metodologías y herramientas para identificar oportunidades de mejora sobre la base de evidencias objetivas, indicadores de gestión y resultados observables.
+
+=== PÁRRAFO 75 ===
+3.5 Innovación responsable
+
+=== PÁRRAFO 76 ===
+Antes de adoptar una herramienta, metodología o plataforma tecnológica se evaluarán aspectos tales como compatibilidad con la arquitectura existente, sostenibilidad en el tiempo, costos de implementación, impacto sobre los procesos, requerimientos de capacitación y seguridad de la información.
+
+=== PÁRRAFO 77 ===
+3.6 Orientación al servicio
+
+=== PÁRRAFO 78 ===
+El Departamento presta servicios a las distintas áreas municipales y, de manera indirecta, a toda la comunidad. Las decisiones deberán priorizar el valor que los sistemas aportan a los procesos administrativos, sustentando mis decisiones en un diálogo permanente y una definición clara de prioridades.
+
+=== PÁRRAFO 79 ===
+3.7 Decisiones basadas en evidencia
+
+=== PÁRRAFO 80 ===
+La planificación y administración del Departamento se deberá apoyar en información objetiva proveniente de indicadores que midan la capacidad operativa, la evolución de proyectos y los cuellos de botella.
+
+=== PÁRRAFO 81 ===
+4. OBJETIVOS DEL PLAN DE TRABAJO
+
+=== PÁRRAFO 82 ===
+El presente Plan de Trabajo persigue los siguientes objetivos estratégicos para el fortalecimiento integral del Departamento:
+
+=== PÁRRAFO 83 ===
+• Optimizar la planificación y priorización de requerimientos para reducir progresivamente la atención reactiva de emergencias.
+
+=== PÁRRAFO 84 ===
+• Centralizar y visibilizar la gestión y el seguimiento de solicitudes, proyectos e incidencias en la plataforma institucional de gestión.
+
+=== PÁRRAFO 85 ===
+• Preservar el conocimiento institucional y mitigar los riesgos operativos mediante el fortalecimiento de la documentación y la transferencia técnica.
+
+=== PÁRRAFO 86 ===
+• Establecer estándares técnicos y criterios homogéneos de calidad para el desarrollo, mantenimiento y arquitectura de software.
+
+=== PÁRRAFO 87 ===
+• Fortalecer la coordinación, la comunicación y la sinergia entre los equipos de trabajo distribuidos.
+
+=== PÁRRAFO 88 ===
+• Consolidar el gobierno técnico y la soberanía sobre los desarrollos de software realizados por proveedores externos.
+
+=== PÁRRAFO 89 ===
+• Promover la incorporación progresiva y responsable de nuevas herramientas tecnológicas de apoyo al desarrollo.
+
+=== PÁRRAFO 90 ===
+• Optimizar la distribución de funciones operativas considerando la trayectoria y experiencia acumulada por el personal.
+
+=== PÁRRAFO 92 ===
+5. PROPUESTA DE MEJORA Y OPTIMIZACIÓN CON RECURSOS ACTUALES
+
+=== PÁRRAFO 93 ===
+El diagnóstico realizado permite concluir que las principales oportunidades de mejora del Departamento no dependen inicialmente de la incorporación de nuevos recursos humanos o tecnológicos, sino del fortalecimiento de la organización interna, la coordinación de los equipos de trabajo y la estandarización de los procedimientos.
+
+=== PÁRRAFO 94 ===
+En consecuencia, se propone un plan de optimización basado en líneas de acción prioritarias, todas ellas implementables con los recursos actualmente disponibles y alineadas con las funciones asignadas a la Jefatura del Departamento.
+
+=== PÁRRAFO 95 ===
+5.1 Organización y planificación del trabajo
+
+=== PÁRRAFO 96 ===
+Problema
+
+=== PÁRRAFO 97 ===
+El Departamento atiende simultáneamente proyectos nuevos, mantenimiento correctivo/evolutivo, soporte a usuarios y urgencias. La falta de un procedimiento uniforme dificulta conocer la capacidad operativa real, provoca cambios constantes de prioridades y fomenta una dinámica reactiva. Si bien se cuenta con la plataforma Redmine instalada, la falta de tipificación de peticiones impida aprovechar el diagrama Gantt o los tableros de gestión.
+
+=== PÁRRAFO 99 ===
+Propuesta
+
+=== PÁRRAFO 100 ===
+Se Implementará un modelo único de organización para centralizar todas las solicitudes en una cartera común administrada en Redmine. Mi planificación distinguirá el mantenimiento continuo de los nuevos desarrollos, aplicando metodologías ágiles híbridas y adaptadas a la Administración Pública sin imponer esquemas rígidos.
+
+=== PÁRRAFO 102 ===
+ImplementaciónLa implementación comprenderá:
+
+=== PÁRRAFO 103 ===
+• utilización obligatoria de la plataforma Redmine para todas las solicitudes; 
+
+=== PÁRRAFO 104 ===
+• reuniones periódicas de planificación y seguimiento; 
+
+=== PÁRRAFO 105 ===
+• revisión permanente de prioridades; 
+
+=== PÁRRAFO 106 ===
+• redistribución de tareas cuando la carga operativa lo requiera;
+
+=== PÁRRAFO 107 ===
+• definición de criterios para clasificar urgencias y diferir incidencias no críticas, procurando preservar capacidad operativa para el trabajo planificado, la documentación y las mejoras evolutivas;
+
+=== PÁRRAFO 108 ===
+• estimación de tiempos y tipificación en cada petición para habilitar el seguimiento efectivo del cronograma mediante el diagrama Gantt.
+
+=== PÁRRAFO 110 ===
+Resultado esperado
+
+=== PÁRRAFO 111 ===
+Esta propuesta permitirá mejorar la previsibilidad de los proyectos, optimizar la utilización de los recursos existentes y brindar mayor transparencia respecto del estado de cada solicitud.
+
+=== PÁRRAFO 112 ===
+5.2 Gestión del conocimiento institucional
+
+=== PÁRRAFO 113 ===
+Problema
+
+=== PÁRRAFO 114 ===
+El conocimiento técnico y funcional de varios sistemas críticos está concentrado en pocos agentes, generando un alto riesgo operativo y cuellos de botella ante ausencias o licencias. A ello se suma una documentación dispar según el proyecto.
+
+=== PÁRRAFO 116 ===
+Propuesta
+
+=== PÁRRAFO 117 ===
+Se implementará un programa de gestión del conocimiento asignando gradualmente Referentes Secundarios en los sistemas críticos, promoviendo la transferencia técnica cruzada y estableciendo documentación mínima obligatoria.
+
+=== PÁRRAFO 119 ===
+Implementación
+
+=== PÁRRAFO 120 ===
+El programa comprenderá:
+
+=== PÁRRAFO 121 ===
+asignación gradual de agentes de apoyo para los sistemas críticos;
+
+=== PÁRRAFO 122 ===
+participación progresiva en tareas de mantenimiento y evolución;
+
+=== PÁRRAFO 123 ===
+transferencia práctica de conocimientos entre agentes;
+
+=== PÁRRAFO 124 ===
+elaboración y actualización de la documentación funcional y técnica mínima;
+
+=== PÁRRAFO 125 ===
+instancias de transferencia práctica y acompañamiento entre agentes;
+
+=== PÁRRAFO 126 ===
+revisión periódica del grado de cobertura del conocimiento de cada sistema.
+
+=== PÁRRAFO 127 ===
+Resultado esperado
+
+=== PÁRRAFO 128 ===
+La medida reducirá significativamente el riesgo operativo, facilitará la redistribución de tareas y permitirá preservar el conocimiento institucional generado por el Departamento.
+
+=== PÁRRAFO 129 ===
+5.3 Estandarización técnica y calidad del software
+
+=== PÁRRAFO 130 ===
+Problema
+
+=== PÁRRAFO 131 ===
+La coexistencia de aplicaciones desarrolladas bajo distintos criterios técnicos dificulta el mantenimiento, incrementa la deuda técnica y genera diferencias significativas en la calidad de los desarrollos.
+
+=== PÁRRAFO 132 ===
+Propuesta
+
+=== PÁRRAFO 133 ===
+Se impulsará la institucionalización de una Arquitectura Base y de un conjunto de estándares comunes que orienten el desarrollo de todos los nuevos sistemas municipales.Mi objetivo no consiste en restringir la innovación tecnológica sino en garantizar que todos los proyectos compartan criterios comunes de organización, seguridad, documentación y mantenimiento.
+
+=== PÁRRAFO 134 ===
+Implementación
+
+=== PÁRRAFO 135 ===
+Se establecerán:
+
+=== PÁRRAFO 136 ===
+arquitectura base institucional; 
+
+=== PÁRRAFO 137 ===
+guías de buenas prácticas; 
+
+=== PÁRRAFO 138 ===
+estándares de codificación; 
+
+=== PÁRRAFO 139 ===
+criterios mínimos de documentación;
+
+=== PÁRRAFO 140 ===
+criterios mínimos de seguridad aplicables al desarrollo y mantenimiento de los sistemas;
+
+=== PÁRRAFO 141 ===
+procedimientos básicos de revisión técnica antes de producción. 
+
+=== PÁRRAFO 142 ===
+Resultado esperado
+
+=== PÁRRAFO 143 ===
+Se obtendrán desarrollos más homogéneos, menor tiempo de mantenimiento, mayor facilidad para incorporar nuevos desarrolladores y una reducción progresiva de la deuda técnica.
+
+=== PÁRRAFO 144 ===
+5.4 Gestión de requerimientos y relación con las áreas usuarias
+
+=== PÁRRAFO 145 ===
+Problema
+
+=== PÁRRAFO 146 ===
+Las solicitudes de desarrollo llegan al Departamento por distintos canales y con diferentes niveles de definición, dificultando la planificación y la asignación objetiva de prioridades.
+
+=== PÁRRAFO 147 ===
+Propuesta
+
+=== PÁRRAFO 148 ===
+Se institucionalizará un procedimiento único para el relevamiento, análisis y priorización de requerimientos, actuando como nexo entre las áreas usuarias y el equipo técnico.
+
+=== PÁRRAFO 149 ===
+Implementación
+
+=== PÁRRAFO 150 ===
+Cada requerimiento será analizado considerando:
+
+=== PÁRRAFO 151 ===
+viabilidad técnica; 
+
+=== PÁRRAFO 152 ===
+impacto institucional; 
+
+=== PÁRRAFO 153 ===
+reutilización de soluciones existentes; 
+
+=== PÁRRAFO 154 ===
+prioridad; 
+
+=== PÁRRAFO 155 ===
+recursos necesarios; 
+
+=== PÁRRAFO 156 ===
+impacto e integración con otros sistemas municipales;
+
+=== PÁRRAFO 157 ===
+validación con el área solicitante;
+
+=== PÁRRAFO 158 ===
+posibilidades de reutilización e integración con soluciones y servicios existentes.
+
+=== PÁRRAFO 159 ===
+Resultado esperado
+
+=== PÁRRAFO 160 ===
+La medida permitirá optimizar la asignación de recursos, reducir desarrollos duplicados y mejorar la comunicación con las distintas Secretarías.
+
+=== PÁRRAFO 161 ===
+5.5 Gobierno técnico de proveedores externos
+
+=== PÁRRAFO 162 ===
+Problema
+
+=== PÁRRAFO 163 ===
+Los desarrollos contratados a terceros sin seguimiento técnico municipal pueden generar dependencia tecnológica, incompatibilidades operativas y pérdida del conocimiento institucional.
+
+=== PÁRRAFO 165 ===
+Propuesta
+
+=== PÁRRAFO 166 ===
+Ejerceré un rol de conducción técnica durante todo el ciclo de contratación, asegurando que las soluciones externas se integren adecuadamente al ecosistema tecnológico municipal. Para ello, asignaré al seguimiento de cada proyecto a uno o más agentes del Departamento con experiencia en la temática funcional involucrada, quienes participarán en las etapas de relevamiento, validación y seguimiento técnico, complementando el conocimiento tecnológico del proveedor con el conocimiento de los procesos administrativos municipales.
+
+=== PÁRRAFO 168 ===
+Implementación
+
+=== PÁRRAFO 169 ===
+El procedimiento comprenderá:
+
+=== PÁRRAFO 170 ===
+participación de un agente del Departamento en las tareas de relevamiento y validación funcional;
+
+=== PÁRRAFO 171 ===
+participación en la elaboración de especificaciones técnicas;
+
+=== PÁRRAFO 172 ===
+seguimiento del desarrollo;
+
+=== PÁRRAFO 173 ===
+verificación del cumplimiento de estándares;
+
+=== PÁRRAFO 174 ===
+recepción técnica obligatoria;
+
+=== PÁRRAFO 175 ===
+entrega de código fuente y documentación.
+
+=== PÁRRAFO 176 ===
+Resultado esperado
+
+=== PÁRRAFO 177 ===
+Se fortalecerá la soberanía tecnológica del Municipio, se reducirá la dependencia de proveedores externos y se favorecerá el desarrollo de soluciones alineadas con los procesos administrativos y las necesidades de las áreas usuarias, mediante la participación activa del personal del Departamento con conocimiento funcional en cada proyecto.
+
+=== PÁRRAFO 178 ===
+5.6 Innovación tecnológica responsable
+
+=== PÁRRAFO 179 ===
+Problema
+
+=== PÁRRAFO 180 ===
+La incorporación de nuevas herramientas y tecnologías suele realizarse sin criterios institucionales comunes, quedando muchas veces librada a decisiones individuales. Asimismo, la coexistencia de tecnologías obsoletas y plataformas con soporte vigente dificulta la estandarización del desarrollo y la evolución tecnológica del Departamento.
+
+=== PÁRRAFO 182 ===
+Propuesta
+
+=== PÁRRAFO 183 ===
+Gestionaré la innovación con criterio institucional, promoviendo tecnologías vigentes con soporte activo. Adoptaré la Inteligencia Artificial como herramienta de asistencia en los entornos de desarrollo (IDE) para agilizar codificación, detección de errores y documentación, bajo pautas de uso seguro que resguarden la información municipal. La transición será gradual y acompañada por mentoreo interno.
+
+=== PÁRRAFO 185 ===
+Implementación
+
+=== PÁRRAFO 186 ===
+Se promoverán:
+
+=== PÁRRAFO 187 ===
+evaluación permanente de nuevas tecnologías;
+
+=== PÁRRAFO 188 ===
+definición de criterios institucionales para su incorporación al Departamento;
+
+=== PÁRRAFO 189 ===
+capacitación del personal;
+
+=== PÁRRAFO 190 ===
+pautas institucionales para el uso seguro de IA;
+
+=== PÁRRAFO 191 ===
+revisión periódica de herramientas y metodologías.
+
+=== PÁRRAFO 193 ===
+Resultado esperado
+
+=== PÁRRAFO 194 ===
+El Departamento podrá incorporar nuevas tecnologías de manera planificada, gradual y segura, incrementando la productividad del equipo, favoreciendo la estandarización tecnológica y asegurando la sostenibilidad de los sistemas municipales sin comprometer la seguridad de la información.
+
+=== PÁRRAFO 196 ===
+5.7 Coordinación y comunicación interna entre equipos
+
+=== PÁRRAFO 197 ===
+Problema
+
+=== PÁRRAFO 198 ===
+La distribución física del personal en distintas dependencias limita la circulación oportuna de información, favorece el aislamiento entre grupos de trabajo y dificulta la construcción de una identidad de equipo común.
+
+=== PÁRRAFO 199 ===
+Propuesta
+
+=== PÁRRAFO 200 ===
+Se institucionalizará un esquema permanente de coordinación transversal aprovechando las herramientas institucionales ya disponibles. Mi objetivo es garantizar que todos los integrantes del Departamento compartan información sobre proyectos en curso, dificultades detectadas y prioridades institucionales, independientemente de su ubicación física.
+
+=== PÁRRAFO 202 ===
+Implementación
+
+=== PÁRRAFO 203 ===
+Se promoverán:
+
+=== PÁRRAFO 204 ===
+reuniones periódicas breves de sincronización inter-oficinas con agenda predefinida;
+
+=== PÁRRAFO 205 ===
+uso de Redmine como tablero compartido de visibilidad del estado de todos los proyectos del Departamento;
+
+=== PÁRRAFO 206 ===
+criterios comunes para registrar avances, bloqueos y decisiones técnicas relevantes;
+
+=== PÁRRAFO 207 ===
+participación cruzada planificada en proyectos para favorecer el conocimiento mutuo entre equipos.
+
+=== PÁRRAFO 209 ===
+Resultado esperado
+
+=== PÁRRAFO 210 ===
+Se reducirá el aislamiento entre grupos de trabajo, mejorará la circulación de información técnica y se fortalecerá la cohesión del equipo como unidad institucional.
+
+=== PÁRRAFO 212 ===
+5.8 Optimización de roles según experiencia acumulada
+
+=== PÁRRAFO 213 ===
+Problema
+
+=== PÁRRAFO 214 ===
+La dotación actual del Departamento requiere que los agentes desempeñen simultáneamente tareas de análisis, desarrollo, mantenimiento y soporte funcional, independientemente de la especialización prevista por la estructura escalafonaria, lo que dificulta la conformación de equipos con roles claramente diferenciados.
+
+=== PÁRRAFO 215 ===
+Propuesta
+
+=== PÁRRAFO 216 ===
+Sin modificar la estructura escalafonaria vigente ni requerir recursos presupuestarios adicionales, organizaré el trabajo asignando las responsabilidades de análisis, relevamiento funcional y coordinación técnica considerando la experiencia acumulada por cada agente y su conocimiento práctico del funcionamiento municipal.
+
+=== PÁRRAFO 218 ===
+Implementación
+
+=== PÁRRAFO 220 ===
+La implementación comprenderá:
+
+=== PÁRRAFO 221 ===
+• asignación de referentes funcionales según la trayectoria y experiencia de cada integrante;
+
+=== PÁRRAFO 222 ===
+• distribución de tareas priorizando la experiencia en los procesos administrativos municipales;
+
+=== PÁRRAFO 223 ===
+• acompañamiento de los perfiles experimentados a los agentes de más reciente incorporación;
+
+=== PÁRRAFO 224 ===
+• revisión periódica de la asignación de roles según la evolución de cada proyecto.
+
+=== PÁRRAFO 226 ===
+Resultado esperado
+
+=== PÁRRAFO 227 ===
+Esta medida permitirá optimizar la distribución del trabajo con los recursos actuales, jerarquizar la experiencia del personal existente y mejorar la calidad en el relevamiento de necesidades con las áreas usuarias.
+
+=== PÁRRAFO 229 ===
+6. PROYECCIÓN CON INCORPORACIÓN DE RECURSOS
+
+=== PÁRRAFO 230 ===
+Las acciones desarrolladas en el capítulo anterior pueden implementarse utilizando los recursos actualmente disponibles y constituyen una estrategia realista para mejorar el funcionamiento del Departamento.
+
+=== PÁRRAFO 231 ===
+No obstante, la incorporación gradual de recursos presupuestarios permitiría consolidar y potenciar dichas acciones, incrementando la productividad del equipo, fortaleciendo la calidad del software y acelerando el proceso de modernización tecnológica.
+
+=== PÁRRAFO 232 ===
+Las líneas de inversión identificadas no constituyen compromisos de adquisición ni requieren una ejecución simultánea, sino alternativas que podrán evaluarse en función de las necesidades detectadas, la disponibilidad presupuestaria y las prioridades institucionales.
+
+=== PÁRRAFO 233 ===
+En este contexto, se identifican las siguientes líneas de inversión prioritaria.
+
+=== PÁRRAFO 234 ===
+6.1 Incorporación de herramientas profesionales de apoyo al desarrollo y asistencia técnica
+
+=== PÁRRAFO 235 ===
+Problema
+
+=== PÁRRAFO 236 ===
+La revisión de código, la generación de documentación técnica y la verificación de calidad dependen de tareas manuales, reduciendo la productividad y dificultando la aplicación uniforme de criterios técnicos.
+
+=== PÁRRAFO 237 ===
+Propuesta
+
+=== PÁRRAFO 238 ===
+Incorporar herramientas profesionales de apoyo al desarrollo de software que permitan automatizar tareas repetitivas, fortalecer los procesos de aseguramiento de calidad y asistir al personal durante la codificación mediante la integración de asistentes basados en Inteligencia Artificial en los entornos de desarrollo (IDE) y plataformas de análisis estático de código.
+
+=== PÁRRAFO 240 ===
+Implementación
+
+=== PÁRRAFO 241 ===
+La implementación comprenderá:
+
+=== PÁRRAFO 242 ===
+• adquisición de licencias profesionales de apoyo al desarrollo de software y asistencia por IA;
+
+=== PÁRRAFO 243 ===
+• incorporación de plataformas automáticas de análisis y control de calidad del código fuente;
+
+=== PÁRRAFO 244 ===
+• definición de pautas institucionales y umbrales automáticos de calidad previa al paso a producción;
+
+=== PÁRRAFO 245 ===
+• capacitación del personal para la utilización segura y eficiente de dichas herramientas.
+
+=== PÁRRAFO 246 ===
+Resultado esperado
+
+=== PÁRRAFO 247 ===
+Se incrementará sustancialmente la productividad del equipo, mejorará la calidad de los desarrollos, se reducirán los tiempos destinados a tareas repetitivas y se automatizará la documentación técnica de los sistemas.
+
+=== PÁRRAFO 248 ===
+6.2 Programa permanente de capacitación continua y especialización del personal
+
+=== PÁRRAFO 249 ===
+Problema
+
+=== PÁRRAFO 250 ===
+La rápida evolución de lenguajes, metodologías y arquitecturas requiere instancias de formación especializada para actualizar constantemente al equipo más allá del aprendizaje autónomo.
+
+=== PÁRRAFO 251 ===
+Propuesta
+
+=== PÁRRAFO 252 ===
+Se implementará un Programa Permanente de Capacitación financiado por el Municipio, orientado a fortalecer las competencias técnicas y de gestión del personal mediante cursos, certificaciones oficiales, seminarios y actividades de actualización tecnológica, priorizando aquellas áreas estratégicas para la evolución de los sistemas municipales.
+
+=== PÁRRAFO 254 ===
+Implementación
+
+=== PÁRRAFO 255 ===
+La implementación comprenderá:
+
+=== PÁRRAFO 256 ===
+• relevamiento de necesidades de formación sobre la base de la Matriz de Competencias del Departamento;
+
+=== PÁRRAFO 257 ===
+• financiamiento de cursos y certificaciones en tecnologías de desarrollo, arquitectura de software y metodologías ágiles;
+
+=== PÁRRAFO 258 ===
+• participación en actividades de actualización en ciberseguridad aplicada al software;
+
+=== PÁRRAFO 259 ===
+• evaluación periódica del impacto de las capacitaciones en los sistemas en desarrollo.
+
+=== PÁRRAFO 261 ===
+Resultado esperado
+
+=== PÁRRAFO 262 ===
+Esta medida permitiría jerarquizar el perfil profesional del equipo, actualizar permanentemente las competencias tecnológicas del Departamento, motivar al personal y reducir la brecha con los estándares de la industria del software.
+
+=== PÁRRAFO 263 ===
+6.3 Modernización tecnológica y actualización de plataformas
+
+=== PÁRRAFO 264 ===
+Problema
+
+=== PÁRRAFO 265 ===
+La coexistencia de aplicaciones desarrolladas sobre tecnologías con distintos niveles de actualización incrementa la complejidad del mantenimiento, dificulta la integración entre sistemas y limita la incorporación de nuevas funcionalidades.
+
+=== PÁRRAFO 266 ===
+Propuesta
+
+=== PÁRRAFO 267 ===
+Promover un programa de modernización tecnológica destinado a actualizar gradualmente las plataformas de desarrollo, los componentes de software utilizados por el Departamento y las herramientas necesarias para mantener las aplicaciones sobre plataformas con soporte vigente.
+
+=== PÁRRAFO 269 ===
+Implementación
+
+=== PÁRRAFO 270 ===
+La implementación comprenderá:
+
+=== PÁRRAFO 271 ===
+• actualización de frameworks, librerías y componentes de código utilizados por el Departamento;
+
+=== PÁRRAFO 272 ===
+• incorporación de herramientas que faciliten la integración y el despliegue ordenado de aplicaciones;
+
+=== PÁRRAFO 273 ===
+• planificación de la migración progresiva de aquellos aplicativos que utilicen plataformas obsoletas;
+
+=== PÁRRAFO 274 ===
+• articulación técnica con el área de infraestructura para la optimización de los ambientes de prueba y producción.
+
+=== PÁRRAFO 276 ===
+Resultado esperado
+
+=== PÁRRAFO 277 ===
+Se reducirá el riesgo asociado a tecnologías sin soporte, se simplificará el mantenimiento de los sistemas existentes y se incrementará la capacidad del Departamento para desarrollar nuevas soluciones digitales.
+
+=== PÁRRAFO 279 ===
+6.4 Fortalecimiento del trabajo colaborativo
+
+=== PÁRRAFO 280 ===
+Problema
+
+=== PÁRRAFO 281 ===
+La coordinación entre equipos distribuidos en distintas dependencias requiere herramientas que faciliten el intercambio permanente de información técnica, la colaboración continua y el acceso compartido al conocimiento institucional.
+
+=== PÁRRAFO 282 ===
+Propuesta
+
+=== PÁRRAFO 283 ===
+Incorporar plataformas corporativas orientadas al trabajo colaborativo y a la gestión compartida del conocimiento, que permitan centralizar la documentación técnica de los sistemas, facilitar la revisión cruzada de código y mejorar la articulación entre los grupos de desarrollo.
+
+=== PÁRRAFO 285 ===
+Implementación
+
+=== PÁRRAFO 286 ===
+La implementación comprenderá:
+
+=== PÁRRAFO 287 ===
+• incorporación de plataformas colaborativas para la documentación técnica institucional;
+
+=== PÁRRAFO 288 ===
+• implementación de herramientas de repositorios de conocimiento y revisión compartida de desarrollos;
+
+=== PÁRRAFO 289 ===
+• soluciones que faciliten la comunicación fluida y la coordinación diaria entre equipos;
+
+=== PÁRRAFO 290 ===
+• capacitación al personal para promover su utilización sistemática.
+
+=== PÁRRAFO 292 ===
+Resultado esperado
+
+=== PÁRRAFO 293 ===
+Se fortalecerá la colaboración entre los distintos grupos de trabajo, se facilitará el acceso al conocimiento técnico acumulado, se eliminarán los silos informáticos y se mejorará la cohesión del Departamento.
+
+=== PÁRRAFO 294 ===
+6.5 Herramientas de analítica de proyectos y tableros ejecutivos
+
+=== PÁRRAFO 295 ===
+Problema
+
+=== PÁRRAFO 296 ===
+La gestión de una cartera compleja de proyectos requiere herramientas de visualización gerencial que permitan medir el desempeño operativo, evaluar la carga de trabajo real y anticipar cuellos de botella en las entregas.
+
+=== PÁRRAFO 297 ===
+Propuesta
+
+=== PÁRRAFO 298 ===
+Incorporar herramientas de analítica y visualización que complementen la plataforma de gestión de proyectos del Departamento, permitiendo generar tableros ejecutivos automáticos, medir indicadores de capacidad operativa y facilitar la toma de decisiones informada.
+
+=== PÁRRAFO 300 ===
+Implementación
+
+=== PÁRRAFO 301 ===
+La implementación comprenderá:
+
+=== PÁRRAFO 302 ===
+• integración de módulos de analítica y tableros de control sobre la cartera de proyectos del Departamento;
+
+=== PÁRRAFO 303 ===
+• definición de paneles visuales para el seguimiento del estado de solicitudes, tiempos de respuesta y volumen de trabajo;
+
+=== PÁRRAFO 304 ===
+• utilización de métricas objetivas para informar la evolución de las iniciativas a las autoridades municipales.
+
+=== PÁRRAFO 306 ===
+Resultado esperado
+
+=== PÁRRAFO 307 ===
+Se obtendrá visibilidad gerencial completa sobre la capacidad operativa del Departamento, optimizando la asignación de recursos y sustentando la toma de decisiones en evidencia objetiva.
+
+=== PÁRRAFO 309 ===
+6.6 Fortalecimiento gradual de la estructura técnica y especialización funcional
+
+=== PÁRRAFO 310 ===
+Problema
+
+=== PÁRRAFO 311 ===
+La dotación actual limita la posibilidad de asignar responsabilidades especializadas en análisis funcional, arquitectura de software, calidad y liderazgo técnico, obligando a los agentes a desempeñar simultáneamente múltiples funciones.
+
+=== PÁRRAFO 312 ===
+Propuesta
+
+=== PÁRRAFO 313 ===
+En función de la disponibilidad presupuestaria e incorporar recursos humanos, fortalecer progresivamente la estructura técnica del Departamento mediante la incorporación de perfiles profesionales que permitan consolidar una mayor especialización funcional y una mejor distribución de responsabilidades.
+
+=== PÁRRAFO 315 ===
+Implementación
+
+=== PÁRRAFO 316 ===
+La implementación comprenderá:
+
+=== PÁRRAFO 317 ===
+• incorporación gradual de perfiles técnicos dedicados al desarrollo de software;
+
+=== PÁRRAFO 318 ===
+• fortalecimiento de las funciones de análisis funcional, arquitectura y aseguramiento de calidad asignadas a los perfiles de mayor experiencia;
+
+=== PÁRRAFO 319 ===
+• conformación de equipos con responsabilidades claramente definidas y esquemas de mentoría hacia el personal de reciente ingreso;
+
+=== PÁRRAFO 320 ===
+• evaluación periódica de la capacidad operativa y cohesión de los grupos de trabajo.
+
+=== PÁRRAFO 322 ===
+Resultado esperado
+
+=== PÁRRAFO 323 ===
+Se optimizará la distribución de responsabilidades, aumentará la capacidad operativa del Departamento para responder a nuevas demandas y se preservará sostenidamente el conocimiento del negocio municipal.
+
+=== PÁRRAFO 325 ===
+7. IMPLEMENTACIÓN Y GESTIÓN DEL PLAN DE TRABAJO
+
+=== PÁRRAFO 326 ===
+La implementación de las propuestas se realizará de manera progresiva, procurando incorporar las mejoras al funcionamiento habitual del Departamento sin afectar la continuidad de los servicios que presta.
+
+=== PÁRRAFO 327 ===
+Las líneas de acción no requieren una implementación simultánea. Se determinará el orden de incorporación según la criticidad de los sistemas, las prioridades institucionales, la capacidad operativa y los resultados obtenidos
+
+=== PÁRRAFO 328 ===
+De esta manera, el plan constituye un marco de gestión adaptable a las necesidades del área y no un cronograma rígido de ejecución. Las prioridades se revisarán cuando surjan requerimientos normativos, incidencias críticas, nuevos proyectos o cambios en la disponibilidad de recursos.
+
+=== PÁRRAFO 329 ===
+7.1 Puesta en marcha
+
+=== PÁRRAFO 330 ===
+La puesta en marcha establecerá las condiciones organizacionales para aplicar las medidas propuestas, priorizando acciones implementables con los recursos y herramientas actualmente disponibles.
+
+=== PÁRRAFO 331 ===
+Se realizará un relevamiento operativo del Departamento que comprenderá: la cartera de proyectos y requerimientos, sistemas críticos, distribución del conocimiento, experiencia del personal, estado de documentación, integraciones entre sistemas y capacidad operativa disponible.
+
+=== PÁRRAFO 332 ===
+A partir de esta información se establecerán las prioridades de intervención, los riesgos operativos y las primeras medidas a implementar, contando con una visión objetiva para avanzar sobre las restantes líneas de mejora.
+
+=== PÁRRAFO 334 ===
+7.2 Implementación progresiva
+
+=== PÁRRAFO 335 ===
+Las medidas se incorporarán de acuerdo con las posibilidades del Departamento, priorizando acciones de impacto organizacional que puedan desarrollarse sin comprometer requerimientos críticos.
+
+=== PÁRRAFO 336 ===
+Entre las medidas que incorporaré, de acuerdo con las prioridades que determine, se encuentran:
+
+=== PÁRRAFO 337 ===
+• fortalecimiento de la planificación y gestión de requerimientos;
+
+=== PÁRRAFO 338 ===
+• transferencia y preservación del conocimiento institucional;
+
+=== PÁRRAFO 339 ===
+• incorporación progresiva de estándares técnicos y criterios comunes de desarrollo;
+
+=== PÁRRAFO 340 ===
+• fortalecimiento de la coordinación entre equipos;
+
+=== PÁRRAFO 341 ===
+• formalización del seguimiento técnico de proveedores externos;
+
+=== PÁRRAFO 342 ===
+• incorporación gradual de nuevas herramientas y tecnologías;
+
+=== PÁRRAFO 343 ===
+• preparación de futuras iniciativas de inversión cuando existan recursos presupuestarios disponibles.
+
+=== PÁRRAFO 344 ===
+La incorporación de cada medida será acompañada por la evaluación de sus resultados y por los ajustes que sean necesarios para adecuarla a la realidad operativa del Departamento.
+
+=== PÁRRAFO 345 ===
+7.3 Gestión, seguimiento y ajuste
+
+=== PÁRRAFO 346 ===
+La implementación contará con un seguimiento permanente para verificar resultados, identificar dificultades y ajustar las acciones previstas. Redefiniré prioridades, redistribuiré recursos o modificaré el orden de ejecución cuando la situación del área lo requiera.
+
+=== PÁRRAFO 347 ===
+Los cambios normativos, incidencias críticas, evolución de proyectos o variaciones en la capacidad disponible se considerarán al revisar la planificación. Este seguimiento se realizará mediante los indicadores definidos en el capítulo siguiente, estableciendo un ciclo de diagnóstico, implementación, evaluación y ajuste para la mejora continua.
+
+=== PÁRRAFO 348 ===
+8. EVALUACIÓN Y SEGUIMIENTO
+
+=== PÁRRAFO 349 ===
+La implementación del presente Plan de Trabajo requerirá un seguimiento permanente que permita verificar el cumplimiento de objetivos, medir el impacto de las acciones y ajustar las decisiones de conducción sobre evidencia objetiva.
+
+=== PÁRRAFO 350 ===
+La evaluación se concibe como un control de gestión institucional orientado a conocer la evolución del Departamento y la calidad del servicio a la Administración Municipal. Los indicadores e instancias de seguimiento no tendrán por finalidad realizar un control individual de productividad, sino identificar oportunidades de mejora, fortalecer los equipos y garantizar la continuidad operativa.
+
+=== PÁRRAFO 352 ===
+8.1  Revisión periódica de resultados e indicadores de gestión
+
+=== PÁRRAFO 353 ===
+Se realizará un monitoreo sistemático de la gestión mediante indicadores clave en las herramientas institucionales de gestión de proyectos y en las distintas líneas de trabajo:
+
+=== PÁRRAFO 354 ===
+• Cobertura y planificación: porcentaje de proyectos, requerimientos e incidencias registrados y categorizados en la cartera común institucional. 
+
+=== PÁRRAFO 355 ===
+• Gestión del conocimiento y riesgo operativo: cantidad de sistemas críticos que cuentan con Referente Secundario designado y documentación técnica/funcional mínima actualizada. 
+
+=== PÁRRAFO 356 ===
+• Calidad de software y estabilidad: tasa de incidencias relevantes detectadas con posterioridad a la puesta en producción y tiempo promedio de respuesta frente a requerimientos. 
+
+=== PÁRRAFO 357 ===
+• Gobierno técnico y soberanía: porcentaje de desarrollos entregados por proveedores externos con recepción técnica completa y entrega del código fuente.
+
+=== PÁRRAFO 358 ===
+• Innovación y actualización: actividades de evaluación de nuevas tecnologías y herramientas asistidas por Inteligencia Artificial realizadas y documentadas.
+
+=== PÁRRAFO 360 ===
+8.2  Instancias de seguimiento, feedback interno y clima laboral
+
+=== PÁRRAFO 361 ===
+La evaluación del Departamento no se limitará al análisis de datos cuantitativos, sino que incorporará la dimensión humana y organizativa como aspecto central de la conducción:
+
+=== PÁRRAFO 362 ===
+• Reuniones periódicas de equipo: espacios de trabajo para revisar el estado de los proyectos, analizar dificultades recurrentes, redistribuir cargas de trabajo y receptar propuestas de mejora formuladas por los propios agentes. 
+
+=== PÁRRAFO 363 ===
+• Feedback técnico y mentoreo: dinámicas de acompañamiento entre el personal de mayor experiencia y los nuevos integrantes, promoviendo el reconocimiento del saber hacer acumulado y el desarrollo profesional continuo. 
+
+=== PÁRRAFO 364 ===
+• Monitoreo del clima laboral: charlas periódicas con el personal para evaluar las condiciones de trabajo, abordar la resistencia al cambio de manera constructiva y resolver tensiones operativas antes de que afecten el desempeño del equipo.
+
+=== PÁRRAFO 366 ===
+8. 3 3 Ajuste dinámico de la gestión y mejora continua
+
+=== PÁRRAFO 367 ===
+Los resultados de los indicadores y del feedback interno se utilizarán para alimentar un ciclo permanente de mejora continua.
+
+=== PÁRRAFO 368 ===
+Cuando una medida no alcance los resultados esperados o se detecten cuellos de botella, se revisarán los procedimientos para redefinir prioridades, redistribuir responsabilidades o reforzar la capacitación interna, manteniendo la planificación como una herramienta viva de gestión.
+
+=== PÁRRAFO 369 ===
+9. CONCLUSIONES
+
+=== PÁRRAFO 370 ===
+El Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software cumple un rol estratégico dentro de la transformación digital de la Municipalidad de General Pueyrredon. La creciente demanda de soluciones informáticas hace necesario fortalecer su capacidad de planificación, coordinación y organización, asegurando que el conocimiento institucional, la calidad del software y la continuidad operativa no dependan exclusivamente de iniciativas individuales.
+
+=== PÁRRAFO 372 ===
+Las propuestas de este Plan parten de un criterio de realismo y priorizan la optimización de recursos actualmente disponibles mediante la mejora de procedimientos, la gestión del conocimiento, la estandarización técnica y el fortalecimiento de la conducción. La incorporación futura de recursos tecnológicos y presupuestarios permitirá potenciar estas acciones, consolidando un proceso de modernización sostenido.
+
+=== PÁRRAFO 374 ===
+Mi rol como Jefe de Departamento será conducir este proceso promoviendo el trabajo colaborativo, la planificación estratégica y la mejora continua, procurando que las decisiones técnicas acompañen las necesidades organizacionales y contribuyan al fortalecimiento de la gestión pública.
+
+=== PÁRRAFO 376 ===
+En este sentido, mi propuesta busca consolidar la optimización de los procedimientos organizacionales como la columna vertebral del Departamento, asegurando que el código no solo funcione, sino que sea escalable, seguro y responda de manera sostenida a las exigencias de las diferentes gestiones, presente y futura, preservando el conocimiento institucional y generando valor permanente para la Administración Municipal y la comunidad.

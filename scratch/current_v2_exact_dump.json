@@ -1,0 +1,1510 @@
+[
+  {
+    "idx": 0,
+    "text": "MUNICIPALIDAD DE GENERAL PUEYRREDON"
+  },
+  {
+    "idx": 1,
+    "text": "SECRETARÍA DE PARTICIPACIÓN CIUDADANA Y DESCENTRALIZACIÓN"
+  },
+  {
+    "idx": 2,
+    "text": "SUBSECRETARÍA DE GOBIERNO DIGITAL Y MEJORA DE PROCESOS"
+  },
+  {
+    "idx": 3,
+    "text": "Concurso Interno de Oposición y Antecedentes"
+  },
+  {
+    "idx": 4,
+    "text": "Cargo: Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software"
+  },
+  {
+    "idx": 5,
+    "text": "PLAN DE TRABAJO"
+  },
+  {
+    "idx": 6,
+    "text": "Diagnóstico Integral y Propuesta de Mejora para el Funcionamiento del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software: Optimización con Recursos Actuales y Proyección con Incorporación de Recursos"
+  },
+  {
+    "idx": 7,
+    "text": "Postulante: Guido Cassulo"
+  },
+  {
+    "idx": 8,
+    "text": "Cargo actual: Soporte Semi Senior"
+  },
+  {
+    "idx": 9,
+    "text": "Legajo: 36484"
+  },
+  {
+    "idx": 10,
+    "text": "Mar del Plata – Agosto 2026"
+  },
+  {
+    "idx": 11,
+    "text": "1. INTRODUCCIÓN"
+  },
+  {
+    "idx": 12,
+    "text": "El presente proyecto realiza un diagnóstico integral del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, identifica sus problemáticas y presenta propuestas concretas para optimizar su funcionamiento, mejorando la calidad del servicio brindado a las dependencias municipales y al ciudadano."
+  },
+  {
+    "idx": 13,
+    "text": "El Departamento constituye un área estratégica dentro de la Subsecretaría de Gobierno Digital y Mejora de Procesos, responsable de diseñar, desarrollar, mantener e implementar las soluciones informáticas que respaldan la actividad diaria de la Municipalidad de General Pueyrredón."
+  },
+  {
+    "idx": 14,
+    "text": "Su función excede el desarrollo de aplicaciones: interviene en el relevamiento de requerimientos funcionales, planificación de proyectos, definición de estándares, evaluación de nuevas tecnologías, control técnico de proveedores externos, integración de sistemas, mantenimiento del sitio web municipal y mantenimiento evolutivo de aplicaciones críticas para la Administración."
+  },
+  {
+    "idx": 15,
+    "text": "La Jefatura debe desempeñar un rol integrador que trascienda la coordinación técnica. Su responsabilidad central consiste en combinar conocimientos técnicos con planificación, conducción de equipos y administración de recursos, generando las condiciones necesarias para desarrollar software de manera previsible, colaborativa y sostenible. En este marco, se debe promover la integración humana, la reutilización del conocimiento y la adopción responsable de nuevas tecnologías, consolidando la optimización de los procedimientos organizacionales como la columna vertebral que asegure que el código no solo funcione, sino que sea escalable, seguro y responda a las necesidades de las diferentes gestiones, presentes y futuras, alineando las decisiones tecnológicas con los objetivos institucionales y el régimen administrativo."
+  },
+  {
+    "idx": 16,
+    "text": "El Departamento actúa en un entorno dinámico caracterizado por la coexistencia de sistemas de distinta antigüedad, múltiples requerimientos simultáneos, recursos limitados y demanda creciente de soluciones digitales. Frente a esta realidad, la respuesta no es limitarse a solicitar mayores recursos, sino fortalecer la organización del trabajo actual, establecer criterios comunes y consolidar una cultura de mejora continua."
+  },
+  {
+    "idx": 17,
+    "text": "En consecuencia, este plan propone una estrategia en dos etapas consecutivas que llevaré adelante: la optimización con los recursos actuales y la proyección con incorporación de recursos para cuando la Administración disponga de partidas de inversión tecnológica, mediante líneas de adquisición escalables."
+  },
+  {
+    "idx": 18,
+    "text": "Esta estrategia se articula en cinco pilares fundamentales: "
+  },
+  {
+    "idx": 19,
+    "text": "● Fortalecimiento del capital humano y del trabajo colaborativo. "
+  },
+  {
+    "idx": 20,
+    "text": "● Gestión y preservación del conocimiento institucional. "
+  },
+  {
+    "idx": 21,
+    "text": "● Estandarización de procesos y gobierno técnico. "
+  },
+  {
+    "idx": 22,
+    "text": "● Mejora continua e innovación tecnológica con recursos propios."
+  },
+  {
+    "idx": 23,
+    "text": "● Planificación estratégica orientada a resultados."
+  },
+  {
+    "idx": 24,
+    "text": "Sobre estos ejes se desarrolla el diagnóstico de la situación actual y se presentan las propuestas de mejora diferenciadas entre los recursos existentes y la inversión futura."
+  },
+  {
+    "idx": 25,
+    "text": "2. DIAGNÓSTICO INSTITUCIONAL"
+  },
+  {
+    "idx": 26,
+    "text": "2.1 Situación actual del Departamento"
+  },
+  {
+    "idx": 27,
+    "text": "El Departamento cuenta con un equipo con experiencia técnica y conocimiento de los procesos municipales, y dispone de herramientas de trabajo instaladas. Al mismo tiempo, enfrenta desafíos concretos en la gestión del conocimiento, la estandarización de sus procedimientos y la coordinación entre sus distintos grupos de trabajo, a lo que se suma una recepción dispar ante la incorporación de nuevas herramientas de desarrollo."
+  },
+  {
+    "idx": 28,
+    "text": "En los últimos años la demanda de soluciones informáticas ha crecido de manera sostenida, tanto por el avance de la transformación digital como por la incorporación permanente de nuevas necesidades funcionales provenientes de las distintas áreas municipales. Este crecimiento ha permitido ampliar el alcance del Departamento, pero también ha incrementado la complejidad de su gestión."
+  },
+  {
+    "idx": 29,
+    "text": "Actualmente conviven aplicaciones desarrolladas en distintos momentos históricos, utilizando tecnologías diversas y respondiendo a necesidades organizacionales diferentes. A ello se suma la atención simultánea de requerimientos evolutivos, mantenimiento correctivo, proyectos nuevos, asistencia técnica a usuarios y coordinación con proveedores externos."
+  },
+  {
+    "idx": 30,
+    "text": "Este contexto requiere fortalecer la organización interna, promover el trabajo colaborativo y establecer procedimientos comunes. El diagnóstico que se presenta a continuación permite identificar las fortalezas sobre las cuales construir una estrategia de mejora, así como las debilidades y oportunidades cuya adecuada gestión contribuirá al fortalecimiento institucional del área."
+  },
+  {
+    "idx": 31,
+    "text": "2.2 Análisis FODA"
+  },
+  {
+    "idx": 32,
+    "text": "Fortalezas"
+  },
+  {
+    "idx": 33,
+    "text": "• Capital humano con alto conocimiento de los servicios municipales: El Departamento cuenta con agentes que poseen una valiosa experiencia en el funcionamiento de la Administración Pública Municipal, combinando conocimientos tecnológicos con una profunda comprensión de los procedimientos administrativos, la normativa vigente y las necesidades particulares de las distintas áreas usuarias. Este conocimiento constituye uno de los principales activos institucionales y representa una base sólida para impulsar procesos de mejora e innovación."
+  },
+  {
+    "idx": 34,
+    "text": "• Compromiso y capacidad de adaptación: A pesar del incremento permanente de requerimientos y de la coexistencia de sistemas con distintos niveles de complejidad tecnológica, el equipo ha demostrado capacidad para sostener la continuidad operativa de los servicios informáticos municipales, adaptándose a nuevos desafíos y prioridades institucionales."
+  },
+  {
+    "idx": 35,
+    "text": "• Experiencia acumulada en múltiples tecnologías: La evolución histórica de los sistemas municipales ha permitido que el Departamento adquiera experiencia sobre diferentes plataformas, lenguajes y herramientas de desarrollo, generando un importante capital técnico que facilita la evolución gradual de las aplicaciones existentes."
+  },
+  {
+    "idx": 36,
+    "text": "• Infraestructura y herramientas disponibles: El Departamento dispone de repositorios en GitLab para versionado, plataforma Redmine para gestión de proyectos, ambientes diferenciados de Desarrollo, Prueba y Producción, y equipamiento básico adecuado, constituyendo una base previa sólida para implementar mejoras organizacionales."
+  },
+  {
+    "idx": 37,
+    "text": "Oportunidades"
+  },
+  {
+    "idx": 38,
+    "text": "• Consolidación del proceso de transformación digital: La creciente incorporación de herramientas digitales en la Administración Pública representa una oportunidad para fortalecer el rol estratégico del Departamento como impulsor de la modernización institucional."
+  },
+  {
+    "idx": 39,
+    "text": "• Adopción asistida de Inteligencia Artificial: La integración de herramientas asistidas por IA en los entornos de desarrollo (IDEs) permite acelerar la codificación, automatizar tareas repetitivas de documentación y elevar la productividad técnica del equipo dentro de un marco de uso seguro."
+  },
+  {
+    "idx": 40,
+    "text": "• Implementación de marcos ágiles híbridos: La incorporación de metodologías ágiles adaptadas al contexto del Departamento (ciclos cortos de desarrollo para proyectos nuevos y gestión de flujo continuo para el mantenimiento) representa una oportunidad de mejora a costo cero, permitiendo optimizar la planificación, la comunicación interna y la clarificación de prioridades entre equipos."
+  },
+  {
+    "idx": 41,
+    "text": "• Gestión política favorable y capacitaciones accesibles: La intención de las autoridades de optimizar el área, sumada a la amplia oferta de formación técnica online y la posibilidad de organizar talleres internos, representa una oportunidad concreta para actualizar competencias del equipo sin impacto presupuestario."
+  },
+  {
+    "idx": 42,
+    "text": "Debilidades"
+  },
+  {
+    "idx": 43,
+    "text": "• Concentración del conocimiento: Una parte significativa del conocimiento funcional y técnico de determinados sistemas críticos se encuentra concentrada en un número reducido de agentes, lo que incrementa el riesgo operacional, dificulta la planificación de tareas, genera cuellos de botella y limita la flexibilidad del Departamento para reasignar recursos ante licencias del personal, imprevistos o prioridades institucionales."
+  },
+  {
+    "idx": 44,
+    "text": "• Ausencia de procedimientos homogéneos: Si bien existen buenas prácticas individuales, actualmente no todos los proyectos siguen criterios comunes respecto de documentación, planificación, estimación, arquitectura, pruebas o seguimiento, generando variabilidad en la calidad del código, dificultando la incorporación de nuevos agentes, reduciendo la reutilización del trabajo existente y encareciendo el mantenimiento a largo plazo."
+  },
+  {
+    "idx": 45,
+    "text": "• Resistencia a la adopción de tecnologías modernas: Una parte del equipo, particularmente agentes con experiencia en plataformas legacy (antiguas), muestra resistencia a adoptar alternativas más modernas, lo que limita la capacidad del Departamento para modernizar sus aplicaciones y dificulta la distribución de tareas en proyectos que requieren tecnologías actualizadas."
+  },
+  {
+    "idx": 46,
+    "text": "• Gestión fragmentada de proyectos: El seguimiento de proyectos se realiza utilizando diferentes herramientas y metodologías, lo que dificulta obtener una visión integral de la carga de trabajo del Departamento, impide conocer su capacidad operativa real, dificulta la priorización transparente de solicitudes entre Secretarías y genera desajustes en las estimaciones de tiempos de entrega."
+  },
+  {
+    "idx": 47,
+    "text": "• Comunicación y coordinación entre equipos: La distribución física del personal en distintas dependencias limita la circulación oportuna de información, favoreciendo el aislamiento en silos informáticos, incrementando el riesgo de desarrollar soluciones o módulos duplicados y resintiendo la cohesión y sentido de pertenencia a un equipo único."
+  },
+  {
+    "idx": 48,
+    "text": "• Dependencia del mantenimiento reactivo: La atención permanente de incidencias y requerimientos urgentes reduce el tiempo disponible para actividades de planificación y mejora continua, consumiendo la capacidad técnica en emergencias cotidianas e impidiendo dedicar tiempo a la documentación, la deuda técnica y la modernización planificada de sistemas."
+  },
+  {
+    "idx": 49,
+    "text": "• Gestión del conocimiento insuficiente: La documentación técnica, funcional y de arquitectura presenta distintos niveles de desarrollo según el proyecto, lo que aumenta la dependencia del conocimiento tácito individual, encarece la curva de aprendizaje y pone en riesgo la continuidad de los aplicativos frente a licencias, traslados o bajas de personal."
+  },
+  {
+    "idx": 50,
+    "text": "• Limitaciones en la especialización funcional: La dotación actual del Departamento requiere que los agentes desempeñen simultáneamente tareas de análisis, desarrollo, mantenimiento y soporte funcional, independientemente de la especialización prevista por el agrupamiento ocupacional, reduciendo la posibilidad de conformar equipos con roles claramente diferenciados."
+  },
+  {
+    "idx": 51,
+    "text": "Amenazas"
+  },
+  {
+    "idx": 52,
+    "text": "• Incremento sostenido de la demanda e indefinición de áreas usuarias: La demanda creciente sumada a dilaciones o falta de certeza por parte de las dependencias solicitantes al definir circuitos administrativos puede superar la capacidad operativa si no se formaliza un circuito único de demandas."
+  },
+  {
+    "idx": 53,
+    "text": "• Obsolescencia e integración con sistemas legacy: La coexistencia de aplicaciones sobre tecnologías antiguas que carecen de APIs unificadas incrementa el riesgo operativo y dificulta su integración con nuevos desarrollos web o móviles."
+  },
+  {
+    "idx": 54,
+    "text": "• Riesgo de dependencia técnica sobre proveedores externos: La entrega de soluciones por terceros sin un canal fluido de comunicación técnica ni una contraparte municipal que participe activamente del seguimiento puede generar dependencia total del proveedor, pérdida del conocimiento institucional y soberanía, derivando en mayores costos de mantenimiento e imposibilitando el desarrollo soberano ante una terminación temprana de la contratación."
+  },
+  {
+    "idx": 55,
+    "text": "• Requerimientos normativos e imprevistos de gestión: El surgimiento de necesidades imprevistas derivadas de cambios normativos o resoluciones urgentes puede forzar la reorganización del cronograma establecido."
+  },
+  {
+    "idx": 56,
+    "text": "• Resistencia al liderazgo e inercia organizacional: La prolongada falta de una conducción formal en el Departamento puede generar inercia inicial a la hora de adoptar nuevas pautas organizativas y estándares técnicos."
+  },
+  {
+    "idx": 57,
+    "text": "2.3 Conclusión del diagnóstico"
+  },
+  {
+    "idx": 58,
+    "text": "Del análisis realizado surge que el desafío central del Departamento radica en fortalecer su capacidad organizacional para gestionar el conocimiento, coordinar el equipo y establecer procedimientos comunes que otorguen previsibilidad al desarrollo de software municipal."
+  },
+  {
+    "idx": 59,
+    "text": "En consecuencia, mi propuesta prioriza consolidar un modelo de gestión orientado a las personas y los procesos, aprovechando las oportunidades de modernización identificadas en el diagnóstico como la incorporación asistida de herramientas de Inteligencia Artificial en los entornos de desarrollo (IDEs) y la adopción de arquitecturas de referencia, para elevar la productividad del equipo, optimizar la documentación y garantizar la calidad y sostenibilidad de los sistemas institucionales."
+  },
+  {
+    "idx": 60,
+    "text": "3. PRINCIPIOS DE GESTIÓN"
+  },
+  {
+    "idx": 61,
+    "text": "El ejercicio de la Jefatura del Departamento requiere combinar capacidades técnicas con habilidades de conducción, planificación y coordinación. En consecuencia, mis decisiones organizacionales y técnicas se sustentarán sobre los siguientes principios de gestión que otorgarán coherencia a las acciones del Departamento."
+  },
+  {
+    "idx": 62,
+    "text": "3.1 Liderazgo basado en la colaboración y el desarrollo del equipo"
+  },
+  {
+    "idx": 63,
+    "text": "Promoveré un ambiente de trabajo participativo y transparente, donde la comunicación fluida, el intercambio de conocimientos y la construcción colectiva de soluciones sean el eje de la cultura organizacional. Mi función consistirá en facilitar el trabajo de los equipos, remover obstáculos operativos y generar las condiciones para que cada integrante pueda desarrollar su potencial profesional."
+  },
+  {
+    "idx": 64,
+    "text": "Para consolidar esta visión de conducción humana y estratégica, me apoyaré en tres pilares de gestión de personas:"
+  },
+  {
+    "idx": 65,
+    "text": "• Delegación y autonomía responsable: Se descentralizará la toma de decisiones operativas, confiando tareas de relevamiento, arquitectura y liderazgo técnico a los perfiles de mayor experiencia, evitando convertirme en un cuello de botella administrativo."
+  },
+  {
+    "idx": 66,
+    "text": "• Motivación, participación y reconocimiento: Se fomentará el involucramiento activo del personal en las decisiones de diseño e innovación tecnológica, reconociendo públicamente el valor de la experiencia acumulada y la trayectoria del personal municipal."
+  },
+  {
+    "idx": 67,
+    "text": "• Comunicación transparente y gestión constructiva del clima laboral: La resistencia al cambio o la inercia organizacional no serán abordadas como problemas de conducta individual, sino como procesos naturales de transición que se gestionarán mediante el diálogo, la capacitación, la fundamentación técnica de las nuevas pautas y el acompañamiento constante."
+  },
+  {
+    "idx": 68,
+    "text": ""
+  },
+  {
+    "idx": 69,
+    "text": "3.2 Gestión orientada a procesos"
+  },
+  {
+    "idx": 70,
+    "text": "El crecimiento sostenido del Departamento exige que los procedimientos organizacionales constituyan la columna vertebral del área, asegurando que el código no solo funcione en la coyuntura, sino que sea técnicamente escalable, seguro frente a vulnerabilidades y sostenible a lo largo del tiempo. Toda actividad recurrente deberá respaldarse en estándares claros que garanticen previsibilidad y respuesta efectiva ante las demandas de la gestión presente y futura."
+  },
+  {
+    "idx": 71,
+    "text": "3.3 Gestión del conocimiento institucional"
+  },
+  {
+    "idx": 72,
+    "text": "El conocimiento generado durante el desarrollo y mantenimiento de los sistemas constituye un activo estratégico de la Municipalidad. Por ello, se impulsarán mecanismos que favorezcan la documentación, la transferencia de conocimientos y la capacitación interna, procurando que la información crítica permanezca en la organización."
+  },
+  {
+    "idx": 73,
+    "text": "3.4 Mejora continua"
+  },
+  {
+    "idx": 74,
+    "text": "Se revisarán periódicamente los procedimientos, metodologías y herramientas para identificar oportunidades de mejora sobre la base de evidencias objetivas, indicadores de gestión y resultados observables."
+  },
+  {
+    "idx": 75,
+    "text": "3.5 Innovación responsable"
+  },
+  {
+    "idx": 76,
+    "text": "Antes de adoptar una herramienta, metodología o plataforma tecnológica se evaluarán aspectos tales como compatibilidad con la arquitectura existente, sostenibilidad en el tiempo, costos de implementación, impacto sobre los procesos, requerimientos de capacitación y seguridad de la información."
+  },
+  {
+    "idx": 77,
+    "text": "3.6 Orientación al servicio"
+  },
+  {
+    "idx": 78,
+    "text": "El Departamento presta servicios a las distintas áreas municipales y, de manera indirecta, a toda la comunidad. Las decisiones deberán priorizar el valor que los sistemas aportan a los procesos administrativos, sustentando mis decisiones en un diálogo permanente y una definición clara de prioridades."
+  },
+  {
+    "idx": 79,
+    "text": "3.7 Decisiones basadas en evidencia"
+  },
+  {
+    "idx": 80,
+    "text": "La planificación y administración del Departamento se deberá apoyar en información objetiva proveniente de indicadores que midan la capacidad operativa, la evolución de proyectos y los cuellos de botella."
+  },
+  {
+    "idx": 81,
+    "text": "4. OBJETIVOS DEL PLAN DE TRABAJO"
+  },
+  {
+    "idx": 82,
+    "text": "El presente Plan de Trabajo persigue los siguientes objetivos estratégicos para el fortalecimiento integral del Departamento:"
+  },
+  {
+    "idx": 83,
+    "text": "• Optimizar la planificación y priorización de requerimientos para reducir progresivamente la atención reactiva de emergencias."
+  },
+  {
+    "idx": 84,
+    "text": "• Centralizar y visibilizar la gestión y el seguimiento de solicitudes, proyectos e incidencias en la plataforma institucional de gestión."
+  },
+  {
+    "idx": 85,
+    "text": "• Preservar el conocimiento institucional y mitigar los riesgos operativos mediante el fortalecimiento de la documentación y la transferencia técnica."
+  },
+  {
+    "idx": 86,
+    "text": "• Establecer estándares técnicos y criterios homogéneos de calidad para el desarrollo, mantenimiento y arquitectura de software."
+  },
+  {
+    "idx": 87,
+    "text": "• Fortalecer la coordinación, la comunicación y la sinergia entre los equipos de trabajo distribuidos."
+  },
+  {
+    "idx": 88,
+    "text": "• Consolidar el gobierno técnico y la soberanía sobre los desarrollos de software realizados por proveedores externos."
+  },
+  {
+    "idx": 89,
+    "text": "• Promover la incorporación progresiva y responsable de nuevas herramientas tecnológicas de apoyo al desarrollo."
+  },
+  {
+    "idx": 90,
+    "text": "• Optimizar la distribución de funciones operativas considerando la trayectoria y experiencia acumulada por el personal."
+  },
+  {
+    "idx": 91,
+    "text": ""
+  },
+  {
+    "idx": 92,
+    "text": "5. PROPUESTA DE MEJORA Y OPTIMIZACIÓN CON RECURSOS ACTUALES"
+  },
+  {
+    "idx": 93,
+    "text": "El diagnóstico realizado permite concluir que las principales oportunidades de mejora del Departamento no dependen inicialmente de la incorporación de nuevos recursos humanos o tecnológicos, sino del fortalecimiento de la organización interna, la coordinación de los equipos de trabajo y la estandarización de los procedimientos."
+  },
+  {
+    "idx": 94,
+    "text": "En consecuencia, se propone un plan de optimización basado en líneas de acción prioritarias, todas ellas implementables con los recursos actualmente disponibles y alineadas con las funciones asignadas a la Jefatura del Departamento."
+  },
+  {
+    "idx": 95,
+    "text": "5.1 Organización y planificación del trabajo"
+  },
+  {
+    "idx": 96,
+    "text": "Problema"
+  },
+  {
+    "idx": 97,
+    "text": "El Departamento atiende simultáneamente proyectos nuevos, mantenimiento correctivo/evolutivo, soporte a usuarios y urgencias. La falta de un procedimiento uniforme dificulta conocer la capacidad operativa real, provoca cambios constantes de prioridades y fomenta una dinámica reactiva. Si bien se cuenta con la plataforma Redmine instalada, la falta de tipificación de peticiones impida aprovechar el diagrama Gantt o los tableros de gestión."
+  },
+  {
+    "idx": 98,
+    "text": ""
+  },
+  {
+    "idx": 99,
+    "text": "Propuesta"
+  },
+  {
+    "idx": 100,
+    "text": "Se Implementará un modelo único de organización para centralizar todas las solicitudes en una cartera común administrada en Redmine. Mi planificación distinguirá el mantenimiento continuo de los nuevos desarrollos, aplicando metodologías ágiles híbridas y adaptadas a la Administración Pública sin imponer esquemas rígidos."
+  },
+  {
+    "idx": 101,
+    "text": ""
+  },
+  {
+    "idx": 102,
+    "text": "ImplementaciónLa implementación comprenderá:"
+  },
+  {
+    "idx": 103,
+    "text": "• utilización obligatoria de la plataforma Redmine para todas las solicitudes; "
+  },
+  {
+    "idx": 104,
+    "text": "• reuniones periódicas de planificación y seguimiento; "
+  },
+  {
+    "idx": 105,
+    "text": "• revisión permanente de prioridades; "
+  },
+  {
+    "idx": 106,
+    "text": "• redistribución de tareas cuando la carga operativa lo requiera;"
+  },
+  {
+    "idx": 107,
+    "text": "• definición de criterios para clasificar urgencias y diferir incidencias no críticas, procurando preservar capacidad operativa para el trabajo planificado, la documentación y las mejoras evolutivas;"
+  },
+  {
+    "idx": 108,
+    "text": "• estimación de tiempos y tipificación en cada petición para habilitar el seguimiento efectivo del cronograma mediante el diagrama Gantt."
+  },
+  {
+    "idx": 109,
+    "text": ""
+  },
+  {
+    "idx": 110,
+    "text": "Resultado esperado"
+  },
+  {
+    "idx": 111,
+    "text": "Esta propuesta permitirá mejorar la previsibilidad de los proyectos, optimizar la utilización de los recursos existentes y brindar mayor transparencia respecto del estado de cada solicitud."
+  },
+  {
+    "idx": 112,
+    "text": "5.2 Gestión del conocimiento institucional"
+  },
+  {
+    "idx": 113,
+    "text": "Problema"
+  },
+  {
+    "idx": 114,
+    "text": "El conocimiento técnico y funcional de varios sistemas críticos está concentrado en pocos agentes, generando un alto riesgo operativo y cuellos de botella ante ausencias o licencias. A ello se suma una documentación dispar según el proyecto."
+  },
+  {
+    "idx": 115,
+    "text": ""
+  },
+  {
+    "idx": 116,
+    "text": "Propuesta"
+  },
+  {
+    "idx": 117,
+    "text": "Se implementará un programa de gestión del conocimiento asignando gradualmente Referentes Secundarios en los sistemas críticos, promoviendo la transferencia técnica cruzada y estableciendo documentación mínima obligatoria."
+  },
+  {
+    "idx": 118,
+    "text": ""
+  },
+  {
+    "idx": 119,
+    "text": "Implementación"
+  },
+  {
+    "idx": 120,
+    "text": "El programa comprenderá:"
+  },
+  {
+    "idx": 121,
+    "text": "asignación gradual de agentes de apoyo para los sistemas críticos;"
+  },
+  {
+    "idx": 122,
+    "text": "participación progresiva en tareas de mantenimiento y evolución;"
+  },
+  {
+    "idx": 123,
+    "text": "transferencia práctica de conocimientos entre agentes;"
+  },
+  {
+    "idx": 124,
+    "text": "elaboración y actualización de la documentación funcional y técnica mínima;"
+  },
+  {
+    "idx": 125,
+    "text": "instancias de transferencia práctica y acompañamiento entre agentes;"
+  },
+  {
+    "idx": 126,
+    "text": "revisión periódica del grado de cobertura del conocimiento de cada sistema."
+  },
+  {
+    "idx": 127,
+    "text": "Resultado esperado"
+  },
+  {
+    "idx": 128,
+    "text": "La medida reducirá significativamente el riesgo operativo, facilitará la redistribución de tareas y permitirá preservar el conocimiento institucional generado por el Departamento."
+  },
+  {
+    "idx": 129,
+    "text": "5.3 Estandarización técnica y calidad del software"
+  },
+  {
+    "idx": 130,
+    "text": "Problema"
+  },
+  {
+    "idx": 131,
+    "text": "La coexistencia de aplicaciones desarrolladas bajo distintos criterios técnicos dificulta el mantenimiento, incrementa la deuda técnica y genera diferencias significativas en la calidad de los desarrollos."
+  },
+  {
+    "idx": 132,
+    "text": "Propuesta"
+  },
+  {
+    "idx": 133,
+    "text": "Se impulsará la institucionalización de una Arquitectura Base y de un conjunto de estándares comunes que orienten el desarrollo de todos los nuevos sistemas municipales.Mi objetivo no consiste en restringir la innovación tecnológica sino en garantizar que todos los proyectos compartan criterios comunes de organización, seguridad, documentación y mantenimiento."
+  },
+  {
+    "idx": 134,
+    "text": "Implementación"
+  },
+  {
+    "idx": 135,
+    "text": "Se establecerán:"
+  },
+  {
+    "idx": 136,
+    "text": "arquitectura base institucional; "
+  },
+  {
+    "idx": 137,
+    "text": "guías de buenas prácticas; "
+  },
+  {
+    "idx": 138,
+    "text": "estándares de codificación; "
+  },
+  {
+    "idx": 139,
+    "text": "criterios mínimos de documentación;"
+  },
+  {
+    "idx": 140,
+    "text": "criterios mínimos de seguridad aplicables al desarrollo y mantenimiento de los sistemas;"
+  },
+  {
+    "idx": 141,
+    "text": "procedimientos básicos de revisión técnica antes de producción. "
+  },
+  {
+    "idx": 142,
+    "text": "Resultado esperado"
+  },
+  {
+    "idx": 143,
+    "text": "Se obtendrán desarrollos más homogéneos, menor tiempo de mantenimiento, mayor facilidad para incorporar nuevos desarrolladores y una reducción progresiva de la deuda técnica."
+  },
+  {
+    "idx": 144,
+    "text": "5.4 Gestión de requerimientos y relación con las áreas usuarias"
+  },
+  {
+    "idx": 145,
+    "text": "Problema"
+  },
+  {
+    "idx": 146,
+    "text": "Las solicitudes de desarrollo llegan al Departamento por distintos canales y con diferentes niveles de definición, dificultando la planificación y la asignación objetiva de prioridades."
+  },
+  {
+    "idx": 147,
+    "text": "Propuesta"
+  },
+  {
+    "idx": 148,
+    "text": "Se institucionalizará un procedimiento único para el relevamiento, análisis y priorización de requerimientos, actuando como nexo entre las áreas usuarias y el equipo técnico."
+  },
+  {
+    "idx": 149,
+    "text": "Implementación"
+  },
+  {
+    "idx": 150,
+    "text": "Cada requerimiento será analizado considerando:"
+  },
+  {
+    "idx": 151,
+    "text": "viabilidad técnica; "
+  },
+  {
+    "idx": 152,
+    "text": "impacto institucional; "
+  },
+  {
+    "idx": 153,
+    "text": "reutilización de soluciones existentes; "
+  },
+  {
+    "idx": 154,
+    "text": "prioridad; "
+  },
+  {
+    "idx": 155,
+    "text": "recursos necesarios; "
+  },
+  {
+    "idx": 156,
+    "text": "impacto e integración con otros sistemas municipales;"
+  },
+  {
+    "idx": 157,
+    "text": "validación con el área solicitante;"
+  },
+  {
+    "idx": 158,
+    "text": "posibilidades de reutilización e integración con soluciones y servicios existentes."
+  },
+  {
+    "idx": 159,
+    "text": "Resultado esperado"
+  },
+  {
+    "idx": 160,
+    "text": "La medida permitirá optimizar la asignación de recursos, reducir desarrollos duplicados y mejorar la comunicación con las distintas Secretarías."
+  },
+  {
+    "idx": 161,
+    "text": "5.5 Gobierno técnico de proveedores externos"
+  },
+  {
+    "idx": 162,
+    "text": "Problema"
+  },
+  {
+    "idx": 163,
+    "text": "Los desarrollos contratados a terceros sin seguimiento técnico municipal pueden generar dependencia tecnológica, incompatibilidades operativas y pérdida del conocimiento institucional."
+  },
+  {
+    "idx": 164,
+    "text": ""
+  },
+  {
+    "idx": 165,
+    "text": "Propuesta"
+  },
+  {
+    "idx": 166,
+    "text": "Ejerceré un rol de conducción técnica durante todo el ciclo de contratación, asegurando que las soluciones externas se integren adecuadamente al ecosistema tecnológico municipal. Para ello, asignaré al seguimiento de cada proyecto a uno o más agentes del Departamento con experiencia en la temática funcional involucrada, quienes participarán en las etapas de relevamiento, validación y seguimiento técnico, complementando el conocimiento tecnológico del proveedor con el conocimiento de los procesos administrativos municipales."
+  },
+  {
+    "idx": 167,
+    "text": ""
+  },
+  {
+    "idx": 168,
+    "text": "Implementación"
+  },
+  {
+    "idx": 169,
+    "text": "El procedimiento comprenderá:"
+  },
+  {
+    "idx": 170,
+    "text": "participación de un agente del Departamento en las tareas de relevamiento y validación funcional;"
+  },
+  {
+    "idx": 171,
+    "text": "participación en la elaboración de especificaciones técnicas;"
+  },
+  {
+    "idx": 172,
+    "text": "seguimiento del desarrollo;"
+  },
+  {
+    "idx": 173,
+    "text": "verificación del cumplimiento de estándares;"
+  },
+  {
+    "idx": 174,
+    "text": "recepción técnica obligatoria;"
+  },
+  {
+    "idx": 175,
+    "text": "entrega de código fuente y documentación."
+  },
+  {
+    "idx": 176,
+    "text": "Resultado esperado"
+  },
+  {
+    "idx": 177,
+    "text": "Se fortalecerá la soberanía tecnológica del Municipio, se reducirá la dependencia de proveedores externos y se favorecerá el desarrollo de soluciones alineadas con los procesos administrativos y las necesidades de las áreas usuarias, mediante la participación activa del personal del Departamento con conocimiento funcional en cada proyecto."
+  },
+  {
+    "idx": 178,
+    "text": "5.6 Innovación tecnológica responsable"
+  },
+  {
+    "idx": 179,
+    "text": "Problema"
+  },
+  {
+    "idx": 180,
+    "text": "La incorporación de nuevas herramientas y tecnologías suele realizarse sin criterios institucionales comunes, quedando muchas veces librada a decisiones individuales. Asimismo, la coexistencia de tecnologías obsoletas y plataformas con soporte vigente dificulta la estandarización del desarrollo y la evolución tecnológica del Departamento."
+  },
+  {
+    "idx": 181,
+    "text": ""
+  },
+  {
+    "idx": 182,
+    "text": "Propuesta"
+  },
+  {
+    "idx": 183,
+    "text": "Gestionaré la innovación con criterio institucional, promoviendo tecnologías vigentes con soporte activo. Adoptaré la Inteligencia Artificial como herramienta de asistencia en los entornos de desarrollo (IDE) para agilizar codificación, detección de errores y documentación, bajo pautas de uso seguro que resguarden la información municipal. La transición será gradual y acompañada por mentoreo interno."
+  },
+  {
+    "idx": 184,
+    "text": ""
+  },
+  {
+    "idx": 185,
+    "text": "Implementación"
+  },
+  {
+    "idx": 186,
+    "text": "Se promoverán:"
+  },
+  {
+    "idx": 187,
+    "text": "evaluación permanente de nuevas tecnologías;"
+  },
+  {
+    "idx": 188,
+    "text": "definición de criterios institucionales para su incorporación al Departamento;"
+  },
+  {
+    "idx": 189,
+    "text": "capacitación del personal;"
+  },
+  {
+    "idx": 190,
+    "text": "pautas institucionales para el uso seguro de IA;"
+  },
+  {
+    "idx": 191,
+    "text": "revisión periódica de herramientas y metodologías."
+  },
+  {
+    "idx": 192,
+    "text": ""
+  },
+  {
+    "idx": 193,
+    "text": "Resultado esperado"
+  },
+  {
+    "idx": 194,
+    "text": "El Departamento podrá incorporar nuevas tecnologías de manera planificada, gradual y segura, incrementando la productividad del equipo, favoreciendo la estandarización tecnológica y asegurando la sostenibilidad de los sistemas municipales sin comprometer la seguridad de la información."
+  },
+  {
+    "idx": 195,
+    "text": ""
+  },
+  {
+    "idx": 196,
+    "text": "5.7 Coordinación y comunicación interna entre equipos"
+  },
+  {
+    "idx": 197,
+    "text": "Problema"
+  },
+  {
+    "idx": 198,
+    "text": "La distribución física del personal en distintas dependencias limita la circulación oportuna de información, favorece el aislamiento entre grupos de trabajo y dificulta la construcción de una identidad de equipo común."
+  },
+  {
+    "idx": 199,
+    "text": "Propuesta"
+  },
+  {
+    "idx": 200,
+    "text": "Se institucionalizará un esquema permanente de coordinación transversal aprovechando las herramientas institucionales ya disponibles. Mi objetivo es garantizar que todos los integrantes del Departamento compartan información sobre proyectos en curso, dificultades detectadas y prioridades institucionales, independientemente de su ubicación física."
+  },
+  {
+    "idx": 201,
+    "text": ""
+  },
+  {
+    "idx": 202,
+    "text": "Implementación"
+  },
+  {
+    "idx": 203,
+    "text": "Se promoverán:"
+  },
+  {
+    "idx": 204,
+    "text": "reuniones periódicas breves de sincronización inter-oficinas con agenda predefinida;"
+  },
+  {
+    "idx": 205,
+    "text": "uso de Redmine como tablero compartido de visibilidad del estado de todos los proyectos del Departamento;"
+  },
+  {
+    "idx": 206,
+    "text": "criterios comunes para registrar avances, bloqueos y decisiones técnicas relevantes;"
+  },
+  {
+    "idx": 207,
+    "text": "participación cruzada planificada en proyectos para favorecer el conocimiento mutuo entre equipos."
+  },
+  {
+    "idx": 208,
+    "text": ""
+  },
+  {
+    "idx": 209,
+    "text": "Resultado esperado"
+  },
+  {
+    "idx": 210,
+    "text": "Se reducirá el aislamiento entre grupos de trabajo, mejorará la circulación de información técnica y se fortalecerá la cohesión del equipo como unidad institucional."
+  },
+  {
+    "idx": 211,
+    "text": ""
+  },
+  {
+    "idx": 212,
+    "text": "5.8 Optimización de roles según experiencia acumulada"
+  },
+  {
+    "idx": 213,
+    "text": "Problema"
+  },
+  {
+    "idx": 214,
+    "text": "La dotación actual del Departamento requiere que los agentes desempeñen simultáneamente tareas de análisis, desarrollo, mantenimiento y soporte funcional, independientemente de la especialización prevista por la estructura escalafonaria, lo que dificulta la conformación de equipos con roles claramente diferenciados."
+  },
+  {
+    "idx": 215,
+    "text": "Propuesta"
+  },
+  {
+    "idx": 216,
+    "text": "Sin modificar la estructura escalafonaria vigente ni requerir recursos presupuestarios adicionales, organizaré el trabajo asignando las responsabilidades de análisis, relevamiento funcional y coordinación técnica considerando la experiencia acumulada por cada agente y su conocimiento práctico del funcionamiento municipal."
+  },
+  {
+    "idx": 217,
+    "text": ""
+  },
+  {
+    "idx": 218,
+    "text": "Implementación"
+  },
+  {
+    "idx": 219,
+    "text": ""
+  },
+  {
+    "idx": 220,
+    "text": "La implementación comprenderá:"
+  },
+  {
+    "idx": 221,
+    "text": "• asignación de referentes funcionales según la trayectoria y experiencia de cada integrante;"
+  },
+  {
+    "idx": 222,
+    "text": "• distribución de tareas priorizando la experiencia en los procesos administrativos municipales;"
+  },
+  {
+    "idx": 223,
+    "text": "• acompañamiento de los perfiles experimentados a los agentes de más reciente incorporación;"
+  },
+  {
+    "idx": 224,
+    "text": "• revisión periódica de la asignación de roles según la evolución de cada proyecto."
+  },
+  {
+    "idx": 225,
+    "text": ""
+  },
+  {
+    "idx": 226,
+    "text": "Resultado esperado"
+  },
+  {
+    "idx": 227,
+    "text": "Esta medida permitirá optimizar la distribución del trabajo con los recursos actuales, jerarquizar la experiencia del personal existente y mejorar la calidad en el relevamiento de necesidades con las áreas usuarias."
+  },
+  {
+    "idx": 228,
+    "text": ""
+  },
+  {
+    "idx": 229,
+    "text": "6. PROYECCIÓN CON INCORPORACIÓN DE RECURSOS"
+  },
+  {
+    "idx": 230,
+    "text": "Las acciones desarrolladas en el capítulo anterior pueden implementarse utilizando los recursos actualmente disponibles y constituyen una estrategia realista para mejorar el funcionamiento del Departamento."
+  },
+  {
+    "idx": 231,
+    "text": "No obstante, la incorporación gradual de recursos presupuestarios permitiría consolidar y potenciar dichas acciones, incrementando la productividad del equipo, fortaleciendo la calidad del software y acelerando el proceso de modernización tecnológica."
+  },
+  {
+    "idx": 232,
+    "text": "Las líneas de inversión identificadas no constituyen compromisos de adquisición ni requieren una ejecución simultánea, sino alternativas que podrán evaluarse en función de las necesidades detectadas, la disponibilidad presupuestaria y las prioridades institucionales."
+  },
+  {
+    "idx": 233,
+    "text": "En este contexto, se identifican las siguientes líneas de inversión prioritaria."
+  },
+  {
+    "idx": 234,
+    "text": "6.1 Incorporación de herramientas profesionales de apoyo al desarrollo y asistencia técnica"
+  },
+  {
+    "idx": 235,
+    "text": "Problema"
+  },
+  {
+    "idx": 236,
+    "text": "La revisión de código, la generación de documentación técnica y la verificación de calidad dependen de tareas manuales, reduciendo la productividad y dificultando la aplicación uniforme de criterios técnicos."
+  },
+  {
+    "idx": 237,
+    "text": "Propuesta"
+  },
+  {
+    "idx": 238,
+    "text": "Incorporar herramientas profesionales de apoyo al desarrollo de software que permitan automatizar tareas repetitivas, fortalecer los procesos de aseguramiento de calidad y asistir al personal durante la codificación mediante la integración de asistentes basados en Inteligencia Artificial en los entornos de desarrollo (IDE) y plataformas de análisis estático de código."
+  },
+  {
+    "idx": 239,
+    "text": ""
+  },
+  {
+    "idx": 240,
+    "text": "Implementación"
+  },
+  {
+    "idx": 241,
+    "text": "La implementación comprenderá:"
+  },
+  {
+    "idx": 242,
+    "text": "• adquisición de licencias profesionales de apoyo al desarrollo de software y asistencia por IA;"
+  },
+  {
+    "idx": 243,
+    "text": "• incorporación de plataformas automáticas de análisis y control de calidad del código fuente;"
+  },
+  {
+    "idx": 244,
+    "text": "• definición de pautas institucionales y umbrales automáticos de calidad previa al paso a producción;"
+  },
+  {
+    "idx": 245,
+    "text": "• capacitación del personal para la utilización segura y eficiente de dichas herramientas."
+  },
+  {
+    "idx": 246,
+    "text": "Resultado esperado"
+  },
+  {
+    "idx": 247,
+    "text": "Se incrementará sustancialmente la productividad del equipo, mejorará la calidad de los desarrollos, se reducirán los tiempos destinados a tareas repetitivas y se automatizará la documentación técnica de los sistemas."
+  },
+  {
+    "idx": 248,
+    "text": "6.2 Programa permanente de capacitación continua y especialización del personal"
+  },
+  {
+    "idx": 249,
+    "text": "Problema"
+  },
+  {
+    "idx": 250,
+    "text": "La rápida evolución de lenguajes, metodologías y arquitecturas requiere instancias de formación especializada para actualizar constantemente al equipo más allá del aprendizaje autónomo."
+  },
+  {
+    "idx": 251,
+    "text": "Propuesta"
+  },
+  {
+    "idx": 252,
+    "text": "Se implementará un Programa Permanente de Capacitación financiado por el Municipio, orientado a fortalecer las competencias técnicas y de gestión del personal mediante cursos, certificaciones oficiales, seminarios y actividades de actualización tecnológica, priorizando aquellas áreas estratégicas para la evolución de los sistemas municipales."
+  },
+  {
+    "idx": 253,
+    "text": ""
+  },
+  {
+    "idx": 254,
+    "text": "Implementación"
+  },
+  {
+    "idx": 255,
+    "text": "La implementación comprenderá:"
+  },
+  {
+    "idx": 256,
+    "text": "• relevamiento de necesidades de formación sobre la base de la Matriz de Competencias del Departamento;"
+  },
+  {
+    "idx": 257,
+    "text": "• financiamiento de cursos y certificaciones en tecnologías de desarrollo, arquitectura de software y metodologías ágiles;"
+  },
+  {
+    "idx": 258,
+    "text": "• participación en actividades de actualización en ciberseguridad aplicada al software;"
+  },
+  {
+    "idx": 259,
+    "text": "• evaluación periódica del impacto de las capacitaciones en los sistemas en desarrollo."
+  },
+  {
+    "idx": 260,
+    "text": ""
+  },
+  {
+    "idx": 261,
+    "text": "Resultado esperado"
+  },
+  {
+    "idx": 262,
+    "text": "Esta medida permitiría jerarquizar el perfil profesional del equipo, actualizar permanentemente las competencias tecnológicas del Departamento, motivar al personal y reducir la brecha con los estándares de la industria del software."
+  },
+  {
+    "idx": 263,
+    "text": "6.3 Modernización tecnológica y actualización de plataformas"
+  },
+  {
+    "idx": 264,
+    "text": "Problema"
+  },
+  {
+    "idx": 265,
+    "text": "La coexistencia de aplicaciones desarrolladas sobre tecnologías con distintos niveles de actualización incrementa la complejidad del mantenimiento, dificulta la integración entre sistemas y limita la incorporación de nuevas funcionalidades."
+  },
+  {
+    "idx": 266,
+    "text": "Propuesta"
+  },
+  {
+    "idx": 267,
+    "text": "Promover un programa de modernización tecnológica destinado a actualizar gradualmente las plataformas de desarrollo, los componentes de software utilizados por el Departamento y las herramientas necesarias para mantener las aplicaciones sobre plataformas con soporte vigente."
+  },
+  {
+    "idx": 268,
+    "text": ""
+  },
+  {
+    "idx": 269,
+    "text": "Implementación"
+  },
+  {
+    "idx": 270,
+    "text": "La implementación comprenderá:"
+  },
+  {
+    "idx": 271,
+    "text": "• actualización de frameworks, librerías y componentes de código utilizados por el Departamento;"
+  },
+  {
+    "idx": 272,
+    "text": "• incorporación de herramientas que faciliten la integración y el despliegue ordenado de aplicaciones;"
+  },
+  {
+    "idx": 273,
+    "text": "• planificación de la migración progresiva de aquellos aplicativos que utilicen plataformas obsoletas;"
+  },
+  {
+    "idx": 274,
+    "text": "• articulación técnica con el área de infraestructura para la optimización de los ambientes de prueba y producción."
+  },
+  {
+    "idx": 275,
+    "text": ""
+  },
+  {
+    "idx": 276,
+    "text": "Resultado esperado"
+  },
+  {
+    "idx": 277,
+    "text": "Se reducirá el riesgo asociado a tecnologías sin soporte, se simplificará el mantenimiento de los sistemas existentes y se incrementará la capacidad del Departamento para desarrollar nuevas soluciones digitales."
+  },
+  {
+    "idx": 278,
+    "text": ""
+  },
+  {
+    "idx": 279,
+    "text": "6.4 Fortalecimiento del trabajo colaborativo"
+  },
+  {
+    "idx": 280,
+    "text": "Problema"
+  },
+  {
+    "idx": 281,
+    "text": "La coordinación entre equipos distribuidos en distintas dependencias requiere herramientas que faciliten el intercambio permanente de información técnica, la colaboración continua y el acceso compartido al conocimiento institucional."
+  },
+  {
+    "idx": 282,
+    "text": "Propuesta"
+  },
+  {
+    "idx": 283,
+    "text": "Incorporar plataformas corporativas orientadas al trabajo colaborativo y a la gestión compartida del conocimiento, que permitan centralizar la documentación técnica de los sistemas, facilitar la revisión cruzada de código y mejorar la articulación entre los grupos de desarrollo."
+  },
+  {
+    "idx": 284,
+    "text": ""
+  },
+  {
+    "idx": 285,
+    "text": "Implementación"
+  },
+  {
+    "idx": 286,
+    "text": "La implementación comprenderá:"
+  },
+  {
+    "idx": 287,
+    "text": "• incorporación de plataformas colaborativas para la documentación técnica institucional;"
+  },
+  {
+    "idx": 288,
+    "text": "• implementación de herramientas de repositorios de conocimiento y revisión compartida de desarrollos;"
+  },
+  {
+    "idx": 289,
+    "text": "• soluciones que faciliten la comunicación fluida y la coordinación diaria entre equipos;"
+  },
+  {
+    "idx": 290,
+    "text": "• capacitación al personal para promover su utilización sistemática."
+  },
+  {
+    "idx": 291,
+    "text": ""
+  },
+  {
+    "idx": 292,
+    "text": "Resultado esperado"
+  },
+  {
+    "idx": 293,
+    "text": "Se fortalecerá la colaboración entre los distintos grupos de trabajo, se facilitará el acceso al conocimiento técnico acumulado, se eliminarán los silos informáticos y se mejorará la cohesión del Departamento."
+  },
+  {
+    "idx": 294,
+    "text": "6.5 Herramientas de analítica de proyectos y tableros ejecutivos"
+  },
+  {
+    "idx": 295,
+    "text": "Problema"
+  },
+  {
+    "idx": 296,
+    "text": "La gestión de una cartera compleja de proyectos requiere herramientas de visualización gerencial que permitan medir el desempeño operativo, evaluar la carga de trabajo real y anticipar cuellos de botella en las entregas."
+  },
+  {
+    "idx": 297,
+    "text": "Propuesta"
+  },
+  {
+    "idx": 298,
+    "text": "Incorporar herramientas de analítica y visualización que complementen la plataforma de gestión de proyectos del Departamento, permitiendo generar tableros ejecutivos automáticos, medir indicadores de capacidad operativa y facilitar la toma de decisiones informada."
+  },
+  {
+    "idx": 299,
+    "text": ""
+  },
+  {
+    "idx": 300,
+    "text": "Implementación"
+  },
+  {
+    "idx": 301,
+    "text": "La implementación comprenderá:"
+  },
+  {
+    "idx": 302,
+    "text": "• integración de módulos de analítica y tableros de control sobre la cartera de proyectos del Departamento;"
+  },
+  {
+    "idx": 303,
+    "text": "• definición de paneles visuales para el seguimiento del estado de solicitudes, tiempos de respuesta y volumen de trabajo;"
+  },
+  {
+    "idx": 304,
+    "text": "• utilización de métricas objetivas para informar la evolución de las iniciativas a las autoridades municipales."
+  },
+  {
+    "idx": 305,
+    "text": ""
+  },
+  {
+    "idx": 306,
+    "text": "Resultado esperado"
+  },
+  {
+    "idx": 307,
+    "text": "Se obtendrá visibilidad gerencial completa sobre la capacidad operativa del Departamento, optimizando la asignación de recursos y sustentando la toma de decisiones en evidencia objetiva."
+  },
+  {
+    "idx": 308,
+    "text": ""
+  },
+  {
+    "idx": 309,
+    "text": "6.6 Fortalecimiento gradual de la estructura técnica y especialización funcional"
+  },
+  {
+    "idx": 310,
+    "text": "Problema"
+  },
+  {
+    "idx": 311,
+    "text": "La dotación actual limita la posibilidad de asignar responsabilidades especializadas en análisis funcional, arquitectura de software, calidad y liderazgo técnico, obligando a los agentes a desempeñar simultáneamente múltiples funciones."
+  },
+  {
+    "idx": 312,
+    "text": "Propuesta"
+  },
+  {
+    "idx": 313,
+    "text": "En función de la disponibilidad presupuestaria e incorporar recursos humanos, fortalecer progresivamente la estructura técnica del Departamento mediante la incorporación de perfiles profesionales que permitan consolidar una mayor especialización funcional y una mejor distribución de responsabilidades."
+  },
+  {
+    "idx": 314,
+    "text": ""
+  },
+  {
+    "idx": 315,
+    "text": "Implementación"
+  },
+  {
+    "idx": 316,
+    "text": "La implementación comprenderá:"
+  },
+  {
+    "idx": 317,
+    "text": "• incorporación gradual de perfiles técnicos dedicados al desarrollo de software;"
+  },
+  {
+    "idx": 318,
+    "text": "• fortalecimiento de las funciones de análisis funcional, arquitectura y aseguramiento de calidad asignadas a los perfiles de mayor experiencia;"
+  },
+  {
+    "idx": 319,
+    "text": "• conformación de equipos con responsabilidades claramente definidas y esquemas de mentoría hacia el personal de reciente ingreso;"
+  },
+  {
+    "idx": 320,
+    "text": "• evaluación periódica de la capacidad operativa y cohesión de los grupos de trabajo."
+  },
+  {
+    "idx": 321,
+    "text": ""
+  },
+  {
+    "idx": 322,
+    "text": "Resultado esperado"
+  },
+  {
+    "idx": 323,
+    "text": "Se optimizará la distribución de responsabilidades, aumentará la capacidad operativa del Departamento para responder a nuevas demandas y se preservará sostenidamente el conocimiento del negocio municipal."
+  },
+  {
+    "idx": 324,
+    "text": ""
+  },
+  {
+    "idx": 325,
+    "text": "7. IMPLEMENTACIÓN Y GESTIÓN DEL PLAN DE TRABAJO"
+  },
+  {
+    "idx": 326,
+    "text": "La implementación de las propuestas se realizará de manera progresiva, procurando incorporar las mejoras al funcionamiento habitual del Departamento sin afectar la continuidad de los servicios que presta."
+  },
+  {
+    "idx": 327,
+    "text": "Las líneas de acción no requieren una implementación simultánea. Se determinará el orden de incorporación según la criticidad de los sistemas, las prioridades institucionales, la capacidad operativa y los resultados obtenidos"
+  },
+  {
+    "idx": 328,
+    "text": "De esta manera, el plan constituye un marco de gestión adaptable a las necesidades del área y no un cronograma rígido de ejecución. Las prioridades se revisarán cuando surjan requerimientos normativos, incidencias críticas, nuevos proyectos o cambios en la disponibilidad de recursos."
+  },
+  {
+    "idx": 329,
+    "text": "7.1 Puesta en marcha"
+  },
+  {
+    "idx": 330,
+    "text": "La puesta en marcha establecerá las condiciones organizacionales para aplicar las medidas propuestas, priorizando acciones implementables con los recursos y herramientas actualmente disponibles."
+  },
+  {
+    "idx": 331,
+    "text": "Se realizará un relevamiento operativo del Departamento que comprenderá: la cartera de proyectos y requerimientos, sistemas críticos, distribución del conocimiento, experiencia del personal, estado de documentación, integraciones entre sistemas y capacidad operativa disponible."
+  },
+  {
+    "idx": 332,
+    "text": "A partir de esta información se establecerán las prioridades de intervención, los riesgos operativos y las primeras medidas a implementar, contando con una visión objetiva para avanzar sobre las restantes líneas de mejora."
+  },
+  {
+    "idx": 333,
+    "text": ""
+  },
+  {
+    "idx": 334,
+    "text": "7.2 Implementación progresiva"
+  },
+  {
+    "idx": 335,
+    "text": "Las medidas se incorporarán de acuerdo con las posibilidades del Departamento, priorizando acciones de impacto organizacional que puedan desarrollarse sin comprometer requerimientos críticos."
+  },
+  {
+    "idx": 336,
+    "text": "Entre las medidas que incorporaré, de acuerdo con las prioridades que determine, se encuentran:"
+  },
+  {
+    "idx": 337,
+    "text": "• fortalecimiento de la planificación y gestión de requerimientos;"
+  },
+  {
+    "idx": 338,
+    "text": "• transferencia y preservación del conocimiento institucional;"
+  },
+  {
+    "idx": 339,
+    "text": "• incorporación progresiva de estándares técnicos y criterios comunes de desarrollo;"
+  },
+  {
+    "idx": 340,
+    "text": "• fortalecimiento de la coordinación entre equipos;"
+  },
+  {
+    "idx": 341,
+    "text": "• formalización del seguimiento técnico de proveedores externos;"
+  },
+  {
+    "idx": 342,
+    "text": "• incorporación gradual de nuevas herramientas y tecnologías;"
+  },
+  {
+    "idx": 343,
+    "text": "• preparación de futuras iniciativas de inversión cuando existan recursos presupuestarios disponibles."
+  },
+  {
+    "idx": 344,
+    "text": "La incorporación de cada medida será acompañada por la evaluación de sus resultados y por los ajustes que sean necesarios para adecuarla a la realidad operativa del Departamento."
+  },
+  {
+    "idx": 345,
+    "text": "7.3 Gestión, seguimiento y ajuste"
+  },
+  {
+    "idx": 346,
+    "text": "La implementación contará con un seguimiento permanente para verificar resultados, identificar dificultades y ajustar las acciones previstas. Redefiniré prioridades, redistribuiré recursos o modificaré el orden de ejecución cuando la situación del área lo requiera."
+  },
+  {
+    "idx": 347,
+    "text": "Los cambios normativos, incidencias críticas, evolución de proyectos o variaciones en la capacidad disponible se considerarán al revisar la planificación. Este seguimiento se realizará mediante los indicadores definidos en el capítulo siguiente, estableciendo un ciclo de diagnóstico, implementación, evaluación y ajuste para la mejora continua."
+  },
+  {
+    "idx": 348,
+    "text": "8. EVALUACIÓN Y SEGUIMIENTO"
+  },
+  {
+    "idx": 349,
+    "text": "La implementación del presente Plan de Trabajo requerirá un seguimiento permanente que permita verificar el cumplimiento de objetivos, medir el impacto de las acciones y ajustar las decisiones de conducción sobre evidencia objetiva."
+  },
+  {
+    "idx": 350,
+    "text": "La evaluación se concibe como un control de gestión institucional orientado a conocer la evolución del Departamento y la calidad del servicio a la Administración Municipal. Los indicadores e instancias de seguimiento no tendrán por finalidad realizar un control individual de productividad, sino identificar oportunidades de mejora, fortalecer los equipos y garantizar la continuidad operativa."
+  },
+  {
+    "idx": 351,
+    "text": ""
+  },
+  {
+    "idx": 352,
+    "text": "8.1  Revisión periódica de resultados e indicadores de gestión"
+  },
+  {
+    "idx": 353,
+    "text": "Se realizará un monitoreo sistemático de la gestión mediante indicadores clave en las herramientas institucionales de gestión de proyectos y en las distintas líneas de trabajo:"
+  },
+  {
+    "idx": 354,
+    "text": "• Cobertura y planificación: porcentaje de proyectos, requerimientos e incidencias registrados y categorizados en la cartera común institucional. "
+  },
+  {
+    "idx": 355,
+    "text": "• Gestión del conocimiento y riesgo operativo: cantidad de sistemas críticos que cuentan con Referente Secundario designado y documentación técnica/funcional mínima actualizada. "
+  },
+  {
+    "idx": 356,
+    "text": "• Calidad de software y estabilidad: tasa de incidencias relevantes detectadas con posterioridad a la puesta en producción y tiempo promedio de respuesta frente a requerimientos. "
+  },
+  {
+    "idx": 357,
+    "text": "• Gobierno técnico y soberanía: porcentaje de desarrollos entregados por proveedores externos con recepción técnica completa y entrega del código fuente."
+  },
+  {
+    "idx": 358,
+    "text": "• Innovación y actualización: actividades de evaluación de nuevas tecnologías y herramientas asistidas por Inteligencia Artificial realizadas y documentadas."
+  },
+  {
+    "idx": 359,
+    "text": ""
+  },
+  {
+    "idx": 360,
+    "text": "8.2  Instancias de seguimiento, feedback interno y clima laboral"
+  },
+  {
+    "idx": 361,
+    "text": "La evaluación del Departamento no se limitará al análisis de datos cuantitativos, sino que incorporará la dimensión humana y organizativa como aspecto central de la conducción:"
+  },
+  {
+    "idx": 362,
+    "text": "• Reuniones periódicas de equipo: espacios de trabajo para revisar el estado de los proyectos, analizar dificultades recurrentes, redistribuir cargas de trabajo y receptar propuestas de mejora formuladas por los propios agentes. "
+  },
+  {
+    "idx": 363,
+    "text": "• Feedback técnico y mentoreo: dinámicas de acompañamiento entre el personal de mayor experiencia y los nuevos integrantes, promoviendo el reconocimiento del saber hacer acumulado y el desarrollo profesional continuo. "
+  },
+  {
+    "idx": 364,
+    "text": "• Monitoreo del clima laboral: charlas periódicas con el personal para evaluar las condiciones de trabajo, abordar la resistencia al cambio de manera constructiva y resolver tensiones operativas antes de que afecten el desempeño del equipo."
+  },
+  {
+    "idx": 365,
+    "text": ""
+  },
+  {
+    "idx": 366,
+    "text": "8. 3 3 Ajuste dinámico de la gestión y mejora continua"
+  },
+  {
+    "idx": 367,
+    "text": "Los resultados de los indicadores y del feedback interno se utilizarán para alimentar un ciclo permanente de mejora continua."
+  },
+  {
+    "idx": 368,
+    "text": "Cuando una medida no alcance los resultados esperados o se detecten cuellos de botella, se revisarán los procedimientos para redefinir prioridades, redistribuir responsabilidades o reforzar la capacitación interna, manteniendo la planificación como una herramienta viva de gestión."
+  },
+  {
+    "idx": 369,
+    "text": "9. CONCLUSIONES"
+  },
+  {
+    "idx": 370,
+    "text": "El Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software cumple un rol estratégico dentro de la transformación digital de la Municipalidad de General Pueyrredon. La creciente demanda de soluciones informáticas hace necesario fortalecer su capacidad de planificación, coordinación y organización, asegurando que el conocimiento institucional, la calidad del software y la continuidad operativa no dependan exclusivamente de iniciativas individuales."
+  },
+  {
+    "idx": 371,
+    "text": ""
+  },
+  {
+    "idx": 372,
+    "text": "Las propuestas de este Plan parten de un criterio de realismo y priorizan la optimización de recursos actualmente disponibles mediante la mejora de procedimientos, la gestión del conocimiento, la estandarización técnica y el fortalecimiento de la conducción. La incorporación futura de recursos tecnológicos y presupuestarios permitirá potenciar estas acciones, consolidando un proceso de modernización sostenido."
+  },
+  {
+    "idx": 373,
+    "text": ""
+  },
+  {
+    "idx": 374,
+    "text": "Mi rol como Jefe de Departamento será conducir este proceso promoviendo el trabajo colaborativo, la planificación estratégica y la mejora continua, procurando que las decisiones técnicas acompañen las necesidades organizacionales y contribuyan al fortalecimiento de la gestión pública."
+  },
+  {
+    "idx": 375,
+    "text": ""
+  },
+  {
+    "idx": 376,
+    "text": "En este sentido, mi propuesta busca consolidar la optimización de los procedimientos organizacionales como la columna vertebral del Departamento, asegurando que el código no solo funcione, sino que sea escalable, seguro y responda de manera sostenida a las exigencias de las diferentes gestiones, presente y futura, preservando el conocimiento institucional y generando valor permanente para la Administración Municipal y la comunidad."
+  }
+]

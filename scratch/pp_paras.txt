@@ -1,0 +1,204 @@
+0: MUNICIPALIDAD DE GENERAL PUEYRREDON
+1: SECRETARÍA DE PARTICIPACIÓN CIUDADANA Y DESCENTRALIZACIÓN
+2: SUBSECRETARÍA DE GOBIERNO DIGITAL Y MEJORA DE PROCESOS
+3: CONCURSO INTERNO DE OPOSICIÓN Y ANTECEDENTES
+4: Cargo: Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software
+5: PLAN DE TRABAJO Y PROYECTO DE GESTIÓN
+6: Diagnóstico Integral, Propuesta Estratégica y Plan de Acción para la Conducción del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software:
+Optimización con Recursos Actuales y Proyección con Recursos Potenciados
+7: Postulante: Guido Emmanuel Cassulo
+8: Cargo actual: Soporte Semi Senior (Desarrollador de Software)
+9: Legajo N°: 36484
+10: Mar del Plata — Agosto de 2026
+11: 
+12: ÍNDICE GENERAL
+13: 1. INTRODUCCIÓN Y VISIÓN DE LA JEFATURA
+14: 2. DIAGNÓSTICO INSTITUCIONAL Y OPERATIVO
+15:    2.1 Situación actual y operativa del Departamento
+16:    2.2 Matriz de Análisis FODA
+17:    2.3 Conclusión del diagnóstico y visión de liderazgo
+18: 3. PRINCIPIOS DE MI GESTIÓN AL FRENTE DEL DEPARTAMENTO
+19:    3.1 Liderazgo colaborativo, motivación y desarrollo humano
+20:    3.2 Gestión orientada a procesos y estandarización
+21:    3.3 Soberanía y preservación del conocimiento institucional
+22:    3.4 Cultura de mejora continua y aseguramiento de la calidad
+23:    3.5 Innovación tecnológica responsable y sustentable
+24:    3.6 Vocación de servicio y orientación al usuario municipal
+25:    3.7 Toma de decisiones basada en métricas y evidencia
+26: 4. OBJETIVOS ESTRATÉGICOS DE MI GESTIÓN
+27: 5. PROPUESTA DE MEJORA Y ACCIÓN CON RECURSOS ACTUALES (SIN PRESUPUESTO ADICIONAL)
+28:    5.1 Organización, planificación y centralización de la demanda en Redmine
+29:    5.2 Plan de preservación del conocimiento y designación de Referentes Secundarios
+30:    5.3 Arquitectura Base Institucional y estandarización técnica
+31:    5.4 Gestión formal de requerimientos y relación con las áreas usuarias
+32:    5.5 Gobierno técnico y control de calidad sobre proveedores externos
+33:    5.6 Adopción de innovación tecnológica y asistencia de Inteligencia Artificial
+34:    5.7 Coordinación transversal y sinergia entre equipos distribuidos
+35:    5.8 Optimización de roles según experiencia acumulada y mentoría
+36: 6. PROYECCIÓN CON INCORPORACIÓN DE RECURSOS POTENCIADOS (CON PRESUPUESTO)
+37:    6.1 Incorporación de herramientas profesionales de desarrollo
+38:    6.2 Programa permanente de capacitación técnica y habilidades blandas
+39:    6.3 Modernización de plataformas y migración de sistemas legacy
+40:    6.4 Plataformas avanzadas para el trabajo colaborativo
+41:    6.5 Tableros ejecutivos y analítica de gestión
+42:    6.6 Fortalecimiento gradual de la dotación y especialización funcional
+43: 7. IMPLEMENTACIÓN, PUESTA EN MARCHA Y GESTIÓN OPERATIVA
+44:    7.1 Fase 1: Relevamiento inicial y puesta en marcha (Meses 1 a 2)
+45:    7.2 Fase 2: Consolidación y estandarización técnica (Meses 3 a 6)
+46:    7.3 Fase 3: Mejora continua y proyección estratégica (Mes 6 en adelante)
+47: 8. EVALUACIÓN DE DESEMPEÑO, INDICADORES Y CLIMA LABORAL
+48:    8.1 Indicadores cuantitativos y métricas de gestión
+49:    8.2 Evaluación cualitativa, feedback interno y clima organizacional
+50:    8.3 Ciclo de retroalimentación y ajuste continuo
+51: 9. CONCLUSIONES Y COMPROMISO DE GESTIÓN
+52: 
+53: 1. INTRODUCCIÓN Y VISIÓN DE LA JEFATURA
+54: En el marco del presente Concurso Interno de Oposición y Antecedentes para la cobertura del cargo de Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, presento mi Plan de Trabajo y Proyecto de Gestión Integral. Este documento expone el diagnóstico operativo, funcional y humano del área, elaborado a partir de mi experiencia cotidiana y desempeño como desarrollador en la Municipalidad de General Pueyrredon, y define el programa estratégico de transformaciones que implementaré al frente de la Jefatura para optimizar los servicios digitales que nuestra Administración brinda a las dependencias municipales y a toda la comunidad.
+55: El Departamento constituye una pieza estratégica fundamental dentro de la Subsecretaría de Gobierno Digital y Mejora de Procesos (dependiente de la Secretaría de Participación Ciudadana y Descentralización). Sobre nuestra área recae la alta responsabilidad de diseñar, programar, implementar, asegurar y evolucionar las soluciones informáticas que sustentan la gestión pública municipal. Desde mi perspectiva, la función de la Jefatura va mucho más allá de la supervisión técnica: implica un rol de liderazgo transformador que debe armonizar la solvencia tecnológica con la planificación rigurosa, la conducción empática de personas y la administración eficiente y transparente de los recursos del Estado.
+56: Como Jefe de Departamento, asumo el compromiso de liderar la gestión del área con una visión integradora: promoveré el trabajo colaborativo, resguardaré el conocimiento institucional como patrimonio público y consolidaré procedimientos organizacionales que funcionen como la columna vertebral de nuestra labor. De esta manera, aseguraré que las aplicaciones no solo resuelvan requerimientos puntuales, sino que sean escalables, seguras, interoperables y sostenibles a lo largo del tiempo, respondiendo con idoneidad tanto a las necesidades de la gestión actual como a los desafíos de las futuras administraciones.
+57: El Departamento opera en un contexto de creciente complejidad técnica y organizativa: conviven sistemas de diversa antigüedad y arquitectura, una demanda exponencial de digitalización por parte de las distintas secretarías municipales y recursos que exigen una administración sumamente criteriosa. Ante esta realidad, mi premisa fundamental de gestión no consiste en supeditar los resultados a la obtención inmediata de mayores partidas presupuestarias, sino en demostrar capacidad directiva: propongo una estrategia en dos etapas consecutivas, comenzando por la optimización y reordenamiento integral con los recursos y herramientas actualmente disponibles, para luego proyectar inversiones tecnológicas escalables cuando la Administración disponga de partidas presupuestarias.
+58: Mi proyecto de gestión se asienta sobre cinco pilares estratégicos:
+59: Fortalecimiento del capital humano, el clima laboral y la cultura de colaboración activa.
+60: Soberanía técnica, resguardo y democratización del conocimiento institucional.
+61: Estandarización de procesos, arquitectura de software y aseguramiento continuo de la calidad.
+62: Innovación tecnológica responsable y mejora continua con recursos propios.
+63: Planificación estratégica orientada a resultados medibles, transparencia y vocación de servicio.
+64: 
+65: 2. DIAGNÓSTICO INSTITUCIONAL Y OPERATIVO
+66: 2.1 Situación actual y operativa del Departamento
+67: A partir de mi inserción en el equipo de desarrollo y del análisis pormenorizado del funcionamiento cotidiano de la dependencia, he constatado que el Departamento cuenta con un cuerpo técnico con un profundo entendimiento de la lógica funcional del Municipio y gran experiencia acumulada en múltiples tecnologías (.NET, C#, ASP.NET, Angular, React, bases de datos relacionales SQL Server y PostgreSQL). Sin embargo, he detectado falencias organizativas y metodológicas que obstaculizan su pleno rendimiento: una marcada concentración del conocimiento en personas determinadas, ausencia de guías formales de arquitectura, disparidad de canales para la recepción de requerimientos, escasa documentación técnica viva y una falta de articulación sistemática entre programadores que prestan servicios en diferentes dependencias.
+68: El impulso constante hacia la digitalización ha generado un flujo continuo y creciente de solicitudes provenientes de diversas secretarías y entes descentralizados. Al no haberse consolidado históricamente un protocolo único y vinculante de ingreso y priorización de la demanda, el Departamento se ha visto forzado a operar bajo una modalidad primordialmente reactiva, atendiendo urgencias coyunturales y postergando la planificación estratégica y la modernización de los sistemas troncales. Como Jefe de Departamento, intervendré de forma decidida y estructurada sobre estos procesos para restituir el orden y la previsibilidad operativa.
+69: 2.2 Matriz de Análisis FODA
+70: Con el propósito de fundamentar con rigor técnico y metodológico mi plan de acción, he confeccionado el siguiente diagnóstico FODA:
+71: FORTALEZAS
+72: Capital humano con profundo conocimiento del dominio municipal: Los agentes dominan las normativas, los circuitos administrativos y las particularidades operativas de las distintas áreas de la Comuna.
+73: Compromiso técnico y capacidad resolutiva: Demostrada aptitud para dar respuesta a incidencias complejas y garantizar la continuidad operativa de sistemas neurálgicos ante contingencias.
+74: Diversidad y dominio de tecnologías consolidadas: Experiencia sólida en desarrollo backend, frontend y motores de bases de datos relacionales.
+75: Infraestructura de desarrollo disponible: Disponibilidad de repositorios en GitLab para el control de versiones y entornos de trabajo que pueden ser optimizados de inmediato.
+76: OPORTUNIDADES
+77: Marco institucional favorable a la modernización: Firme decisión política de avanzar en la digitalización integral de los servicios públicos municipales y despapelización administrativa.
+78: Integración asistida de Inteligencia Artificial: Posibilidad concreta de adoptar herramientas de IA para optimizar la codificación, acelerar la generación de pruebas unitarias y automatizar la documentación.
+79: Adopción de marcos de trabajo ágiles (Scrum / Kanban adaptados): Oportunidad de estructurar el trabajo en ciclos iterativos que garanticen entregas de valor tempranas y transparentes.
+80: Capacitación continua a costo cero: Amplia oferta de formación mediante el Instituto de Capacitación Municipal (ICM) y plataformas abiertas de especialización técnica.
+81: DEBILIDADES
+82: Concentración crítica del conocimiento: Sistemas y módulos esenciales son dominados por un único agente, generando un grave riesgo de continuidad ante ausencias, licencias o contingencias.
+83: Falta de estandarización en arquitectura y estilo de código: Coexistencia de patrones disímiles, prácticas heterogéneas y ausencia de guías institucionales de buenas prácticas.
+84: Dispersión y canales informales de solicitud: Ingreso de pedidos vía telefónica, mensajes o notas informales sin registro ni tipificación centralizada.
+85: Fragmentación y aislamiento de equipos: Falta de instancias regulares de coordinación técnica entre desarrolladores asignados a distintas sedes físicas.
+86: Predominio del mantenimiento correctivo: Destino predominante del tiempo de desarrollo a subsanar fallas urgentes en lugar de innovar y planificar.
+87: AMENAZAS
+88: Sobredemanda e indefinición de alcance por las áreas usuarias: Proliferación de solicitudes simultáneas con requerimientos ambiguos o mutables.
+89: Obsolescencia técnica y deuda tecnológica en sistemas legacy: Riesgos de compatibilidad y seguridad derivados de tecnologías que han cumplido su ciclo.
+90: Dependencia técnica de proveedores externos: Contrataciones de software donde el Municipio no ejerce el control exhaustivo del código fuente y su arquitectura.
+91: Urgencias normativas e imprevistos de gestión: Exigencia de desarrollos intempestivos que desarticulan la planificación si no existen criterios claros de prioridad.
+92: 2.3 Conclusión del diagnóstico y visión de liderazgo
+93: El diagnóstico demuestra con claridad que la solución a los desafíos del Departamento no requiere erogaciones extraordinarias inmediatas, sino un liderazgo firme, cercano y técnicamente calificado que reorganice los flujos de trabajo, democratice el conocimiento, establezca estándares comunes y motive al equipo humano. Como Jefe del Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software, asumo la responsabilidad plena de conducir esta transformación organizativa y técnica.
+94: 
+95: 3. PRINCIPIOS DE MI GESTIÓN AL FRENTE DEL DEPARTAMENTO
+96: Mi conducción al frente del área se guiará por siete principios directivos irrenunciables:
+97: 3.1 Liderazgo colaborativo, motivación y desarrollo humano
+98: Ejerceré un liderazgo abierto, participativo y de puertas abiertas. Entiendo que los logros de un área de tecnología dependen de la motivación, el bienestar y el reconocimiento de sus integrantes. Promoveré la delegación responsable, otorgando autonomía técnica a los desarrolladores dentro de los marcos establecidos. Fomentaré una cultura de reconocimiento al esfuerzo y abordaré de manera preventiva cualquier situación de desgaste o desmotivación mediante el diálogo sincero y el acompañamiento constante.
+99: 3.2 Gestión orientada a procesos y estandarización
+100: Institucionalizaré procesos claros, predecibles y documentados para cada etapa del ciclo de vida del software (relevamiento, diseño, desarrollo, aseguramiento de calidad, despliegue y mantenimiento). La calidad del software municipal no dependerá de voluntades aisladas, sino de procedimientos organizacionales estandarizados.
+101: 3.3 Soberanía y preservación del conocimiento institucional
+102: El software, las bases de datos y el conocimiento funcional de las aplicaciones son activos estratégicos del Partido de General Pueyrredon. Erradicaré el personalismo técnico asegurando que toda solución cuente con documentación completa, código respaldado en repositorios centrales y referentes alternativos capacitados.
+103: 3.4 Cultura de mejora continua y aseguramiento de la calidad
+104: Implementaré revisiones obligatorias entre pares (code reviews), pruebas funcionales y de regresión sistematizadas, y reuniones de retrospectiva post-lanzamiento para capitalizar lecciones aprendidas y elevar continuamente la calidad de nuestros productos.
+105: 3.5 Innovación tecnológica responsable y sustentable
+106: Impulsaré la adopción de tecnologías de vanguardia (asistencia con IA, arquitecturas de microservicios, frameworks modernos) bajo criterios de pertinencia, seguridad de la información, madurez tecnológica y capacidad de absorción por parte del equipo.
+107: 3.6 Vocación de servicio y orientación al usuario municipal
+108: El software público debe estar al servicio de las personas. Promoveré en todo el equipo una actitud de empatía, escucha activa y colaboración estrecha con las dependencias municipales que utilizan nuestras aplicaciones, facilitando su labor y optimizando la atención al ciudadano.
+109: 3.7 Toma de decisiones basada en métricas y evidencia
+110: Conduciré el Departamento apoyándome en datos e indicadores objetivos: tiempos de ciclo, volumen de requerimientos atendidos, estabilidad de versiones en producción y grado de cumplimiento de cronogramas.
+111: 
+112: 4. OBJETIVOS ESTRATÉGICOS DE MI GESTIÓN
+113: Durante mi ejercicio al frente de la Jefatura, me comprometo al cumplimiento de los siguientes objetivos estratégicos:
+114: 1. Centralizar el 100% de la demanda en Redmine: Canalizar todas las solicitudes de nuevos desarrollos, mejoras evolutivas e incidencias a través del sistema oficial Redmine, garantizando visibilidad y trazabilidad absoluta.
+115: 2. Implementar la Arquitectura Base Institucional: Definir y poner en producción plantillas y estándares oficiales de desarrollo en .NET, Angular, React y PostgreSQL/SQL Server.
+116: 3. Eliminar los puntos únicos de falla operativa: Asignar y formar Referentes Secundarios en el 100% de los sistemas municipales críticos para resguardar la continuidad operativa.
+117: 4. Ejercer el 100% del control técnico sobre proveedores externos: Fiscalizar pliegos, auditar entregas de código fuente y exigir pruebas de calidad previas a la aceptación final de cualquier desarrollo tercerizado.
+118: 5. Institucionalizar el protocolo de relevamiento funcional: Formalizar la Ficha de Requerimiento y la validación conjunta de casos de uso con las áreas requirentes antes de iniciar la programación.
+119: 6. Incorporar asistencia de Inteligencia Artificial y automatización de pruebas: Integrar herramientas de IA para optimizar la productividad del equipo y elevar la cobertura de testing.
+120: 7. Fortalecer la sinergia transversal del equipo: Implementar reuniones quincenales de sincronización técnica entre programadores de sedes centrales y descentralizadas.
+121: 8. Articular un plan permanente de formación profesional: Gestionar junto al ICM y plataformas especializadas capacitaciones técnicas y talleres de habilidades de gestión.
+122: 
+123: 5. PROPUESTA DE MEJORA Y ACCIÓN CON RECURSOS ACTUALES (SIN PRESUPUESTO ADICIONAL)
+124: Como demostración de capacidad directiva y optimización de los recursos públicos existentes, pondré en ejecución inmediata las siguientes ocho líneas de acción:
+125: 5.1 Organización, planificación y centralización de la demanda en Redmine
+126: Problema detectado: La recepción desordenada de solicitudes a través de vías informales (mensajes personales, llamadas o correos no clasificados) provoca superposición de esfuerzos, falta de estimación y desatención de prioridades estratégicas.
+127: Propuesta y conducción: Estableceré con carácter obligatorio que todo requerimiento sea registrado en la plataforma Redmine. Clasificaré las peticiones por tipología (Nuevo Sistema, Mejora Evolutiva, Mantenimiento Correctivo, Asistencia Técnica) y estimaremos las horas de labor. Conduciré reuniones quincenales de planificación donde revisaremos el backlog, asignaremos prioridades en acuerdo con la Superioridad y equilibraremos las cargas de trabajo entre los agentes.
+128: Resultado esperado: Previsibilidad en los plazos de entrega, erradicación de tareas  invisibles y trazabilidad total del esfuerzo técnico del Departamento.
+129: 5.2 Plan de preservación del conocimiento y designación de Referentes Secundarios
+130: Problema detectado: Sistemas neurálgicos dependen del conocimiento exclusivo de un solo programador, lo que genera una fragilidad operativa inadmisible ante ausencias o licencias.
+131: Propuesta y conducción: Pondré en marcha un Programa de Resguardo del Conocimiento Institucional. Cada sistema crítico contará formalmente con un Referente Primario y un Referente Secundario. Estableceré sesiones semanales de transferencia técnica y mentoreo práctico, exigiendo la confección de documentación técnica mínima (diagramas de componentes, diccionario de datos y manuales de despliegue en repositorios).
+132: Resultado esperado: Eliminación del riesgo operativo, cobertura garantizada los 365 días del año y enriquecimiento profesional de todo el cuerpo técnico.
+133: 5.3 Arquitectura Base Institucional y estandarización técnica
+134: Problema detectado: Diversidad de criterios y estructuras en las aplicaciones existentes, lo que encarece el mantenimiento y dificulta la colaboración entre programadores.
+135: Propuesta y conducción: Diseñaré e implementaré la Arquitectura Base Institucional, definiendo plantillas modelo de proyectos (backend desacoplado con APIs RESTful documentadas en Swagger, frontend modular responsivo en Angular/React y acceso a datos optimizado). Estableceré guías de estilo de código y la obligación de realizar revisiones cruzadas (Merge Requests en GitLab) antes de integrar cambios al entorno de producción.
+136: Resultado esperado: Sistemas modulares, robustos y homogéneos, disminución drástica de incidentes y fácil integración para cualquier miembro del equipo.
+137: 5.4 Gestión formal de requerimientos y relación con las áreas usuarias
+138: Problema detectado: Requerimientos poco especificados que conducen a desajustes funcionales, quejas de usuarios y permanentes modificaciones sobre la marcha.
+139: Propuesta y conducción: Implantaré el Protocolo de Relevamiento Funcional mediante la Ficha de Requerimiento. Antes de escribir una sola línea de código, realizaremos entrevistas con el área solicitante, redactaremos los casos de uso y criterios de aceptación, y requeriremos la firma de conformidad del funcionario responsable.
+140: Resultado esperado: Alineación exacta entre las expectativas del usuario y la solución informática entregada, reduciendo a cero el retrabajo.
+141: 5.5 Gobierno técnico y control de calidad sobre proveedores externos
+142: Problema detectado: Adquisición o contratación de soluciones a terceros sin auditoría técnica interna, derivando en dependencia de proveedores y sistemas inaccesibles.
+143: Propuesta y conducción: Asumiré la fiscalización técnica directa de los contratos de software. Participaremos activamente en la formulación de los Pliegos de Especificaciones Técnicas (PET), exigiendo estándares de arquitectura, entrega de código fuente íntegro, suite de pruebas unitarias y manuales de instalación. No se emitirá certificado de conformidad definitiva sin una auditoría de código realizada por el Departamento.
+144: Resultado esperado: Plena soberanía tecnológica, resguardo del patrimonio municipal y capacidad plena del Departamento para mantener los sistemas en el futuro.
+145: 5.6 Adopción de innovación tecnológica y asistencia de Inteligencia Artificial
+146: Problema detectado: Aprovechamiento dispar y desregulado de herramientas de IA sin lineamientos institucionales ni garantías de seguridad de datos.
+147: Propuesta y conducción: Reglamentaré e impulsaré el uso asistido de Inteligencia Artificial para tareas de alta demanda de tiempo: generación de esqueletos de código, diseño de pruebas automatizadas, optimización de consultas SQL y refactorización. Estableceré pautas claras para asegurar la absoluta confidencialidad de la información municipal.
+148: Resultado esperado: Incremento sustancial de la productividad del equipo y modernización de las prácticas de desarrollo.
+149: 5.7 Coordinación transversal y sinergia entre equipos distribuidos
+150: Problema detectado: Desconexión operativa entre programadores que desempeñan funciones en dependencias descentralizadas respecto a la sede central.
+151: Propuesta y conducción: Institucionalizaré reuniones técnicas de sincronización quincenal (presenciales y mediante videoconferencia), estableciendo canales de comunicación técnica fluidos y articulando estrechamente con el Departamento de Soporte y la Dirección de Infraestructura.
+152: Resultado esperado: Consolidación del sentido de equipo, intercambio continuo de experiencias y resolución ágil de bloqueos técnicos.
+153: 5.8 Optimización de roles según experiencia acumulada y mentoría
+154: Problema detectado: Falta de un esquema formal de roles que aproveche al máximo el perfil y la trayectoria de cada desarrollador.
+155: Propuesta y conducción: Reorganizaré la asignación de funciones: los agentes con mayor trayectoria asumirán responsabilidades de arquitectura, análisis de casos complejos y mentoría; mientras que los perfiles ágiles liderarán la programación web y diseño de interfaces. Esto permitirá el crecimiento guiado de todo el plantel.
+156: Resultado esperado: Motivación del personal, aprovechamiento óptimo de talentos y fortalecimiento del clima de trabajo.
+157: 
+158: 6. PROYECCIÓN CON INCORPORACIÓN DE RECURSOS POTENCIADOS (CON PRESUPUESTO)
+159: En una segunda fase, y conforme la Administración Municipal disponga de partidas de inversión o financiamiento para modernización, impulsaré los siguientes proyectos de inversión tecnológica:
+160: 6.1 Incorporación de herramientas profesionales de desarrollo
+161: Propondré la adquisición de licencias para entornos de desarrollo avanzados, analizadores estáticos de código y seguridad (SonarQube) y servidores dedicados para integración y despliegue continuo (CI/CD), automatizando la compilación y prueba de aplicaciones.
+162: 6.2 Programa permanente de capacitación técnica y habilidades blandas
+163: Gestionaré con la Dirección de Personal y el Instituto de Capacitación Municipal (ICM) programas de certificación oficial en tecnologías Cloud, seguridad en aplicaciones, bases de datos relacionales avanzadas, liderazgo y comunicación asertiva para el equipo.
+164: 6.3 Modernización de plataformas y migración de sistemas legacy
+165: Diseñaré un plan de migración paulatina de sistemas legados hacia arquitecturas modernas y desacopladas basadas en APIs, eliminando componentes obsoletos y garantizando la compatibilidad con el ecosistema digital del Municipio.
+166: 6.4 Plataformas avanzadas para el trabajo colaborativo
+167: Implementación de repositorios corporativos de documentación técnica y wikis institucionales que faciliten la consulta centralizada de especificaciones funcionales.
+168: 6.5 Tableros ejecutivos y analítica de gestión
+169: Desarrollo de tableros de control en tiempo real (dashboards ejecutivos) para que las autoridades de la Subsecretaría y de la Secretaría cuenten con visibilidad gráfica instantánea sobre el avance de los proyectos y la demanda atendida.
+170: 6.6 Fortalecimiento gradual de la dotación y especialización funcional
+171: Planificación de futuras incorporaciones de perfiles especializados en Análisis Funcional / QA (aseguramiento de calidad) y Desarrollo Web para ampliar la capacidad de respuesta del Departamento.
+172: 
+173: 7. IMPLEMENTACIÓN, PUESTA EN MARCHA Y GESTIÓN OPERATIVA
+174: La ejecución de este Plan de Trabajo se llevará a cabo a través de tres fases progresivas:
+175: 7.1 Fase 1: Relevamiento inicial y puesta en marcha (Meses 1 a 2)
+176: Al asumir formalmente la Jefatura, llevaré a cabo un relevamiento completo de todos los sistemas en producción, su estado técnico y sus responsables. Migraremos la totalidad de las solicitudes abiertas a Redmine, designaremos formalmente los Referentes Secundarios para cada sistema crítico y publicaremos las primeras guías de Arquitectura Base en GitLab.
+177: 7.2 Fase 2: Consolidación y estandarización técnica (Meses 3 a 6)
+178: Pondremos en régimen permanente las revisiones de código entre pares, el protocolo de relevamiento con áreas usuarias y el control de calidad sobre proveedores externos. Iniciaremos los talleres de transferencia de conocimientos y la adopción reglada de herramientas de IA asistida.
+179: 7.3 Fase 3: Mejora continua y proyección estratégica (Mes 6 en adelante)
+180: Consolidaremos el monitoreo de indicadores de desempeño, elaboraremos informes ejecutivos periódicos para las autoridades y formularemos los proyectos de inversión tecnológica para las previsiones presupuestarias anuales.
+181: 
+182: 8. EVALUACIÓN DE DESEMPEÑO, INDICADORES Y CLIMA LABORAL
+183: Como Jefe de Departamento, evaluaré sistemáticamente la gestión mediante una combinación equilibrada de métricas cuantitativas y cualitativas:
+184: 8.1 Indicadores cuantitativos y métricas de gestión
+185: Cobertura de la demanda: 100% de proyectos y solicitudes canalizados y gestionados en Redmine.
+186: Mitigación del riesgo operativo: 100% de los sistemas críticos con Referente Secundario activo y documentación técnica actualizada.
+187: Estabilidad del software: Reducción del 50% en las incidencias reportadas post-despliegue en producción.
+188: Fiscalización de proveedores: 100% de recepciones de software externo con acta técnica, código fuente y pruebas verificadas.
+189: Cumplimiento de plazos: Nivel de adherencia a los cronogramas comprometidos en las Fichas de Requerimiento.
+190: 8.2 Evaluación cualitativa, feedback interno y clima organizacional
+191: Mantendré reuniones periódicas individuales y grupales para evaluar el clima laboral, escuchar inquietudes, relevar necesidades de capacitación y fortalecer el compromiso y compañerismo en el equipo.
+192: 8.3 Ciclo de retroalimentación y ajuste continuo
+193: Utilizaremos los datos de rendimiento y las devoluciones de las áreas usuarias para perfeccionar continuamente los procedimientos del Departamento, asegurando una gestión flexible y orientada a la excelencia.
+194: 
+195: 9. CONCLUSIONES Y COMPROMISO DE GESTIÓN
+196: El Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software es un motor clave para la modernización de la Municipalidad de General Pueyrredon. Mi Plan de Trabajo brinda una respuesta estructurada, realista y profundamente profesional a las necesidades del área, fundamentada en la optimización de los recursos actuales mediante el ordenamiento de procesos, la estandarización técnica, la preservación del conocimiento institucional y un liderazgo humano y motivador.
+197: Como Jefe de Departamento, asumo el compromiso inquebrantable de conducir esta etapa con máxima dedicación, solvencia técnica y vocación de servicio público. Garantizaré que las soluciones informáticas de nuestra Comuna sean seguras, robustas y de vanguardia, facilitando la tarea diaria de todos los trabajadores municipales y brindando servicios ágiles, transparentes y eficientes a los vecinos del Partido de General Pueyrredon.
+198: ___________________________________
+Guido Emmanuel Cassulo
+Postulante a Jefe de Departamento
+Legajo N° 36484
+Municipalidad de General Pueyrredon
