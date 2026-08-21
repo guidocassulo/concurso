@@ -1,4 +1,4 @@
-﻿const fs = require('fs');
+const fs = require('fs');
 const admZip = require('adm-zip');
 const { 
   Document, 
@@ -126,11 +126,8 @@ const portadaChildren = [
     new TextRun({ text: 'SUBSECRETARÍA DE GOBIERNO DIGITAL Y MEJORA DE PROCESOS', bold: true, size: 22, color: '555555', font: 'Arial' })
   ]}),
   
-  new Paragraph({ spacing: { before: 400, after: 100 }, alignment: AlignmentType.CENTER, children: [
-    new TextRun({ text: 'CONCURSO INTERNO DE OPOSICIÓN Y ANTECEDENTES', bold: true, size: 24, color: '1B365D', font: 'Arial' })
-  ]}),
-  new Paragraph({ spacing: { before: 60, after: 600 }, alignment: AlignmentType.CENTER, children: [
-    new TextRun({ text: 'Cargo: Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software', italics: true, size: 23, color: '2C3E50', font: 'Arial' })
+  new Paragraph({ spacing: { before: 400, after: 600 }, alignment: AlignmentType.CENTER, children: [
+    new TextRun({ text: 'Concurso: Jefe de Departamento de Gestión, Desarrollo e Innovación en Sistemas de Software', bold: true, size: 24, color: '1B365D', font: 'Arial' })
   ]}),
   
   new Paragraph({ spacing: { before: 400, after: 160 }, alignment: AlignmentType.CENTER, children: [
@@ -149,10 +146,6 @@ const portadaChildren = [
   new Paragraph({ spacing: { before: 500, after: 60 }, alignment: AlignmentType.CENTER, children: [
     new TextRun({ text: 'Postulante: ', bold: true, size: 23, font: 'Arial' }),
     new TextRun({ text: 'Guido Cassulo', size: 23, font: 'Arial' })
-  ]}),
-  new Paragraph({ spacing: { before: 40, after: 60 }, alignment: AlignmentType.CENTER, children: [
-    new TextRun({ text: 'Cargo actual: ', bold: true, size: 23, font: 'Arial' }),
-    new TextRun({ text: 'Soporte Semi Senior', size: 23, font: 'Arial' })
   ]}),
   new Paragraph({ spacing: { before: 40, after: 700 }, alignment: AlignmentType.CENTER, children: [
     new TextRun({ text: 'Legajo: ', bold: true, size: 23, font: 'Arial' }),
@@ -418,7 +411,11 @@ const doc = new Document({
 async function generate() {
   const buffer = await Packer.toBuffer(doc);
   fs.writeFileSync('d:/proyecto/Proyecto_Guido_Cassulo_Completo.docx', buffer);
-  fs.writeFileSync('d:/proyecto/proyecto prueba/Proyecto_Guido_Cassulo_Completo.docx', buffer);
+  try {
+    fs.writeFileSync('d:/proyecto/proyecto prueba/Proyecto_Guido_Cassulo_Completo.docx', buffer);
+  } catch (e) {
+    // Si está abierto por el usuario en Word, no interrumpir
+  }
   console.log('Docx generado con éxito.');
 }
 
